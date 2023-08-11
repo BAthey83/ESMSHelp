@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Welcome to the SMS Framework"
+    conditions="Primary.BuilderAndRoofer"
+    Link="/Content/Welcome/WEL_SMS.htm"></TocEntry>
+  <TocEntry
+    Title="Welcome to Builder"
+    Link="/Content/Builder/WEL_Introduction_to_Builder.htm"
+    conditions="Primary.Builder">
+    <TocEntry
+      Title="What's New in Builder"
+      Link="/Content/Builder/WEL_What_s_New_in_Builder.htm"
+      conditions="Primary.Builder" />
+  </TocEntry>
+  <TocEntry
+    Title="Welcome to Roofer"
+    Link="/Content/Roofer/Overview/Introdution_To_ROOFER.htm"
+    conditions="Primary.Roofer"></TocEntry>
+  <TocEntry
+    Title="Getting Started"
+    Link="/Content/Getting_Started/GS_Navigating_BUILDER.htm">
+    <TocEntry
+      Title="Recognizing the Common Icons"
+      Link="/Content/Getting_Started/Recognizing_the_Common_Icons/GS_Recognizing_the_Common_Icons.htm" />
+    <TocEntry
+      Title="Establishing Selection Criteria"
+      Link="/Content/Getting_Started/GS_Establishing_Selection_Criteria.htm" />
+    <TocEntry
+      Title="User Preferences"
+      Link="/Content/Tools/Administration/TOOLS_User_Preferences.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Inventory"
+    Link="/Content/Inventory/INV_Inventory_Overview.htm">
+    <TocEntry
+      Title="Organizations"
+      Link="/Content/Inventory/Groups/INV_Adding,_Editing,_and_Deleting_a_Group.htm">
+      <TocEntry
+        Title="Additional Organization Data"
+        Link="/Content/Inventory/Groups/INV_Additional_Group_Data.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Sites"
+      Link="/Content/Inventory/Sites/INV_Adding_Editing_and_Deleting_a_Site.htm">
+      <TocEntry
+        Title="Additional Site Data"
+        Link="/Content/Inventory/Sites/INV_Additional_Site_Data.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Complexes"
+      Link="/Content/Inventory/Complexes/INV_Adding,_Editing,_and_Deleting_a_Complex.htm">
+      <TocEntry
+        Title="Additional Complex Data"
+        Link="/Content/Inventory/Complexes/INV_Additional_Complex_Data.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Buildings"
+      Link="/Content/Inventory/Buildings/INV_Editing_Building_Inventory_Data.htm">
+      <TocEntry
+        Title="Adding a Building"
+        Link="/Content/Inventory/Buildings/INV_Adding_a_Building.htm" />
+      <TocEntry
+        Title="Additional Building Information"
+        Link="/Content/Inventory/Buildings/INV_Additional_Building_Data.htm" />
+      <TocEntry
+        Title="Deleting a Building"
+        Link="/Content/Inventory/Buildings/INV_Deleting_a_Building.htm" />
+      <TocEntry
+        Title="Using the Building Status Property"
+        Link="/Content/Inventory/Buildings/INV_Using_the_Building_Status_Property.htm" />
+      <TocEntry
+        Title="Using Building Status to Track Non-Current Buildings"
+        Link="/Content/Inventory/Buildings/INV_Using_Building_Status_to_Track_Non-Current_Buildings.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Systems, Components, and Sections"
+      Link="/Content/Inventory/Systems,_Components,_and_Sections/INV_Identifying_Systems,_Components_and_Sections.htm"
+      conditions="Primary.Builder,Primary.BuilderAndRoofer">
+      <TocEntry
+        Title="Adding, Viewing, and Deleting a System"
+        Link="/Content/Inventory/Systems,_Components,_and_Sections/Systems/INV_Adding_and_Viewing_a_System.htm" />
+      <TocEntry
+        Title="Adding, Viewing, and Deleting a Component"
+        Link="/Content/Inventory/Systems,_Components,_and_Sections/Components/INV_Adding_and_Viewing_a_Component.htm" />
+      <TocEntry
+        Title="Adding, Editing, and Deleting a Section"
+        Link="/Content/Inventory/Systems,_Components,_and_Sections/Sections/INV_Adding_and_Editing_a_Section.htm" />
+      <TocEntry
+        Title="Section Details"
+        Link="/Content/Inventory/Systems,_Components,_and_Sections/Sections/INV_Section_Details.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Exporting Data to BRED"
+      Link="/Content/Inventory/Export/INV_Exporting_Data_to_BRED.htm"
+      conditions="Primary.BuilderAndRoofer,Primary.Builder" />
+    <TocEntry
+      Title="Rapid Inventory Methods"
+      Link="/Content/Inventory/Rapid_Inventory_Models/Copying_a_Building/INV_Copying_a_Building.htm"
+      conditions="Primary.Builder,Primary.BuilderAndRoofer">
+      <TocEntry
+        Title="Copy Sections"
+        Link="/Content/Inventory/Rapid_Inventory_Models/Copying_Sections/INV_Copy_Sections.htm" />
+      <TocEntry
+        Title="Using the Embedded Building Models"
+        Link="/Content/Inventory/Rapid_Inventory_Models/Embedded_Building_Models/INV_Using_the_Embedded_Building_Models.htm" />
+      <TocEntry
+        Title="Building Templates"
+        Link="/Content/Inventory/Rapid_Inventory_Models/Building_Templates/INV_Using_Building_Templates.htm">
+        <TocEntry
+          Title="Managing the Template Library"
+          Link="/Content/Inventory/Rapid_Inventory_Models/Building_Templates/INV_Managing_the_Template_Library.htm" />
+        <TocEntry
+          Title="Copying Building Inventory to a Template"
+          Link="/Content/Inventory/Rapid_Inventory_Models/Building_Templates/INV_Copying_Building_Inventory_to_a_Template.htm" />
+        <TocEntry
+          Title="Importing and Exporting Building Templates"
+          Link="/Content/Inventory/Rapid_Inventory_Models/Building_Templates/INV_Importing_and_Exporting_Templates.htm" />
+        <TocEntry
+          Title="Creating Building Inventory Using Templates"
+          Link="/Content/Inventory/Rapid_Inventory_Models/Building_Templates/INV_Creating_Building_Inventory_Using_Templates.htm" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Condition Assessment"
+    Link="/Content/Condition_Assessment/Overview/INS_Condition_Assessment_Overview.htm">
+    <TocEntry
+      Title="Performing Condition Assessments"
+      Link="/Content/Condition_Assessment/Performing_Condition_Assessments/INS_Performing_Condition_Assessments.htm"
+      conditions="Primary.Builder,Primary.BuilderAndRoofer" />
+    <TocEntry
+      Title="Performing Condition Assessments"
+      Link="/Content/Roofer/Condition_Assessment/INS_Performing_Condition_Assessments.htm"
+      conditions="Primary.Roofer,Primary.BuilderAndRoofer" />
+    <TocEntry
+      Title="Using Sampling in Condition Assessments"
+      Link="/Content/Condition_Assessment/Performing_Condition_Assessments/INS_Using_Sampling_in_Condition_Assessments.htm" />
+    <TocEntry
+      Title="Rapid Inspection Method"
+      Link="/Content/Condition_Assessment/Rapid_Inspection/INS_Using_the_Rapid_Inspection_Method.htm" />
+    <TocEntry
+      Title="Knowledge-Based Inspection Scheduling"
+      Link="/Content/Condition_Assessment/Knowledge_Based_Inspection_Scheduling/INS_Knowledge_Based_Inspection_Scheduling.htm" />
+    <TocEntry
+      Title="Knowledge-Based Condition Assessment Manual for Building Components"
+      Link="/Project/TOCs/Condition Assessment Manual TOC.fltoc"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Functionality Assessment"
+    Link="/Content/Functionality_Assessment/Overview/FA_Functionality_Assessment_Overview.htm"
+    conditions="Primary.BuilderAndRoofer,Primary.Builder">
+    <TocEntry
+      Title="Performing First Tier Functionality Assessments"
+      Link="/Content/Functionality_Assessment/Performing_FA/FA_Performing_First_Tier_Functionality_Assessments.htm" />
+    <TocEntry
+      Title="Adding Functional Areas to a Building"
+      Link="/Content/Functionality_Assessment/Adding_Functional_Areas/FA_Adding_Functional_Areas_to_a_Building.htm" />
+    <TocEntry
+      Title="Adding Inventory to Functional Areas"
+      Link="/Content/Functionality_Assessment/Adding_INV_to_FA/FA_Adding_Inventory_to_Functional_Areas.htm" />
+    <TocEntry
+      Title="Performing Second Tier Functionality Assessments"
+      Link="/Content/Functionality_Assessment/Performing_FA/FA_Performing_Second_Tier_Functionality_Assessments.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Work Management"
+    Link="/Content/Work_Management/WM_Work_Planning_Overview.htm">
+    <TocEntry
+      Title="Standards, Policies, and Policy Sequences"
+      Link="/Content/Work_Management/Standards,_Policies,_and_Policy_Sequences/WM_Standards,_Policies,_and_Policy_Sequences_Overview.htm">
+      <TocEntry
+        Title="Adding and Editing Standards"
+        Link="/Content/Work_Management/Standards,_Policies,_and_Policy_Sequences/WM_Adding_and_Editing_Standards.htm" />
+      <TocEntry
+        Title="Adding and Editing Policies"
+        Link="/Content/Work_Management/Standards,_Policies,_and_Policy_Sequences/WM_Adding_and_Editing_Policies.htm" />
+      <TocEntry
+        Title="Adding and Editing Policy Sequences"
+        Link="/Content/Work_Management/Standards,_Policies,_and_Policy_Sequences/WM_Adding_and_Editing_Policy_Sequences.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Creating a Work Prioritization Scheme"
+      Link="/Content/Work_Management/Work_Items/Prioritization_Scheme/WM_Creating_a_Work_Prioritization_Scheme.htm" />
+    <TocEntry
+      Title="Entering Anticipated Funding Levels"
+      Link="/Content/Work_Management/Funding/WM_Entering_Anticipated_Funding_Levels.htm" />
+    <TocEntry
+      Title="Work Items"
+      Link="/Content/Work_Management/Work_Items/Viewing_Work_Items/WM_Viewing_Work_Items.htm">
+      <TocEntry
+        Title="Creating and Editing a Section-Level Work Item"
+        Link="/Content/Work_Management/Work_Items/Section-Level_Work_Item/WM_Creating_and_Editing_a_Section_Level_Work_Item.htm" />
+      <TocEntry
+        Title="Work Item Cost Analysis"
+        Link="/Content/Work_Management/Work_Items/Section-Level_Work_Item/Work_Item_Cost_Analysis.htm" />
+      <TocEntry
+        Title="Creating and Editing a Building-Level Work Item"
+        Link="/Content/Work_Management/Work_Items/Building-Level_Work_Item/WM_Creating_and_Editing_a_Building-Level_Work_Items.htm" />
+      <TocEntry
+        Title="Creating and Editing a Project"
+        Link="/Content/Work_Management/Work_Items/Project/WM_Creating_and_Editing_a_Project.htm" />
+      <TocEntry
+        Title="Prioritizing Work Items"
+        Link="/Content/Work_Management/Work_Items/WM_Prioritizing_Work_Items.htm" />
+      <TocEntry
+        Title="Ranking Work Items"
+        Link="/Content/Work_Management/Work_Items/WM_Ranking_Work_Items.htm" />
+      <TocEntry
+        Title="Funding Work Items"
+        Link="/Content/Work_Management/Work_Items/WM_Funding_Work_Items.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Scenarios"
+    Link="/Content/IMPACT_Scenarios/IMP_IMPACT_Scenario_Overview.htm"
+    conditions="Primary.BuilderAndRoofer,Primary.Builder">
+    <TocEntry
+      Title="Scenario Management"
+      Link="/Content/IMPACT_Scenarios/IMP_Scenario_Management.htm" />
+    <TocEntry
+      Title="Scenario Analysis"
+      Link="/Content/IMPACT_Scenarios/IMP_Scenario_Analysis.htm" />
+    <TocEntry
+      Title="Creating a Work Plan from a Scenario"
+      Link="/Content/IMPACT_Scenarios/IMP_Copying_a_Work_Plan_from_a_Scenario.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Tools">
+    <TocEntry
+      Title="Importing from BRED"
+      Link="/Content/Tools/Import/Import_from_BRED/TOOLS_Importing_Data_from_BRED.htm"></TocEntry>
+    <TocEntry
+      Title="Administration">
+      <TocEntry
+        Title="Application Settings"
+        Link="/Content/Tools/Administration/TOOLS_Application_Settings.htm" />
+      <TocEntry
+        Title="Security"
+        Link="/Content/Tools/Administration/TOOLS_Security.htm" />
+      <TocEntry
+        Title="Manual Condition Roll-Up"
+        Link="/Content/Tools/Administration/TOOLS_Manual_Condition_Roll-Up.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Library"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false">
+      <TocEntry
+        Title="Viewing and Editing Cost Data"
+        Link="/Content/Tools/Library/TOOLS_Viewing_and_Editing_Cost_Data.htm" />
+      <TocEntry
+        Title="Viewing and Editing Inflation Rates"
+        Link="/Content/Tools/Library/TOOLS_Viewing_and_Editing_Inflation_Rates.htm" />
+      <TocEntry
+        Title="Viewing and Editing Service Life Data"
+        Link="/Content/Tools/Library/TOOLS_Viewing_and_Editing_Service_Life_Data.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Reports"
+      Link="/Content/Tools/Reports/TOOLS_Selecting_a_Report.htm">
+      <TocEntry
+        Title="Using the Report Viewer"
+        Link="/Content/Tools/Reports/TOOLS_Using_the_Report_Viewer.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="GIS"
+      Link="/Content/Tools/GIS/TOOLS_GIS_Viewer.htm">
+      <TocEntry
+        Title="Setting Up GIS"
+        Link="/Content/Tools/GIS/TOOLS_Setting_Up_GIS.htm" />
+      <TocEntry
+        Title="Creating Themes"
+        Link="/Content/Tools/GIS/TOOLS_Creating_Themes.htm" />
+      <TocEntry
+        Title="Viewing Themes"
+        Link="/Content/Tools/GIS/TOOLS_Viewing_Themes.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Roofer"
+    conditions="Primary.Roofer"
+    Link="/Project/TOCs/RooferTOC.fltoc"></TocEntry>
+  <TocEntry
+    Title="Acknowledgements"
+    Link="/Content/AcknowledgementsSupport/AS_About.htm"
+    FrameName="About"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Acknowledgements"
+      Link="/Content/AcknowledgementsSupport/AS_Acknowledgments.htm" />
+    <TocEntry
+      Title="U.S. Army Points of Contact"
+      Link="/Content/AcknowledgementsSupport/AS_U.S._Army.htm" />
+    <TocEntry
+      Title="U.S. Navy Points of Contact"
+      Link="/Content/AcknowledgementsSupport/AS_U.S._Navy.htm" />
+    <TocEntry
+      Title="Support Centers"
+      Link="/Content/AcknowledgementsSupport/AS_Support_Centers.htm" />
+    <TocEntry
+      Title="Copyright"
+      Link="/Content/AcknowledgementsSupport/AS_Copyright.htm" />
+    <TocEntry
+      Title="Disclaimer"
+      Link="/Content/AcknowledgementsSupport/AS_Disclaimer.htm" />
+  </TocEntry>
+</CatapultToc>

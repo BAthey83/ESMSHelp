@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete"
+  FileDescription="This is for PRINTED Guides to BUILDER. Does not describe ROOFER, just BUILDER. Describes BUILDER first, then section &quot;About the Sustainment Management System&quot; (reverse order from OnlineHelp).">
+  <Links />
+  <LongLinks />
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Functionality"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

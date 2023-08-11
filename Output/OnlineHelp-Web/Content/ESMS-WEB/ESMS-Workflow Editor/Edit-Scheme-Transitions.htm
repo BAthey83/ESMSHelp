@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Understanding Assessment Plans|ESMS-Workflow Editor">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>Edit Scheme Transitions</title>
+        <link href="../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body style="text-align: center;font-family: Arial;">
+        <h1 style="text-align: left;"><a name="Edit"></a><a name="kanchor477"></a>Edit Scheme Transitions</h1>
+        <p style="text-align: left;"><a name="kanchor478"></a><a name="kanchor479"></a><a name="kanchor480"></a>To view or edit details about a transition, activate (with a double-click) anywhere on the relevant connecting line in the diagram; the "Transition" popup will appear with the transition's details. The "Transitions" popup is where you design in the conditions or permissions needed to transition to the next state in the sequence. You may need to use <i>parameters</i> for some of these.
+</p>
+        <h2 style="font-style: italic;text-align: left;">—Quick Links—
+</h2>
+        <ul style="font-family: Arial;">
+            <li style="font-style: normal;text-align: left;"><a href="#Transiti" class="MCXref xref">Transition Attributes</a>
+            </li>
+            <li style="font-style: normal;text-align: left;"><a href="#Auto" class="MCXref xref">Auto Transition Type</a>
+            </li>
+            <li style="font-style: normal;text-align: left;"><a href="#Command" class="MCXref xref">Command Transition Type</a>
+            </li>
+            <li style="font-style: normal;text-align: left;"><a href="#Delete" class="MCXref xref">Delete a Transition from a Scheme</a>
+            </li>
+        </ul>
+        <h2 style="text-align: left;"><a name="Transiti"></a>Transition Attributes</h2>
+        <p style="text-align: left;">In the field descriptions below, <b>Required</b> items are those required by the software. Your process may include items that are <b>Optional</b> to the software, but required for your workflow.</p>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><b>Name (Optional)</b> - This is the label that will show over the transition line in the diagram</li>
+            <li style="text-align: left;"><b>From State (Required)</b> - A transition connects two states; the "from" state is where the transition begins</li>
+            <li style="text-align: left;"><b>To State (Required)</b> - A transition connects two states; the "to" state is where the transition ends</li>
+        </ul>
+        <p style="text-align: left;"><b>Note</b>: The same state may be entered at "From State" and "To State," in which case on the diagram you should see a small loop exiting and re-entering the relevant state</p>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><b>Type (Required)</b> - The type will be one of the following:<ul style="list-style-type: circle;font-family: Arial;text-align: left;"><li><b>Command</b> - Transition happens when the user pushes a button</li><li><b>Auto</b> - A rule (based on a condition) determines when the transition happens</li></ul></li>
+        </ul>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><b>User Inputs (Optional for Command transition type; N/A for Auto transition type)</b> - Any approvals or comments needed or allowed from the user are listed here</li>
+            <li style="text-align: left;"><b>Required Permissions (Optional for Command transition type; N/A for Auto transition type)</b> - If the user to be executing a Command needs a particular permission type, this is listed here</li>
+            <li style="text-align: left;"><b>Commands (One is required for Command transition type; N/A for Auto transition type)</b> - For a Command type transition, these are things that must be done before the transition can occur. Further detail needed for commands are:<ul style="list-style-type: circle;font-family: Arial;"><li style="text-align: left;"><b>Command Name (Required)</b> - A descriptive name such as "Service Control Approve or Reject" should be assigned to the command</li><li style="text-align: left;"><b>Parameters</b><a name="kanchor481"></a> - Example parameters for the command are "Approval: Approved" "Approval: Rejected" or "IsEnabled: true"</li></ul></li>
+        </ul>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><b>Conditions (Optional for Auto transition type; N/A for Command transition type)</b> - Here is where conditions–if any–are listed that determine when an "Auto" type transition happen (if the transition type is Auto and no conditions are listed, the transition will happen automatically)</li>
+        </ul>
+        <p style="text-align: left;">More detail about Type, User Inputs, Required Permissions, and Commands is given at headings below.</p>
+        <h2 style="text-align: left;">Choose the Transition Type</h2>
+        <p style="text-align: left;"><a name="kanchor482"></a>Selecting between Command type or Auto type of transition is required, and will determine what other fields will appear in the "Transition" popup. </p>
+        <p style="text-align: left;">The transition types are:</p>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><a href="#Auto" class="MCXref xref">Auto Transition Type</a>
+            </li>
+            <li style="text-align: left;"><a href="#Command" class="MCXref xref">Command Transition Type</a> (Command Type is the default)</li>
+        </ul>
+        <h2 style="text-align: left;"><a name="Auto"></a>Auto Transition Type</h2>
+        <p style="text-align: left;">Selecting between Command type or Auto type of transition is required. (Command type is the default.) When you select Auto transition, the "Transition" popup will resemble this:</p>
+        <img src="imgs/smp-auto-trans_400x245_380x232.png" style="padding-top: 8px;padding-bottom: 8px;width: 380;height: 232;" alt="" />
+        <h3 style="text-align: left;">Conditions</h3>
+        <h4 style="text-align: left;">About Conditions</h4>
+        <p style="text-align: left;">When using Auto transition type, you will generally set one or more conditions. If no condition is set, then the transition will always take place automatically. At runtime, when the condition is satisfied, the transition will take place; if the condition is not satisfied, the condition will not take place.</p>
+        <p style="text-align: left;">With respect to multiple conditions specified in a single transition, all of the conditions must be true to complete the condition requirement.</p>
+        <p style="text-align: left;"><b>Caution</b>: Auto transitions are the main area where problems can occur in designing a workflow. In order to provide users maximum flexibility in constructing a workflow, error-checking is minimal. Therefore it is possible to create an error such as an endless loop, or have a combination of conditions that contradict each other and thus prevent the transition from ever occurring.</p>
+        <h4 style="text-align: left;"><a name="kanchor483"></a><a name="kanchor484"></a>Add Condition</h4>
+        <p style="text-align: left;">To add a condition,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">If not already in the "Transitions" popup, open the scheme in the work area and double-click the desired transition in the diagram. <i>The "Transition" popup will appear.</i></li>
+            <li style="text-align: left;" value="2">Activate the plus button under <b>Conditions</b>.</li>
+            <img src="imgs/auto-add.png" style="padding-top: 8px;padding-bottom: 8px;" alt="" />
+        </ol>
+        <p style="text-align: left;"><b><a name="kanchor485"></a>Troubleshooting Tip</b>: The <b>Conditions</b> header will only appear if the transition type is Auto.</p>
+        <ol style="font-family: Arial;" data-mc-continue="true">
+            <li style="text-align: left;" value="3">If no parameters have been created to select from, you will be prompted to create a parameter, which is a stored variable that can be kept track of over time. To create a parameter,<ol style="list-style-type: lower-alpha;font-family: Arial;text-align: center;"><li style="text-align: left;" value="1">Activate the <b>Scheme Parameters</b> button on the Workflow editor menu bar. <i>The "Scheme Parameters" popup will appear.</i></li><li style="text-align: left;" value="2">Activate the <b>+ Create</b> button.</li><img src="imgs/param-add1_660x165_573x142.png" style="padding-top: 8px;padding-bottom: 8px;width: 573;height: 142;" alt="" /><li style="text-align: left;" value="3">Enter a name for the parameter in the <b>Name</b> column.</li><img src="imgs/param-add2_660x185_588x164.png" style="padding-top: 8px;padding-bottom: 8px;width: 588;height: 164;" alt="" /><li style="text-align: left;" value="4">Enter the display name in the next column.</li><li style="text-align: left;" value="5">Using the dropdown list in the <b>Type</b> column, select the parameter type (Approve, Boolean, Decimal, Integer, or String) for the variable.</li><li style="text-align: left;" value="6">Activate the <b>Save</b> button to save the parameter. (Alternatively, activate <b>Cancel</b>.) <i>Once you have the parameter, you can continue adding a condition.</i></li></ol></li>
+        </ol>
+        <ol start="4" style="font-family: Arial;">
+            <li style="text-align: left;" value="4">If parameters exist, you will be able to view the selection using the first dropdown arrow under <b>Conditions</b>.</li>
+            <img src="imgs/conditions-view_364x198.png" style="padding-top: 8px;padding-bottom: 8px;width: 364;height: 198;" alt="" />
+            <li style="text-align: left;" value="5">If the parameter you would like to base the condition on is not listed,<ol style="list-style-type: lower-alpha;"><li style="text-align: left;" value="1">Return to the substeps under Step 2 and create the desired parameter.</li><li style="text-align: left;" value="2">In the diagram in the work area, double-click the transition containing the condition to be created.</li><li style="text-align: left;" value="3">Activate the dropdown arrow in the first column under <b>Conditions</b>.</li></ol></li>
+            <li style="text-align: left;" value="6">From the dropdown list, select the parameter on which the condition is to be based.</li>
+            <li style="text-align: left;" value="7">In the second column, activate the dropdown arrow and select a comparison operator. For most condition types, this is a choice between <b>=</b> and <b>!=</b>, that is between "equals" vs "not equal to." For the Decimal condition type, additional choices are also available.</li>
+            <li style="text-align: left;" value="8">In the next column, select a value to be compared against. See details in the substeps below.<ol style="list-style-type: lower-alpha;font-family: Arial;"><li style="text-align: left;" value="1">For a condition using an Approval type parameter, the comparison values are Undecided, Approved, and Rejected.</li><li style="text-align: left;" value="2">For a condition using a Boolean parameter, a checkbox displays in the column. Click on the checkbox to select between checked and unchecked.</li><li style="text-align: left;" value="3">For a condition using a Decimal parameter, enter a number to be compared against.</li><li style="text-align: left;" value="4">For a condition using an Integer parameter, enter a number to be compared against.</li><li style="text-align: left;" value="5">For a condition using a String parameter, enter a string to be compared against.</li></ol></li>
+        </ol>
+        <ol start="9" style="font-family: Arial;">
+            <li style="text-align: left;" value="9">If you wish to add another condition, activate the plus<img src="imgs/plus-button-gray_24x22.png" alt="" /> button, then repeat steps 5 through 7.</li>
+            <li style="text-align: left;" value="10">Optionally, you can name or rename the auto transition as a whole, under <b>Name</b> near the top of the "Transition" popup.</li>
+            <li style="text-align: left;" value="11">When you are finished, activate the <b>Close</b> button. <i>The "Transition" popup will close, and you will be returned to the work area.</i></li>
+            <li style="text-align: left;" value="12">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your work.</li>
+        </ol>
+        <h4 style="text-align: left;">Edit Condition</h4>
+        <p style="text-align: left;"><b>Note</b><a name="kanchor486"></a>: Changes will only apply to future assessments using the edited scheme.</p>
+        <p style="text-align: left;">To edit a condition,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">In the work area, double-click the transition in the diagram that contains the condition to be edited. <i>The "Transition" popup will appear.</i></li>
+            <li style="text-align: left;" value="2">Select an entry under <b>Conditions</b>. (The condition name cannot be edited here. You would have to create a new condition and delete the old one to accomplish a name change.)</li>
+            <li style="text-align: left;" value="3">Edit the comparison operator as desired. For most condition types, the comparison operator is a choice between <b>=</b> and <b>!=</b>, that is between "equals" vs "not equal to." For the Decimal condition type, additional choices are also available.</li>
+            <li style="text-align: left;" value="4">As desired, edit the value to be compared against. See details in the substeps below.<ol style="list-style-type: lower-alpha;"><li style="text-align: left;" value="1">For a condition using an Approval type parameter, the comparison values are Undecided, Approved, and Rejected.</li><li style="text-align: left;" value="2">For a condition using a Boolean parameter, a checkbox displays in the column. Click on the checkbox to select between checked and unchecked.</li><li style="text-align: left;" value="3">For a condition using a Decimal parameter, enter a number to be compared against.</li><li style="text-align: left;" value="4">For a condition using an Integer parameter, enter a number to be compared against.</li><li style="text-align: left;" value="5">For a condition using a String parameter, enter a string to be compared against.</li></ol></li>
+        </ol>
+        <ol start="5" style="font-family: Arial;">
+            <li style="text-align: left;" value="5">If you wish to edit another condition, repeat steps 2 through 4.</li>
+            <li style="text-align: left;" value="6">Optionally, you can name or rename the auto transition as a whole, under <b>Name</b> near the top of the "Transition" popup.</li>
+            <li style="text-align: left;" value="7">When you are finished, activate the <b>Close</b> button. <i>The "Transition" popup will close, and you will be returned to the work area.</i></li>
+            <li style="text-align: left;" value="8">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your changes.</li>
+        </ol>
+        <h4 style="text-align: left;">Delete Condition</h4>
+        <p style="text-align: left;">To delete a condition,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">In the "Transition" popup, activate the gray "x" at the right of the condition you wish to delete.</li>
+            <img src="imgs/del-param1_574x100.png" style="padding-top: 8px;padding-bottom: 8px;width: 574;height: 100;" alt="" />
+            <li style="text-align: left;" value="2"><b>WARNING</b>: There will be no confirmation dialog box.</li>
+        </ol>
+        <h2 style="text-align: left;"><a name="Command"></a>Command Transition Type</h2>
+        <p style="text-align: left;">Selecting between Command type or Auto type of transition is required. (Command type is the default.) When Command type is selected, the "Transition" popup will resemble this:</p>
+        <img src="imgs/cmd-transFULL_610x470_429x329.png" style="padding-top: 8px;padding-bottom: 8px;width: 429;height: 329;" alt="" />
+        <p style="text-align: left;">When using Command transition type, you will have at least one Command that will present the user with a button that initiates an action. You may also design in (a) <a href="#User" class="MCXref xref">User Inputs</a> and/or (b) one or more <a href="#Required" class="MCXref xref">Required Permission</a>.</p>
+        <h3 style="text-align: left;font-style: italic;">Commands</h3>
+        <p style="text-align: left;"><a name="kanchor487"></a>When you construct a Command transition it will cause a command button to appear on the user's screen at runtime. The text displayed on the button comes from the <b>Command Name</b> field in the popup. You can create more than one command for a transition, which will result in multiple buttons being displayed. Commands effect a transition from one state to another.</p>
+        <p style="text-align: left;">A Command transition requires that at least one <b>Command Name</b> be specified in the popup. The initial default <b>Command Name</b> provided in the popup is "Submit."</p>
+        <img src="imgs/cmd-default-submit_517x66.png" style="padding-top: 8px;padding-bottom: 8px;width: 517;height: 66;" alt="" />
+        <h4 style="text-align: left;">Preview a Command</h4>
+        <p style="text-align: left;">To preview the command or group of commands specified, activate the <b>Preview</b> button to the right of the <b>Type</b> field. For example, here is a preview showing how the <b>Submit</b> button will look to the end user:</p>
+        <img src="imgs/preview-smp1_450x155_392x133.png" style="padding-top: 8px;padding-bottom: 8px;width: 392;height: 133;" alt="" />
+        <h4 style="text-align: left;">Edit Command Name</h4>
+        <p style="text-align: left;">You can change the <b>Command Name</b> by highlighting the name in the field and entering replacement text. This new text is what will appear on the button going forward.</p>
+        <img src="imgs/cmd-edit-name_544x68.png" style="padding-top: 8px;padding-bottom: 8px;width: 544;height: 68;" alt="" />
+        <p style="text-align: left;"><b>Best Practice Tip</b>: Try to come up with a <b>Command Name</b> that clearly describes what is being done or what will happen, such as "Approved for Publication."</p>
+        <h4 style="text-align: left;">Add Command</h4>
+        <p style="text-align: left;">More than one command option can be made available to the user at one time. To add another command,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">Activate the plus button below <b>Command Name</b> (not the button below <b>Parameters</b>). <i>A new instance of <b>Command Name</b> will appear, with a red line to the right of it.</i></li>
+            <img src="imgs/cmd-new_504x151.png" style="padding-top: 8px;padding-bottom: 8px;width: 504;height: 151;" alt="" />
+            <li style="text-align: left;" value="2">Click above the red line.</li>
+            <li style="text-align: left;" value="3">Enter a name for the new command.</li>
+            <img src="imgs/cmd1n2_484x156.png" style="padding-top: 8px;padding-bottom: 8px;width: 484;height: 156;" alt="" />
+            <li style="text-align: left;" value="4">A preview would now look like this, showing both buttons:</li>
+            <img src="imgs/cmd-preview-2btns_450x158_478x166.png" style="padding-top: 8px;padding-bottom: 8px;width: 478;height: 166;" alt="" />
+            <li style="text-align: left;" value="5">For how to specify parameters related to a command, see Manage Scheme Parameters.</li>
+        </ol>
+        <h4 style="text-align: left;">Delete Command</h4>
+        <p style="text-align: left;">To delete a command, activate the garbage can icon to the right of the <b>Command Name.</b></p>
+        <p style="text-align: left;"><b>WARNING</b>: Unless the command to be deleted is the last one remaining, there will be no confirmation box displayed.</p>
+        <p style="text-align: left;"><b>Tip</b>: A Command transition requires that at least one <b>Command Name</b> be specified in the popup. Therefore if there is only one remaining command and you wish to delete it (rather than just editing it to make desired changes), you would need to create a replacement command first, and only after that delete what had been the last command.</p>
+        <h3 style="text-align: left;"><a name="User"></a>User Inputs</h3>
+        <h4 style="text-align: left;"><a name="User2"></a>User Input Parameters</h4>
+        <p style="text-align: left;">Before you can instruct the workflow to prompt for user input, you must have a parameter set up to receive and store the information that the user enters. Instructions for setting up a parameter are in the topic Manage Scheme Parameters.</p>
+        <p style="text-align: left;">This section on user input will present a signup example that asks for input of first name and last name from the user. For the example, two parameters (and only two parameters) have been established as follows:</p>
+        <img src="imgs/example-params_600x200_481x158.png" style="padding-top: 8px;padding-bottom: 8px;width: 481;height: 158;" alt="" />
+        <h4 style="text-align: left;">Add User Input Prompt</h4>
+        <p style="text-align: left;">To add user input,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">If not already in the "Transitions" popup, open the scheme in the work area and double-click the desired transition in the diagram. <i>The "Transition" popup will appear.</i></li>
+            <li style="text-align: left;" value="2">Activate the plus button below <b>User Inputs</b>.</li>
+        </ol>
+        <p style="text-align: left;"><b>Troubleshooting Tip</b>: The <b>User Inputs</b> heading will only appear if the transition type is Command.</p>
+        <ol style="font-family: Arial;" data-mc-continue="true">
+            <li style="text-align: left;" value="3">Select a parameter from the dropdown. <i>In the signup example "First Name" is the first parameter, and this is fine.</i></li>
+            <li style="text-align: left;" value="4">If the input is required, check the <b>Required</b> checkbox. <i>(In the signup example. <b>Required</b> is/will be checked for both parameters.)</i></li>
+            <li style="text-align: left;" value="5">To add another input, repeat steps 1 through 3. The screenshot below illustrates starting to set up the second user input for the signup example.</li>
+            <img src="imgs/smp-set-up-lastname_496x178.png" style="padding-top: 8px;padding-bottom: 8px;width: 496;height: 178;" alt="" />
+            <li style="text-align: left;" value="6">When finished specifying user input, activate <b>Close</b>. <i>The "Transition" popup will close, and you will be returned to the work area.</i></li>
+            <li style="text-align: left;" value="7">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your work.</li>
+        </ol>
+        <h4 style="text-align: left;">Full Example Transition with User Input</h4>
+        <h4 style="text-align: left;font-weight: normal;font-style: italic;">Example Transition in the Workflow Editor</h4>
+        <p style="text-align: left;">For the example transition described above, the diagram in the work area looks like this:</p>
+        <img src="imgs/example-diagram.png" style="padding-top: 8px;padding-bottom: 8px;" alt="" />
+        <p style="text-align: left;">In the example transition, in addition to the user inputs corresponding to the <a href="#User2" class="MCXref xref">User Input Parameters</a>, the default "Submit" command is renamed to "Sign me up!"</p>
+        <img src="imgs/full-transition_610x600_593x582.png" style="padding-top: 8px;padding-bottom: 8px;width: 593;height: 582;" alt="" />
+        <p style="text-align: left;">In the Workflow Editor, activating the <b>Preview</b> button next to <b>Command</b> will show a preview like this:</p>
+        <img src="imgs/preview-input_430x190.png" style="padding-top: 8px;padding-bottom: 8px;" alt="" />
+        <h4 style="text-align: left;font-style: italic;font-weight: normal;">Example Transition in the Assessment</h4>
+        <p style="text-align: left;">When the user first enters an assessment that uses this example scheme, the <b>Workflow</b> section at the bottom of the screen will look like this:</p>
+        <img src="imgs/example-workflow-section_770x100_530x65.png" style="padding-top: 8px;padding-bottom: 8px;width: 530;height: 65;" alt="" />
+        <p style="text-align: left;">Activating the <b>Sign me up!</b> button under <b>Workflow</b> will bring up this popup for user input and confirmation:</p>
+        <img src="imgs/user-box-signup_580x186_516x163.png" style="padding-top: 8px;padding-bottom: 8px;width: 516;height: 163;" alt="" />
+        <p style="text-align: left;">Entering the requested data and activating <b>Sign me up!</b> in the popup should trigger transition to the next state.</p>
+        <img src="imgs/user-box-signup-filled_580x186_547x174.png" style="padding-top: 8px;padding-bottom: 8px;width: 547;height: 174;" alt="" />
+        <h4 style="text-align: left;">Edit User Input Prompt</h4>
+        <p style="text-align: left;"><b>Note</b>: Changes will only apply to future assessments using the edited scheme.</p>
+        <p style="text-align: left;">To edit a user input prompt,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">In the work area, double-click the transition in the diagram that contains the user input prompt to be edited. <i>The "Transition" popup will appear.</i></li>
+            <li style="text-align: left;" value="2">Select an entry under <b>User Inputs</b>.</li>
+            <li style="text-align: left;" value="3">To change the parameter associated with the input prompt, you can make a different selection in the first column dropdown.</li>
+            <li style="text-align: left;" value="4">To change whether the input is required or not, check or uncheck the <b>Required</b> checkbox.</li>
+            <li style="text-align: left;" value="5">If you wish to edit another condition, repeat steps 2 through 4.</li>
+            <li style="text-align: left;" value="6">Optionally, you can name or rename the whole transition, under <b>Name</b> near the top of the "Transition" popup.</li>
+            <li style="text-align: left;" value="7">When you are finished, activate the <b>Close</b> button. <i>The "Transition" popup will close, and you will be returned to the work area.</i></li>
+            <li style="text-align: left;" value="8">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your changes.</li>
+        </ol>
+        <h4 style="text-align: left;">Delete User Input Prompt</h4>
+        <p style="text-align: left;">To delete a user prompt,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">In the "Transition" popup, activate the gray "x" at the right of the user prompt you wish to delete.</li>
+            <img src="imgs/example-del-prompt_551x103.png" style="padding-top: 8px;padding-bottom: 8px;width: 551;height: 103;" alt="" />
+            <li style="text-align: left;" value="2"><b>WARNING</b>: There will be no confirmation dialog box.</li>
+        </ol>
+        <h3 style="text-align: left;font-style: italic;"><a name="Required"></a>Required Permission</h3>
+        <h4 style="text-align: left;"><a name="About"></a>About Required Permissions</h4>
+        <p style="text-align: left;">If you set up a required permission in your scheme, then when a user adds an assessment based on that scheme, one or more ESMS users must be assigned to each of the permissions roles specified, at the time the assessment is created.</p>
+        <p style="text-align: left;"><b>Note</b>: When you use a required permission in a transition specification, you can only specify one required permission per transition. If you want to use more than one required permission, you can make use of multiple self-referencing transitions, or you can consider an alternative approach to collecting approvals.</p>
+        <p style="text-align: left;">When you create one or more commands in a transition that also has required permission, the resulting command button(s) will appear in the <b>Workflow</b> area at the bottom of a Assessment screen <b>only for a user with the permissions role specified</b>. For example, if the transition requires PM approval via a required permission in a command type transition, then a user with the Accountant role who is not also a PM will not see the command button that was designed for that transition.</p>
+        <h4 style="text-align: left;"><a name="Add"></a>Add Required Permission</h4>
+        <p style="text-align: left;">To add a required permission,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">If not already in the "Transitions" popup, open the scheme in the work area and double-click the desired transition in the diagram. <i>The "Transition" popup will appear.</i></li>
+            <li style="text-align: left;" value="2">Activate the dropdown arrow under <b>Required Permission.</b></li>
+            <img src="imgs/req-per-dropdown_285x387.png" style="padding-top: 8px;padding-bottom: 8px;width: 285;height: 387;" alt="" />
+            <li style="text-align: left;" value="3">Select the permissions role the end user must have in order to activate the transition with the command button.</li>
+            <li style="text-align: left;" value="4">If you want the user to receive notification (at the bell icon button on the main menu bar), then mark the <b>Notifications enabled</b> checkbox.</li>
+            <li style="text-align: left;" value="5">It's a good idea at this point to edit the <b>Command Name</b> to make clear from whom the permission is required.</li>
+            <img src="imgs/req-per-cmd-btn-design_455x101.png" style="padding-top: 8px;padding-bottom: 8px;width: 455;height: 101;" alt="" />
+            <li style="text-align: left;" value="6">When you are finished, activate the <b>Close</b> button. <i>The "Transition" popup will close, and you will be returned to the work area.</i></li>
+            <li style="text-align: left;" value="7">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your changes.</li>
+        </ol>
+        <h4 style="text-align: left;">Edit Required Permission</h4>
+        <p style="text-align: left;"><b>Note</b>: Changes will only apply to future assessments using the edited scheme.</p>
+        <p style="text-align: left;">To edit a required permission,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">In the work area, double-click the transition in the diagram that contains the required permission to be edited. <i>The "Transition" popup will appear.</i></li>
+            <li style="text-align: left;" value="2">To change the permission type required, activate the dropdown arrow under <b>Required Permission</b> and select the permission type desired.</li>
+            <li style="text-align: left;" value="3">To change whether notifications are enabled, check or uncheck the <b>Notifications enabled</b> checkbox.</li>
+            <li style="text-align: left;" value="4">Change name(s) of the command(s) as desired.</li>
+            <li style="text-align: left;" value="5">Optionally, you can name or rename the whole transition, under <b>Name</b> near the top of the "Transition" popup.</li>
+            <li style="text-align: left;" value="6">When you are finished, activate the <b>Close</b> button. <i>The "Transition" popup will close, and you will be returned to the work area.</i></li>
+            <li style="text-align: left;" value="7">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your changes.</li>
+        </ol>
+        <h4 style="text-align: left;">Delete Required Permission</h4>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">In the work area, double-click the transition in the diagram that contains the required permission to be deleted. <i>The "Transition" popup will appear.</i></li>
+            <li style="text-align: left;" value="2">Activate the dropdown arrow under <b>Required Permission</b>.</li>
+            <li style="text-align: left;" value="3">In the dropdown list, select the empty line at the end.</li>
+            <li style="text-align: left;" value="4">When you are finished, activate the <b>Close</b> button. <i>The "Transition" popup will close, and you will be returned to the work area.</i></li>
+            <li style="text-align: left;" value="5">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your changes.</li>
+        </ol>
+        <h2 style="text-align: left;"><a name="Delete"></a>Delete a Transition from a Scheme</h2>
+        <p style="text-align: left;">To delete a state or transition within a scheme, select the state or transition in the diagram and activate the <b>Delete</b> key on the keyboard. Make sure to save your change(s) by activating the <b>Save</b> icon button on the Workflow editor menu bar.</p>
+        <p style="text-align: left;"><b>Note</b>: If you just added the transition you want to delete, simply activating the <b>Delete</b> key is sufficient. However, this delete procedure goes back only one step, to the most recent state or transition you added. Elements placed in the diagram earlier need to first be selected before you activate <b>Delete</b>.</p>
+        <h2 style="text-align: left;">Related Topics</h2>
+        <ul style="font-family: Arial;">
+            <li style="font-size: 17px;text-align: left;"><a href="Workflow-View-Scheme.htm" class="MCXref xref">View Scheme</a>
+            </li>
+            <li style="font-size: 17px;text-align: left;"><a href="Workflow-Add-Scheme.htm" class="MCXref xref">Add Scheme</a>
+            </li>
+            <li style="font-size: 17px;text-align: left;"><a href="Workflow-Edit-Scheme-States.htm" class="MCXref xref">Edit Scheme States</a>
+            </li>
+            <li style="font-size: 17px;text-align: left;"><a href="Workflow-Delete-Scheme.htm" class="MCXref xref">Delete Scheme</a>
+            </li>
+            <li style="font-size: 17px;text-align: left;"><a href="Understanding-Workflow-Editor.htm" class="MCXref xref">Understanding the Workflow Editor </a>
+            </li>
+        </ul>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Default.htm#ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

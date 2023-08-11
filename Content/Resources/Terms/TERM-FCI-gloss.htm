@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1 style="font-family: Arial;">
+            <MadCap:keyword term="Facility Condition Index" />Facility Condition Index</h1>
+        <hr style="font-family: Arial;" />
+        <p style="font-family: Arial;">This topic defines and discusses the BUILDER term "Facility Condition Index". The definition of this term changed starting with BUILDER Version 3.3.10, from the definition used by the Federal Real Property council to a formula compatible with other BUILDER indexes by producing a value on a 0-100 scale where a higher number indicates better condition.</p>
+        <p class="indent" style="font-family: Arial;"><span class="span_1">Note:</span> In ROOFER, "FCI" stands for Flashing Condition Index, not Facility Condition Index.</p>
+        <hr style="font-family: Arial;" />
+        <p style="font-family: Arial;">The Facility Condition Index (FCI) is a financially based index showing the relationship between the cost of deferred <MadCap:glossaryTerm glossTerm="Primary.Term53">M&amp;R</MadCap:glossaryTerm> work and the Plant Replacement Value <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term7">(PRV</MadCap:glossaryTerm>). BUILDER uses the following formula for <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term2">FCI</MadCap:glossaryTerm>, which produces a value between 0 and 100. A higher value indicates better condition: </p>
+        <p class="p_26" style="font-family: Arial;">
+            <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term2">FCI</MadCap:glossaryTerm> = [ 1 - ( $<span class="new-term">current repair needs</span> / $<MadCap:glossaryTerm glossTerm="ESMS-gloss.Term7">PRV</MadCap:glossaryTerm> ) ] x 100, </p>
+        <p style="font-family: Arial;">where $<span class="new-term">current repair needs</span> represents the total cost of <a href="#Definiti">current repair needs</a> and $<MadCap:glossaryTerm glossTerm="ESMS-gloss.Term7">PRV</MadCap:glossaryTerm> is the Plant Replacement Value. See the Definition section below for an explanation of what is and is not included in <span class="new-term">current repair needs</span>.
+</p>
+        <p class="indent" style="font-family: Arial;"><span class="span_1">IMPORTANT:</span> Some organizations define <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term2">FCI</MadCap:glossaryTerm> differently, as [ $cost of <span class="emph">all</span> deferred <MadCap:glossaryTerm glossTerm="Primary.Term53">M&amp;R</MadCap:glossaryTerm> work ] / $<MadCap:glossaryTerm glossTerm="ESMS-gloss.Term7">PRV</MadCap:glossaryTerm>, which should yield a result less than or equal to 1.0 if policy dictates that repair costs for an asset must not exceed the asset's replacement value.</p>
+        <p class="indent" style="font-family: Arial;"><span class="span_1">Best Practice Recommendation:</span> Regenerating the work plan before calculating the dollar amount of current repair needs will give you the most accurate result.</p>
+        <h2 style="font-family: Arial;"><a name="Definiti"></a>Definition of $<span class="new-term">Current Repair Needs</span></h2>
+        <p style="font-family: Arial;">$<span class="new-term">current repair needs</span> includes:</p>
+        <ul>
+            <li style="font-family: Arial;">Work that became a requirement in the current fiscal year (work items of the current fiscal year).</li>
+            <li style="font-family: Arial;">Work that became a requirement in a past fiscal year, but has not yet been performed and is still a requirement.</li>
+        </ul>
+        <p style="font-family: Arial;">$<span class="new-term">current repair needs</span> does not include:</p>
+        <ul style="font-family: Arial;">
+            <li>Work that is currently funded for completion.</li>
+            <li>Work scheduled for future years.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="BUILDER|Getting Started">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>OKTA Implementation in BUILDER</title>
+        <link href="../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body style="text-align: center;font-family: Arial;">
+        <h1 style="text-align: left;">OKTA Implementation in BUILDER</h1>
+        <hr style="text-align: left;" width="100%" size="0" align="center" />
+        <p style="text-align: left;">This topic discusses how to implement OKTA into local installations of  BUILDER. Steps for troubleshooting  installation issues are also featured here.</p>
+        <hr style="text-align: left;" width="100%" size="0" align="center" />
+        <p style="font-style: italic;font-weight: bold;font-size: 18pt;text-align: left;">—Quick Links—</p>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><a href="#What" class="MCXref xref">What is OKTA Authentication?</a>
+            </li>
+            <li style="text-align: left;"><a href="#Logging" class="MCXref xref">Logging in to the Domain URL</a>
+            </li>
+            <li style="text-align: left;"><a href="#Configur" class="MCXref xref">Configuration</a>
+            </li>
+            <li style="text-align: left;"><a href="#Login" class="MCXref xref">Login Page/Agreement Message Redirects</a>
+            </li>
+            <li style="text-align: left;"><a href="#Invalid" class="MCXref xref">Invalid Username/Password</a>
+            </li>
+            <li style="text-align: left;"><a href="#Authenti" class="MCXref xref">Authentication</a>
+            </li>
+            <li style="text-align: left;"><a href="#Bad" class="MCXref xref">Bad Request/400 Error</a>
+            </li>
+            <li style="text-align: left;"><a href="#System" class="MCXref xref">System Claim Evaluation Error</a>
+            </li>
+            <li style="text-align: left;"><a href="#Addition" class="MCXref xref">Additional Resources</a>
+            </li>
+        </ul>
+        <h2 style="text-align: left;"><a name="What"></a>What is OKTA Authentication?</h2>
+        <img src="imgs/OKTA-Login-Screen-Home_225x247.png" style="padding-top: 8px;padding-bottom: 8px;width: 225;height: 247;" />
+        <p style="text-align: left;">OKTA authentication integrates multi-factor authentication into the BUILDER login process so user accounts have increased security. OKTA also acts as an optional, time-saving way to log in to local instances of the BUILDER application. Once OKTA has been configured successfully, users can authenticate their accounts with a target domain. </p>
+        <img src="imgs/OKTA-Home-Screen_149x408.png" style="padding-top: 8px;padding-bottom: 8px;width: 149;height: 408;" />
+        <p style="text-align: left;">When users are redirected to the BUILDER application, a token is validated as a result of the authorization code redirect workflow process. </p>
+        <h3 style="text-align: left;"><a name="Logging"></a>Logging in to the Domain URL</h3>
+        <p style="text-align: left;">Before you begin the <a href="#Configur" class="MCXref xref">Configuration</a> process, you need to have an OKTA&#160;account created and assigned to the test app via the administration panel. </p>
+        <p style="text-align: left;">To log in to the Domain URL: </p>
+        <p style="text-align: left;"><a name="kanchor1067"></a>(example: https://dev-<b>example</b>.okta.com/, with <b>example</b> representing your specially assigned domain ID). </p>
+        <p style="text-align: left;">Before configuring, consult your data manager to establish the  properties required to run a local instance of BUILDER.</p>
+        <h3 style="text-align: left;"><a name="Configur"></a>Configuration</h3>
+        <p style="text-align: left;">To complete your OKTA configuration, perform the following steps.</p>
+        <ul style="text-align: left;font-family: Arial;">
+            <li>Copy the domain URL into the Configuration table under the OktaVersion ConfigName.</li>
+            <li>In the BUILDER repo, in the Developer Support Files Folder:<ul style="text-align: left;font-family: Arial;list-style-type: circle;"><li style="text-align: left;">Copy the web.okta.config file -Navigate to the Configs folder of the web project and paste the file.</li></ul></li>
+        </ul>
+        <p style="text-align: left;"><b>Note:</b> Remember to update the value fields with the correct target OKTA&#160;domain admin panel data.</p>
+        <ul style="font-family: Arial;text-align: left;">
+            <li>Make sure there is a BUILDER account set up for that instance which has a matching username and email address associated to the OKTA account. </li>
+        </ul>
+        <p style="text-align: left;"><b>Note</b>: If you have any issues configuring your OKTA&#160;authentication, contact your data manager.</p>
+        <h3 style="text-align: left;"><a name="Login"></a>Login Page/Agreement Message Redirects</h3>
+        <img src="imgs/OKTA Login-BUILDER Home_305x165.png" style="padding-top: 8px;padding-bottom: 8px;width: 305;height: 165;" />
+        <p style="text-align: left;"><b>Issue:</b> Users are redirected to the Login page or an Agreement Message with an "OKTA Login Error" message.</p>
+        <p style="font-weight: normal;text-align: left;"><span style="font-weight: bold;">Solution:</span> The OKTA&#160;account was configured incorrectly. Minimal logging may be implemented. Perform another <a href="#Configur" class="MCXref xref">Configuration</a> with the steps to ensure your OKTA&#160;account is configured correctly.</p>
+        <h3 style="text-align: left;"><a name="Invalid"></a>Invalid Username/Password</h3>
+        <p style="font-weight: normal;text-align: left;"><b>Issue:</b> An Invalid Username/Password message appears in red text on the Login page. </p>
+        <img src="imgs/OKTA-Invalid-Username-Password_298x197.png" style="padding-top: 8px;padding-bottom: 8px;width: 298;height: 197;" />
+        <p style="font-weight: normal;text-align: left;"><span style="font-weight: bold;">Solution:</span> Verify that the email addresses used for OKTA&#160;and BUILDER&#160;are identical. The Invalid Username/Password message indicates that no email address in BUILDER  is associated with the email address returned by OKTA.</p>
+        <h3 style="text-align: left;"><a name="Authenti"></a>Authentication</h3>
+        <p style="font-weight: normal;text-align: left;"><span style="font-weight: bold;">Issue:</span> The Login does not authenticate at the Domain URL.</p>
+        <p style="font-weight: normal;text-align: left;"><span style="font-weight: bold;">Solution:</span> The Domain URL&#160;stored in the Configuration Table in the database is missing the forward slash ("/") at the end of the string. Insert a forward slash ("/") at the end of the string so the Login will authenticate as intended.</p>
+        <h3 style="text-align: left;"><a name="Bad"></a>Bad Request/400 Error</h3>
+        <p style="font-weight: normal;text-align: left;"><span style="font-weight: bold;">Issue:</span> There is a Bad Request/400 Error on the OKTA&#160;Login page. </p>
+        <img src="imgs/OKTA-400-Error_147x136.png" style="padding-top: 8px;padding-bottom: 8px;width: 147;height: 136;" />
+        <br />
+        <p style="font-weight: normal;text-align: left;"><span style="font-weight: bold;">Solution:</span>Click the OKTA&#160;Login button on the BUILDER&#160;Login module, then confirm the URL&#160;parameters that appear. </p>
+        <p style="font-weight: normal; text-align: left;">(<b>Example</b>:.../v1/authorize?**client_id<b>=&amp;</b>**response_type=code&amp;scope=openid%20email&amp;**<b>redirect_uri</b>=&amp;**state=state-296bc9a0-a2a2-4a57-be1a-d0e2fd9bb601"). </p>
+        <p style="font-weight: normal; text-align: left;">Notice that there is no value between the first "<b>=</b>" and the first "<b>&amp;</b>" in the example URL. When confirming the client_id parameter, there must be a value between the "<b>=</b>"&#160;and "<b>&amp;</b>" in the request URL. </p>
+        <p style="font-weight: normal; text-align: left;"><b>Note:</b> If there is a value between the "<b>=</b>" and the "<b>&amp;</b>"&#160;in the request URL, but the Bad Request/400 Error appears, review the redirect_uri parameter  of the request. Make sure there is a value present between the subsequent "<b>=</b>"&#160;and "<b>&amp;</b>" and that it matches the production instance URL. Otherwise, there is a configuration issue that needs to be addressed.</p>
+        <h3 style="text-align: left;"><a name="System"></a>System Claim Evaluation Error</h3>
+        <p style="text-align: left;font-weight: normal;"><b>Issue:</b> OKTA&#160;authentication is believed to be successful; however, the user is diverted to the BUILDER&#160;login page.</p>
+        <p style="text-align: left; font-weight: normal;"><b>Solution:</b> Look for error messages in the URL. If none are present, review the OKTA logs for a System Claim Evaluation Error. A System Claim Evaluation Error indicates that the username and/or email address has not been set on the OKTA account. Confirm the values are set, and that the user account is assigned to the correct app in the OKTA administration console. </p>
+        <p style="text-align: left; font-weight: normal;"><b>Note:</b> Refer to the <a href="https://support.okta.com/help/s/question/0D50Z00008G7VPaSAN/oauth-20-system-claims-could-not-be-evaluated?language=en_US">OKTA&#160;System Claim Evaluation Error Solution</a> in the Additional Resources for further details. </p>
+        <h2 style="text-align: left;"><a name="Addition"></a>Additional Resources</h2>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><a href="https://developer.okta.com/docs/guides/validate-access-tokens/-/main/#decoding-and-validating-the-access-token">Decoding and Validating Access Tokens</a>
+            </li>
+            <li style="text-align: left;"><a href="https://developer.okta.com/docs/guides/implement-grant-type/authcode/main/#request-an-authorization-code">How to Request an Authorization Code</a>
+            </li>
+            <li style="text-align: left;"><a href="https://developer.okta.com/code/dotnet/jwt-validation/">JWT&#160;Validation Guide</a>
+            </li>
+            <li style="text-align: left;"><a href="https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/">Access Token Validation Guide</a>
+            </li>
+            <li style="text-align: left;"><a href="https://support.okta.com/help/s/question/0D50Z00008G7VPaSAN/oauth-20-system-claims-could-not-be-evaluated?language=en_US">System Claim Evaluation Error Solution</a> </li>
+        </ul>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../Default.htm#BUILDER/OKTA-Implementation.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

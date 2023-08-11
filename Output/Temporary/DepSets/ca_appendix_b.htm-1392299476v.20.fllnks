@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Appendix B: Built-Up Roofing Distresses"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="https://support.sms.erdc.dren.mil/downloads/roofer" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bbase_flashing.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bmetal_cap_flashing.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bembedded_edge_metal.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bflashed_penetrations.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bpitch_pans.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_binterior_drains_and_roof_lev.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bblisters.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bridges.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bsplits.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bholes.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bsurface_deterioration.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bslippage.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bpatching.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bdebris_and_vegetation.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bimproper_equipment_supports.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bponding.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="https://support.sms.erdc.dren.mil/downloads/roofer" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bbase_flashing.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bmetal_cap_flashing.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bembedded_edge_metal.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bflashed_penetrations.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bpitch_pans.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_binterior_drains_and_roof_lev.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bblisters.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bridges.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bsplits.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bholes.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bsurface_deterioration.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bslippage.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bpatching.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bdebris_and_vegetation.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bimproper_equipment_supports.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_bponding.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#roofer/condition_assessment/condition_assessment_manual/appendix_b/ca_appendix_b.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor90" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

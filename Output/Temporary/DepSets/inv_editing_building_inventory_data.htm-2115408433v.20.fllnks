@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Edit Building General Information"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_edit_additional_building_data.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/invent_bldgs_detail.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_about_the_building_status_property.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/mdi/tools_mission_dependency_index_overview.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_editing_building_inventory_data.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/3_3-inv-bldg-imgs/inv-bldg-add-mdi-check1-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/builder/rollup-appxa.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/terms/term-fci-gloss.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/save.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/comment.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/reports.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_gen_building_report.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/3_3-inv-bldg-imgs/breadcrumbs-bldg-sample-3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_adding_a_building.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_assign_bld_to_cpx.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_deleting_a_building.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_using_building_status_to_track_non-current_buildings.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_edit_additional_building_data.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/invent_bldgs_detail.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_about_the_building_status_property.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/mdi/tools_mission_dependency_index_overview.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_editing_building_inventory_data.htm#MDI-change" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/3_3-inv-bldg-imgs/inv-bldg-add-mdi-check1-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/builder/rollup-appxa.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/terms/term-fci-gloss.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/save.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/comment.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/reports.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_gen_building_report.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/3_3-inv-bldg-imgs/breadcrumbs-bldg-sample-3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_adding_a_building.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_assign_bld_to_cpx.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_deleting_a_building.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/buildings/inv_using_building_status_to_track_non-current_buildings.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#inventory/buildings/inv_editing_building_inventory_data.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Edit" />
+    <Anchor
+      Name="kanchor323" />
+    <Anchor
+      Name="kanchor324" />
+    <Anchor
+      Name="kanchor325" />
+    <Anchor
+      Name="kanchor326" />
+    <Anchor
+      Name="kanchor327" />
+    <Anchor
+      Name="kanchor328" />
+    <Anchor
+      Name="kanchor329" />
+    <Anchor
+      Name="MDI-change" />
+    <Anchor
+      Name="kanchor330" />
+    <Anchor
+      Name="kanchor331" />
+    <Anchor
+      Name="kanchor332" />
+    <Anchor
+      Name="kanchor333" />
+    <Anchor
+      Name="kanchor334" />
+    <Anchor
+      Name="BPI" />
+    <Anchor
+      Name="kanchor335" />
+    <Anchor
+      Name="kanchor336" />
+    <Anchor
+      Name="kanchor337" />
+    <Anchor
+      Name="kanchor338" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

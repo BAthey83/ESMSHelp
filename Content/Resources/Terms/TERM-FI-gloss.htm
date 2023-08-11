@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body style="text-align: center;">
+        <h1 style="text-align: left;">
+            <MadCap:keyword term="Functionality" />Functionality Index and Building Functionality Index</h1>
+        <hr style="font-family: Arial;" />
+        <p style="text-align: left;">This topic defines and discusses the BUILDER&#160;terms "<MadCap:xref href="#Function">Functionality Index</MadCap:xref>" and "<MadCap:xref href="#Building">Building Functionality Index </MadCap:xref>."</p>
+        <hr style="font-family: Arial;" />
+        <h2 style="text-align: left;"><a name="Function"></a><i>Functionality Index</i>
+        </h2>
+        <p style="text-align: left;">The Functionality Index (<MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm>) is a performance based index that indicates losses in building performance from general obsolescence, new codes/standards, or updated user requirements. Functionality loss is a function of (1) functionality sub-issue type, (2) sub-issue severity, and (3) sub-issue density.</p>
+        <p style="text-align: left;"> The <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm> helps determine to what degree a building's size, location, and configuration support its designated purpose, as well as the safety and well-being of its occupants. </p>
+        <p style="text-align: left;">BUILDER uses the following formula for <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm>, which produces a value between 0 and 100. A higher value indicates better condition:</p>
+        <p style="text-align: center;vertical-align: baseline;">
+            <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm> = [ 100-ƩƩ a(I<sub>i</sub>, S<sub>j</sub>,D<sub>ij</sub>) x F (t, d),</p>
+        <ul>
+            <li style="font-family: Arial;text-align: left;">where <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm> represents the Functionality Index measure, </li>
+            <li style="font-family: Arial;text-align: left;">the first Ʃ represents the number of individual building functionality sub-issues present,</li>
+            <li style="font-family: Arial;text-align: left;"> the second Ʃ represents the number of individual severity levels present for i<span style="vertical-align: super;">th</span> issue,</li>
+            <li style="font-family: Arial;text-align: left;"> a() represents the functionality deduct value for sub-issue type (I), severity (S), and density (D), </li>
+            <li style="font-family: Arial;text-align: left;">and F() is the adjustment factor when multiple sub-issues are present based on total summed deduct (t), and number of sub-issues present (d).</li>
+        </ul>
+        <p style="text-align: left;">The Functionality Index is one of two indexes used to calculate another index called the Performance Index (the other contributing index is the Condition Index). The Performance Index is what determines the color (green, amber, or red) shown for an inventory asset.</p>
+        <p style="text-align: left;">In a nutshell, BUILDER calculates the Performance Index by first collecting the Condition Index value and the Functionality Index value applicable to the target inventory asset. Next, the lower index value is multiplied by 60 percent and the higher index value is multiplied by 40 percent. Finally, the two numbers are added together to determine the Performance Index value for that inventory asset.</p>
+        <p style="text-align: left;"><b>Note</b>: Until a <a href="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm">functionality assessment</a> is performed on a Building, the Functionality Index for that Building is 100 percent by default.</p>
+        <h2 style="font-style: normal;text-align: left;"><a name="Building"></a><i>Building Functionality Index</i> </h2>
+        <p style="font-style: normal;text-align: left;">The Building Functionality Index (<MadCap:glossaryTerm glossTerm="Primary.Term9">BFI</MadCap:glossaryTerm>) measures the functionality of the Building as a whole. It is computed from the results of a <a href="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm">functionality assessment</a> of the Building as a whole. </p>
+        <p style="font-style: normal; text-align: left;">All <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm> metrics are based on a scale of 0-100, which matches the scale used in BUILDER for condition indices (<MadCap:glossaryTerm glossTerm="Primary.Term2">BCI</MadCap:glossaryTerm>, <MadCap:glossaryTerm glossTerm="Primary.Term48">SCI</MadCap:glossaryTerm>, <MadCap:glossaryTerm glossTerm="Primary.Term4">BCCI</MadCap:glossaryTerm>, and <MadCap:glossaryTerm glossTerm="Primary.Term28">CSCI</MadCap:glossaryTerm>). BUILDER contains the model algorithms that compute the <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm>s automatically once the <a href="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm">functionality assessment</a> data are entered. The algorithms use the data entered regarding the functionality issues present in the Building, the severity of the issues, and the density of each issue to calculate the <MadCap:glossaryTerm glossTerm="Primary.Term9">BFI</MadCap:glossaryTerm>. This process is illustrated by the figure below.</p>
+        <p>
+            <img src="imgs/BFI-diagram.png" style="width: 366px;height: 265px;" />&#160;
+</p>
+        <p style="text-align: left;">It is important to note that the <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm> metrics are step functions over time, unlike the smooth, continuous functions seen in BUILDER's condition indices. This is because functionality, unlike condition, is not an ongoing process. </p>
+        <p style="text-align: left;">The functionality of a Building or of a Functional Area depends on user needs, technical obsolescence, and compliance with code or regulations. These factors do not change gradually, but rather at discrete points in time. These discrete changes are reflected in the “steps” in the <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm> over time. The figure below shows an example <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term5">FI</MadCap:glossaryTerm> over time.</p>
+        <img src="imgs/FI-example.png" style="width: 287px;height: 214px;padding-top: 8px;padding-bottom: 8px;" />
+        <h2 style="text-align: left;"><a name="Related_Topics"></a>Related Topics</h2>
+        <ul>
+            <li style="text-align: left;"><a href="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm#inventory/buildings/inv_editing_building_inventory_data.htm#kanchor323" style="font-family: Arial;">Edit Building General Information</a><![CDATA[           ]]></li>
+            <li style="text-align: left;"><a href="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/overview/fa_functionality_assessment_overview.htm" style="font-family: Arial;">Functionality Assessment Overview</a>
+            </li>
+        </ul>
+    </body>
+</html>

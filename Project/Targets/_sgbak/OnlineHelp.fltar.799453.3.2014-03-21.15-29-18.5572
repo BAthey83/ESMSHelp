@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment=""
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="all"
+  EnableSitemap="false"
+  MoveOutputContentToRoot="false"
+  OutputFile="Builder.htm"
+  OutputFolder="C:\Dev\Documentation\Help\Builder"
+  ConditionTagExpression="include[Primary.BuilderAndRoofer] exclude[Primary.PrintOnly] "
+  MasterToc="/Project/TOCs/Primary.fltoc"
+  MakeFileLowerCase="true"
+  ExcludeUnreferencedContent="false"
+  UseEmptyAltText="true"
+  Medium="non-print"
+  PreCompileScaledImages="false">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

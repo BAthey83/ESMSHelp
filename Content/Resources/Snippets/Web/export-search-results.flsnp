@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2 style="font-family: Arial;"><a name="Export_Results"></a>Export Results</h2>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Layout:screen" />You can export your results to CSV by activating the download button in the blue command bar at the bottom of the screen:</p>
+        <p class="p_26" style="font-family: Arial;">&#160;</p>
+        <p style="font-family: Arial;">The CSV file can be opened with Excel. It will be exported to your standard downloads location, and the file name will incorporate the download date:</p>
+    </body>
+</html>

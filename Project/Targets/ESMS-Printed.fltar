@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  InjectBookHeadings="true"
+  UseEmptyAltText="true"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="include[Primary.ScreenOnly or Primary.ScreenOnly]"
+  MasterStylesheetOverride="false"
+  InjectEmptyPages="true"
+  MasterStylesheet="/Content/Resources/Styles/SMS-Styles.css"
+  MasterToc="/Project/TOCs/ESMS-Printed-toc.fltoc"
+  UseLocalBuildSettings="false"
+  MasterPageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="pdf" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/ESMS-gloss.flglo" />
+  </Glossaries>
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="0"
+    PageMode="UseNone"
+    PageLayout="OneColumn"
+    TitleBar="FileName" />
+  <DocumentProperties
+    CopyrightStatus="false" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>

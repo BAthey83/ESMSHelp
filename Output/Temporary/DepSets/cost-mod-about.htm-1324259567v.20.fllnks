@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="About Cost Modifiers"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-view.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-add.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-edit.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-del.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-item-all.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-view.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-add.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-edit.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-lib-del.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-mod-item-all.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#tools/library/cost-mod-about.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor431" />
+    <Anchor
+      Name="kanchor432" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

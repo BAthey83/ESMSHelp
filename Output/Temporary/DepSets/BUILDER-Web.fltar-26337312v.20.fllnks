@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/TOCs/BUILDER-Web-toc.fltoc" />
+    <Link
+      Url="Project/Advanced/Builder.flbrs" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Project/Destinations/NewDestination.fldes" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

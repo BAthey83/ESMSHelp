@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Workflow-View-Scheme"
+    Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" />
+  <TocEntry
+    Title="Workflow-Edit-Scheme-States"
+    Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" />
+  <TocEntry
+    Title="Workflow-Add-Scheme"
+    Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Add-Scheme.htm" />
+  <TocEntry
+    Title="Edit-Scheme-Transitions"
+    Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
+</CatapultToc>

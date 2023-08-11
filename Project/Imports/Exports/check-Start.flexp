@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="Target"
+  SourceProjectPath="C:\Working\SMS\SMS.flprj"
+  DestinationName="check-Start"
+  DestinationPath="C:\Checkover\Start-Guide"
+  ExportType="Files"
+  TargetPath="BUILDER\Printed\BLD-START-Guide.fltar"
+  TargetConvertVariables="true"
+  TargetConvertSnippets="true">
+  <SelectedContentFiles />
+  <SelectedProjectFiles />
+</CatapultExportProjectFile>

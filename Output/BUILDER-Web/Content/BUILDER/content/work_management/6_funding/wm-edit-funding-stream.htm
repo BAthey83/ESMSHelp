@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-medium="non-print" data-mc-toc-path="Inventory|Work Configuration|Funding Streams" data-mc-ignored-words="Securement;sustainment;Uniformat;recoating;FP;Multi;multi;Rollup;rollup;UFC;FI;FCI;PRV;BCCI;CSCI;SMS;BCI;BFI;BPI;ISR;MDI;RSL;RCI;CCI;NFADB;IFS97;ICI;ERDC;CERL;ACF;CERL's;outyear;MRPM;interdependencies" data-mc-check_list="Ran Smart Index" data-mc-priority="0" data-mc-time-estimate="0" data-mc-status="Complete" xml:lang="en-us">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>Edit a Funding Stream</title>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <link href="../../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="../../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <div class="kt">
+            <h1><a name="kanchor773"></a>Edit a Funding Stream</h1>
+            <hr width="100%" size="0" align="center" />
+            <p>This topic describes how to edit an existing funding stream by changing funding levels, changing or deleting funding restrictions, or re-ordering the funding precedence that determines funding precedence in situations where a work item satisfies the selection criteria(set at the <span class="span_1">Funding Restrictions</span> tab) of more than one funding source.</p>
+            <hr width="100%" size="0" align="center" />
+        </div>
+        <h2><a name="Select"></a>Select a Site</h2>
+        <p> Before editing a funding stream, first select the appropriate Site, as follows:</p>
+        <ol>
+            <li value="1">Select <span class="span_1">Work Configuration &gt; Funding</span> from the main menu. 
+        <p class="p_26" style="text-align: center;"><img src="work_conf_funding.png" alt="" /></p><p><span class="result">The Funding window will appear.</span></p><p class="p_26" style="text-align: center;"><img src="expected_funds.png" alt="" /></p></li>
+            <li value="2">
+                <p><a name="kanchor774"></a><a name="kanchor775"></a><a name="kanchor776"></a>Navigate the tree on the left of the screen and select the Site for which you wish to change or delete a funding stream. After selecting, you can use the tabs in the content area to do any of the following:	</p>
+                <ul>
+                    <li>edit <a href="#Expected">funding levels</a> (at the <span class="span_1">Expected Funds</span> tab),</li>
+                    <li><a href="#Delete">delete a funding stream</a> (at the <span class="span_1">Expected Funds</span> tab),</li>
+                    <li>edit <a href="#Funding2">funding restrictions</a> (at the <span class="span_1">Funding Restrictions</span> tab), and</li>
+                    <li>change <a href="#Funding">funding precedence</a>. (at the <span class="span_1">Funding Precedence</span> tab)</li>
+                </ul>
+                <p>Further description is provided below. </p>
+                <p>Deleting an entire funding stream is also described in <a href="wm-delete-funding-stream.htm" class="MCXref xref">Delete a Funding Stream</a>.</p>
+            </li>
+        </ol>
+        <!--       <h2><span class="span_1">Toolbar Options</span>
+        </h2>
+        <p>The following options are available at the main toolbar when you are working on Funding in Work Configuration:</p>
+        <ul>
+            <li><span class="span_1">Return</span>. Closes the Funding window.
+            </li>
+            <li><span class="span_1">Save</span>. Saves changes made to the funding levels, restrictions, or precedence.
+            </li>
+            <li><span class="span_1">Help</span>. Launches the Help topic associated with funding. ((Currently this button is inactive here))</li>
+        </ul>
+		-->
+        <h2><a name="Expected"></a>Expected Funds Tab</h2>
+        <p>The <span class="span_1">Expected Funds</span> tab provides an editable list of funding sources and amounts for the next ten years. At this tab, you can edit the funding levels expected for each year for any given funding source. </p>
+        <p>The editing instructions below assume that you have already navigated to the Funding window and to the desired Site in the Funding tree, as described above in <a href="#Select" class="MCXref xref">Select a Site</a>. The default tab, <span class="span_1">Expected Funds</span>, should be active. </p>
+        <h3>Edit Funding Levels</h3>
+        <p>To edit funding levels, </p>
+        <ol>
+            <li value="1">Activate the pencil icon in the left column of the Expected Funds table.
+				<p class="p_26" style="text-align: center;"><img src="wm-funding-pencil-icon-v3_3.png" alt="" /></p><p><span class="result">The Expected Funds table will remain on the screen, but its appearance will change.</span></p></li>
+            <li value="2">Edit funding levels for all years desired in the table.
+            <p class="indent"><span class="span_1">Note:</span> You can also change the name of the funding stream here.</p><p class="p_26" style="text-align: center;"><img src="wm-funding-edit-funding-levels-v3_3.png" alt="" /></p></li>
+            <li value="3">Confirm or cancel: After completing your changes to the funding source, be sure to activate the blue checkmark icon ("Update") at the left to accept the changes made. Alternatively, to cancel, activate the red "do not enter" icon ("Cancel"). You will be returned to the view that shows only the pencil icons in the first column of the table.</li>
+            <li value="4">When you are finished editing the funding levels for all desired funding sources listed, or simply wish to save, activate <span class="span_1">Save</span> on the main toolbar.</li>
+        </ol>
+        <h3><a name="Delete"></a>Delete a Funding Stream</h3>
+        <p>To delete an entire funding stream at the <span class="span_1">Expected Funds</span> tab, </p>
+        <ol>
+            <li value="1">Locate that funding source's row in the Expected Funds table.</li>
+            <li value="2">Activate the red "X" in the rightmost column, just after the column showing the last year of funding listed. </li>
+        </ol>
+        <p class="p_26" style="text-align: center;">
+            <img src="wm-delete-funding-stream.png" alt="" />
+        </p>
+        <p><span class="result">You will be presented with a confirmation popup before the deletion is made.</span>
+        </p>
+        <h2><a name="Funding"></a>Edit Funding Restrictions </h2>
+        <p>The instructions below assume that you have already navigated to the Funding window and to the desired Site in the Funding tree, as described above in <a href="#Select" class="MCXref xref">Select a Site</a>.</p>
+        <h3><a name="kanchor777"></a>Edit a Funding Restriction Criterion</h3>
+        <p>To edit an existing funding restriction criterion, </p>
+        <ol>
+            <li value="1">At the <span class="span_1">Funding Restrictions</span> tab, activate the pencil icon for the funding restriction you wish to edit. <![CDATA[			]]><p><span class="result">A popup window will appear that contains multiple dropdown lists.</span></p></li>
+            <li value="2">Edit selections from the dropdown lists as desired. <br /><br /><ul><li>For example, start with the following restriction definition:
+			<p class="indent" style="text-align: center;"><img src="wm-funding-edit-restrictions-v3_3.png" alt="" /></p></li><li>Activate the dropdown list for <span class="span_1">Building</span>, and select <span class="span_1">General</span> instead:<p class="indent" style="text-align: center;"><img src="wm-funding-edit-restrictions2-v3_3.png" alt="" /></p></li><li>Note that the <span class="span_1">Property</span> field has changed (to the first property in the property dropdown list for the <span class="span_1">General</span> category) : <p class="indent" style="text-align: center;"><img src="wm-funding-edit-restrictions3-v3_3.png" alt="" /></p></li><li>Make changes: <p class="indent" style="text-align: center;"><img src="wm-funding-edit-restrictions5-v3_3.png" alt="" /></p></li></ul></li>
+            <li value="3">Confirm or cancel: When satisfied with the changes made, activate the <span class="span_1">Update</span> button at the bottom of the popup window to accept the changes. Alternatively, if you instead wish to cancel the changes, activate the <span class="span_1">Cancel</span> button.<p class="indent2" style="text-align: center;"><img src="wm-funding-edit-restrictions-update-button-v3_3.png" alt="" /></p></li>
+            <li value="4">Before navigating away from the <span class="span_1">Funding Restrictions</span> tab, be sure to activate <span class="span_1">Save</span> on the main toolbar to retain your changes to the Funding Restrictions table.</li>
+        </ol>
+        <h3>Combining Funding Restrictions Criteria</h3>
+        <p>The last dropdown list in the popup window where you define each funding restrictions criterion is the selection between <span class="span_1">And</span> and <span class="span_1">Or</span>, labeled <span class="span_1">And/Or</span>. Your selection will determine how the criterion will combine with the next criterion that follows it.</p>
+        <p>The last criterion listed in the Funding Restrictions table does not need to have a selection made between <span class="span_1">And</span> and <span class="span_1">Or</span>.</p>
+        <!--        <p>afdo when funding restrictions are working again: **QQ also test or ask or what happens if neither one is selected. </p> -->
+        <h2><a name="Funding2"></a><a name="kanchor778"></a>Edit Funding Precedence </h2>
+        <p>When funds are allocated during the work planning phase, the first funding source listed at the <span class="span_1">Expected Funds</span> tab will be checked first, then the second, and so on until funding is found or the list is exhausted. The <span class="span_1">Funding Precedence</span> tab provides a means of changing the order of precedence among the funding sources available to a work item.  </p>
+        <p>To change the order of the funding sources, </p>
+        <ol>
+            <li value="1">Select a source, as shown in the screenshot.</li>
+            <li value="2">
+           Use the up and down arrows to move it in the list (see the red box in the screenshot).
+ 
+        <p class="p_26" style="text-align: center;"><img src="wm-funding-precedence-v3_3_560x405.png" alt="" style="width: 560;height: 405;" /></p></li>
+            <li value="3">
+                <p>When satisfied with the order of the funding sources, activate <span class="span_1">Save</span> on the main toolbar.</p>
+            </li>
+        </ol>
+        <p>After saving, if you return to the <span class="span_1">Expected Funds</span> tab, you will see that it reflects the new precedence order that you created.</p>
+        <h3>Related Links</h3>
+        <ul style="list-style-type: none;" class="toptight">
+            <li><a href="wm-add-funding-stream.htm" class="MCXref xref">Add a Funding Stream</a>
+            </li>
+            <li><a href="wm-delete-funding-stream.htm" class="MCXref xref">Delete a Funding Stream</a>
+            </li>
+            <li><a href="wm_entering_anticipated_funding_levels.htm" class="MCXref xref">Enter or Edit Anticipated Funding Levels</a>
+            </li>
+            <li><a href="wm_about_funding.htm" class="MCXref xref">About Funding Streams</a>
+            </li>
+        </ul>
+        <p>&#160;</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Builder.htm#work_management/6_funding/wm-edit-funding-stream.htm">Open topic with navigation</a>
+        </p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../../Default.htm#BUILDER/content/work_management/6_funding/wm-edit-funding-stream.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

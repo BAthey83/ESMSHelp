@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="View a Work Plan"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_add_work_plan.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_plan_items.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/locate-plan-using-search-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_data_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_view_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/toolbar-3-items-before-plan-generated.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_ranking_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_funding_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_using_the_report_viewer.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/fy-dropdown-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/filter_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/filter-result-smp.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/wkplan-secondary-sort.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/img/view-work-item-detail-action-1.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/section-level_work_item/section-level-work-item-data.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/building-level_work_item/building-level_work_item_data.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_export-work-plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_delete_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_about_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_add_work_plan.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_plan_items.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/locate-plan-using-search-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_data_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_view_work_plan.htm#Change" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/toolbar-3-items-before-plan-generated.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_ranking_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_funding_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_using_the_report_viewer.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/fy-dropdown-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/filter_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/imgs/filter-result-smp.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/wkplan-secondary-sort.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/img/view-work-item-detail-action-1.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/section-level_work_item/section-level-work-item-data.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/building-level_work_item/building-level_work_item_data.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_export-work-plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_delete_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_about_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/work_plans/wm_view_work_plan.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor847" />
+    <Anchor
+      Name="Change" />
+    <Anchor
+      Name="kanchor848" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Primary.ScreenOnly] exclude[&quot;Primary.DOD ONLY&quot; or Primary.EXCLUDE or Primary.PrintOnly or Primary.QQ] "
+  MasterToc="/Project/TOCs/Word-me-desk.fltoc"
+  MasterStylesheet="/Content/Resources/Styles/ESMS-Style.css"
+  OutputFile="[%=Primary.Product-Desk%]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

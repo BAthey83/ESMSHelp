@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>Study and Compose</title>
+        <link href="../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <h1>Study and Compose</h1>
+        <p><a name="kanchor10"></a><a name="kanchor11"></a>Absorb info from Joe K and MG and compose something about Enterprise SMS inventory "structure" for their review.</p>
+        <h2>From Joe</h2>
+        <h3>Convo w Joe K 7/26/18</h3>
+        <p class="tight center">#1 BIG CONCEPT!!!</p>
+        <p><a name="kanchor12"></a>In Enterprise SMS, items are related logically, NOT hierarchically. Therefore, there's not something that's "below" site (in answer to my first question, what was the level directly below site).
+
+		A component will have "selectors":  a site selector, facility selector, group selector, or system selector.
+
+		The default selector is system.</p>
+        <p>AJF later note: Maybe this means that a user can make up their own rules as to what is under what, or is it hard coded? </p>
+        <p>Every ** oppt requires RPUID.</p>
+
+		I didn't ascertain what combinations of selectors are allowed; that would have gone beyond the 2-1/2 minutes I'd said for the meeting (thinking it was just a matter of mapping asset tree equivalents between SMS Fueler and Enterprise SMS).
+
+		<h2>From Mike G</h2><p>Enterprise SMS unifies the disparate legacy SMS data into a common data framework that encompasses all asset domains. that means, for example, that someone can view information for their buildings alongside information for the utility infrastructure that serves those buildings.</p><p>In aligning the data schema for each individual asset domain into this common data framework, some minor refactoring of the asset inventory structure was done. In the legacy ?SMS data schema, it was common to think of the inventory strucutre as a tree. At the top level is a facility, which typically aligns one-for-one with an organizationally defined real property record. A physical example of a facility might be a building, an electrical substation, or the electrical distribution that serves the site. In the middle level of the tree, the facility is typically decomposed into systems (such as foundations, roofing, or HVAC, as in the case for buildings), or geographic zones (such as branches, sections, and segments as in the case for linear type assets). At the lowest level of the tree, the systems or zones are broken out into the individual components that comprise a functioning facility. Thus, the component represents the lowest or fundamental level of management in the SMS.</p><p>This philosophy effectively remains the same in Enterprise SMS, with the facility representing the top level of the physical inventory, and the components representing the lowest level of the physical inventory. To provide more flexibility in describing how facilities are decomposed and how the components within them are organized into systems or zones, the concept of a group has been introduced. Defined simply, a group is a collection of managed objects that may exist within a facility or across multiple facilities. A group could represent a functional system, such as all of the components associated to the roofing system of a building. A group could also represent a zone, such as all the components located on the building's first floor.</p><p>AJF NOTE: AHA! That last sentence above explains "Zone".</p><p><a name="kanchor13"></a>The functionality attached to a group also provides greater flexibility from the rigid tree structure of legacy SMS. Unlike the tree, a component can exist in multiple groups. For example, an air handling unit can exist in  multiple groups. For example, an air handling unit can belong to the HVAC system, and the first floor zone. Groups can also be composed of sub-groups. This allows component to be associated to local network segments, which can be grouped into larger network branches. Finally, groups can span multiple facilities, if you are trying to model a function that is supported by components that may exist in more than one facility.</p><p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../Default.htm#FIELD_APP/z-popup-task-table/TT-Assets/TW-NOTES-INV-Structure-ESMS-vs-SMS.htm">Open topic with navigation</a></p></body>
+</html>

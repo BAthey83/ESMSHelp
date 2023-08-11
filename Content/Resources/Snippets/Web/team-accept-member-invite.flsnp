@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>An invited team member needs to take these actions:</p>
+        <ol>
+            <li>Copy the link sent in the email.</li>
+            <li>Paste the link into a browser window.</li>
+            <li>Press  the <span class="span_1">Enter</span> key on the keyboard. <span class="result"><MadCap:keyword term="Get Username and Password:Enterprise SMS" />An instance of Enterprise SMS Web will open</span>.</li>
+            <li>Log in to Enterprise SMS Web. <span class="result">After you have done so, you should see this invitation:</span><p class="p_26"><img src="../../../ESMS-WEB/ESMS-Teams/imgs/accept-team-invite.PNG" alt="screenshot" width="385" height="110" /></p></li>
+            <li>Activate the <span class="span_1">Accept</span> button. <span class="result">After activating the <span style="font-weight: bold;font-style: italic;">Accept</span><MadCap:keyword term="Dashboard" /> button, the invited team member will be brought to the Dashboard. The new team membership information will be presented at the Dashboard, showing the team name, team leader, and team members.</span></li>
+        </ol>
+    </body>
+</html>

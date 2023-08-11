@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/ALT-WebOnlineHelp-for-CSH-toc.fltoc"
+  ConditionTagExpression="include[Primary.ScreenOnly] exclude[Primary.EXCLUDE or Primary.PrintOnly or Primary.QQ or Primary.34 or Primary.BREDXBuilder or &quot;Primary.PDF Copy Only&quot;] "
+  UseEmptyAltText="true"
+  ExcludeUnreferencedContent="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/ESMS-gloss.flglo" />
+  </Glossaries>
+</CatapultTarget>

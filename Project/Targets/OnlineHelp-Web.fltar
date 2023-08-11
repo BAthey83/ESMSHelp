@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/WebOnlineHelp-toc.fltoc"
+  ConditionTagExpression="include[Primary.PrintOnly or Primary.ScreenOnly]exclude[Primary.EXCLUDE or Primary.QQ]"
+  UseEmptyAltText="true"
+  ExcludeUnreferencedContent="true"
+  AliasFile="/Project/Advanced/WebESMS.flali"
+  MasterStylesheet="/Content/Resources/Styles/SMS-Styles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/ESMS-gloss.flglo" />
+  </Glossaries>
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="Empty"
+      numberOfResults="1">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>

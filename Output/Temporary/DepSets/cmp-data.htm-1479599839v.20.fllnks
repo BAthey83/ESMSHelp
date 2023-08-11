@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/FIELD_APP/Desk-imgs/pop-domain-dd-cmp-add.png" />
+    <Link
+      Url="Content/FIELD_APP/Desk-imgs/pop-units-dd-cmp-add.png" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/down-caret.PNG" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/up-caret.PNG" />
+    <Link
+      Url="Content/FIELD_APP/All-Desk/yes-ck.png" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/close-uniformat.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/FIELD_APP/Desk-imgs/pop-domain-dd-cmp-add.png" />
+    <Link
+      Url="Content/FIELD_APP/Desk-imgs/pop-units-dd-cmp-add.png" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm#Full" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm#Basic" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm#Classifi" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm#System" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm#User" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm#Groups" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/down-caret.PNG" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/up-caret.PNG" />
+    <Link
+      Url="Content/FIELD_APP/All-Desk/yes-ck.png" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/close-uniformat.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Full" />
+    <Anchor
+      Name="Basic" />
+    <Anchor
+      Name="Classifi" />
+    <Anchor
+      Name="System" />
+    <Anchor
+      Name="User" />
+    <Anchor
+      Name="Groups" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="Asset Tree:expand"
+      Conditions=""
+      LocalConditions=""
+      Position="53" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="102" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

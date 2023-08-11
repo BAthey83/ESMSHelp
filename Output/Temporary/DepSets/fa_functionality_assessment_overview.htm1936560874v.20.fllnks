@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Functionality Assessment"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="Overview of Functionality Assessment.">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/fa-imgs/functionality_l123.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/issues_and_subissues/fa_first_tier_functionality_issues_and_sub-issues.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/issues_and_subissues/fa_second_tier_functionality_issues_and_sub-issues.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/fa-imgs/functionality_index_based_on_100scale.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/fa-imgs/functionality_index_vs_time.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/fa-imgs/functionality_l123.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/issues_and_subissues/fa_first_tier_functionality_issues_and_sub-issues.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/issues_and_subissues/fa_second_tier_functionality_issues_and_sub-issues.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/fa-imgs/functionality_index_based_on_100scale.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/fa-imgs/functionality_index_vs_time.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#functionality_assessment/overview/fa_functionality_assessment_overview.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor782" />
+    <Anchor
+      Name="kanchor783" />
+    <Anchor
+      Name="kanchor784" />
+    <Anchor
+      Name="Computation_of_BFI" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

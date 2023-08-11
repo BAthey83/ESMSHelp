@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResources="true"
+  ImportResourcesLocation="RelativeToDocument"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="true"
+  ResourceFolder="file:///C:/Users/RDCERBRA/Downloads/ESMS documentation project files/ESMS documentation project files/Content/ESMS-WEB/ESMS-Workflow Editor/"
+  LastImport="2023-01-26T11:46:07.6079042-06:00"
+  ImportTopicsLocation="Content/ESMS-WEB/ESMS-Workflow Editor/">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Workflow-View-Scheme.htm"
+      AbsoluteSource="file:///C:/Users/RDCERBRA/Desktop/Workflow-View-Scheme.htm" />
+    <Url
+      Source="../../../../../Desktop/Workflow-Edit-Scheme-States.htm"
+      AbsoluteSource="file:///C:/Users/RDCERBRA/Desktop/Workflow-Edit-Scheme-States.htm" />
+    <Url
+      Source="../../../../../Desktop/Workflow-Add-Scheme.htm"
+      AbsoluteSource="file:///C:/Users/RDCERBRA/Desktop/Workflow-Add-Scheme.htm" />
+    <Url
+      Source="../../../../../Desktop/Edit-Scheme-Transitions.htm"
+      AbsoluteSource="file:///C:/Users/RDCERBRA/Desktop/Edit-Scheme-Transitions.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/ESMS-WEB/ESMS-Workflow Editor/Desktop/Workflow-View-Scheme.htm"
+      TimeStamp="1/26/2023 11:45:51 AM" />
+    <Url
+      Source="../../Content/ESMS-WEB/ESMS-Workflow Editor/Desktop/Workflow-Edit-Scheme-States.htm"
+      TimeStamp="1/26/2023 11:45:51 AM" />
+    <Url
+      Source="../../Content/ESMS-WEB/ESMS-Workflow Editor/Desktop/Workflow-Add-Scheme.htm"
+      TimeStamp="1/26/2023 11:45:51 AM" />
+    <Url
+      Source="../../Content/ESMS-WEB/ESMS-Workflow Editor/Desktop/Edit-Scheme-Transitions.htm"
+      TimeStamp="1/26/2023 11:45:51 AM" />
+    <Url
+      Source="../TOCs/Workflow-View-Scheme.fltoc"
+      TimeStamp="1/26/2023 11:46:07 AM" />
+  </GeneratedFiles>
+</HtmlImport>

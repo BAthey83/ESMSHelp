@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-Login-Screen-Home.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-Home-Screen.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA Login-BUILDER Home.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-Invalid-Username-Password.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-400-Error.png" />
+    <Link
+      Url="https://support.okta.com/help/s/question/0D50Z00008G7VPaSAN/oauth-20-system-claims-could-not-be-evaluated" />
+    <Link
+      Url="https://developer.okta.com/docs/guides/validate-access-tokens/-/main/" />
+    <Link
+      Url="https://developer.okta.com/docs/guides/implement-grant-type/authcode/main/" />
+    <Link
+      Url="https://developer.okta.com/code/dotnet/jwt-validation/" />
+    <Link
+      Url="https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#What" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#Logging" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#Configur" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#Login" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#Invalid" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#Authenti" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#Bad" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#System" />
+    <Link
+      Url="Content/BUILDER/OKTA-Implementation.htm#Addition" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-Login-Screen-Home.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-Home-Screen.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA Login-BUILDER Home.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-Invalid-Username-Password.png" />
+    <Link
+      Url="Content/BUILDER/imgs/OKTA-400-Error.png" />
+    <Link
+      Url="https://support.okta.com/help/s/question/0D50Z00008G7VPaSAN/oauth-20-system-claims-could-not-be-evaluated?language=en_US" />
+    <Link
+      Url="https://developer.okta.com/docs/guides/validate-access-tokens/-/main/#decoding-and-validating-the-access-token" />
+    <Link
+      Url="https://developer.okta.com/docs/guides/implement-grant-type/authcode/main/#request-an-authorization-code" />
+    <Link
+      Url="https://developer.okta.com/code/dotnet/jwt-validation/" />
+    <Link
+      Url="https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="What" />
+    <Anchor
+      Name="Logging" />
+    <Anchor
+      Name="Configur" />
+    <Anchor
+      Name="Login" />
+    <Anchor
+      Name="Invalid" />
+    <Anchor
+      Name="Authenti" />
+    <Anchor
+      Name="Bad" />
+    <Anchor
+      Name="System" />
+    <Anchor
+      Name="Addition" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="User Manager:Login"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Sort:Example"
+      Conditions=""
+      LocalConditions=""
+      Position="41" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

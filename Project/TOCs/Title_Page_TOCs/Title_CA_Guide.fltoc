@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Title_Page_Current_Version"
+    StartSection="false">
+    <TocEntry
+      Title="Title Page" />
+  </TocEntry>
+</CatapultToc>

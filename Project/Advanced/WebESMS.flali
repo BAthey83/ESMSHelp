@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="web_Reports" Link="/Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm" />
+    <Map Name="web_Documents" Link="/Content/ESMS-WEB/ESMS-Documents/ESMS-Documents-About.htm" />
+    <Map Name="web_Teams" Link="/Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" />
+    <Map Name="web_WorkItem" Link="/Content/ESMS-WEB/ESMS-Assessments/ESMS-Work-About.htm" />
+    <Map Name="web_UserMenu" Link="/Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
+    <Map Name="web_IntroAll_ESMS" Link="/Content/ESMS-WEB/ESMS-Help-Home/Intro-ESMS-W.htm" />
+    <Map Name="web_Import" Link="/Content/ESMS-WEB/ESMS-Import/ESMS-Import-About.htm" />
+</CatapultAliasFile>

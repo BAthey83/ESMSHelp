@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="ScreenOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="#f5f5dc" />
+  <ConditionTag
+    BackgroundColor="#ff00d4"
+    Name="DOD ONLY"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="QQ"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="EXCLUDE"
+    Comment="" />
+</CatapultConditionTagSet>

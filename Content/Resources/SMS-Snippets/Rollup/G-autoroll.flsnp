@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="176" MadCap:lastWidth="970">
+    <body>
+        <h2 class="notoc">Automated Rollup</h2>
+        <p>BUILDER automatically "rolls up" inventory, condition, and functionality information nightly. (For installations with U.S. Army Corps of Engineers support service, this begins at about 6:00 p.m.). Starting at the Section level, aggregated Section-level information in each Component is recorded for the Component; aggregated Component-level information is recorded for each System; aggregated System-level information is recorded for each Building, and so forth up the entire inventory tree.</p>
+    </body>
+</html>

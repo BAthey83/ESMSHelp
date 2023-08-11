@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-medium="non-print" data-mc-toc-path="Inventory|Work Configuration|Policy Sequences" xml:lang="en-us">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>About Policy Sequences</title>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <link href="../../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="../../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <h1><a name="kanchor31"></a>About Policy Sequences</h1>
+        <hr width="100%" size="0" align="center" />
+        <p>The third step in work configuration, after defining policies, is to define one or more policy sequences. A policy sequence performs two essential functions: (1) It defines a default standard to be used when there is no active policy that designates a standard for a given Component-Section. (2) It specifies the order in which policies will be applied; this prevents conflicts between policies.</p>
+        <hr width="100%" size="0" align="center" />
+        <h2>What do Policy Sequences Do?</h2>
+        <p>After work configuration <a href="../1_standards/wm_about_standards.htm">standards</a> and <a href="../2_policies/wm_about_policies.htm">policies</a> have been defined, one or more <span class="span_9">policy sequences</span> will determine the priority order in which the policies are applied by <span class="mc-variable Primary.Product variable">BUILDER</span>. </p>
+        <p>Another essential function of a policy sequence is that it identifies a default condition standard and a default functionality standard to be used in cases where a Component-Section is not explicitly "covered" by a policy.</p>
+        <h3>Define Default Standards (Required)</h3>
+        <p>In a policy sequence, specification of a default condition standard and a default functionality standard is mandatory. The selection dropdown lists for these defaults have no blank space. If you do not select a standard, the first one in the list will be used as the default. </p>
+        <p class="indent"><span class="span_1">Best Practice Recommendation:</span> It is typically best to create a policy sequence at the top level of your policy sequence tree, and there define a catch-all default condition standard, as well as functionality standard, to be used. More applicable defaults can be set at lower locations in the tree, if appropriate. It is optional to select policies in this top-level policy sequence; setting the defaults is what is most important at this location.</p>
+        <p>With respect to policy sequences, and thereby the default standards that will be used when <span class="mc-variable Primary.Product variable">BUILDER</span> finds no applicable policy in the "Selected Policies" list for a given inventory item, inheritance rules will dictate which policy sequence rules. That is, a default standard specified in a policy sequence lower in any given branch of the policy sequence tree will override defaults defined above it in the tree.</p>
+        <h3>Determine Which Policies Are Available To Be Applied</h3>
+        <p>If a policy is not included in any policy sequence, BUILDER will not apply it to anything in the inventory. Because of this, policy sequences not only govern the priority order in which policies are applied, they also govern which policies (if any) are not available to be applied at all.</p>
+        <p>A policy that does not appear in any policy sequence is still present in <span class="mc-variable Primary.Product variable">BUILDER</span> but not active.</p>
+        <p class="indent"><span class="span_1">Note:</span> A policy that is listed in a policy sequence might still never be applied to any Component-Section simply because the conditions (values of the inventory property attributes compared to settings defined in the standards, as well as its priority order in the list of policies) do not trigger its use.</p>
+        <h3>Determine the Priority Order of Policies (Optional)</h3>
+        <hr width="100%" size="0" align="center" />
+        <p>This section addresses the ordering of policies within a policy sequence, and which will apply at run time. </p>
+        <hr width="100%" size="0" align="center" />
+        <p>Each policy sequence can define a priority ordering of one or more selected policies in a list. Both condition and functionality policies may be included in the same list.</p>
+        <p>A policy lower in the list has lower priority with respect to its application than a policy above it in the list. <span class="mc-variable Primary.Product variable">BUILDER</span> will apply the first policy in the list that applies to the inventory item being evaluated.</p>
+        <p class="indent"><span class="span_1">Note:</span> It is possible for a policy sequence to exist just to define default standards for condition and functionality, in which case the <span class="span_1">Selected Policies</span> area is left blank.</p>
+        <p>If no policies are present in the <span class="span_1">Selected Policies</span> area then the default standards, which are also set in the policy sequence, will be used if the policy sequence is activated. </p>
+        <p>Policy sequence activation depends both on inheritance rules and on which policy sequence has been selected at the <span class="span_1">General Information</span> tab for the Organization or Site (1)&#160;containing the given inventory item and (2)&#160;closest in the inventory tree to it. If no policy sequence has been assigned to the closest Site or Organization, then which inventory level, of those which have a policy sequence assigned, takes precedence will be decided according to inheritance rules.</p>
+        <h4>Which Policy Sequence Ultimately Applies</h4>
+        <p>
+            <!-- Only one policy sequence can be used for **(figure out *what*, exactly. The whole tree?), and i-->Inheritance rules will dictate which policy sequence has priority. That is, a policy sequence located lower in any given branch of the policy sequence tree will, at run time, override the ones above it in the tree.</p>
+        <h2>About Creating Policy Sequences</h2>
+        <p>You may create multiple policy sequences. The application of a specific policy sequence could potentially result in a work plan that differs from one generated using a different policy sequence, even one listing the same policies, because each may assign different standards for the Component-Sections, Functional Areas, and Buildings in your inventory. </p>
+        <p>Any policy that has been defined at a particular Organization in the policies tree will be available for selection in any policy sequence throughout that Organization's scope. When defining a policy sequence, you have available to you not just policies (if any) that are defined at the location where you are defining the policy sequence, but also any and all policies that have been defined at one or more parent Organizations above your location. All available policies will show in the <span class="span_1">Available Policies</span> column.</p>
+        <h2>How To Assign a Policy Sequence to an Organization or Site</h2>
+        <p>Multiple policy sequences may be defined, but a maximum of one policy sequence can be assigned to any given Organization or Site at its <span class="span_1">General Information</span> tab. </p>
+        <p class="indent"><span class="span_1">Note:</span> Any policy sequence that is not selected at any Organization or Site in the inventory is automatically inactive.</p>
+        <p>Assigning a policy sequence to an Organization or a Site is not done in the policy sequences tree; it is done at the <span class="span_1">General Information tab</span> for that Organization or Site, in the <span class="span_1">Reference Settings</span> area of the screen:</p>
+        <p class="p_26" data-mc-conditions="Primary.35" style="text-align: center;">
+            <img src="pcyseq-ref-setting-v3_5.png" alt="" />
+        </p>
+        <p>If no policy sequence is currently selected, "Select a policy sequence" will appear in the dropdown box, and the next closest policy sequence higher in the tree will apply, following the rules of inheritance.</p>
+        <h2>Next Step....</h2>
+        <p>Standards, policies, and policy sequences together allow you to generate candidate work items for one or more years into the future. However, if the combined dollar amount estimated for all of these work items exceeds the budget available, you will also want to (1) define <a href="../5_prioritization_schemes/wm_about_prioritization_schemes.htm">prioritization schemes</a> and (2) list funding streams. </p>
+        <h3>Task Links</h3>
+        <ul style="list-style-type: none;" class="toptight">
+            <li><a href="wm_add_policy_sequence.htm" class="MCXref xref">Add a Policy Sequence</a>
+            </li>
+            <li><a href="wm_edit_policy_sequence.htm" class="MCXref xref">Edit a Policy Sequence</a>
+            </li>
+            <li><a href="wm_delete_policy_sequence.htm" class="MCXref xref">Delete a Policy Sequence</a>
+            </li>
+        </ul>
+        <h3>Instructional Link</h3>
+        <ul style="list-style-type: none;" class="toptight">
+            <li><a href="../standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" class="MCXref xref">Work Configuration Overview</a>
+            </li>
+        </ul>
+        <p>&#160;</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Builder.htm#work_management/3_policy-sequences/wm_about_policy_sequences.htm">Open topic with navigation</a>
+        </p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../../Default.htm#BUILDER/content/work_management/3_policy-sequences/wm_about_policy_sequences.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

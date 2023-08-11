@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResourcesLocation="NoImport"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="specific"
+  LastImport="2023-05-03T12:22:11.0624773-05:00"
+  ImportTopicsLocation="Content/BUILDER/content/work_management/work_items/section-level_work_item/">
+  <Files>
+    <Url
+      Source="../../../../../Users/RDCERBRA/Downloads/no-work_item_cost_analysis.htm"
+      AbsoluteSource="file:///C:/Users/RDCERBRA/Downloads/no-work_item_cost_analysis.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/BUILDER/content/work_management/work_items/section-level_work_item/no-work_item_cost_analysis2.htm"
+      TimeStamp="5/3/2023 12:22:05 PM" />
+    <Url
+      Source="../TOCs/no-work_item_cost_analysis1.fltoc"
+      TimeStamp="5/3/2023 12:22:10 PM" />
+  </GeneratedFiles>
+</HtmlImport>

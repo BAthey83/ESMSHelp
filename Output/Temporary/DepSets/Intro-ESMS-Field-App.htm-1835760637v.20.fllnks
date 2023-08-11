@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/FIELD_APP/0First-Steps/Intro-ESMS-Field-App.htm" />
+    <Link
+      Url="Content/BASIC/ESMS-diagram.png" />
+    <Link
+      Url="Content/BASIC/Inventory/INV-diff-SMS-ESMS.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/FIELD_APP/0First-Steps/Intro-ESMS-Field-App.htm#Integrat" />
+    <Link
+      Url="Content/BASIC/ESMS-diagram.png" />
+    <Link
+      Url="Content/BASIC/Inventory/INV-diff-SMS-ESMS.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Integrat" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Search:Work items"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="47" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="57" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

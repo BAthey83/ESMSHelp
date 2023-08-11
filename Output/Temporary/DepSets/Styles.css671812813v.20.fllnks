@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/FilterOutline.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/Filter.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/SearchIcon.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/arrow-down.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/arrow-up.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/icon-user-gray.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Skins/Default/Stylesheets/Images/icon-user-light-gray.png" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

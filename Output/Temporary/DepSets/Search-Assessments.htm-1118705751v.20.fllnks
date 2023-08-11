@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Assessments.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Web/search-switch-view.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/export-assmt-filename.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Assmts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Assessments.htm#Search" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Assessments.htm#View" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Assessments.htm#Export_Results" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Assessments.htm#Details" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Assessments.htm#Related" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Web/search-switch-view.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/export-assmt-filename.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Assmts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Search" />
+    <Anchor
+      Name="View" />
+    <Anchor
+      Name="Export_Results" />
+    <Anchor
+      Name="Details" />
+    <Anchor
+      Name="Related" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Search:Assessments"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Assessment:Search assessments"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Search Results:Configure"
+      Conditions=""
+      LocalConditions=""
+      Position="38" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

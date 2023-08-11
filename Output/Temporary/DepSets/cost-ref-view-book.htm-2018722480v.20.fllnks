@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="View a Cost Book"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-edit-data.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/tools_library_costbooks.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/ref-book-first-opened-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-imgs/cost-bk-reference.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-imgs/cost-bk-redbox-reference.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/filter_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-sample-filter.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-book-data-at-page-bottom.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-imgs/cost-bk-gen-multiplier1p6.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-add-book.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-del-book.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-cost-calcs.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-edit-data.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/tools_library_costbooks.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/ref-book-first-opened-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-imgs/cost-bk-reference.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-imgs/cost-bk-redbox-reference.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/filter_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-sample-filter.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-book-data-at-page-bottom.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-bk-imgs/cost-bk-gen-multiplier1p6.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-add-book.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-del-book.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-add-book.htm#Assign" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-cost-calcs.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#tools/library/cost-ref-view-book.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor642" />
+    <Anchor
+      Name="kanchor643" />
+    <Anchor
+      Name="kanchor644" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

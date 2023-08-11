@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BASIC/DOWNLOAD/Download-ESMS-Desk.htm" />
+    <Link
+      Url="Content/FIELD_APP/0First-Steps/First-Steps-D.htm" />
+    <Link
+      Url="Content/FIELD_APP/0First-Steps/nav-esms-desk.htm" />
+    <Link
+      Url="Content/FIELD_APP/All-Desk/nav-pane-manipulate.htm" />
+    <Link
+      Url="Content/BASIC/Inventory/INV-diff-SMS-ESMS.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/fac-add.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/CMP.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-data.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/GROUP.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Asmnt/DR/DR-Perform.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Asmnt/FA/FA-View.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Asmnt/FA/FA-Add.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Asmnt/FA/FA-Edit.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

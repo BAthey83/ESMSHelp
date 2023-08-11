@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1 style="font-family: Arial;">Old-Check Format of Import File</h1>
+        <hr style="font-family: Arial;" />
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Get Username and Password:Enterprise SMS" />This topic introduces lists requirements for data files that you can import into Enterprise SMS Web. It includes two sections: one for <a href="#File">file name and format</a>; another for <a href="#File2">file contents</a>.</p>
+        <hr style="font-family: Arial;" />
+        <h2 style="font-family: Arial;"><a name="File"></a>File Name and Format</h2>
+        <p style="font-family: Arial;">Data files (for example, containing field names and values for real property inventory items) need to be formatted as specified below:</p>
+        <h3 style="font-family: Arial;"><a name="File3"></a>File Name</h3>
+        <p style="font-family: Arial;">The file to be imported must be named with the following concatenated together:</p>
+        <ul>
+            <li style="font-family: Arial;">schema name</li>
+            <li style="font-family: Arial;">dot (period)</li>
+            <li style="font-family: Arial;">table name</li>
+        </ul>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Default:Site" />For example: "SMS.Site". The schema and table names specify the destination table for the data. </p>
+        <p style="font-family: Arial;">This naming convention means that the file will have neither the extension .csv nor the extension .txt even though it must be a text file and must contain comma-separated values.</p>
+        <h3 style="font-family: Arial;">File Format</h3>
+        <h4 style="font-family: Arial;">Text File</h4>
+        <p style="font-family: Arial;">The data file to be imported must be a text file. However, it will not have a standard text file extension because the file must be named with the destination schema and table name. (See <MadCap:xref href="#File3">File Name</MadCap:xref> for exact details).</p>
+        <h4 style="font-family: Arial;">Comma-Separated Values</h4>
+        <p style="font-family: Arial;">The data file to be imported must contain comma-separated values. Only values are transferred; the file should not contain names of the properties that the values correspond with. This means that you need to know the exact structure of the target data table, in order to list the values in the right order, without transmitting either too many or too few values for each record.</p>
+        <p style="font-family: Arial;">In the data file, commas are the separator between values. A carriage return or line break is the separator between records. For example, if importing SMS.Site, each new row is the data for another site.</p>
+        <h4 style="font-family: Arial;">No Header Row</h4>
+        <p style="font-family: Arial;">The data file must NOT have a header row; it needs to start with the first data item.</p>
+        <p style="font-family: Arial;">&#160;</p>
+        <h2 style="font-family: Arial;"><a name="File2"></a>File Contents</h2>
+        <p style="font-family: Arial;">To determine what and how many values to send in what order, you need to know the structure of the destination table. Refer to the data dictionary for the relevant domain, if one exists.</p>
+        <p style="font-family: Arial;">$$ SME's: </p>
+        <p style="font-family: Arial;">__ Joe (overall tech)</p>
+        <p style="font-family: Arial;">__ Matt Werth (Paver)</p>
+        <p style="font-family: Arial;">__ Mike Grussing (Railer)</p>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Component:add" />AJF idea: __ add Ryan, too</p>
+        <p style="font-family: Arial;">&#160;</p>
+        <p style="font-family: Arial;">Also include Ryan</p>
+        <p style="font-family: Arial;">&#160;</p>
+    </body>
+</html>

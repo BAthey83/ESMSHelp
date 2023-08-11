@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="MadCap WebHelp Target"
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="all"
+  Skin="/Project/Skins/BldrHelp.flskn"
+  PreMergeIndex="true"
+  InsertMOTW="true"
+  AliasFile="/Project/Advanced/Builder.flali"
+  OutputFile="Builder.htm"
+  DefaultUrl="/Content/Welcome/WEL_SMS.htm"
+  Medium="non-print"
+  OutputFolder="C:\Dev\Documentation\Help\Builder\"
+  ConditionTagExpression=""
+  GetLatestBeforeCompile="true"
+  MoveOutputContentToRoot="false"
+  MasterToc="/Project/TOCs/Primary.fltoc"
+  BrowseSequence="/Project/Advanced/Builder.flbrs">
+  <Destinations> </Destinations>
+</CatapultTarget>

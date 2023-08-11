@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="c. Selectors" />
+  <TocEntry
+    Title="d. Inventory">
+    <TocEntry
+      Title="Inventory Overview" />
+    <TocEntry
+      Title="Adding a Location" />
+    <TocEntry
+      Title="Additional Location Data" />
+    <TocEntry
+      Title="Adding and Editing Complexes" />
+    <TocEntry
+      Title="Adding a Building" />
+    <TocEntry
+      Title="Editing Building Inventory Data" />
+    <TocEntry
+      Title="Additional Building Information" />
+    <TocEntry
+      Title="Identifying Systems, Components and Sections" />
+    <TocEntry
+      Title="Section Details" />
+    <TocEntry
+      Title="Deleting a Building" />
+    <TocEntry
+      Title="Using the Embedded Building Models" />
+    <TocEntry
+      Title="Copying a Building" />
+    <TocEntry
+      Title="Family Housing Data" />
+  </TocEntry>
+  <TocEntry
+    Title="e. Inspection">
+    <TocEntry
+      Title="Inspection Overview" />
+    <TocEntry
+      Title="Adding and Editing Inspections" />
+    <TocEntry
+      Title="Exporting Builder Inventory and Inspection Data to BRED" />
+    <TocEntry
+      Title="Importing BRED Inventory and Inspection Data" />
+    <TocEntry
+      Title="Using the Rapid Inspection Method" />
+  </TocEntry>
+  <TocEntry
+    Title="f. Condition Assessment Manual">
+    <TocEntry
+      Title="Appendix A" />
+    <TocEntry
+      Title="Animal/Insect Damaged" />
+    <TocEntry
+      Title="Blistered" />
+    <TocEntry
+      Title="Broken" />
+    <TocEntry
+      Title="Capability/Capacity Deficient" />
+    <TocEntry
+      Title="Clogged" />
+    <TocEntry
+      Title="Corroded" />
+    <TocEntry
+      Title="Cracked" />
+    <TocEntry
+      Title="Damaged" />
+    <TocEntry
+      Title="Deteriorated" />
+    <TocEntry
+      Title="Displaced" />
+    <TocEntry
+      Title="Efflorescence" />
+    <TocEntry
+      Title="Electrical Ground Inadequate or Unintentional" />
+    <TocEntry
+      Title="Holes" />
+    <TocEntry
+      Title="Leaks" />
+    <TocEntry
+      Title="Missing" />
+    <TocEntry
+      Title="Moisture/Debris Contaminated" />
+    <TocEntry
+      Title="Noise/Vibration Excessive" />
+    <TocEntry
+      Title="Operationally Impaired" />
+    <TocEntry
+      Title="Overheated" />
+    <TocEntry
+      Title="Patched" />
+    <TocEntry
+      Title="Rotten" />
+    <TocEntry
+      Title="Stained" />
+    <TocEntry
+      Title="Appendix B" />
+    <TocEntry
+      Title="(BUR) Base Flashing" />
+    <TocEntry
+      Title="(BUR) Metal Cap Flashing" />
+    <TocEntry
+      Title="(BUR) Embedded Edge Metal" />
+    <TocEntry
+      Title="(BUR) Flashed Penetrations">
+      <TocEntry
+        Title="Loose" />
+    </TocEntry>
+    <TocEntry
+      Title="(BUR) Pitch Pans" />
+    <TocEntry
+      Title="(BUR) Interior Drains And Roof Level Scuppers" />
+    <TocEntry
+      Title="(BUR) Blisters" />
+    <TocEntry
+      Title="(BUR) Ridges" />
+    <TocEntry
+      Title="(BUR) Splits" />
+    <TocEntry
+      Title="(BUR) Holes" />
+    <TocEntry
+      Title="(BUR) Surface Deterioration" />
+    <TocEntry
+      Title="(BUR) Slippage" />
+    <TocEntry
+      Title="(BUR) Patching" />
+    <TocEntry
+      Title="(BUR) Debris and Vegetation" />
+    <TocEntry
+      Title="(BUR) Improper Equipment Supports" />
+    <TocEntry
+      Title="(BUR) Ponding" />
+    <TocEntry
+      Title="Appendix C" />
+    <TocEntry
+      Title="(SP) Base Flashing-Membrane Material" />
+    <TocEntry
+      Title="(SP) Base Flashing-Coated Metal" />
+    <TocEntry
+      Title="(SP) Metal Cap Flashing" />
+    <TocEntry
+      Title="(SP) Embedded Edge Metal" />
+    <TocEntry
+      Title="(SP) Flashed Penetrations" />
+    <TocEntry
+      Title="(SP) Pitch Pans" />
+    <TocEntry
+      Title="(SP) Interior Drains and Roof Level Scuppers" />
+    <TocEntry
+      Title="(SP) Splits" />
+    <TocEntry
+      Title="(SP) Ridges" />
+    <TocEntry
+      Title="(SP) Holes, Cuts, and Abrasions" />
+    <TocEntry
+      Title="(SP) Defective Seams" />
+    <TocEntry
+      Title="(SP) Surface Coating Deterioration" />
+    <TocEntry
+      Title="(SP) Membrane Deterioration" />
+    <TocEntry
+      Title="(SP) System Securement Deficiencies" />
+    <TocEntry
+      Title="(SP) Membrane Support Deficiencies" />
+    <TocEntry
+      Title="(SP) Patching" />
+    <TocEntry
+      Title="(SP) Debris and Vegetation" />
+    <TocEntry
+      Title="(SP) Improper Equipment Supports" />
+    <TocEntry
+      Title="(SP) Ponding" />
+    <TocEntry
+      Title="Appendix D" />
+    <TocEntry
+      Title="(SR) Step Flashing" />
+    <TocEntry
+      Title="(SR) Metal Cap Flashing" />
+    <TocEntry
+      Title="(SR) Edge Metal" />
+    <TocEntry
+      Title="(SR) Valley Flashing" />
+    <TocEntry
+      Title="(SR) Ridge/Hip Shingles" />
+    <TocEntry
+      Title="(SR) Metal Apron Flashing" />
+    <TocEntry
+      Title="(SR) Flashed Penetrations" />
+    <TocEntry
+      Title="(SR) Ridge/Hip Vents" />
+    <TocEntry
+      Title="(SR) Pitch Pans" />
+    <TocEntry
+      Title="(SR) Interior Gutters" />
+    <TocEntry
+      Title="(SR) Age Deterioration" />
+    <TocEntry
+      Title="(SR) Holes/Splits/Missing Shingles" />
+    <TocEntry
+      Title="(SR) Unsealed/Unlocked Tab" />
+    <TocEntry
+      Title="(SR) Lumps/Ridges/Sags" />
+    <TocEntry
+      Title="(SR) Exposed Fasteners" />
+    <TocEntry
+      Title="(SR) Stains/Rust/Fungus/Mildew" />
+    <TocEntry
+      Title="(SR) Debris and Vegetation" />
+    <TocEntry
+      Title="(SR) Patching" />
+    <TocEntry
+      Title="(SR) Improper Equipment Supports" />
+    <TocEntry
+      Title="Appendix E" />
+    <TocEntry
+      Title="Appendix F" />
+  </TocEntry>
+  <TocEntry
+    Title="g. Work Planning">
+    <TocEntry
+      Title="Work Planning Overview" />
+    <TocEntry
+      Title="Establishing Standards and Policies" />
+    <TocEntry
+      Title="Creating a Work Prioritization Scheme" />
+    <TocEntry
+      Title="Entering Anticipated Funding Levels" />
+    <TocEntry
+      Title="Creating and Editing a Work Item" />
+    <TocEntry
+      Title="Viewing Annual Work Plans" />
+  </TocEntry>
+  <TocEntry
+    Title="h. IMPACT">
+    <TocEntry
+      Title="IMPACT Overview" />
+    <TocEntry
+      Title="Establishing a Scenario" />
+    <TocEntry
+      Title="Viewing the Results of an IMPACT Simulation" />
+    <TocEntry
+      Title="Creating a Builder Work Plan from a Scenario" />
+  </TocEntry>
+</CatapultToc>

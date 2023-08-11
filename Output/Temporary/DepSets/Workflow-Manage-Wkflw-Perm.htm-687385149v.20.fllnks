@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-wkflow-permissions_25x21.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/add-workflow-permision-role_225x150.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm#Edit" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-wkflow-permissions_25x21.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/add-workflow-permision-role_225x150.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm#Permissi" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm#About" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

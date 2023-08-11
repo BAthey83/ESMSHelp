@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="all"
+  EnableSitemap="false"
+  MoveOutputContentToRoot="false"
+  OutputFile="Builder.htm"
+  OutputFolder="C:\Working\SMS"
+  ConditionTagExpression="include[Primary.BuilderAndRoofer or Primary.Combo or Primary.ScreenOnly]exclude[Primary.BREDXBuilder or &quot;Primary.PDF Copy Only&quot; or Primary.PrintOnly or Primary.QQ or Primary.Split or Primary.y-Admin or Primary.y-CA or Primary.y-INV or Primary.y-Start or Primary.y-workconfig or Primary.y-workplan]"
+  MakeFileLowerCase="true"
+  ExcludeUnreferencedContent="true"
+  UseEmptyAltText="true"
+  Medium="non-print"
+  PreCompileScaledImages="false"
+  Skin="/Project/Skins/DefaultHTML5.flskn"
+  GetLatestBeforeCompile="false"
+  MasterToc="/Project/TOCs/Primary.fltoc">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

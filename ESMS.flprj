@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" xml:lang="en-us" SourceControlBound="false" MasterToc="/Project/TOCs/WebOnlineHelp-toc.fltoc" PreviewConditionalExpression="include[Primary.PrintOnly]" MasterStylesheet="/Content/Resources/Styles/SMS-Styles.css">
+    <Synchronize>
+    </Synchronize>
+</CatapultProject>

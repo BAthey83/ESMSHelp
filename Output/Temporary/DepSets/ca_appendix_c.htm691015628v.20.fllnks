@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Appendix C: Single Ply Roofing Distresses"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="https://support.sms.erdc.dren.mil/downloads/erdc-cerl-technical-publications" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cbase_flashingmembrane_materia.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cbase_flashingcoated_metal.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cmetal_cap_flashing.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cembedded_edge_metal.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cflashed_penetrations.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cpitch_pans.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cinterior_drains_and_roof_leve.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_csplits.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cridges.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_choles_cuts_and_abrasions.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cdefective_seams.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_csurface_coating_deterioration.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cmembrane_deterioration.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_csystem_securement_deficiencies.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cmembrane_support_deficiencies.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cpatching.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cdebris_and_vegetation.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cimproper_equipment_supports.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cponding.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="https://support.sms.erdc.dren.mil/downloads/erdc-cerl-technical-publications" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cbase_flashingmembrane_materia.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cbase_flashingcoated_metal.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cmetal_cap_flashing.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cembedded_edge_metal.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cflashed_penetrations.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cpitch_pans.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cinterior_drains_and_roof_leve.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_csplits.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cridges.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_choles_cuts_and_abrasions.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cdefective_seams.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_csurface_coating_deterioration.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cmembrane_deterioration.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_csystem_securement_deficiencies.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cmembrane_support_deficiencies.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cpatching.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cdebris_and_vegetation.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cimproper_equipment_supports.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_cponding.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#roofer/condition_assessment/condition_assessment_manual/appendix_c/ca_appendix_c.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor100" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

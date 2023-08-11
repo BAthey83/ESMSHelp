@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  OutputFile="BUILDER_EMS_Version_3_User_Manual.doc"
+  Type="MsWord"
+  GetLatestBeforeCompile="true"
+  DisableAutoSync="true">
+  <Variables />
+  <ConditionTags />
+</CatapultTarget>

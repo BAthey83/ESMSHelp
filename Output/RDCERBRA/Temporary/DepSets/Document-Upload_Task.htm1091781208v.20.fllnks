@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-Upload_Task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Comp-Det-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-Upload_Task.htm#Upload2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-Upload_Task.htm#Upload" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-Upload_Task.htm#Which" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Comp-Det-2023.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Which" />
+    <Anchor
+      Name="Upload2" />
+    <Anchor
+      Name="Upload" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Upload Document"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Document:Upload"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Search:Document"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Upload Document:At Tools &gt; Documents"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Document:Upload at Tools &gt; Documents"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="Upload Document:At Component Details screen"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Document:Upload at Component Details screen"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Component Details:Upload associated image or document"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

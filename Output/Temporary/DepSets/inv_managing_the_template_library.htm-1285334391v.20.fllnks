@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Manage the Template Library"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv-ri-template-icon-at-bldg-lvs-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv-ri-pop-bldg-templates-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_add_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_edit_template_data.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/close.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/save.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/new2.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/delete_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/comment_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/import_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_importing_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/export_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_export_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/help_questionmark_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_copying_building_inventory_to_a_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_delete_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_creating_building_inventory_using_templates.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_using_building_templates.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv-ri-template-icon-at-bldg-lvs-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv-ri-pop-bldg-templates-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_add_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_edit_template_data.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/close.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/save.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/new2.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/delete_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/comment_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/import_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_importing_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/export_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_export_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/help_questionmark_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_copying_building_inventory_to_a_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_delete_template.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_creating_building_inventory_using_templates.htm" />
+    <Link
+      Url="Content/BUILDER/content/inventory/rapid_inventory_methods/building_templates/inv_using_building_templates.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#inventory/rapid_inventory_methods/building_templates/inv_managing_the_template_library.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor45" />
+    <Anchor
+      Name="kanchor46" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

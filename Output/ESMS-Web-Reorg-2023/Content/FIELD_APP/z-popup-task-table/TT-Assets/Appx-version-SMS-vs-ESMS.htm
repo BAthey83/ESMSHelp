@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>TURF THIS. Appendix A: Enterprise SMS vs SMS Inventory </title>
+        <link href="../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <h1><a name="kanchor1233"></a>TURF THIS. Appendix A: Enterprise SMS vs SMS Inventory </h1>
+        <!-- $$ "Equivalents" (or rough equivalents) -->
+        <p class="indent"><span class="new-term">This topic is created to help with the transition from using legacy SMS to using Enterprise SMS. For other differences between SMS and Enterprise SMS, see <a href="01_SMS-to-ESMS-trans-INV-Desk.htm" class="MCXref xref" xrefformat="{paratext}">Enterprise SMS and SMS Inventory Differences</a>.</span>
+        </p>
+        <h2 class="hide">Topic Objectives</h2>
+        <p>The objectives of this topic are:</p>
+        <ol>
+            <li value="1">To show the  structure used in Enterprise SMS to unify the asset tree structure between all of the Enterprise SMS <span class="new-term">domains</span> (formerly separate modules in SMS).</li>
+            <li value="2">To introduce the new concept of <span class="new-term"><a href="#Groups" name="kanchor1234">groups</a></span>, which exist as an organizational device apart from the asset tree. </li>
+        </ol>
+        <h2>Unified Inventory Structure</h2>
+        <p><a name="kanchor1235"></a><a name="kanchor1236"></a><a name="kanchor1237"></a><a name="kanchor1238"></a>For the first time, information from the separate modules of the Sustainment Management System (SMS) can be viewed together, in Enterprise SMS. Each of these modules may have had a different asset tree structure below the Site level than is now provided in Enterprise SMS. It is the purpose of this appendix to provide a reference to the asset tree structure and nomenclature of each of the modules, and to outline how each structure maps to the Enterprise SMS structure of facilities, groups, and components. This comparison is available from two angles:</p>
+        <ul>
+            <li><a href="#Pairwise">Pairwise comparisons</a> between Enterprise SMS and each of the SMS modules</li>
+            <li><a href="#Asset">Comparison of each Enterprise SMS asset tree level</a> with all SMS modules</li>
+        </ul>
+        <p>Note that the mapping in some </p>
+        <h3><a name="Pairwise"></a>Pairwise Comparisons</h3>
+        <p>Each domain of the Enterprise SMS contains the information formerly held in these modules:</p>
+        <ul>
+            <li><a href="#PAVER">PAVER</a>
+            </li>
+            <li><a href="#RAILER">RAILER</a>
+            </li>
+            <li><a href="#BUILDER">BUILDER</a>
+            </li>
+            <li><a href="#ROOFER">ROOFER</a>
+            </li>
+            <li><a href="#FUELER">FUELER</a>
+            </li>
+            <li><a href="#UTILITIES">UTILITIES</a>
+            </li>
+        </ul>
+        <p>For each of these modules, a table is provided below comparing nomenclature for the inventory/asset tree levels.</p>
+        <h4><a name="PAVER"></a>PAVER</h4>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <col style="width: 155px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <th scope="col">PAVER</th>
+                        <th scope="col">Enterprise SMS</th>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Network</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Site</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Branch</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">
+                            <p>Facility</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;"> --</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">System</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Section</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Component</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <p>In PAVER, assessment plans are typically performed on a section <span class="new-term">sample</span>.</p>
+        <h4><a name="RAILER"></a>RAILER</h4>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <col style="width: 155px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <th scope="col">RAILER</th>
+                        <th scope="col">Enterprise SMS</th>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">&#160;</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Site</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Area</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">
+                            <p>Facility</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Track</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">System</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Segment</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Component</td>
+                    </tr>
+                    <tr>
+                        <td>Component</td>
+                        <td> --</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <p>&#160;</p>
+        <p>$$RE I have question out to Ryan 7/24/18 as to whether AREA is optional or required; also asking what levels above Area, so that I can put it into context.</p>
+        <p>$$ajf has "Segment" as equivalent to Component in the level-by-level listing at the 2nd major head in this topic.</p>
+        <p>$$Ryan check A difference with RAILER is that Area is an optional grouping of tracks, whereas in Enterprise SMS, the facility is a required level in the asset tree. $$wrote that when I had Area equated with Facility, which might change.....</p>
+        <p>In RAILER, assessment plans are performed at the <span class="emph">segment</span> level. A track segment can have components such as ties, turnouts, or grade crossings.</p>
+        <h4><a name="BUILDER"></a>BUILDER</h4>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <col style="width: 155px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <th scope="col">BUILDER</th>
+                        <th scope="col">Enterprise SMS</th>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Site</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Site</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Facility</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">
+                            <p>Facility</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">System</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">System</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Component</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;"> --</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Component-Section</td>
+                        <td style="text-align: center;padding-left: 12px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Component</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <h4><a name="ROOFER"></a>ROOFER</h4>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <col style="width: 155px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <th scope="col">ROOFER</th>
+                        <th scope="col">Enterprise SMS</th>
+                    </tr>
+                    <tr>
+                        <td>Site</td>
+                        <td>Site</td>
+                    </tr>
+                    <tr>
+                        <td>Facility</td>
+                        <td>
+                            <p>Facility</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>--</td>
+                        <td>System</td>
+                    </tr>
+                    <tr>
+                        <td>Roof Section</td>
+                        <td>Component</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <h4><a name="FUELER"></a>FUELER</h4>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <col style="width: 155px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <th scope="col">FUELER$$</th>
+                        <th scope="col">Enterprise SMS</th>
+                    </tr>
+                    <tr>
+                        <td>Site</td>
+                        <td>Site</td>
+                    </tr>
+                    <tr>
+                        <td>Facility</td>
+                        <td>
+                            <p>Facility</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>System</td>
+                        <td>System</td>
+                    </tr>
+                    <tr>
+                        <td>Component</td>
+                        <td> --</td>
+                    </tr>
+                    <tr>
+                        <td>Component-Section</td>
+                        <td>Component</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <h3>$$ above are the BUILDER levels; I don't have FUELER levels yet.</h3>
+        <h4><a name="UTILITIES"></a>UTILITIES</h4>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <col style="width: 155px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <th scope="col">UTILITIES</th>
+                        <th scope="col">Enterprise SMS</th>
+                    </tr>
+                    <tr>
+                        <td>Site</td>
+                        <td>Site</td>
+                    </tr>
+                    <tr>
+                        <td>Facility</td>
+                        <td>
+                            <p>Facility</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>--</td>
+                        <td>System</td>
+                    </tr>
+                    <tr>
+                        <td>Component</td>
+                        <td>Component</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <p class="indent"><span class="span_1">Note:</span> In Utilities, components can be gathered into groups that exist independently of the asset tree structure, just as in Enterprise SMS.</p>
+        <h3><a name="Asset"></a>Asset Tree Level Comparisons</h3>
+        <p>Each level of the Enterprise SMS asset tree is discussed below, and a table is given for each level, which shows the equivalent or approximate equivalent for each SMS module.</p>
+        <h4>Facilities</h4>
+        <p>In Enterprise SMS, <span class="new-term">facility</span> is the highest level in the asset tree beneath site. The table below shows the equivalents or approximations to the Enterprise SMS facility level in each SMS module.</p>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <caption>SMS Equivalents to Enterprise SMS Facility</caption>
+                <col style="width:8em;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <td>BUILDER</td>
+                        <td>Building</td>
+                    </tr>
+                    <tr>
+                        <td>FUELER</td>
+                        <td>$$Joe K</td>
+                    </tr>
+                    <tr>
+                        <td>PAVER</td>
+                        <td>
+                            <p>Branch (The equivalent to the Enterprise SMS site level is the network.)</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>RAILER</td>
+                        <td>Area</td>
+                    </tr>
+                    <tr>
+                        <td>ROOFER</td>
+                        <td>Building</td>
+                    </tr>
+                    <tr>
+                        <td>UTILITIES</td>
+                        <td>Facility (no change)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <h4>Systems</h4>
+        <p>The greatest variation between the Enterprise SMS asset tree and those of SMS modules is the intermediate levels between facility and component. Some modules have no levels between their equivalents of facility and component; BUILDER has two (System and Component).</p>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <caption>SMS Alternates to Enterprise SMS System</caption>
+                <col style="width:8em;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <td>BUILDER</td>
+                        <td>System, Component</td>
+                    </tr>
+                    <tr>
+                        <td>FUELER</td>
+                        <td>$$Joe K</td>
+                    </tr>
+                    <tr>
+                        <td>PAVER</td>
+                        <td>
+                            <p>none</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>RAILER</td>
+                        <td>Track</td>
+                    </tr>
+                    <tr>
+                        <td>ROOFER</td>
+                        <td>none</td>
+                    </tr>
+                    <tr>
+                        <td>UTILITIES</td>
+                        <td>group </td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <h4>Components</h4>
+        <p>The component level in the Enterprise SMS asset tree is the level at which condition assessment plans are performed (with the exception of preventative maintenance inspections, which can operate at an even lower level, that of the subcomponent).</p>
+        <p class="p_26">
+            <table style="margin-left: 5em;width: 28em;">
+                <caption>SMS Equivalents to Enterprise SMS Component</caption>
+                <col style="width:8em;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <td>BUILDER</td>
+                        <td>Component-Section</td>
+                    </tr>
+                    <tr>
+                        <td>FUELER</td>
+                        <td>$$Joe K</td>
+                    </tr>
+                    <tr>
+                        <td>PAVER</td>
+                        <td>
+                            <p>Section</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>RAILER</td>
+                        <td>Segment $$vs Component</td>
+                    </tr>
+                    <tr>
+                        <td>ROOFER</td>
+                        <td>Roof Section</td>
+                    </tr>
+                    <tr>
+                        <td>UTILITIES</td>
+                        <td>Component (no change)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <p>$$ afdo: most appropriate RAILER equivalent to component, based on Ryan's reply.</p>
+        <h2><a name="Groups"></a>Groups</h2>
+        <p><a name="kanchor1239"></a><a name="kanchor1240"></a>Using groups in Enterprise SMS is a way to associate assets together. "Group" is not an asset tree level, but rather an optional property of an asset. With the exception of the SMS Utilities module (which was developed in the same time frame as the beginnings of Enterprise SMS), groups are a new concept introduced by Enterprise SMS.</p>
+        <p> The selection of available groups is created by the end user's organization. A group may consist </p>
+        <ol style="list-style-type: lower-alpha;">
+            <li value="1">entirely of components; </li>
+            <li value="2">entirely of other groups; or</li>
+            <li value="3">of a mixture of one or more components and one or more groups.</li>
+        </ol>
+        <p>Groups, as an organizational element, have two levels:</p>
+        <ol>
+            <li value="1">Group-type</li>
+            <li value="2">Within each group-type are the groups.</li>
+        </ol>
+        <p>Groups allow disparate assets to be clustered together according to whatever quality is desired, such as a common location or common purpose.</p>
+        <h2 style="mc-toc-depth:0">Summary</h2>
+        <p>Enterprise SMS unifies the inventory structure between all of its domains: Buildings, Fuels, Pavements, Rails, Roofs, and Utilities. The amount of difference you will see in the inventory tree structure and nomenclature depends on which SMS program you have been using.</p>
+        <p>An additional, new organizational device introduces in Enterprise SMS is the group. Groups (which exist as a property of a component or of another group) allow disparate assets to be clustered together according to whatever quality is desired, such as a common location or common purpose.</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../Default.htm#FIELD_APP/z-popup-task-table/TT-Assets/Appx-version-SMS-vs-ESMS.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Inventory|Buildings">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>About the Building Current Status Property</title>
+        <link href="../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body style="text-align: center;">
+        <h1 style="text-align: left;">About the Building Current Status Property</h1>
+        <p style="text-align: left;">The Current Status property of a Building allows you to maintain database records for Buildings not currently in your physical inventory, whether for historical purposes or future planning. A Building's current status is used in the decision processes of both BUILDER and Scenarios, and it is the basis for a number of useful capabilities, including allowing you to:</p>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;">Define <a href="https://builder.sms.erdc.dren.mil/USAF/Help/content/work_management/2_policies/wm_about_policies.htm">policies</a> so that Buildings scheduled for demolition are maintained at a lower standards than might generally apply. Simply use the Current Status as one of the attributes used to define a policy and assign standards as appropriate to each status type.</li>
+            <li style="text-align: left;">Define work <a href="https://builder.sms.erdc.dren.mil/USAF/Help/content/work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm">prioritization schemes</a><a name="kanchor885"></a> that consider future changes in a Building's status in prioritizing work items. This can be done by using the Current Status property as an initial split in your prioritization scheme and assigning weights appropriate for each status type (using 0 weight for non-current status types).</li>
+            <li style="text-align: left;">Plan for the maintenance load of Buildings to be added to your inventory in the future by <a href="https://builder.sms.erdc.dren.mil/USAF/Help/content/scenarios/scenario_visualization.htm">analyzing a Scenario</a>.</li>
+            <li style="text-align: left;">Change the status of a Building dynamically during a Scenario simulation to study the effects of a changing inventory on the budget and the work load.</li>
+        </ul>
+        <p style="text-align: left;font-weight: normal;"><b>Note</b>: <a href="https://support.sms.erdc.dren.mil/news/posts/sms-builder-3-6-6-release-notes" name="kanchor886">Select Building-level field values have been locked</a> for general users in order to maintain the integrity of  data and systems connections. For additional information, please contact your data manager. </p>
+        <p style="text-align: left;"><a name="kanchor887"></a>The Current Status property is set on the Building data screen at the General Information tab (see <a href="https://builder.sms.erdc.dren.mil/USAF/Help/content/inventory/buildings/inv_bld_tab_gen_info.htm" name="kanchor888">Edit Building General Information</a>). Local variation (which is typically in the form of an added option) is possible due to database customization, but generally the Current Status property has one of the following values:</p>
+        <img src="imgs/2023-General-Info-Tab_565x315.png" style="padding-top: 8px;padding-bottom: 8px;width: 565;height: 315;" />
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><b>Active</b>. This is the default status. Use this status for Buildings that are currently utilized for 6 months or more annually. This status is the end status for Buildings with the status  "To Be Acquired." <ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b>&#160;This status generates work items.</li></ul></li>
+            <li style="text-align: left;"><b>Caretaker</b>. Select this status when a Building requires minimal maintenance for safety and security.<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"> <b>Note:</b> This status generates work items.</li></ul></li>
+            <li style="text-align: left;"><b>Closed</b>.Choose the <b>Closed</b> status when a Building is not currently being used or maintained.<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b> This status <b>does not</b> generate work items.</li></ul></li>
+            <li style="text-align: left;"><b>Disposed</b>. Use this status when a Building has been demolished—or when a Building has been conveyed or transferred out of the government's inventory. <ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note</b>:&#160;This status <b>does not</b> generate work items.</li></ul></li>
+            <li style="text-align: left;"><b>Environmental Hold</b>. Select <b>Environmental Hold</b> when a Building is not currently in use due to any environmental issues or concerns.<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b>&#160;This status <b>does not</b> generate work items.</li></ul></li>
+            <li style="text-align: left;"><b>Excess</b>. Use the <b>Excess</b> classification when a Building is no longer required to meet current or future needs of the Federal Government, but it has been approved for future federal use. <ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b> This status generates work items.</li></ul></li>
+            <li style="text-align: left;"><b>Non-Functional</b>. Choose the <b>Non-Functional</b> option when a Building cannot be occupied or used for any purpose until functionality returns to a habitable or usable condition.<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b> This status generates work items.</li></ul></li>
+            <li style="text-align: left;"><b>Outgranted</b>. Select the <b>Outgranted</b> status when Building rights have been granted to a non-DoD agency.<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b>&#160;This status <b>does not</b> generate work items.</li></ul></li>
+            <li style="text-align: left;"><b>Semi-Active</b>. Choose this status if the Building is used less than 6 months a year (such as training centers).<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b> This status generates work items.</li></ul></li>
+            <li style="text-align: left;"><b>Surplus</b>. A Building can be classified as a <b>Surplus</b> asset when it is not required to meet current or future federal governmental needs and responsibilities.<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b>&#160;This status <b>does not</b> generate work items.</li></ul></li>
+            <li style="text-align: left;"><b>To Be Acquired</b>. Use this status to enter inventory records for an existing Building prior to its acquisition. <i>The effective year of this status is the year in which the Building is expected to be acquired.</i> You will be able to edit the Building and inspection data for this type of Building, and BUILDER's condition and remaining service life predictions will be applied based on the inspection data entered. In this way, you will be able to estimate the maintenance requirements of such a Building prior to its acquisition. In a Scenarios simulation, this feature allows you to acquire Buildings as the simulation progresses.<ul style="font-family: Arial;list-style-type: circle;"><li style="text-align: left;"><b>Note:</b>&#160;This status <b>does not</b> generate work items.</li></ul></li>
+        </ul>
+        <p style="text-align: left;">Two of these values indicate that the designated Building is not currently part of the inventory: <b>To Be Acquired</b> and <b>Disposed</b>.</p>
+        <p style="text-align: left;">The Current Status property allows you to enter future Buildings into the inventory and to plan for their maintenance in Scenarios even though they are not presently owned. In addition, the Current Status property allows you to keep records for Buildings that are no longer in the physical inventory. Such records are ignored in processes that should only consider current Buildings, such as condition rollups and work planning.</p>
+        <p style="text-indent: 0.5in;text-align: left;"><b>Best Practice Recommendation</b><a name="kanchor889"></a>: When you delete a Building, you actually remove all database records associated with that Building. If you wish to keep the records, whether for historical purposes, analysis, or possible transfer to another BUILDER database (perhaps the Building is being transferred from one property book to another), you should simply set the Current Status property to an appropriate value.</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../Default.htm#BUILDER/BUILDER-Building-Status-Property.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

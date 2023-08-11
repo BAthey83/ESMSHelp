@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_edit_additional_building_data.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/Building-Nav-Pane.png" />
+    <Link
+      Url="Content/BUILDER/imgs/General-Info-Tab.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-status-dd-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-status-sub-dd-open-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-status-yr-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-not-inspectable-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-sys-not-present-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-constrtype-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-override-repl-cost.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-override-fci.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/tools/mdi/tools_mission_dependency_index_overview.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_bld_tab_gen_info.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-override-mdi.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/builder/rollup-appxa.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/resources/terms/term-fci-gloss.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-location-yr-status.png" />
+    <Link
+      Url="Content/BUILDER/imgs/Cost Mod with Red Highlight.png" />
+    <Link
+      Url="Content/BUILDER/imgs/Assigned-Cost-Mod.png" />
+    <Link
+      Url="Content/BUILDER/imgs/Unassign-Cost-Mod-Button.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_adding_a_building.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_assign_bld_to_cpx.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_gen_building_report.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_deleting_a_building.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_about_the_building_status_property.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_using_building_status_to_track_non-current_buildings.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_edit_additional_building_data.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/Building-Nav-Pane.png" />
+    <Link
+      Url="Content/BUILDER/imgs/General-Info-Tab.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-status-dd-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-status-sub-dd-open-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-status-yr-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-not-inspectable-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bld-sys-not-present-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-constrtype-v3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-override-repl-cost.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-override-fci.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/tools/mdi/tools_mission_dependency_index_overview.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_bld_tab_gen_info.htm?tocpath=BUILDER%7CInventory%7CBuildings%7C_____3#MDI-change" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-override-mdi.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/builder/rollup-appxa.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/resources/terms/term-fci-gloss.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-bldg-location-yr-status.png" />
+    <Link
+      Url="Content/BUILDER/imgs/Cost Mod with Red Highlight.png" />
+    <Link
+      Url="Content/BUILDER/imgs/Assigned-Cost-Mod.png" />
+    <Link
+      Url="Content/BUILDER/imgs/Unassign-Cost-Mod-Button.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm#tools/library/cost-mod-about.htm#kanchor431" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_adding_a_building.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_assign_bld_to_cpx.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_gen_building_report.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_deleting_a_building.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_about_the_building_status_property.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/buildings/inv_using_building_status_to_track_non-current_buildings.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Layout:navigation pane"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="78" />
+    <IndexCacheEntry
+      Term="Facility Condition Index"
+      Conditions=""
+      LocalConditions=""
+      Position="93" />
+    <IndexCacheEntry
+      Term="Functionality"
+      Conditions=""
+      LocalConditions=""
+      Position="152" />
+    <IndexCacheEntry
+      Term="Search Box:Scope"
+      Conditions=""
+      LocalConditions=""
+      Position="203" />
+    <IndexCacheEntry
+      Term="Password:Assignment"
+      Conditions=""
+      LocalConditions=""
+      Position="220" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="249" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

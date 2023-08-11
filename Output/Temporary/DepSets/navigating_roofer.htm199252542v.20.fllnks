@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Navigating ROOFER"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/roofer_interface_image.png" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/roofer/rtools/rreports/rgeneratereports.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/roofer_nav_grp_image.png" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/recognizing_the_common_icons/gs_recognizing_the_common_icons.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/roofer_content_area_image.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/roofer_interface_image.png" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/roofer/rtools/rreports/rgeneratereports.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/roofer_nav_grp_image.png" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/recognizing_the_common_icons/gs_recognizing_the_common_icons.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/getting_started/roofer_content_area_image.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#roofer/getting_started/navigating_roofer.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor614" />
+    <Anchor
+      Name="kanchor615" />
+    <Anchor
+      Name="kanchor616" />
+    <Anchor
+      Name="kanchor617" />
+    <Anchor
+      Name="kanchor618" />
+    <Anchor
+      Name="kanchor619" />
+    <Anchor
+      Name="kanchor620" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

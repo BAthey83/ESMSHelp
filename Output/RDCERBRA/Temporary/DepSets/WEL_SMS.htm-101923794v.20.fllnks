@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Introduction to the Sustainment Management System "
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Header_SMS_Banner.png" />
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+    <Link
+      Url="http://sms.cecer.army.mil/" />
+    <Link
+      Url="Content/Welcome/CERL_Castle_logo.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Header_SMS_Banner.png" />
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+    <Link
+      Url="http://sms.cecer.army.mil/" />
+    <Link
+      Url="Content/Welcome/CERL_Castle_logo.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Welcome"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Primary.SystemVersion" />
+    <Variable
+      Name="System.ShortDate" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

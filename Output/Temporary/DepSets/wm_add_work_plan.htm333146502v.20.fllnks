@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Add a Work Plan"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_items/work_plan_items.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/imgs/locate-plan-using-search-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/Content/inventory/sites/about_sites.htm" />
+    <Link
+      Url="Content/BUILDER/Content/tools/library/cost-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/Content/resources/buttons/gen-items-btn.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/wm-images/gen-items-pop-selection.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/icons/proceed.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/icons/cancel.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_view_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_edit_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_data_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_export-work-plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_delete_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_about_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/wm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_items/work_plan_items.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/imgs/locate-plan-using-search-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/Content/inventory/sites/about_sites.htm" />
+    <Link
+      Url="Content/BUILDER/Content/tools/library/cost-ref-about.htm#Assign" />
+    <Link
+      Url="Content/BUILDER/Content/resources/buttons/gen-items-btn.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/wm-images/gen-items-pop-selection.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/icons/proceed.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/icons/cancel.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_view_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_edit_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_data_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_export-work-plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_delete_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/work_plans/wm_about_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/wm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/work_plans/wm_add_work_plan.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor246" />
+    <Anchor
+      Name="kanchor247" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/Content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

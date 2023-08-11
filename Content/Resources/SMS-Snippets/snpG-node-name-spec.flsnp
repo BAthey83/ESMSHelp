@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="72" MadCap:lastWidth="1156">
+    <body>
+        <p class="indent"><span class="span_1">Specifications:</span> The name is limited to 50 alphanumeric characters. </p>
+        <p class="indent"><span class="span_1">Best Practice Recommendation:</span> Avoid using single quotes, double quotes, and ampersands. These characters can interfere with query formation. </p>
+    </body>
+</html>

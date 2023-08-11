@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="About Scenario Management"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imp_scenario_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imgsscenario/impact.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm_about_funding.htm" />
+    <Link
+      Url="Content/BUILDER/Content/inventory/buildings/inv_about_the_building_status_property.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/add_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/edit_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/run_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imp_copying_a_work_plan_from_a_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/scenario_visualization.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/delete-scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imp_scenario_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imgsscenario/impact.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm_about_funding.htm" />
+    <Link
+      Url="Content/BUILDER/Content/inventory/buildings/inv_about_the_building_status_property.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/add_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/edit_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/run_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imp_copying_a_work_plan_from_a_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/scenario_visualization.htm" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/delete-scenario.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#scenarios/about_scenario_mgt.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor854" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/Content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

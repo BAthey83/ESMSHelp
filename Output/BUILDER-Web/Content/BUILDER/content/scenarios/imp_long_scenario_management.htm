@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-medium="non-print" data-mc-file-tags="StatusFileTags.1 Needs to be Added to TOC" data-mc-status="In Progress" data-mc-check_list="Ran Smart Index" data-mc-priority="0" data-mc-time-estimate="0" data-mc-ignored-words="MDI;C;E;F;SP;Antiterrorism;ESC;FCI;FI;Signage;Grandfathered;Non-Grandfathered;NonGrandfathered;IAQ;Polychlorinated;Biphenyls;KBI;N;PL;PRV;SL;SUCI;Tri-Service;Hueneme;dropdown;Soffit;textbox;uncheck;inspectable;Y;barcode;IDs;building(s;prioritization;O&amp;M;R.S.;multiplier(s;Attn;DPW;McGee;Poysen;Gough;Osborne;ACC;AFB;Luthie;Cutforth;Klepper;USARC;LTC;Tieken;Patterson;Tillotson;NFESC;Abell;Roy;Antelman;Neely;Neathammer;Stirn;Winkler;MRPM;BOMA;FEMA;Sweeney;Uzarski;P.E.;Marrano;Grussing;L.A.;S.L.;J.R.;Subick;Jurewicz;McGraw;Inc;Makesha;Bradford;Byrnes;Culton;Gould;Humphries;Kibbler;Lavrich;Lawson;Yoon;Lim;Milburn;Carrie;Olson;Ronnie;Schneider;Smejkal;Svetlic;Temme;Vogel;Weightman;Wittleder;Zahorak;BUILDERTM;RML;LF;scoping;CIs;isn;t;scoped;CSCIs;KBCSI;timeframe;Timeframe;PMI;PMIs;ridgelines;timesaver;recoating;BuiltUp;USACERL;Shahin;Brotherson;Tobiasson;Foltz;Knehans;hardcopies;RTF;assessment(s;DoD;UFC;ATFP;PVB;IBC;BFI;Securement;sustainment;Uniformat;FP">
+    <head>
+        <link href="../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Scenario Management</title>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+        <link href="../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <h1>Manage a Scenario</h1>
+        <h2>About Scenario Management</h2>
+        <p><a name="kanchor20"></a><a name="kanchor21"></a>A simplified outline of the steps in a Scenarios simulation was described in <a href="imp_scenario_overview.htm" class="MCXref xref">About Scenarios </a>. You should review that topic before proceeding. Shown below is a conceptual illustration of the process:</p>
+        <p class="p_26">
+            <img src="imgsscenario/impact_700x350.png" border="0" alt="" style="width: 700;height: 350;" />
+        </p>
+        <p>In Scenario Management, a scenario is a set of data to be presented to the  simulation model consisting of particular inventory data and a set of initial parameters. The result of running the scenario is expressed as a copy of inventory records in which the "current date" is sometime in the future, typically 5 to 10 years, and in which the time-stamped records beyond the run date are generated by the Scenario Simulation Model. </p>
+        <p>The first step in using Scenarios is to create a scenario and establish the set of initial parameters. The initial parameters are a set of values for key elements of the simulation decision process, such as the length of time to simulate, the <a href="../work_management/3_policy-sequences/wm_about_policy_sequences.htm" data-mc-conditions="Primary.ScreenOnly">policy sequence</a> to use for generating work, the <a href="../work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" data-mc-conditions="Primary.ScreenOnly">prioritization scheme</a> to use for prioritizing work, and the <MadCap:conditionalText data-mc-conditions="Primary.ScreenOnly"><a href="../work_management/6_funding/wm_about_funding.htm">funding levels</a></MadCap:conditionalText> to use for determining whether or not work can be completed. Additional parameters include specifications for future changes in a Building's <a href="../inventory/buildings/inv_about_the_building_status_property.htm" data-mc-conditions="Primary.ScreenOnly">Current Status</a>, the addition of new inventory, and the addition of new functionality assessments for Buildings and Functional Areas. After the initial parameters are set, you are ready to run the simulation.</p>
+        <h2>Add a Scenario and Set Initial Parameters</h2>
+        <p>To add or edit a scenario, select <span class="span_1">Scenarios &gt; Management</span> starting at the main menu.</p>
+        <p class="p_26">
+            <img src="../imgs/scenarios/mgt/scenarios-mgt-1select3.2.png" border="0" alt="" />
+        </p>
+        <p>The Scenario Analysis window will appear.</p>
+        <p class="p_26">
+            <img src="scenario_management_2-v3_4end_800x200.png" border="0" alt="" style="width: 800;height: 200;" />
+        </p>
+        <p>After navigating the tree on the left of the screen, the scenarios for that Site will be listed in the grid on the right. Also shown in the grid is the <span class="span_1">Site</span>, <span class="span_1">Name</span>, <span class="span_1">Description</span>, <span class="span_1">Status</span>, and <span class="span_1">Progress</span> of each scenario.</p>
+        <h3>Toolbar Options</h3>
+        <ul>
+            <li>
+                <img src="../getting_started/recognizing_the_common_icons/bkp/imgs_icons/close_or_return_door_icon.png" alt="" /><span class="span_1"> Return</span>. Use this button, at the upper left of the screen, to close the Scenario Management window.</li>
+            <li>
+                <img src="../getting_started/recognizing_the_common_icons/bkp/imgs_icons/help_questionmark_icon.png" alt="" /><span class="span_1"> Help</span>. Launches the Help topic associated with Scenarios.</li>
+            <li>
+                <img src="../getting_started/recognizing_the_common_icons/bkp/imgs_icons/new_icon.png" alt="" /><span class="span_1"> New</span>. Initiates creation of a new scenario.</li>
+            <li>
+                <img src="../resources/icons/delete.gif" alt="" /><span class="span_1"> Delete</span>. Deletes the selected scenario.</li>
+        </ul>
+        <h3>Add or Edit a Scenario</h3>
+        <p>To create a new scenario, activate the <span class="span_1">New</span> button in the toolbar. To edit an existing scenario, activate its name in the grid. </p>
+        <p>In either case, the "Edit Scenario" popup window will appear.</p>
+        <p class="p_26">
+            <img src="imgsscenario/create_scenario-v3_4end_600x600.png" border="0" alt="" style="width: 600;height: 600;" />
+        </p>
+        <p>At the top of this screen, you can enter or edit the scenario name and also enter a description of the scenario. Additional information for the scenario is input at the following tabs:</p>
+        <ol>
+            <li value="1"><a href="#Scope" class="MCXref xref">Scope Tab</a>.</li>
+            <li value="2"><a href="#General" class="MCXref xref">General Tab</a>.</li>
+            <li value="3"><a href="#Funding" class="MCXref xref">Funding Tab</a>.</li>
+            <li value="4"><a href="#InvEvents" class="MCXref xref">Inventory Events Tab</a>.</li>
+        </ol>
+        <p>Each of these tabs is described below.</p>
+        <h3><a name="Scope"></a>Scope Tab</h3>
+        <p>The <span class="span_1">Scope</span> tab, which is shown above, specifies the planning horizon and the specific Buildings to be included in the simulation. The data entered on this tab includes:</p>
+        <ul>
+            <li><span class="span_1">Number of Years to Simulate.</span> Select the number of years the simulation will run (1-10) from the dropdown list.</li>
+            <li><span class="span_1">Organizations.</span> Select the Organizations that are to be included in the simulation. The Available Groups list contains all of the Organizations, Sites, and Complexes currently in the inventory. Use the arrow keys between the two lists to create a list of inventory that is to be included in the simulation. The scenario will only include Buildings that are in at least one of the Selected Groups. It is OK if the selected inventory overlap, i.e. if the same Building is in more than one of the groups in the Selected Groups list.</li>
+            <li><span class="span_1">Selected Systems.</span> Select the Systems that are to be included in the simulation for the selected Buildings. This is especially useful if you are simply developing a long-term repair and replacement plan for a single Building System.</li>
+        </ul>
+        <h3><a name="General"></a>General Tab</h3>
+        <p>The <span class="span_1">General</span> tab allows you to set the Cost Book, Inflation Book, Service Book, Policy Sequence, and Prioritization Scheme to use for the scenario. Each option is described in greater detail below.</p>
+        <p class="p_26">
+            <img src="imgsscenario/create_scenario_general-v3_4end_600x600.png" border="0" alt="" style="width: 600;height: 600;" />
+        </p>
+        <ul>
+            <li><span class="span_1">Cost Book</span>. Select the cost book you wish to use for the scenario from the dropdown list. A cost book is defined so the cost of each work item can be computed. See <a href="../tools/library/cost-ref-about.htm">Viewing and Editing Cost Data</a> for more information.</li>
+            <li><span class="span_1">Inflation Book</span>. Select the inflation book you wish to use from the dropdown list. An inflation book is defined to allow the scenario to assess the inflation rates from year to year to be applied to the cost of work items.</li>
+            <li><span class="span_1">Service Book</span>. Select the service life cost book you wish to use from the dropdown list. A service life book is defined so that the service life of all Component-Section in the inventory can be estimated. </li>
+            <li><span class="span_1">Policy Sequence</span>. Select the policy sequence you wish to use for the scenario from the dropdown list. A policy sequence is defined so that when it is applied to the inventory it will determine a standard for every Component-Section by using its default standard and then by successively applying the applicable policies. See <a href="../work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm"><a href="../work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" class="MCXref xref">Work Configuration Overview</a></a> for general information or <a href="../work_management/standards,_policies,_and_policy_sequences/wm_adding_and_editing_policy_sequences.htm"><a href="../work_management/3_policy-sequences/wm_about_policy_sequences.htm" class="MCXref xref">About Policy Sequences</a></a> for links to information on how to add and edit policy sequences.</li>
+            <li><span class="span_1">Prioritization Scheme.</span> Select the prioritization you wish to use for the scenario from the dropdown list. A prioritization scheme is defined so that a priority score can be calculated for each Section-level work item based on the measures, point values, and weights you have assigned. See <a href="../work_management/work_items/work_prioritization/wm_creating_a_work_prioritization_scheme.htm"><a href="../work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" class="MCXref xref">About Prioritization Schemes</a></a> for more information. The Prioritization Scheme will be used only when funding is constrained, but you must select a scheme here even if the funding is unconstrained.</li>
+        </ul>
+        <h3><a name="Funding"></a>Funding Tab</h3>
+        <p>On the <span class="span_1">Funding</span> tab, which is shown below, the funding levels for the different funding sources defined in BUILDER are set and the option of running the simulation with no funding constraints is provided. Each is described in greater detail below.</p>
+        <p class="p_26">
+            <img src="imgsscenario/create_scenario_funding-v3_5_600x600.png" border="0" alt="" style="width: 600;height: 600;" />
+        </p>
+        <ul>
+            <li><a name="kanchor22"></a><span class="span_1">Unconstrained/Constrained Option</span>. Choose whether the scenario is to be constrained by funding or unconstrained by funding. If unconstrained, all simulated work items will be completed in the year they are generated. If constrained, you must specify the annual funding levels for all funding sources previously identified in BUILDER. In a constrained scenario, work items and projects are ranked by priority and funded for completion in order of rank until funds are exhausted. Work items and projects that are not funded cannot be completed. Projects and user-created work items that are not completed as planned will be carried over to the next year.</li>
+            <li><span class="span_1">Funding Sources and Amounts Grid</span>. If you have chosen the <span class="span_1">Constrained</span> option, the grid with funding sources and amounts will appear. Initially, the funding sources and amounts are set to show data entered at the <span class="span_1">Expected Funds</span> tab while <a href="../work_management/6_funding/wm-add-funding-stream.htm">adding</a> or <a href="../work_management/6_funding/wm-edit-funding-stream.htm">editing the anticipated funding levels</a> of applicable funding streams. In Scenarios, you may not delete funding sources, but you may set their amounts to $0. Select the checkbox next to the Funds that are to be utilized for the scenario.</li>
+        </ul>
+        <h3><a name="InvEvents"></a>Inventory Events Tab</h3>
+        <p>On the <span class="span_1">Inventory Events</span> tab, which is shown below, future "whole building" events such as Current (Building) Status changes can be triggered at particular points in the simulation. In addition, completely new Buildings can be dynamically added to the inventory during the simulation. Each of these capabilities is described in greater detail below.</p>
+        <p class="p_26">
+            <img src="imgsscenario/create_scenario_inventory_events-v3_4end_600x600.png" alt="" style="width: 600;height: 600;" />
+        </p>
+        <h4>Status Changes</h4>
+        <p>Buildings in the BUILDER inventory that have a Current Status that starts with "To be"  will have the implied effects of those status changes represented during the scenario. For example, if a Building has a status of "To be demolished" in year X, the scenario simulation will include the occurrence of the demolition in year X. In addition, you can schedule status changes in the scenario parameters. This capability allows you to do the following:</p>
+        <ul>
+            <li><span class="span_1">Add new Buildings</span> to the inventory dynamically as the scenario progresses. To do this, add the Buildings to the BUILDER inventory with a Current Status of "To be built" or "To be acquired," with an effective year equal to the year the status is to change to "Active." When the scenario time reaches that year, the status will be changed. At that point, the Building will be considered in the automated processes of condition assessment and work planning. If you wish to override the effective year of the status change as recorded in BUILDER inventory, in Scenarios you can enter a status change for the Building in the scenario for a different year.</li>
+            <li><span class="span_1">Plan to demolish or transfer a Building</span> as the simulation progresses. You may do this in any of several ways: </li>
+            <ol style="list-style-type: lower-alpha;">
+                <li value="1">Enter a Current Status of "To be demolished"/"To be transferred" in the BUILDER inventory, with an effective year set to the year the Building is to be removed, OR</li>
+                <li value="2">Enter a scenario status change to "Demolished"/"Transferred" in the appropriate change year, OR</li>
+                <li value="3">Enter a scenario status change to "To be demolished"/"To be transferred" in a chosen year. Note that this allows you to model the progression from (1) an active Building to (2) one that is to be demolished (accompanied perhaps by reduced maintenance standards) to (3) a demolished Building that is removed from work planning considerations.</li>
+            </ol>
+        </ul>
+        <p>To initiate a status change in the simulation, activate the <span class="span_1">New</span> button in the Status Change portion of the screen and enter the following data elements:</p>
+        <ul>
+            <ul>
+                <li><span class="span_1">Building.</span> Select the Building for which the change in status applies.</li>
+                <li><span class="span_1">New Status.</span> Select the new status of the Building using the dropdown list.</li>
+                <li><span class="span_1">Change Year</span>. Enter the year in which the Building's status is to change to the new status.</li>
+                <li><span class="span_1">Effective Year.</span> Enter the effective year of the new status.</li>
+                <li><span class="span_1">New Inventory.</span> BUILDER allows you to add a completely new Building during a scenario, by activating the <span class="span_1">New</span> button in the New Inventory portion of the screen and entering the following data:</li>
+            </ul>
+        </ul>
+        <h4>New Inventory</h4>
+        <p>BUILDER allows you to add completely new Buildings during a scenario by activating the <span class="span_1">New</span> button in the New Inventory portion of the screen and entering the following data: </p>
+        <ul>
+            <li><span class="span_1">Building Number.</span> Enter the number identifier for the new Building.</li>
+            <li><span class="span_1">Building Name.</span> Enter the name identifier for the new Building.</li>
+            <li><span class="span_1">Organization.</span> Select the Organization to add the new Building to.</li>
+            <li><span class="span_1">Template.</span> Select the <a href="../inventory/rapid_inventory_methods/building_templates/inv_using_building_templates.htm">template</a> to use to estimate the new Building's inventory.</li>
+            <li><span class="span_1">Effective Year.</span> Enter the year the new Building will be added to the inventory. </li>
+        </ul>
+        <h3><a name="FuncEvents"></a>Functionality Events Tab</h3>
+        <p>On the <span class="span_1">Functionality Events</span> tab, which is shown below, a future Building and/or Functional Area functionality assessments can be triggered at particular points in the simulation. Further description of this process is provided below.</p>
+        <p class="p_26">
+            <img src="imgsscenario/create_scenario_functionalityevents-v3_4end_600x600.png" border="0" alt="" style="width: 600;height: 600;" />
+        </p>
+        <ul>
+            <li><span class="span_1">Building Functional Assessments.</span> Any Building-level functionality assessments with the status of "To Take Effect" that have been entered for the inventory included in the scenario will be shown in this grid. If you wish to include a future assessment in the scenario, mark the checkbox in the <span class="span_1">Use</span> column next to it in the grid. For all assessments that area included, the data from the future assessment will replace the active assessment data and be used to compute the <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open MCTextPopupHotSpot_ #text">BFI<img class="MCHelpControl_Image_Icon" src="../../Skins/Default/Stylesheets/Images/transparent_16x11.gif" alt="Closed" data-mc-alt2="Open" style="width: 16;height: 11;" /><span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Building Functionality Index - computed from the results of a functionality assessment.</span></a> for the Building in the effective year shown in the grid. </li>
+            <li><span class="span_1">Functional Area Assessments.</span> Any Functional Area-level functionality assessments with the status of "To Take Effect" that have been entered for the inventory included in the scenario will be shown in this grid. If you wish to include a future assessment in the scenario, mark the checkbox in the <span class="span_1">Use</span> column next to it in the grid. For all assessments that area included, the data from the future assessment will replace the active assessment and be used to compute the <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup #text #textPopup">FAFI<img class="MCHelpControl_Image_Icon" src="../../Skins/Default/Stylesheets/Images/transparent_16x11.gif" alt="Closed" data-mc-alt2="Open" style="width: 16;height: 11;" /><span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Functional Area Functionality Index</span></a> for the Functional Area in the effective year shown in the grid.</li>
+        </ul>
+        <h2>Run the Simulation</h2>
+        <h3>Run</h3>
+        <p>After all of the initial scenario parameters are set, you can run the simulation by right-clicking on the scenario and selecting "Run." </p>
+        <p class="p_26">
+            <img src="imgsscenario/edit_scenario_run_550x375.png" border="0" alt="" style="width: 550;height: 375;" />
+        </p>
+        <p>A progress report will scroll along the bottom of the window, entering a new line each time a new activity begins. Each line of the progress report beings with the system time on your computer so that you may judge how long each step takes. After the initial setup, the activity stream will repeat from year to year for the number of years in the simulation. By calculating how long it takes to simulate one year you can estimate how long the simulation will be running. </p>
+        <p class="indent"><span class="span_1">WARNING:</span> The simulation is a computationally intensive process, and many new records will have to be created in a single run. The simulation run time is very dependent on your computer system's speed and the size of the inventory in the simulation. The simulation could take from a few minutes up to several hours to finish. It does not allow for any interaction after you have activated <span class="span_1">Run</span> in the dropdown list, other than allowing you to abort the run at any time. </p>
+        <h3>Abort Option</h3>
+        <p>If the simulation is taking too long, you have the option to abort the process by right-clicking on the scenario and selecting "Abort." The simulation will prepare to finish its current process and stop running the scenario.</p>
+        <h3>Results</h3>
+        <p>When the scenario has run to completion (assuming it has not been aborted), you can do any of the following with the results:</p>
+        <ul>
+            <li> Compare the results with the results of other scenarios using <a href="scenario_visualization.htm" class="MCXref xref">Scenario Visualization / Analysis</a>.</li>
+            <li>Use the results to <a href="imp_copying_a_work_plan_from_a_scenario.htm">copy work items from the scenario to create a work plan in BUILDER</a>. </li>
+        </ul>
+        <h2><span class="span_1">Related Links</span>
+        </h2>
+        <ul style="list-style-type:none">
+            <li><a href="imp_scenario_overview.htm" class="MCXref xref">About Scenarios </a>
+            </li>
+            <li><a href="add_scenario.htm" class="MCXref xref">Add a Scenario</a>
+            </li>
+            <li><a href="edit_scenario.htm" class="MCXref xref">Edit a Scenario</a>
+            </li>
+            <li><a href="run_scenario.htm" class="MCXref xref">Run a Scenario</a>
+            </li>
+            <li data-mc-conditions="Primary.ScreenOnly"><a href="imp_copying_a_work_plan_from_a_scenario.htm" class="MCXref xref">Copy Work Items from a Scenario</a>
+            </li>
+            <li><a href="scenario_visualization.htm" class="MCXref xref">Scenario Visualization / Analysis</a>
+            </li>
+            <li><a href="delete-scenario.htm" class="MCXref xref">Delete a Scenario</a>
+            </li>
+        </ul>
+        <p>&#160;</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../Builder.htm#scenarios/imp_long_scenario_management.htm">Open topic with navigation</a>
+        </p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../Default.htm#BUILDER/content/scenarios/imp_long_scenario_management.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

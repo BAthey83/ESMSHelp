@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Name="Condition Assessment Manual"
+      Type="Word"
+      Build="true"
+      LastBuilt="8/30/2013 10:24:36 PM"
+      LastPublished="" />
+    <Target
+      Name="Condition Assessment Manual - Word"
+      Type="Word"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="Condition Assessment Manual ePub"
+      Type="EPUB"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="Functionality Assessment Manual"
+      Type="PDF"
+      LastBuilt="5/22/2013 10:54:17 PM"
+      LastPublished="" />
+    <Target
+      Name="OnlineHelp"
+      Type="HTML5"
+      LastBuilt="8/30/2013 9:01:29 PM"
+      LastPublished="" />
+    <Target
+      Name="Printed Documentation"
+      Type="Word"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="Users Manual (PDF)"
+      Type="PDF"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Name="WebHelp"
+      Type="WebHelp"
+      LastBuilt="4/24/2013 1:53:37 PM"
+      LastPublished="" />
+  </Targets>
+</CatapultBatchTarget>

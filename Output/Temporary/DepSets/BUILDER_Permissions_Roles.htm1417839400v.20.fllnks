@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Primary.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Primary.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Administ" />
+    <Anchor
+      Name="Master" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="User Permissions Roles"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Roles"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Administrator user role"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Permissions:Administrator"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="34" />
+    <IndexCacheEntry
+      Term="Inventorior user role"
+      Conditions=""
+      LocalConditions=""
+      Position="40" />
+    <IndexCacheEntry
+      Term="Permissions:Inventorior"
+      Conditions=""
+      LocalConditions=""
+      Position="40" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="Inspector user role"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="Permissions:Inspector"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="Inspection Supervisor user role"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Permissions:Inspection Supervisor"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Work Planner user role"
+      Conditions=""
+      LocalConditions=""
+      Position="77" />
+    <IndexCacheEntry
+      Term="Permissions:Work Planner"
+      Conditions=""
+      LocalConditions=""
+      Position="77" />
+    <IndexCacheEntry
+      Term="Master Planner"
+      Conditions=""
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="Permissions:Master Planner"
+      Conditions=""
+      LocalConditions=""
+      Position="96" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Primary.Product" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Primary.ScreenOnly" />
+    <Condition
+      Tag="Primary.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Add a Funding Stream"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/work_conf_funding.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/expected_funds.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-add-funding-stream.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imp_scenario_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-expected-funds-empty-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/newfundingsource_window.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-pencil-icon-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-edit-funding-levels-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions1-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions3-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions2-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions4-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions5-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-precedence-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-edit-funding-stream.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-delete-funding-stream.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm_entering_anticipated_funding_levels.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm_about_funding.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/work_conf_funding.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/expected_funds.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-add-funding-stream.htm#Expected" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-add-funding-stream.htm#Funding2" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-add-funding-stream.htm#Funding" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/Content/scenarios/imp_scenario_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-add-funding-stream.htm#Select" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-expected-funds-empty-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/newfundingsource_window.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-pencil-icon-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-edit-funding-levels-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions1-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions3-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions2-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions4-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-add-funding-stream.htm#Combinin" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-restrictions5-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-funding-precedence-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-edit-funding-stream.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm-delete-funding-stream.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm_entering_anticipated_funding_levels.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/6_funding/wm_about_funding.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/6_funding/wm-add-funding-stream.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor56" />
+    <Anchor
+      Name="Select" />
+    <Anchor
+      Name="Expected" />
+    <Anchor
+      Name="Funding2" />
+    <Anchor
+      Name="kanchor57" />
+    <Anchor
+      Name="kanchor58" />
+    <Anchor
+      Name="Combinin" />
+    <Anchor
+      Name="Funding" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/Content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

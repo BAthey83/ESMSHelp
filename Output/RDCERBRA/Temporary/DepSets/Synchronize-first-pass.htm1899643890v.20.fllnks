@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/ICONS/sync-e-icon.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/imgs/sync-w-activate-red.png" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Synchronize-first-pass.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/ICONS/sync-e-icon.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/imgs/sync-w-activate-red.png" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Synchronize-first-pass.htm#Select" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Synchronize-first-pass.htm#View" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Synchronize-first-pass.htm#Select2" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="View" />
+    <Anchor
+      Name="Select2" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Synchronize"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="38" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

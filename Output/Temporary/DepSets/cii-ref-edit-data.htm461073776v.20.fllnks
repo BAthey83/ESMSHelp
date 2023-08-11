@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Edit CII Data"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-add.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-edit-data.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/inflation-bk-imgs/infl-book-initial-page-view.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/inflation-bk-imgs/edit-infl-bk-select.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-nav-level-red.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-nav-sys-red.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-filters.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/filter_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-filter-option-dd.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/save.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/close.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-del-book.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-add.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-edit-data.htm#Task:" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-edit-data.htm#Task:2" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-edit-data.htm#Task:3" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-edit-data.htm#Task:4" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/inflation-bk-imgs/infl-book-initial-page-view.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/inflation-bk-imgs/edit-infl-bk-select.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-nav-level-red.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-nav-sys-red.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-filters.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/filter_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-bk-imgs/cii-bk-filter-option-dd.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/save.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/close.png" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-del-book.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-add.htm#Assign" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#tools/library/cii-ref-edit-data.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor487" />
+    <Anchor
+      Name="Task:" />
+    <Anchor
+      Name="Task:2" />
+    <Anchor
+      Name="Task:3" />
+    <Anchor
+      Name="Task:4" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

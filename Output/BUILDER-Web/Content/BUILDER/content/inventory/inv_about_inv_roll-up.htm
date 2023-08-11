@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-medium="non-print" data-mc-toc-path="Inventory|Introduction to Inventory" data-mc-status="Complete" data-mc-check_list="Ran Smart Index" data-mc-ignored-words="FCI;Securement;sustainment;Uniformat;recoating;FP;Multi;multi;Rollup;rollup;UFC;FI;PRV;BCCI;CSCI;SMS;BCI;BFI;BPI;ISR;MDI;RSL;RCI;CCI" xml:lang="en-us">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>Inventory Rollup </title>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <link href="../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <h1><a name="kanchor98"></a>Inventory Rollup </h1>
+        <hr width="100%" size="0" align="center" />
+        <p>Plant replacement value and remaining service life are inventory-related pieces of information that are aggregated upwards through the inventory tree by use of a "rollup." This topic introduces both automated and manual rollups in BUILDER. </p>
+        <p>Only inventory-related processes performed by a rollup are explained here. Condition and functionality information aggregated by a rollup are explained elsewhere in the documentation. </p>
+        <hr width="100%" size="0" align="center" />
+        <h2>What does a Rollup Do?</h2>
+        <p>Inventory-related processes accomplished by a rollup are as follows:</p>
+        <ul>
+            <li>current remaining service life (<a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm glossaryTermPopup MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup" glossTerm="Primary.Term11" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">RSL<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Remaining Service Life</span></a><span class="MCTextPopupBody popupBody">Remaining Service Life</span>) is estimated for all Sections</li>
+            <li><a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm glossaryTermPopup MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup" glossTerm="ESMS-gloss.Term4" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">RSL<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Remaining Service Life</span></a><span class="MCTextPopupBody popupBody">Remaining Service Life</span> information is reflected upwards through the inventory tree</li>
+            <li>Plant Replacement Value (<a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="ESMS-gloss.Term7" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">PRV<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Plant Replacement Value. For an inventory item above the Building level, this number will be the aggregate of the PRV of all Buildings included in that item.</span></a><span class="MCTextPopupBody popupBody">Plant Replacement Value. For an inventory item above the Building level, this number will be the aggregate of the PRV of all Buildings included in that item.</span>) is updated at all levels: For example, if new Sections, Components, or Systems have been added to a Building, its <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="ESMS-gloss.Term7" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">PRV<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Plant Replacement Value. For an inventory item above the Building level, this number will be the aggregate of the PRV of all Buildings included in that item.</span></a><span class="MCTextPopupBody popupBody">Plant Replacement Value. For an inventory item above the Building level, this number will be the aggregate of the PRV of all Buildings included in that item.</span> will increase</li>
+        </ul>
+        <p>To see a full list of all rollup processes, not just those pertaining to inventory, <MadCapconditionalText data-mc-conditions="Primary.ScreenOnly"><a href="../tools/administration/tools_manual_condition_roll-up.htm#RollupProcs" class="MCTopicPopup MCTopicPopupHotSpot a">activate here to see the list</a>, or consult the BUILDER <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="Primary.Term6" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Administrator<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>A user with Administrator Role can administer users, assign users to Roles, and change software configuration settings.</span></a><span class="MCTextPopupBody popupBody">A user with BUILDER or ROOFER Administrator Role can administer users, assign users to Roles, and change software configuration settings.</span> section of the documentation.</MadCapconditionalText></p>
+        <h2>Automated Rollup</h2>
+        <p>BUILDER automatically "rolls up" inventory, condition, and functionality information nightly. (For installations with U.S. Army Corps of Engineers support service, this begins at about 6:00 p.m.). Starting at the Section level, aggregated Section-level information in each Component is recorded for the Component; aggregated Component-level information is recorded for each System; aggregated System-level information is recorded for each Building, and so forth up the entire inventory tree.</p>
+        <div class="kt">
+            <h2>Manual Rollup</h2>
+            <p>You can manually initiate a rollup if you wish. It's a good idea to do so when: </p>
+            <ul>
+                <li>you have entered a large quantity of inventory into BUILDER; or </li>
+                <li>you believe that <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="ESMS-gloss.Term7" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">PRV<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Plant Replacement Value. For an inventory item above the Building level, this number will be the aggregate of the PRV of all Buildings included in that item.</span></a><span class="MCTextPopupBody popupBody">Plant Replacement Value. For an inventory item above the Building level, this number will be the aggregate of the PRV of all Buildings included in that item.</span> or <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm glossaryTermPopup MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup" glossTerm="ESMS-gloss.Term4" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">RSL<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Remaining Service Life</span></a><img class="MCHelpControl_Image_Icon" src="../../Skins/Default/Stylesheets/Images/transparent_16x11.gif" alt="Closed" data-mc-alt2="Open" style="width: 16;height: 11;" /><span class="MCTextPopupBody popupBody" style="font-weight: bold;">Remaining Service Life</span> information has changed since the last automated rollup and you wish to see the latest values</li>
+            </ul>
+        </div>
+        <h3>Roll Up a Building</h3>
+        <div class="kt">
+            <p>To roll up a Building,</p>
+            <ol>
+                <li value="1">Navigate to the Building in the inventory tree.</li>
+                <li value="2">Right-click it.</li>
+                <li value="3">Select "Rollup Building" from the list of options.</li>
+            </ol>
+        </div>
+        <p><span class="result" style="font-style: italic;">While the rollup is being performed, a popup window similar to the one below will be displayed onscreen:</span>
+        </p>
+        <p class="p_26" style="text-align: center;">
+            <img src="sites/inv-rollup-site-v3_3.png" alt="" />
+        </p>
+        <h3>Roll Up a Complex</h3>
+        <div class="kt">
+            <p>To roll up a Complex,</p>
+            <ol>
+                <li value="1">Navigate to the Complex in the inventory tree.</li>
+                <li value="2">Right-click it.</li>
+                <li value="3">Select "Rollup Complex" from the list of options.</li>
+            </ol>
+        </div>
+        <p><span class="result">While the rollup is being performed, a popup window similar to the one below will be displayed onscreen:</span>
+        </p>
+        <p class="p_26" style="text-align: center;">
+            <img src="sites/inv-rollup-site-v3_3.png" alt="" />
+        </p>
+        <h3>Roll Up a Site </h3>
+        <p class="indent"><span class="span_1" style="font-weight: bold;">Caution:</span> Rolling up an entire Site can take an extremely long time (sometimes hours). If you initiate this rollup and want to cancel it, the only way to do this is to activate the "X" at the upper right of your browser window to close the window. Then log back into BUILDER from another browser window.</p>
+        <div class="kt">
+            <p>To roll up a Site,</p>
+            <ol>
+                <li value="1">Navigate to the Site in the inventory tree.</li>
+                <li value="2">Right-click it.</li>
+                <li value="3">Select "Rollup Site" from the list of options.</li>
+            </ol>
+        </div>
+        <p><span class="result" style="font-style: italic;">While the rollup is being performed, a popup window similar to the one below will be displayed onscreen:</span>
+        </p>
+        <p class="p_26" style="text-align: center;">
+            <img src="sites/inv-rollup-site-v3_3.png" alt="" />
+        </p>
+        <h3>Full Rollup</h3>
+        <p>If you have <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="Primary.Term6" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Administrator<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>A user with Administrator Role can administer users, assign users to Roles, and change software configuration settings.</span></a><span class="MCTextPopupBody popupBody">A user with BUILDER or ROOFER Administrator Role can administer users, assign users to Roles, and change software configuration settings.</span> permission in BUILDER, you can initiate a manual rollup of the entire asset tree by selecting <span class="span_1" style="font-weight: bold;">Tools &gt; Administration &gt; Manual Condition Rollup</span> from the main menu. See the BUILDER Administration section of the documentation for instructions and screen shots.</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../Builder.htm#inventory/inv_about_inv_roll-up.htm">Open topic with navigation</a>
+        </p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../Default.htm#BUILDER/content/inventory/inv_about_inv_roll-up.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

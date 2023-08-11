@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Understanding Assessment Plans|ESMS-Workflow Editor" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>Add Scheme</title>
+        <link href="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/Title Pages/Current BUILDER Title Page/Current BUILDER Title Page_4A8B849E/Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body style="text-align: center;font-family: Arial;">
+        <h1 style="text-align: left;" MadCap:xrefTargetName="Add Scheme" MadCap:sourceTitle="Add Scheme"><a MadCap:generatedBookmark="TOC" name="Add Scheme"></a>
+            <MadCap:keyword term="Component:add" />
+            <MadCap:keyword term="Document Tag:Add" />Add Scheme</h1>
+        <h2 style="text-align: left;">Create and Name the Scheme</h2>
+        <p style="text-align: left;">To add a scheme,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">
+                <MadCap:keyword term="Component:edit" />On the Workflow editor menu bar, activate the <b>New Scheme</b> <img src="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/Title Pages/Current BUILDER Title Page/Current BUILDER Title Page_4A8B849E/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-new-scheme_25x24.png" style="width: 29px;height: 24px;" />button. <i>The "Create New Scheme" popup will appear.</i><p style="text-align: left;"><b>WARNING</b>: If you skip this step and just start dragging state boxes to the work area, you will not be able to save the scheme you build!</p></li>
+            <li style="text-align: left;" value="2">Enter desired scheme name in the <b>Name</b> field.</li>
+            <li style="text-align: left;" value="3">Activate <b>Create</b>. (Alternatively, activate the <b>Close</b> button to not add the scheme.)</li>
+        </ol>
+        <p style="text-align: left;">As soon as you have created a new scheme, you should see (1) a left-hand column with some boxes, and (2) a wider blank space to the right, which is the work area where you will place elements into a work flow diagram.</p>
+        <h2 style="text-align: left;">Add States and Transitions</h2>
+        <h3 style="text-align: left;">About States and Transitions</h3>
+        <p style="text-align: left;">The elements of a diagram are <i>states</i> and <i>transitions</i>, as defined below:</p>
+        <p style="text-align: left;">A scheme is comprised of <i>states</i> and <i>transitions</i>:</p>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;">A state represents the condition that the process is in at a specific time.</li>
+            <li style="text-align: left;">A transition defines how the process will move from one state to the next.</li>
+        </ul>
+        <p style="text-align: left;">A scheme may also make use of <i>parameters</i> to store variables that are global to the scheme.</p>
+        <p style="text-align: left;">In the Workflow editor, a scheme's states and transitions are presented as a diagram. The states appear as boxes in the diagram. The transitions are represented by lines connecting the boxes. For clarity, each state should be named; transition names are optional.</p>
+        <h3 style="text-align: left;">Add a State to the Diagram</h3>
+        <p style="text-align: left;">To add a state to the diagram (after properly creating and naming the diagram following the instructions in the previous section), drag one of the state boxes from the left-hand pane into the work area:</p>
+        <img src="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/Title Pages/Current BUILDER Title Page/Current BUILDER Title Page_4A8B849E/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Start-State-Finish.png" style="padding-top: 8px;padding-bottom: 8px;" />
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;">The green box represents the state that is the first state in the work flow.</li>
+            <li style="text-align: left;">A gray box represents a middle state.</li>
+            <li style="text-align: left;">The red box labeled "Finish" represents the state that is the last state in the work flow. To display as red, this box must be dragged into the work area. If a state is simply re-labeled as "Final," it will not change color in the diagram.</li>
+        </ul>
+        <p style="text-align: left;">
+            <MadCap:keyword term="Component:view" />
+            <MadCap:keyword term="Document:View" />To view or edit details about a state, activate the state box in the diagram and the corresponding "State" popup will appear with the details.</p>
+        <p style="text-align: left;">State details are fairly simple:</p>
+        <img src="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/Title Pages/Current BUILDER Title Page/Current BUILDER Title Page_4A8B849E/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Editor-Start-State-Screenshot.png" style="padding-top: 8px;padding-bottom: 8px;width: 614px;height: 214px;" />
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><b>Name</b> - Name of the state, which appears in the state box on the diagram. This can be changed.</li>
+            <li style="text-align: left;"><b>Initial / Final</b> - If the state is the first state in the work flow, the <b>Initial</b> checkbox should be marked; if the state is the last state in the work flow, the <b>Final</b> checkbox should be marked (this information is also indicated by colors in the diagram).</li>
+            <li style="text-align: left;"><b>Code Action</b> - The "Reset all approvals" code action allows an approval to be re-used for a subsequent transition without having to rename it. A "set X stage" code action creates a linking between the state and an assessment stage. Code actions are executed when the state is entered.</li>
+        </ul>
+        <p style="text-align: center;"><b>Note</b>: Only the <b>Close</b> button will show in the popup. Whatever the data is in the popup at the time you close it is what will be saved.</p>
+        <h3 style="text-align: left;">Add a Transition to the Diagram</h3>
+        <p style="text-align: left;">Once you've added at least two state boxes to the diagram area, you can add a transition between any two state boxes as follows:</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">Hover at the edge of the first state box until a pointing hand appears as the mouse position indicator.</li>
+            <li style="text-align: left;" value="2">Hold down the mouse button and drag from the originating state box towards the next one in the work flow sequence to create a transition, which will appear as a connecting line. When the two connected boxes appear with colored outlines around them, you know that the Workflow editor has recognized the connection that will be made when you release the mouse button.</li>
+            <li style="text-align: left;" value="3">Release the mouse button.</li>
+            <li style="text-align: left;" value="4">To start specifying properties for the transition, double-click on the line to open the "Transition" popup.</li>
+            <li style="text-align: left;" value="5"><b>Name (Optional)</b> - Enter a name for the transition.</li>
+            <li style="text-align: left;" value="6"><b>From State (Required)</b>
+                <MadCap:keyword term="Domain:Select" /> - Select from dropdown.</li>
+            <li style="text-align: left;" value="7"><b>To State (Required)</b> - Select from dropdown.</li>
+            <li style="text-align: left;" value="8"><b>Type (Required)</b> - Select from dropdown.</li>
+            <li style="text-align: left;" value="9">Additional Attributes - Additional attributes are described in the topic <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" MadCap:xrefTarget="Edit Scheme Transitions">Edit Scheme Transitionson page&#160;1</MadCap:xref>.</li>
+            <li style="text-align: left;" value="10">Close the transition popup.</li>
+        </ol>
+        <p style="text-align: left;"><b>Note</b>: Only a <b>Close</b> button will show in the popup. Whatever the data is in the popup at the time you close it is what will be saved.</p>
+        <ol MadCap:continue="true" style="font-family: Arial;">
+            <li style="text-align: left;" value="11"><b>IMPORTANT</b>: If you are finished or close to finished with designing the Workflow diagram, be sure to activate the Save icon button on the Workflow editor menu bar. The diagram will NOT automatically save when you exit.</li>
+        </ol>
+        <p style="text-align: left;">You can see more about transition details at <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" MadCap:xrefTarget="Edit Scheme Transitions">Edit Scheme Transitionson page&#160;1</MadCap:xref>.</p>
+        <h3 style="text-align: left;">Add a Self-Referencing Transition to the Diagram</h3>
+        <p style="text-align: left;">You can add a "transition" that doesn't actually progress from one state to another, but returns to its originating state. In this type of transition, the "From" and "To" states are the same.</p>
+        <p style="text-align: left;"><b>Why a self-referencing transition?</b> A self-referencing transition can be a useful tool for accumulating multiple approvals or other conditions that all need to be met before progressing to the next state.</p>
+        <p style="text-align: left;">To construct a self-referencing transition on the diagram,</p>
+        <ol style="font-family: Arial;text-align: center;">
+            <li style="text-align: left;" value="1">Hover at the edge of the state box until a pointing hand appears as the mouse position indicator.</li>
+            <li style="text-align: left;" value="2">Hold down the mouse button and drag outward from the box.</li>
+            <li style="text-align: left;" value="3">When a colored outline appears around the box, drag back to the box and release the mouse button. The "transition" should appear in the form of a roughly semicircular outline with an arrow at one end.</li>
+            <img src="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/Title Pages/Current BUILDER Title Page/Current BUILDER Title Page_4A8B849E/ESMS-WEB/ESMS-Workflow Editor/imgs/self-ref-trans-arrow.png" style="padding-top: 8px;padding-bottom: 8px;" />
+            <li style="text-align: left;" value="4">To start specifying properties for the transition, double-click on the line to open the "Transition" popup.</li>
+            <li style="text-align: left;" value="5"><b>Name</b> - Enter a name for the transition.</li>
+            <li style="text-align: left;" value="6"><b>From State</b> - Select from dropdown.</li>
+            <li style="text-align: left;" value="7"><b>To State</b> - Select the same state again. This action is what makes it a self-referencing transition.</li>
+            <li style="text-align: left;" value="8"><b>Type</b> - Select from dropdown.</li>
+        </ol>
+        <p style="text-align: left;">You can see more about transition details at <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" MadCap:xrefTarget="Edit Scheme Transitions">Edit Scheme Transitionson page&#160;1</MadCap:xref>.</p>
+        <h3 style="text-align: left;">
+            <MadCap:keyword term="Component:delete" />
+            <MadCap:keyword term="Team Member:Delete" />Delete a State or Transition from the Diagram</h3>
+        <p style="text-align: left;">To delete a state from the diagram, see instructions in the topic <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" MadCap:xrefTarget="Edit Scheme States">Edit Scheme Stateson page&#160;1</MadCap:xref>.</p>
+        <p style="text-align: left;">To delete a transition from the diagram, see instructions in the topic <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" MadCap:xrefTarget="Edit Scheme Transitions">Edit Scheme Transitionson page&#160;1</MadCap:xref>.</p>
+        <h2 style="text-align: left;">Save and Exit</h2>
+        <p style="text-align: left;">Diagram creation does not auto-save. (This allows more freedom of creative experimentation.) When you are at a design point that you are happy with, and again before exiting, make sure to activate the <b>Save</b> icon button on the Workflow editor menu bar.</p>
+        <p style="text-align: left;">
+            <MadCap:keyword term="Dashboard" />To exit the Workflow editor, return to the Dashboard via the Interagency ESMS logo.</p>
+        <h2 style="text-align: left;">Related Topics</h2>
+        <ul style="font-family: Arial;font-size: 12pt;">
+            <li style="font-size: 17px;text-align: left;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" MadCap:xrefTarget="View Scheme">View Schemeon page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;text-align: left;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" MadCap:xrefTarget="Edit Scheme States">Edit Scheme Stateson page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;text-align: left;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" MadCap:xrefTarget="Edit Scheme Transitions">Edit Scheme Transitionson page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;text-align: left;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" MadCap:xrefTarget="Delete Scheme">Delete Schemeon page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;text-align: left;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" MadCap:xrefTarget="Understanding the Workflow Editor">Understanding the Workflow Editor on page&#160;1</MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

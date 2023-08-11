@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="defaultSkin left-layout _Skins_DefaultHTML5"
+  FileTitle="BUILDER Online Help"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Builder.htm" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Images/transparent.gif" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/jquery.offcanvas.js" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Builder.htm" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Images/transparent.gif" />
+    <Link
+      Url="Content/BUILDER/Content/builder/Resources/Scripts/jquery.offcanvas.js" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Content/builder/Skins/Default/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h3>Progress to the Next Distress or Close</h3>
+        <p>
+            <MadCap:keyword term="Layout:screen" />When you complete entries for a distress, activate one of the following buttons at the bottom of the popup screen:</p>
+        <ol style="list-style-type: lower-alpha;">
+            <li><span class="span_1"><MadCap:keyword term="Document Tag:Add" />Add</span>. Activate the <span class="span_1">Add</span> button if there are still more distresses to be entered. The "Visual Roof Inspection Input" popup window will re-appear with an incremented ID number.</li>
+            <li><span class="span_1">Add &amp; Close</span>. If you have entered the last distress, select the <span class="span_1">Add &amp; Close</span> button instead.</li>
+            <li><span class="span_1">Cancel</span>. To close the popup window without adding the entry to the Distress table, activate the <span class="span_1">Cancel</span> button.</li>
+        </ol>
+    </body>
+</html>

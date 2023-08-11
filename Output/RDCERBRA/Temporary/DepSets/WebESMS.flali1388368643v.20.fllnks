@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/ESMS-Documents-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/ESMS-Work-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Help-Home/Intro-ESMS-W.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-About.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

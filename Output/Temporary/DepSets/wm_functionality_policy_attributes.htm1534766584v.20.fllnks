@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="About Functionality Policy Attributes"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_functionality_policy_attributes.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_condition_policy_attributes.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/inventory/systems,_components,_and_sections/systems/inv_builder_systems-table.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_add_condition_policy.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/pcy-material-attribute-ss-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_add_functionality_policy.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_functionality_policy_attributes.htm#Combining" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_condition_policy_attributes.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/inventory/systems,_components,_and_sections/systems/inv_builder_systems-table.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_functionality_policy_attributes.htm#BUC" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_add_condition_policy.htm#Policy2" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_add_condition_policy.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/pcy-material-attribute-ss-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_add_functionality_policy.htm#Policy2" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_add_functionality_policy.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/2_policies/wm_functionality_policy_attributes.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor878" />
+    <Anchor
+      Name="kanchor879" />
+    <Anchor
+      Name="kanchor880" />
+    <Anchor
+      Name="kanchor881" />
+    <Anchor
+      Name="kanchor882" />
+    <Anchor
+      Name="kanchor883" />
+    <Anchor
+      Name="BUC" />
+    <Anchor
+      Name="kanchor884" />
+    <Anchor
+      Name="kanchor885" />
+    <Anchor
+      Name="kanchor886" />
+    <Anchor
+      Name="kanchor887" />
+    <Anchor
+      Name="kanchor888" />
+    <Anchor
+      Name="kanchor889" />
+    <Anchor
+      Name="kanchor890" />
+    <Anchor
+      Name="kanchor891" />
+    <Anchor
+      Name="kanchor892" />
+    <Anchor
+      Name="kanchor893" />
+    <Anchor
+      Name="kanchor894" />
+    <Anchor
+      Name="kanchor895" />
+    <Anchor
+      Name="kanchor896" />
+    <Anchor
+      Name="kanchor897" />
+    <Anchor
+      Name="kanchor898" />
+    <Anchor
+      Name="kanchor899" />
+    <Anchor
+      Name="kanchor900" />
+    <Anchor
+      Name="kanchor901" />
+    <Anchor
+      Name="kanchor902" />
+    <Anchor
+      Name="kanchor903" />
+    <Anchor
+      Name="FacilityCatCode" />
+    <Anchor
+      Name="kanchor904" />
+    <Anchor
+      Name="kanchor905" />
+    <Anchor
+      Name="kanchor906" />
+    <Anchor
+      Name="kanchor907" />
+    <Anchor
+      Name="kanchor908" />
+    <Anchor
+      Name="kanchor909" />
+    <Anchor
+      Name="kanchor910" />
+    <Anchor
+      Name="FacilityUse" />
+    <Anchor
+      Name="kanchor911" />
+    <Anchor
+      Name="kanchor912" />
+    <Anchor
+      Name="kanchor913" />
+    <Anchor
+      Name="kanchor914" />
+    <Anchor
+      Name="kanchor915" />
+    <Anchor
+      Name="kanchor916" />
+    <Anchor
+      Name="kanchor917" />
+    <Anchor
+      Name="System" />
+    <Anchor
+      Name="kanchor918" />
+    <Anchor
+      Name="kanchor919" />
+    <Anchor
+      Name="kanchor920" />
+    <Anchor
+      Name="kanchor921" />
+    <Anchor
+      Name="Combining" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="SystemVersion" Comment="" Definition="Some text">3.1</Variable>
+</CatapultVariableSet>

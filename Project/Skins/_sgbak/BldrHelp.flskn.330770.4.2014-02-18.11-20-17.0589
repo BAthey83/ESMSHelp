@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="1"
+  Title="EMS Enterprise Framework Help"
+  AutoSyncTOC="false"
+  Tabs="TOC,Index,Search,Glossary,BrowseSequences"
+  Top="0"
+  Left="0"
+  Width="937"
+  Height="648"
+  DefaultTab="TOC"
+  Anchors="Right,Top"
+  BrowserSetup="Resizable"
+  NavigationLinkTop="true"
+  EnableAboutBox="true">
+  <!-- saved from url=(0014)about:internet -->
+  <HtmlHelpOptions
+    ShowMenuBar="false"
+    TopmostWindowStyle="false"
+    AutoShowNavigationPane="false"
+    EnableButtonCaptions="false"
+    AdvancedSearch="false"
+    NavigationPaneWidth="0"
+    Buttons="Hide,Back,Forward,Print"
+    HideNavigationOnStartup="false" />
+  <Toc
+    LinesBetweenItems="true"
+    LinesFromRoot="true"
+    SingleClick="false"
+    PlusMinusSquares="true"
+    AlwaysShowSelection="false"
+    UseFolderIcons="false"
+    ImageListWidth="16"
+    BinaryStorage="false" />
+  <WebHelpOptions
+    HideNavigationOnStartup="false" />
+  <Stylesheet />
+</CatapultSkin>

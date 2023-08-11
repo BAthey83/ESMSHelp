@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="View Work Items"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/resources/screens/mmenu-work-plan-rfr-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_ranking_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_funding_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_using_the_report_viewer.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/work_management/work_items/view_work_items/wm_fy-dropdown-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/roofer/work_management/work_items/view_work_items/work_plan_item_details.jpg" />
+    <Link
+      Url="Content/BUILDER/content/roofer/work_management/work_items/rwm_add_work_item_2017.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/resources/screens/mmenu-work-plan-rfr-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_ranking_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_funding_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_using_the_report_viewer.htm" />
+    <Link
+      Url="Content/BUILDER/content/roofer/work_management/work_items/view_work_items/wm_fy-dropdown-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/roofer/work_management/work_items/view_work_items/work_plan_item_details.jpg" />
+    <Link
+      Url="Content/BUILDER/content/roofer/work_management/work_items/rwm_add_work_item_2017.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#roofer/work_management/work_items/view_work_items/rwm_viewing_work_items.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor723" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

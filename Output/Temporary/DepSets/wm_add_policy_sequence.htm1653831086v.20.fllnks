@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Add a Policy Sequence"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/work_config_policy_seq.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/pcyseq-pop-new-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/policy_seq_window.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_add_policy_sequence.htm" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gif help images/close.gif" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gif help images/save.gif" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/recognizing_the_common_icons/bkp/new_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/delete_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_edit_policy_sequence.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_delete_policy_sequence.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/work_config_policy_seq.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/pcyseq-pop-new-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/policy_seq_window.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_add_policy_sequence.htm#Required" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gif help images/close.gif" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gif help images/save.gif" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/recognizing_the_common_icons/bkp/new_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/delete_icon.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_edit_policy_sequence.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_delete_policy_sequence.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/3_policy-sequences/wm_add_policy_sequence.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor591" />
+    <Anchor
+      Name="Required" />
+    <Anchor
+      Name="kanchor592" />
+    <Anchor
+      Name="kanchor593" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

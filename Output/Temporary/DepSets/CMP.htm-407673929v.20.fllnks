@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/CMP.htm" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/down-caret.PNG" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/up-caret.PNG" />
+    <Link
+      Url="../All-Desk/yes-ck.png" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/close-uniformat.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/CMP.htm#Basic" />
+    <Link
+      Url="Content/CMP.htm#Classifi" />
+    <Link
+      Url="Content/CMP.htm#System" />
+    <Link
+      Url="Content/CMP.htm#User" />
+    <Link
+      Url="Content/CMP.htm#Groups" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/down-caret.PNG" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/up-caret.PNG" />
+    <Link
+      Url="../All-Desk/yes-ck.png" />
+    <Link
+      Url="Content/FIELD_APP/z-popup-task-table/TT-Assets/INV-imgs-Desk/close-uniformat.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Basic" />
+    <Anchor
+      Name="Classifi" />
+    <Anchor
+      Name="System" />
+    <Anchor
+      Name="User" />
+    <Anchor
+      Name="Groups" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Asset Tree:expand"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="51" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="76" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

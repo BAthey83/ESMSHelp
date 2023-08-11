@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Add a Functional Area to a Building"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/performing_fa/fa_performing_second_tier_functionality_assessments.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/circle_infunctionality_adding.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/functional_assessment_2ab.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/fa_adding_functional_areas_to_a_building.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/sections_1.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_inv_to_fa/fa_adding_inventory_to_functional_areas.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/performing_fa/fa_performing_second_tier_functionality_assessments.htm" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/circle_infunctionality_adding.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/functional_assessment_2ab.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/fa_adding_functional_areas_to_a_building.htm#Entering" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/sections_1.png" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_functional_areas/fa_adding_functional_areas_to_a_building.htm#Add" />
+    <Link
+      Url="Content/BUILDER/content/functionality_assessment/adding_inv_to_fa/fa_adding_inventory_to_functional_areas.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#functionality_assessment/adding_functional_areas/fa_adding_functional_areas_to_a_building.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Function" />
+    <Anchor
+      Name="Add" />
+    <Anchor
+      Name="Entering" />
+    <Anchor
+      Name="kanchor547" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

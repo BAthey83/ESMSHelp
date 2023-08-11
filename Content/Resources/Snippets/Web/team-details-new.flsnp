@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:keyword term="Assessment:Details" />This is what the Details of a newly created team will look like before any changes:</p>
+        <p class="p_26">
+            <img src="../../../ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team.PNG" alt="screenshot" width="800" height="600" />
+        </p>
+    </body>
+</html>

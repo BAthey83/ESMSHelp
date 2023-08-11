@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/DeskOnlineHelp-toc.fltoc"
+  ConditionTagExpression="include[Primary.ScreenOnly] exclude[Primary.34 or Primary.BREDXBuilder or Primary.EXCLUDE or &quot;Primary.PDF Copy Only&quot; or Primary.PrintOnly] "
+  MasterStylesheet="/Content/Resources/Styles/ESMS-Style.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/ESMS-gloss.flglo" />
+  </Glossaries>
+</CatapultTarget>

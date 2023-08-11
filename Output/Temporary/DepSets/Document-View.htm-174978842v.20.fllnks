@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-View.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/doc-search-blank.PNG" />
+    <Link
+      Url="Content/Resources/Snippets/Web/multi-page-doc-search-result.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/doc-search-clear.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/view-icon-sample.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/doc-download.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/bulk-edit-open.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-View.htm#Search" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-View.htm#View" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-View.htm#View2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/Document-View.htm#Download" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/doc-search-blank.PNG" />
+    <Link
+      Url="Content/Resources/Snippets/Web/multi-page-doc-search-result.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/doc-search-clear.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/view-icon-sample.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/doc-download.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/bulk-edit-open.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Search" />
+    <Anchor
+      Name="Tag" />
+    <Anchor
+      Name="View" />
+    <Anchor
+      Name="View2" />
+    <Anchor
+      Name="Download" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Document:Search For"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Search:Document"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Find:Document"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Add:Tag"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="92" />
+    <IndexCacheEntry
+      Term="Document:Download"
+      Conditions=""
+      LocalConditions=""
+      Position="92" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="102" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

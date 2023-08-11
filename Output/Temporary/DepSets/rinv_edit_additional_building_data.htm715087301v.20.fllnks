@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Additional Building Data"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/additional_information.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/r-icons/new2.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/r-icons/delete2.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/r-dimensions-table-open-3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/r-dimension-table-example-3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/assessment_history4.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/work_management/rwm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/work_item_history.png" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/recognizing_the_common_icons/bkp/new_icon.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/snippets/r-snippets/snippet-images/imgr-attachment-add-btn-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/inventory/inv-add-image-popup.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/additional_information.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/r-icons/new2.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/r-icons/delete2.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/r-dimensions-table-open-3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/r-dimension-table-example-3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/assessment_history4.png" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/work_management/rwm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Content/roofer/inventory/4_buildings/work_item_history.png" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/recognizing_the_common_icons/bkp/new_icon.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/snippets/r-snippets/snippet-images/imgr-attachment-add-btn-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/inventory/inv-add-image-popup.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#roofer/inventory/4_buildings/rinv_edit_additional_building_data.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor84" />
+    <Anchor
+      Name="Arch_Contract" />
+    <Anchor
+      Name="Dimensions" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/Content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

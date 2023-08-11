@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Edit a Condition Policy"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_edit_condition_policy.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/work_config_policies.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/tree-showing-condition-functionality-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/pcy-ci-selected-in-tree-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/standards,_policies,_and_policy_sequences/policy_1stattrib_2ndattrib.png" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/gif help images/close.gif" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/gif help images/save.gif" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/recognizing_the_common_icons/bkp/new_icon.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/icons/delete_icon.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_add_condition_policy.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_condition_policy_attributes.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/1_standards/std-tool-return-3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_delete_condition_policy.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/Content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_edit_condition_policy.htm#Edit" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/work_config_policies.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/tree-showing-condition-functionality-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/pcy-ci-selected-in-tree-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/standards,_policies,_and_policy_sequences/policy_1stattrib_2ndattrib.png" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/gif help images/close.gif" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/gif help images/save.gif" />
+    <Link
+      Url="Content/BUILDER/Content/getting_started/recognizing_the_common_icons/bkp/new_icon.png" />
+    <Link
+      Url="Content/BUILDER/Content/resources/icons/delete_icon.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_add_condition_policy.htm#Select" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_add_condition_policy.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_condition_policy_attributes.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_condition_policy_attributes.htm#Combining" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/1_standards/std-tool-return-3_3.png" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/2_policies/wm_delete_condition_policy.htm" />
+    <Link
+      Url="Content/BUILDER/Content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/2_policies/wm_edit_condition_policy.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor706" />
+    <Anchor
+      Name="Edit" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/Content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>SMS</Term>
+    </Terms>
+    <Definition
+      Link="">Sustainment Management System</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>EMS</Term>
+    </Terms>
+    <Definition
+      Link="">Engineered Management System</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>SRM</Term>
+    </Terms>
+    <Definition
+      Link="">Sustainment, Restoration, &amp; Modernization</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>BCI</Term>
+    </Terms>
+    <Definition
+      Link="">Building Condition Index - a condition rating for the overall building.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>CSCI</Term>
+    </Terms>
+    <Definition
+      Link="">Component-Section Condition Index - a condition rating for the component section</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>BCCI</Term>
+    </Terms>
+    <Definition
+      Link="">Building Component Condition Index</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>SCI</Term>
+    </Terms>
+    <Definition
+      Link="">System Condition Index - a condition rating for the building system</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>SUCI</Term>
+    </Terms>
+    <Definition
+      Link="">Sample Unit Condition Index</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>CCI</Term>
+    </Terms>
+    <Definition
+      Link="">Coating Condition Index</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>CI</Term>
+    </Terms>
+    <Definition
+      Link="">Condition Index</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>RML</Term>
+    </Terms>
+    <Definition
+      Link="">Remaining Maintenance Life</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>RSL</Term>
+    </Terms>
+    <Definition
+      Link="">Remaining Service Life</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>MDI</Term>
+    </Terms>
+    <Definition
+      Link="">Mission Dependency Index</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>ERDC-CERL</Term>
+    </Terms>
+    <Definition
+      Link="">U.S. Army Engineer Research and Development Center, Construction Engineering Research Laboratory</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>PM</Term>
+    </Terms>
+    <Definition
+      Link="">Preventive Maintenance</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>CM</Term>
+    </Terms>
+    <Definition
+      Link="">Corrective Maintenance</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>KBCSI</Term>
+    </Terms>
+    <Definition
+      Link="">Knowledge-Based Condition Survey Inspection</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>PMI</Term>
+    </Terms>
+    <Definition
+      Link="">Preventative Maintenance Inspection</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>BRED</Term>
+    </Terms>
+    <Definition
+      Link="">BUILDER Remote Entry Database</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>ESC</Term>
+    </Terms>
+    <Definition
+      Link="">Emergency Service Calls</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>BUR</Term>
+    </Terms>
+    <Definition
+      Link="">Built-up Roofing</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>SR</Term>
+    </Terms>
+    <Definition
+      Link="">Shingle Roofing</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>SP</Term>
+    </Terms>
+    <Definition
+      Link="">Single Ply</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>N/A</Term>
+    </Terms>
+    <Definition
+      Link="">Not Applicable</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>BFI</Term>
+    </Terms>
+    <Definition
+      Link="">Building Functionality Index</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>KBI</Term>
+    </Terms>
+    <Definition
+      Link="">Knowledge-Based Inspection</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>M&amp;R</Term>
+    </Terms>
+    <Definition
+      Link="">Maintenance and Repair</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>FCA</Term>
+    </Terms>
+    <Definition
+      Link="">Facility Condition Assessment</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>SCCI</Term>
+    </Terms>
+    <Definition
+      Link="">System Component Condition Index - a condition rating for the system component</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>M&amp;R </Term>
+    </Terms>
+    <Definition>Maintenance and Repairs</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

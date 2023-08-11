@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Prioritization Example"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/prioritization_02.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/bullseye2.jpg" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/transparent.gif" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/measure.jpg" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/wm_creating_a_work_prioritization_scheme.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/prioritization_15.jpg" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/prioritization_15_wts_n_pts.jpg" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/prioritization_02.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/bullseye2.jpg" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/transparent.gif" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/measure.jpg" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/wm_creating_a_work_prioritization_scheme.htm#Using_Category_Splits" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/prioritization_15.jpg" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/work_prioritization/prioritization_15_wts_n_pts.jpg" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/work_items/work_prioritization/wm_prioritization_example.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor465" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

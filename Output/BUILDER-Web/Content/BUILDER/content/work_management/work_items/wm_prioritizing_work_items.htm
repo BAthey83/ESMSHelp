@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-medium="non-print" data-mc-toc-path="Inventory|Condition Assessments|Work Configuration|Work Planning|[%=System.LinkedTitle%]|Prioritizing Work Items" data-mc-ignored-words="Securement;sustainment;Uniformat;recoating;FP;Multi;multi;Rollup;rollup;UFC;FI;FCI;PRV;BCCI;CSCI;SMS;BCI;BFI;BPI;ISR;MDI;RSL;RCI;CCI;NFADB;IFS97;ICI;ERDC;CERL;ACF;CERL's;outyear;MRPM;interdependencies;RPL;AHP" data-mc-check_list="Ran Smart Index" data-mc-status="Complete" xml:lang="en-us">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>Prioritize Work Items in a Work Plan</title>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <link href="../../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="../../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <div class="kt">
+            <h1><a name="kanchor479"></a>Prioritize Work Items in a Work Plan</h1>
+            <hr width="100%" size="0" align="center" />
+            <p>This topic shows how to prioritize Section-level work items, and suggests when to prioritize. It also explains how prioritizing can be used to calibrate a prioritization scheme. </p>
+            <p>After you prioritize, you can <a href="wm_ranking_work_items.htm" class="MCXref xref">View Work Item Rankings</a>.</p>
+        </div>
+        <p class="indent"><span class="span_1">Note:</span> Prioritizing work items in your wok plan can only be done if a <MadCapconditionalText data-mc-conditions="Primary.ScreenOnly"><a href="../5_prioritization_schemes/wm_about_prioritization_schemes.htm">prioritization scheme</a></MadCapconditionalText> that applies to the area of the tree you are working in has been established as part of <MadCapconditionalText data-mc-conditions="Primary.ScreenOnly"><a href="../standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm">work configuration</a></MadCapconditionalText>.</p>
+        <hr width="100%" size="0" align="center" />
+        <p>If a <a href="../5_prioritization_schemes/wm_about_prioritization_schemes.htm" class="a_1" data-mc-conditions="Primary.ScreenOnly">prioritization scheme</a> has been created for the area of the tree you are working in, you can prioritize the work items in your work plan using the <span class="span_1">Prioritize</span> button on the toolbar of the work plan screen. This will generate a <span class="new-term">priority score</span> for each work item or work project in the plan, with the exception of Building-level work items.</p>
+        <h2>Building-Level Work Items</h2>
+        <p>Building-level work items, such as a Building-level Modernization, do not participate in prioritization; their scores will remain at zero. However, you can cause a Building-level work item to be completed in Scenarios by marking it "Must do as planned" and providing a fund source with a criteria the work item can satisfy.</p>
+        <p class="indent"><span class="span_1">Note:</span> Scenarios capability is provided with the <span class="mc-variable Primary.Product variable">BUILDER</span> module only.</p>
+        <h2>Section-Level work Items</h2>
+        <p>To prioritize Section-level work items,</p>
+        <ol>
+            <li value="1">With the <span class="span_1"><a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open MCTextPopupHotSpot_ #text">Work Plan   <span class="MCTextPopupBody popupBody">  A multi-year collection of work items and/or projects planned for a Site or Organization.</span></a> Items</span> tab selected, activate <span class="span_1">Prioritize</span> on the toolbar. </li>
+        </ol>
+        <p class="p_26" style="text-align: center;">
+            <img src="viewing_work_items/prioritize_downward_arrrow.png" alt="" />
+        </p>
+        <p>&#160;</p>
+        <p class="indent"><span class="result">A popup warning box will appear, stating that all current work item scores from your work plan for the selected fiscal year will be reset if you continue.</span>
+        </p>
+        <p>&#160;</p>
+        <p class="p_26" style="text-align: center;">
+            <img src="wkitem-prioritize-pop.png" alt="" />
+        </p>
+        <ol start="2">
+            <li value="2"><span class="span_1">IMPORTANT:</span> Select the desired fiscal year in the "Prioritize Work Items for" field (see screenshot above).</li>
+            <li value="3">Activate <span class="span_1">Proceed</span> on the popup toolbar if you still wish to delete the current scores for the for Section-level work items and recompute new prioritization scores. The prioritization scores will be computed using the prioritization scheme selected in the Reference Settings area at the Site or Organization's <span class="span_1">General Information</span> tab. (Alternatively, activate the <span class="span_1">Cancel</span> button if you do not wish to perform these actions; you will be returned to the work plan.)</li>
+        </ol>
+        <div class="kt">
+            <p><span class="span_1">Result:</span>
+            </p>
+            <p>After a priority score has been computed for each work item, all work items will be shown in the work plan ranked from highest score to lowest. Project priority scores are computed by averaging the priority scores of the work items in the project, weighted by cost. </p>
+        </div>
+        <h2>Projects</h2>
+        <p>Project priority scores are computed by averaging the priority scores of the work items in the project, weighted by cost. </p>
+        <h2>When to Prioritize </h2>
+        <p>You can prioritize the work plan as often as you wish. Listed below are situations where prioritizing is recommended.</p>
+        <h3>When Adding New Work Items</h3>
+        <p>If you add new work items, you should re-prioritize to include the new items. </p>
+        <h3>To Calibrate a Prioritization Scheme</h3>
+        <p>You may also want to evaluate a prioritized work plan in order to calibrate the weights and points you have assigned in a particular prioritization scheme. To calibrate,</p>
+        <ol>
+            <li value="1">Prioritize the work plan.</li>
+            <li value="2">Consider the order in which work items have been ranked, and their scores.</li>
+            <li value="3">When you see ordering discrepancies or score differences from your expert judgment, this might allow you to identify measures that should carry more relative weight, or measure values that warrant higher points such that the order of the work items will come out correct.</li>
+            <li value="4">Adjust measures and re-prioritize so that the order of the work items is acceptable. </li>
+        </ol>
+        <p>The goal of a prioritization scheme, which is established as part of Work Configuration, is to rank work items by algorithmic calculation into the same order that expert facility managers at your agency would rank them by following sound engineering principles.</p>
+        <h2>Related Links</h2>
+        <p>To learn about grouping work items into projects, start with the topic <a href="../work_projects/about_work_project.htm" class="MCXref xref">About Work Projects</a>. Or, for information about work plans, start with the topic <a href="../work_plans/wm_about_work_plan.htm" class="MCXref xref">About Work Plans</a>.</p>
+        <h3>Work Item Tasks</h3>
+        <ul style="list-style-type: none;" class="toptight">
+            <li><a href="view_work_item.htm" class="MCXref xref">View a Work Item</a>
+            </li>
+            <li><a href="add_work_item.htm" class="MCXref xref">Add a Work Item</a>
+            </li>
+            <li><a href="edit_work_item.htm" class="MCXref xref">Edit a Work Item </a>
+            </li>
+            <li><a href="section-level_work_item/section-level-work-item-data.htm" class="MCXref xref">Section-Level Work Item Data</a>
+            </li>
+            <li><a href="building-level_work_item/building-level_work_item_data.htm" class="MCXref xref">Building-Level Work Item Data </a>
+            </li>
+            <li><a href="wm_funding_work_items.htm" class="MCXref xref">Fund Work Items</a>
+            </li>
+            <li><a href="wm_ranking_work_items.htm" class="MCXref xref">View Work Item Rankings</a>
+            </li>
+            <li><a href="export_work_item.htm" class="MCXref xref">Export Work Items</a>
+            </li>
+            <li><a href="delete_work_item.htm" class="MCXref xref">Delete a Work Item</a>
+            </li>
+        </ul>
+        <div class="kt">
+            <h3>Instructional Links</h3>
+            <ul style="list-style-type: none;" class="toptight">
+                <li><a href="about_work_item.htm" class="MCXref xref">About Work Items</a>
+                </li>
+                <li><a href="wm_work_item_cost_analysis.htm" class="MCXref xref">About Work Item Cost Analysis</a>
+                </li>
+                <li><a href="../wm_work_planning_overview.htm" class="MCXref xref">Work Planning Overview</a>
+                </li>
+            </ul>
+        </div>
+        <p>&#160;</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Builder.htm#work_management/work_items/wm_prioritizing_work_items.htm">Open topic with navigation</a>
+        </p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../../Default.htm#BUILDER/content/work_management/work_items/wm_prioritizing_work_items.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

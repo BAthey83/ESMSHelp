@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/diagonal_lines.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/diagonal_lines.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/loading-32px.gif" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/login-dialog-icon.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/login-dialog-icon.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/close.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/new-indicator.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/new-indicator.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/book.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/book.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/book-open.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/book-open.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/topic.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/topic.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/index-collapsed.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/index-collapsed.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/index-expanded.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/index-expanded.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/index.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/index.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/magnifying_glass.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/magnifying_glass.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/RatingStars.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Resources/Scripts/PIE-no-motw.htc" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/arrow-down.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/arrow-down.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/arrow-up.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/arrow-up.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/icon-user-light-gray.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/icon-user-light-gray.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/browseActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/browseActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/communityActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/communityActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/glossaryActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/glossaryActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/indexActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/indexActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/tocActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/tocActive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/browseInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/browseInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/communityInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/communityInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/glossaryInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/glossaryInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/indexInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/indexInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Images/tocInactive.png" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Skins/Default/Stylesheets/Images/tocInactive.png" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

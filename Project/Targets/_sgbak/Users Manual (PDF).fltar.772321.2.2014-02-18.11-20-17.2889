@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target 1 "
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/BuilderTOC.fltoc">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <PDF
+    ShowUsedBookmarks="false" />
+  <Destinations> </Destinations>
+</CatapultTarget>

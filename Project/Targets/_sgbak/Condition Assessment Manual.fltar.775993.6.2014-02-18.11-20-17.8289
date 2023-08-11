@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="Test on Remote Machine 11-27"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Condition Assessment Manual TOC.fltoc"
+  PatchHeadingLevels="true">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <PDF
+    DownsampleImages="true" />
+  <DocumentProperties
+    Title="BUILDER Condition Assessment Manual"
+    Author="Lance Marrano" />
+  <Glossaries>
+  </Glossaries>
+</CatapultTarget>

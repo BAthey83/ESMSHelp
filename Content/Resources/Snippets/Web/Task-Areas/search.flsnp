@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Layout:screen" />At the Inventory screen, you can search for real property assets, assessment plans, and work items that meet your search criteria. The inventory process is driven by</p>
+        <ul>
+            <li style="font-family: Arial;">filters (selected in a context-sensitive popup)</li>
+            <li style="font-family: Arial;">your search term (typed in the field on the main menu bar).</li>
+        </ul>
+        <p style="font-family: Arial;">Results will show dynamically in the content area of the Inventory page.</p>
+        <p style="font-family: Arial;">Starting from the Inventory page, you can also navigate to pages showing detailed information about assessment plans, work items, and individual assets.</p>
+        <p style="font-family: Arial;">For more detail about the Inventory screen, see  and .</p>
+    </body>
+</html>

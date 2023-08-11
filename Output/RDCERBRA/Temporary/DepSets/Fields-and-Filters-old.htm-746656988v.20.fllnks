@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/fields-example-WORK-1orig.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/fields-btn-red.png" />
+    <Link
+      Url="../Resources/Snippets/Web/warn-apply-fields.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-facilities.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-groups.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-components.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-assessments.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-work.PNG" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/fields-example-WORK-1orig.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/fields-btn-red.png" />
+    <Link
+      Url="../Resources/Snippets/Web/warn-apply-fields.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-facilities.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-groups.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-components.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-assessments.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Search/imgs/filter-work.PNG" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Search Results:Configure"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Fields:Configure search results using fields"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Navigation Pane:configure"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Fields:Open popup"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Search Results:Sort"
+      Conditions=""
+      LocalConditions=""
+      Position="40" />
+    <IndexCacheEntry
+      Term="Fields:Close popup"
+      Conditions=""
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Search:Facilities"
+      Conditions=""
+      LocalConditions=""
+      Position="76" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="78" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="80" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

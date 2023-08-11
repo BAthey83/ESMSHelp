@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="How To Navigate BUILDER™ 3.6"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="This topic describes these areas on the BUILDER screen: &quot;main menu&quot; &quot;main toolbar&quot; &quot;navigation tree&quot; &quot;navigation ribbon&quot; &quot;content area toolbar&quot; content area&quot; and &quot;user links&quot;. It introduces the &quot;inventory tree&quot; &quot;condition tree&quot; and &quot;functionality tree&quot;.">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/main_screen_all.png" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gs_navigating_builder.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/administration/tools_user_preferences.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/1_standards/wm_about_standards.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_about_policies.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/4_fci_policies/wm_about_fci_policies.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/6_funding/wm_about_funding.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/add_work_item.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/about_scenario_mgt.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/scenario_visualization.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_selecting_a_report.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_generating_a_report.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/rpt_export_reports.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/import/import_from_bred/tools_importing_data_from_builderred_to_builder.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/infl-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/sl-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/export/tools_unlock_by_user.htm" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/inventory_navigation_tree.png" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/img-select-default-view-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/general_information_of_section2.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/main_screen_all.png" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gs_navigating_builder.htm#User" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gs_navigating_builder.htm#Main" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gs_navigating_builder.htm#Navigati2" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gs_navigating_builder.htm#Content" />
+    <Link
+      Url="Content/BUILDER/content/tools/administration/tools_user_preferences.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/1_standards/wm_about_standards.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/2_policies/wm_about_policies.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/3_policy-sequences/wm_about_policy_sequences.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/4_fci_policies/wm_about_fci_policies.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/5_prioritization_schemes/wm_about_prioritization_schemes.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/6_funding/wm_about_funding.htm" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/add_work_item.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/about_scenario_mgt.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/scenario_visualization.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_selecting_a_report.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/tools_generating_a_report.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/reports/rpt_export_reports.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/import/import_from_bred/tools_importing_data_from_builderred_to_builder.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/import/import_from_bred/tools_importing_data_from_builderred_to_builder.htm#ImgArchive" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cost-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/infl-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/sl-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/tools/library/cii-ref-about.htm" />
+    <Link
+      Url="Content/BUILDER/content/export/tools_unlock_by_user.htm" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/gs_navigating_builder.htm#Navigati" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/inventory_navigation_tree.png" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/img-select-default-view-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/content/getting_started/general_information_of_section2.png" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#getting_started/gs_navigating_builder.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor863" />
+    <Anchor
+      Name="kanchor864" />
+    <Anchor
+      Name="User" />
+    <Anchor
+      Name="kanchor865" />
+    <Anchor
+      Name="Main" />
+    <Anchor
+      Name="kanchor866" />
+    <Anchor
+      Name="Navigati2" />
+    <Anchor
+      Name="kanchor867" />
+    <Anchor
+      Name="Navigati" />
+    <Anchor
+      Name="kanchor868" />
+    <Anchor
+      Name="Content" />
+    <Anchor
+      Name="kanchor869" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

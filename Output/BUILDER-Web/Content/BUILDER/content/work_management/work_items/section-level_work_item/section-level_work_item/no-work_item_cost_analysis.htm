@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-medium="non-print" data-mc-toc-path="ROOFER|Work Planning|Creating and Grouping Work Items" data-mc-ignored-words="Securement;sustainment;Uniformat;recoating;FP;Multi;multi;Rollup;rollup;UFC;FI;FCI;PRV;BCCI;CSCI;SMS;BCI;BFI;BPI;ISR;MDI;RSL;RCI;CCI;NFADB;IFS97;ICI;ERDC;CERL;ACF;CERL's;outyear;MRPM;interdependencies;RPL;AHP" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" data-mc-source-document="C:\SourceControl\Core\ESMS.Help\Content\BUILDER\content\work_management\work_items\section-level_work_item\no-work_item_cost_analysis.htm">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>Work Item Cost Analysis</title>
+        <script src="../../../../Resources/Scripts/jquery.min.js" type="text/javascript">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script><link href="../../../../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><script src="../../../../../../../Resources/Scripts/jquery.min.js" type="text/javascript"></script><script src="../../../../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer"></script><script src="../../../../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer"></script><script src="../../../../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer"></script><script src="../../../../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer"></script><script src="../../../../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer"></script><script src="../../../../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer"></script></head>
+    <body>
+        <h1>Work Item Cost Analysis</h1>
+        <p>BUILDER 3 allows you to perform a cost analysis on any given work item. This analysis can show the benefits of repair versus replacement, as well as the consequences of deferring work for a given item. The cost analysis feature is available by clicking the Cost Analysis tab on the work item details screen.</p>
+        <p class="p_26" style="text-align: center;">
+            <img src="../../../../../imgs/component_section_circle_costanaly.png" alt="" />
+        </p>
+        <p>The Cost analysis screen is displayed as shown. The Cost Analysis module uses projected deterioration information about a particular asset to display different work Scenarios. This deterioration information is based on the expected life of the asset, and calibrated based on past condition assessments performed throughout the life cycle. In this analysis, four different life cycle curves are presented:</p>
+        <p><span class="span_1">Current.</span> This curve represents the projected deterioration of the asset from the year it was installed to its projected failure point (at a Terminal <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm glossaryTermPopup MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup" glossTerm="ESMS-gloss.Term1">CI<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Condition Index</span></a><span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"><![CDATA[  ]]></span>Condition Index</span> value of 40). This is the expected path of the condition if no intervening work action is performed. If the asset reaches the terminal <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm glossaryTermPopup MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup" glossTerm="ESMS-gloss.Term1">CI<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Condition Index</span></a><span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"><![CDATA[  ]]></span>Condition Index</span> value, replacement is required. This "run to failure" option is viable only if component failure does not have a significant impact on mission.</p>
+        <p><span class="span_1">Stop Gap.</span> This curve represents the projected deterioration of the asset if stop gap measures are employed at some point. These stop gap measures are assumed to hold the condition of the asset constant for one year. This allows for repair or replacement to be planned in a future year without further degradation occurring. This is applicable for some Components where advancing degradation is evident and measures can be taken to slow or halt this degradation for some finite amount of time. These measures are limited in scope and do not improve or restore condition, but they can prevent the Component from degrading below some minimum performance requirement until a more permanent solution can be accomplished. Stop gap repairs are usually less attractive from an economic perspective, because they do not improve condition and only defer larger major repairs or replacement for a short amount of time, but may be needed due to a lack of funds for a permanent solution.</p>
+        <p><span class="span_1">Repair.</span> This curve represents the projected deterioration of the asset if major repair is accomplished at some point. This repair is considered significant enough to improve the condition index of the asset to 95 out of 100. In addition to an improvement in condition, this results in some extended life for the asset. This additional service life, brought on by repair, defers the capital cost of replacement due from impending failure. Therefore, the monetary benefit of a repair can be calculated by taking the additional service life generated by the repair multiplied by the amortized expenditure of Component replacement. This monetary benefit, divided by the cost of the repair, determined the return on the investment (ROI). The repair of a Component also has benefits due to improved operational performance and reliability which are more difficult to quantify in monetary terms.</p>
+        <p><span class="span_1">Replacement.</span> This curve represents the life cycle of the asset if total replacement is performed. In this case, the Condition index is restored to a maximum of 100, and deterioration clock is reset with a remaining service life equal to the original design service life. Since replacement does not defer capital expense, its return of investment ratio based on the logic described for repair is essentially 1. However, replacement of a Component may involve some modernization, potentially resolving obsolescence issues. This, in turn, can lead to benefits of efficiency and lower maintenance, operations, or energy costs, which should be accounted for in any ROI calculation. </p>
+        <p class="p_26" style="text-align: center;">
+            <img src="../../../../../imgs/component_section_cost_analysis.png" class="screenshot_trial" alt="" />
+        </p>
+        <p class="p_70">In addition to seeing the graphical representation of the asset life cycle for different corrective work options, the Cost Analysis module also displays the alternatives in economic metrics, to be measured by the Return on Investment (ROI). Each work option results in some extension in service life, which defers the capital expenditure of a total replacement of the asset. The monetary return of any work action is thus calculated as the amortized capital cost of the asset multiplied by the number of years capital expenditure is deferred. The investment is simply just the estimated cost of performing the work.</p>
+        <p class="p_70">The year a stop gap, repair, or replace action is to be performed can be adjusted by the user. In addition, the user can overwrite the estimated cost of any work action, after which clicking the <span class="span_1">Calculate</span> button will adjust the analysis accordingly. Note that for the Replacement option, an additional benefit in terms of return can be generated if the new assets results in more efficiency and lower operational/maintenance costs. If this savings is known, the user can input this information into the analysis to account for that. Finally, all calculations account for inflation and discount rate of money (discount rate is assumed at 3%).</p>
+        <p class="p_70">After a user has determined the strategy to pursue for that Component from the cost analysis, they can activate the <span class="span_1">Select</span> button for that work alternative and the results will be copied back to the <a href="wm_creating_and_editing_a_section_level_work_item.htm#Work_Item_Data">work item details</a> tab.</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../Builder.htm#work_management/work_items/section-level_work_item/no-work_item_cost_analysis.htm">Open topic with navigation</a>
+        </p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../../../../Default.htm#BUILDER/content/work_management/work_items/section-level_work_item/section-level_work_item/no-work_item_cost_analysis.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

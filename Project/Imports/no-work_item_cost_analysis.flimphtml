@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResourcesLocation="NoImport"
+  KeepSourceLinks="true"
+  SourceFolders="file:///C:/SourceControl/Core/ESMS.Help/Content/BUILDER/content/work_management/work_items/section-level_work_item"
+  ImportTopics="specific"
+  LastImport="2023-05-03T12:15:22.6047680-05:00"
+  ImportTopicsLocation="Content/BUILDER/content/work_management/work_items/section-level_work_item/">
+  <Files>
+    <Url
+      Source="../../../../../Users/RDCERBRA/Downloads/no-work_item_cost_analysis.htm"
+      AbsoluteSource="file:///C:/Users/RDCERBRA/Downloads/no-work_item_cost_analysis.htm" />
+    <Url
+      Source="../../Content/BUILDER/content/work_management/work_items/section-level_work_item"
+      AbsoluteSource="file:///C:/SourceControl/Core/ESMS.Help/Content/BUILDER/content/work_management/work_items/section-level_work_item" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/BUILDER/content/work_management/work_items/section-level_work_item/section-level_work_item/no-work_item_cost_analysis.htm"
+      TimeStamp="5/3/2023 12:15:12 PM" />
+    <Url
+      Source="../../Content/BUILDER/content/work_management/work_items/section-level_work_item/section-level_work_item/section-level-work-item-data.htm"
+      TimeStamp="5/3/2023 12:15:12 PM" />
+    <Url
+      Source="../../Content/BUILDER/content/work_management/work_items/section-level_work_item/section-level_work_item/wm_creating_and_editing_a_section_level_work_item.htm"
+      TimeStamp="5/3/2023 12:15:13 PM" />
+    <Url
+      Source="../../Content/BUILDER/content/work_management/work_items/section-level_work_item/no-work_item_cost_analysis1.htm"
+      TimeStamp="5/3/2023 12:15:13 PM" />
+    <Url
+      Source="../TOCs/no-work_item_cost_analysis.fltoc"
+      TimeStamp="5/3/2023 12:15:21 PM" />
+  </GeneratedFiles>
+</HtmlImport>

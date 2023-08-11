@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+    </head>
+    <body>
+        <h1 style="font-family: Arial;">
+            <MadCap:keyword term="Component:edit" />Edit Scheme States</h1>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Component:view" />
+            <MadCap:keyword term="Document:View" />To view or edit details about a state, activate the state box in the diagram and the corresponding "State" popup will appear with the details.</p>
+        <p style="font-family: Arial;">State details are fairly simple:</p>
+        <ul style="font-family: Arial;">
+            <li style="font-family: Arial;"><b>Name</b> - Name of the state, which appears in the state box on the diagram. This can be changed.</li>
+            <li style="font-family: Arial;"><b>Initial / Final</b> - If the state is the first state in the work flow, the <b>Initial</b> checkbox should be marked; if the state is the last state in the work flow, the <b>Final</b> checkbox should be marked (this information is also indicated by colors in the diagram).</li>
+            <li style="font-family: Arial;"><b>Code Action</b> - The "Reset all approvals" code action allows an approval to be re-used for a subsequent transition without having to rename it. A "set X stage" code action creates a linking between the state and an assessment stage. Code actions are executed when the state is entered.</li>
+        </ul>
+        <h2 style="font-style: italic;font-family: Arial;">
+            <MadCap:keyword term="Component:delete" />
+            <MadCap:keyword term="Team Member:Delete" />Delete a State from a Scheme</h2>
+        <p style="font-family: Arial;">To delete a state or transition within a scheme, select the state or transition in the diagram and activate the <b>Delete</b> key on the keyboard. Make sure to save your change(s) by activating the <b>Save</b> icon button on the Workflow editor menu bar.</p>
+        <p style="font-family: Arial;"><b>WARNING</b>: <b>Deleting a state will delete all transitions connected to it.</b> If you want to preserve one or more of these transitions, then before you delete the state, change the beginning ("From") and end ("To") points of the transition(s) as needed so that they bypass the to-be-deleted state entirely.</p>
+        <p style="font-family: Arial;"><b>Note</b>
+            <MadCap:keyword term="Document Tag:Add" />: If you just added the state you want to delete, simply activating the <b>Delete</b> key is sufficient. However, this delete procedure goes back only one step, to the most recent state or transition you added. Elements placed in the diagram earlier need to first be selected before you activate <b>Delete</b>.</p>
+        <h2 style="font-family: Arial;">Related Topics</h2>
+        <ul style="font-family: Arial;">
+            <li style="font-size: 12pt;">
+                <MadCap:xref href="Workflow-View-Scheme.htm">View Scheme</MadCap:xref>
+            </li>
+            <li style="font-size: 12pt;">
+                <MadCap:xref href="Workflow-Add-Scheme.htm">Add Scheme</MadCap:xref>
+            </li>
+            <li style="font-size: 12pt;">
+                <MadCap:xref href="Edit-Scheme-Transitions.htm">Edit Scheme Transitions</MadCap:xref>
+            </li>
+            <li style="font-size: 12pt;">
+                <MadCap:xref href="Workflow-Delete-Scheme.htm">Delete Scheme</MadCap:xref>
+            </li>
+            <li style="font-size: 12pt;">
+                <MadCap:xref href="Understanding-Workflow-Editor.htm">Understanding the Workflow Editor </MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

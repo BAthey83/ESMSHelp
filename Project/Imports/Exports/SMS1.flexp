@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="Target"
+  SourceProjectPath="C:\Working\SMS\SMS.flprj"
+  DestinationName="SMS"
+  DestinationPath="C:\Users\ajf\Documents\My Project Exports\CA-Guide"
+  ExportType="Files"
+  TargetPath="BUILDER\Printed\BLD-CA-Guide.fltar"
+  TargetConvertVariables="true"
+  TargetConvertSnippets="true">
+  <SelectedContentFiles />
+  <SelectedProjectFiles />
+</CatapultExportProjectFile>

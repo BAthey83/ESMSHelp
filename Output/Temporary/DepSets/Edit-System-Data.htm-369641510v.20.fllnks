@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/reports-icon.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_gen_system_report.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/rollup-building-icon.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-id-line-v3_6.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-id-line-v3_7.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-cpt-at-glance-tab-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-btn-assign-cost-mod-v3_5.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_edit_system.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/Add Button.png" />
+    <Link
+      Url="Content/BUILDER/imgs/attch-to-system-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-add-image-popup.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attch-good-3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attch-bad-3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/del-sys-attch-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/imgs/new-active-attribute.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-admin-managed-unassigned-before.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-admin-managed-assigned-after.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-btn-pencil-to-edit1.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-edit-value-admin-mgd1.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_add_system.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_delete_system.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/about_systems.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#Toolbar" />
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#ID Line" />
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#Conditio" />
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#Componen" />
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#Cost" />
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#Attachme" />
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#System" />
+    <Link
+      Url="Content/BUILDER/imgs/reports-icon.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_gen_system_report.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/rollup-building-icon.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-id-line-v3_6.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-id-line-v3_7.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-cpt-at-glance-tab-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-sys-btn-assign-cost-mod-v3_5.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm#tools/library/cost-mod-about.htm#kanchor431" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_edit_system.htm?tocpath=BUILDER%7CInventory%7CSystems%7C_____3#Attach2" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_edit_system.htm?tocpath=BUILDER%7CInventory%7CSystems%7C_____3#Edit" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_edit_system.htm?tocpath=BUILDER%7CInventory%7CSystems%7C_____3#Delete" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_edit_system.htm?tocpath=BUILDER%7CInventory%7CSystems%7C_____3#Attachme2" />
+    <Link
+      Url="Content/BUILDER/imgs/Add Button.png" />
+    <Link
+      Url="Content/BUILDER/imgs/attch-to-system-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-add-image-popup.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attch-good-3_4.png" />
+    <Link
+      Url="Content/BUILDER/Edit-System-Data.htm#Acceptab" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attch-bad-3_4.png" />
+    <Link
+      Url="Content/BUILDER/imgs/del-sys-attch-v3_3.png" />
+    <Link
+      Url="Content/BUILDER/imgs/new-active-attribute.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm#tools/administration/tools_inv_admin_managed_custom_attributes.htm" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-admin-managed-unassigned-before.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-admin-managed-assigned-after.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-btn-pencil-to-edit1.png" />
+    <Link
+      Url="Content/BUILDER/imgs/inv-attrs-edit-value-admin-mgd1.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_add_system.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/inv_delete_system.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/inventory/systems,_components,_and_sections/systems/about_systems.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Toolbar" />
+    <Anchor
+      Name="ID Line" />
+    <Anchor
+      Name="Conditio" />
+    <Anchor
+      Name="Componen" />
+    <Anchor
+      Name="Cost" />
+    <Anchor
+      Name="Attachme" />
+    <Anchor
+      Name="Acceptab" />
+    <Anchor
+      Name="System" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="69" />
+    <IndexCacheEntry
+      Term="Search Box:Scope"
+      Conditions=""
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="80" />
+    <IndexCacheEntry
+      Term="Password:Assignment"
+      Conditions=""
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="113" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="114" />
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="115" />
+    <IndexCacheEntry
+      Term="Permissions:Administrator"
+      Conditions=""
+      LocalConditions=""
+      Position="213" />
+    <IndexCacheEntry
+      Term="Master Planner"
+      Conditions=""
+      LocalConditions=""
+      Position="215" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="216" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Edit a Work Plan"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/imp_copying_a_work_plan_from_a_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/about_work_item.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_add_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/resources/buttons/gen-items-btn.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/gen-items-pop-selection.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/proceed.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/cancel.png" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/pop-add-wkitem-section-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/add-wkitem-manual-blank-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/manually-added-wkitem-in-italic.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/pop-add-wkitem-bldg-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/building-level_work_item/add-wkitem-bldg-specc.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/sample-manually-added-bldg-wkitem.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_projects/wm_creating_and_editing_a_project.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_projects/about_work_project.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/delete_work_item.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/edit_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/run_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_view_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_data_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_export-work-plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_delete_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/BUILDER/content/resources/styles/default.css" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/require.config.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Content/BUILDER/Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm#Regenera2" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm#Change" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm#Manually" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm#Delete" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/imp_copying_a_work_plan_from_a_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm#Change2" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/about_work_item.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/standards,_policies,_and_policy_sequences/wm_standards,_policies,_and_policy_sequences_overview.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_add_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_edit_work_plan.htm#Regenera" />
+    <Link
+      Url="Content/BUILDER/content/resources/buttons/gen-items-btn.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/gen-items-pop-selection.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/proceed.png" />
+    <Link
+      Url="Content/BUILDER/content/resources/icons/cancel.png" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/pop-add-wkitem-section-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/add-wkitem-manual-blank-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/manually-added-wkitem-in-italic.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/pop-add-wkitem-bldg-v3_5.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/building-level_work_item/add-wkitem-bldg-specc.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm-images/sample-manually-added-bldg-wkitem.png" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_projects/wm_creating_and_editing_a_project.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_projects/about_work_project.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/delete_work_item.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/edit_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/content/scenarios/run_scenario.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_view_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_data_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_items/wm_prioritizing_work_items.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_export-work-plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/work_plans/wm_delete_work_plan.htm" />
+    <Link
+      Url="Content/BUILDER/content/work_management/wm_work_planning_overview.htm" />
+    <Link
+      Url="Content/BUILDER/Builder.htm#work_management/work_plans/wm_edit_work_plan.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor130" />
+    <Anchor
+      Name="Regenera2" />
+    <Anchor
+      Name="kanchor131" />
+    <Anchor
+      Name="Change" />
+    <Anchor
+      Name="kanchor132" />
+    <Anchor
+      Name="Regenera" />
+    <Anchor
+      Name="Manually" />
+    <Anchor
+      Name="Delete" />
+    <Anchor
+      Name="Change2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Content/BUILDER/Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/BUILDER/content/resources/styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
