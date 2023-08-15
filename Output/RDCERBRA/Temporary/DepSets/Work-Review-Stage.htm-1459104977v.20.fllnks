@@ -8,8 +8,6 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
@@ -19,8 +17,6 @@
   <LongLinks>
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm#Review" />
     <Link
@@ -55,7 +51,7 @@
       Term="Pre-Assessment Plan"
       Conditions=""
       LocalConditions=""
-      Position="8" />
+      Position="9" />
     <IndexCacheEntry
       Term="Charter"
       Conditions=""
@@ -70,12 +66,12 @@
       Term="Default:Site"
       Conditions=""
       LocalConditions=""
-      Position="35" />
+      Position="36" />
     <IndexCacheEntry
       Term="Post-Assessment Plan"
       Conditions=""
       LocalConditions=""
-      Position="62" />
+      Position="64" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />

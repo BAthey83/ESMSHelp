@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body style="text-align: center;">
+        <h3 style="font-family: Arial;text-align: left;"><i><MadCap:keyword term="Component:view" /><MadCap:keyword term="Document:View" />Switch from List View to Map View</i>
+        </h3>
+        <p style="font-family: Arial;text-align: left;">
+            <MadCap:keyword term="Layout:screen" />If you are in list view, you can switch to map view using the flag icon at the top of the screen.</p>
+        <h3 style="font-family: Arial;text-align: left;"><i>Switch from Map View to List View</i>
+        </h3>
+        <p style="font-family: Arial;text-align: left;">If you are in map view, you can switch to list view by selecting the flag icon at the top of the screen.</p>
+    </body>
+</html>

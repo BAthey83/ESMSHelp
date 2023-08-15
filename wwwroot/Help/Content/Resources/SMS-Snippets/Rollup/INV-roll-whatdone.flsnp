@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>What does a Rollup Do?</h2>
+        <p>Inventory-related processes accomplished by a rollup are as follows:</p>
+        <ul>
+            <li>The current remaining service life (RSL) is estimated for all Sections.</li>
+            <li>RSL information is reflected upwards through the inventory tree.</li>
+            <li>
+                <MadCap:keyword term="Search:Components" />Plant Replacement Value (PRV) is updated at all levels. For example, if new Sections, Components, or Systems have been added to a Building, its PRV will increase.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>To roll up a Building,</p>
+        <ol>
+            <li>Navigate to the Building in the inventory tree.</li>
+            <li>Right-click.</li>
+            <li>
+                <MadCap:keyword term="Domain:Select" />Select "Rollup Building" from the list of options.</li>
+        </ol>
+        <p><span class="result">While the rollup is being performed, a popup window similar to the one below will be shown onscreen:</span>
+        </p>
+        <p class="p_26">&#160;</p>
+    </body>
+</html>

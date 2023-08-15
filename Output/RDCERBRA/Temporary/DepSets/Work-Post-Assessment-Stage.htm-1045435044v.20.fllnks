@@ -6,8 +6,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Work-Items-2023.png" />
@@ -27,8 +25,6 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm#Add" />
     <Link
@@ -77,65 +73,60 @@
       LocalConditions=""
       Position="4" />
     <IndexCacheEntry
-      Term="Desktop Sync / Assessment"
-      Conditions=""
-      LocalConditions=""
-      Position="7" />
-    <IndexCacheEntry
       Term="Component:edit"
       Conditions=""
       LocalConditions=""
-      Position="8" />
+      Position="6" />
     <IndexCacheEntry
       Term="Component:delete"
       Conditions=""
       LocalConditions=""
-      Position="9" />
+      Position="7" />
     <IndexCacheEntry
       Term="Team Member:Delete"
       Conditions=""
       LocalConditions=""
-      Position="10" />
+      Position="8" />
     <IndexCacheEntry
       Term="Component:add"
       Conditions=""
       LocalConditions=""
-      Position="16" />
+      Position="14" />
     <IndexCacheEntry
       Term="Document Tag:Add"
       Conditions=""
       LocalConditions=""
-      Position="17" />
+      Position="15" />
     <IndexCacheEntry
       Term="Component:view"
       Conditions=""
       LocalConditions=""
-      Position="23" />
+      Position="21" />
     <IndexCacheEntry
       Term="Add:component"
       Conditions=""
       LocalConditions=""
-      Position="24" />
+      Position="22" />
     <IndexCacheEntry
       Term="Assessment:Details"
       Conditions=""
       LocalConditions=""
-      Position="58" />
+      Position="55" />
     <IndexCacheEntry
       Term="Add:Team"
       Conditions=""
       LocalConditions=""
-      Position="97" />
+      Position="94" />
     <IndexCacheEntry
       Term="Pre-Assessment Plan"
       Conditions=""
       LocalConditions=""
-      Position="99" />
+      Position="96" />
     <IndexCacheEntry
       Term="Packages"
       Conditions=""
       LocalConditions=""
-      Position="118" />
+      Position="115" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />

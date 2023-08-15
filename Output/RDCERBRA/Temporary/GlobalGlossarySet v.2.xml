@@ -466,6 +466,24 @@
       SourceFile="/Project/Glossaries/Primary.flglo">
       <Definition>Unit of Measure</Definition>
     </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="EFCI"
+      glossTerm="Primary.Term61"
+      SourceFile="/Project/Glossaries/Primary.flglo">
+      <Definition>Extended Facility Condition Index</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="PoC"
+      glossTerm="Primary.Term62"
+      SourceFile="/Project/Glossaries/Primary.flglo">
+      <Definition>Point of Contact</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="RPSUID"
+      glossTerm="Primary.Term63"
+      SourceFile="/Project/Glossaries/Primary.flglo">
+      <Definition>Real Property Site Unique Identifier</Definition>
+    </GlossaryCacheEntry>
   </Map>
   <SourceUrls />
 </CatapultGlobalGlossaryCache>

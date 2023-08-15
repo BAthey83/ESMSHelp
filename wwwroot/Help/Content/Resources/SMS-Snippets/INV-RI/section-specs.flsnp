@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ul>
+            <li>
+                <span class="span_1">Section Name</span>. Enter a name that will distinguish this Section from others in the same Component.</li>
+            <li>
+                <span class="span_1">Material Category</span>. Selected from the relevant dropdown list.</li>
+            <li>
+                <span class="span_1">Component Subtype</span>. Selected from the dropdown list. This will be a material (wood, concrete, etc.), or in the case of equipment it will be equipment type. </li>
+            <li>
+                <span class="span_1">Quantity</span>. Enter the number of items with the same specification that are contained in this Section.</li>
+        </ul>
+    </body>
+</html>

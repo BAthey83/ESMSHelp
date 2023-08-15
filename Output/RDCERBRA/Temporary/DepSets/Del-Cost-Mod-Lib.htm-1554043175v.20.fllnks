@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-2.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Trashcan-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Del-Cost-Mod-Book-Popup.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-CM.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-2.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Trashcan-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Del-Cost-Mod-Book-Popup.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-CM.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

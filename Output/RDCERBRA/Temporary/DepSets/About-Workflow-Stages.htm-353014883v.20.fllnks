@@ -12,8 +12,6 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
@@ -25,8 +23,6 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
@@ -50,20 +46,15 @@
       LocalConditions=""
       Position="14" />
     <IndexCacheEntry
-      Term="Desktop Sync / Assessment"
+      Term="Post-Assessment Plan"
       Conditions=""
       LocalConditions=""
       Position="17" />
     <IndexCacheEntry
-      Term="Post-Assessment Plan"
-      Conditions=""
-      LocalConditions=""
-      Position="20" />
-    <IndexCacheEntry
       Term="Packages"
       Conditions=""
       LocalConditions=""
-      Position="23" />
+      Position="20" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />

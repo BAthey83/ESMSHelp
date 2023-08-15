@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="61" MadCap:lastWidth="1143">
+    <body>
+        <div class="kt">
+            <p class="indent"><span class="span_1"><MadCap:keyword term="Permissions" />Permissions Note:</span>
+                <MadCap:keyword term="Permissions:Administrator" /> This action requires Administrator permission<!-- for the relevant location in inventory--><MadCap:keyword term="Master Planner" />. If the inventory item is empty of any contents, then the deletion may also be performed by a Master Planner with permission for the relevant location in inventory.</p>
+        </div>
+    </body>
+</html>

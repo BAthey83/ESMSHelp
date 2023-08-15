@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Manual Rollup</h2>
+        <p>You can manually initiate a rollup if you wish. It's a good idea to do so when: </p>
+        <ul>
+            <li>You have entered a large quantity of inventory into BUILDER; or </li>
+            <li>You believe that PRV or RSL information has changed since the last automated rollup and you wish to see the latest values.</li>
+        </ul>
+    </body>
+</html>

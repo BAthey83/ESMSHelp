@@ -22,8 +22,6 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
     <Link
-      Url="Content/BASIC/DOWNLOAD/Download-ESMS-Desk.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
@@ -40,13 +38,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Details.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Funding-Restriction-List.htm" />
+      Url="Content/ESMS-WEB/ESMS-Sites/Add-A-Site.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Add-Funding-Restriction.htm" />
+      Url="Content/ESMS-WEB/ESMS-Sites/Edit-Inv-Site-Data.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Restriction.htm" />
+      Url="Content/ESMS-WEB/ESMS-Sites/Gen-Site-Rpts.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Funding-Restriction-Group-Clause.htm" />
+      Url="Content/ESMS-WEB/ESMS-Sites/Del-A-Site.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Sites/Work-with-Sites.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Facilities.htm" />
     <Link
@@ -128,13 +128,13 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Groups.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Pre-Assessment-Plans.htm" />
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Operator-Pre-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Assessor-Pre-Assessmt-Team.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
@@ -156,9 +156,85 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Tasks/Tasks-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Rep-Cost-Calc.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-CM.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cust-CII-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-CII-Book.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-CII-Book.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Serv-Life-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Serv-Life-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Serv-Life-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Infl-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Infl-Data.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Infl-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Administration-Managing-Users.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-User-Details.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Add-Questionnaire-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Delete-Questionnaire-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Edit-Questionnaire-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-View-Questionnaire-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Nesting-Presentation-Ord.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" />
     <Link
@@ -172,6 +248,10 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Delete-Member_team-task.htm" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Assign-Permission-Roles_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Remove-Permission-Role_team-task.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Role_team-task.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Edit-Role_team-task.htm" />
@@ -179,6 +259,8 @@
       Url="Content/ESMS-WEB/ESMS-Teams/Change-Role-Name_team-task.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Delete-Role_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/Gen-Imports.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-About.htm" />
     <Link
@@ -196,6 +278,8 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Mapping-BUILDER-to-ESMS.htm" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Export/ESMS-Export.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Documents/ESMS-Documents-About.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" />
@@ -211,6 +295,8 @@
       Url="Content/ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/Maps-Map-Search.htm" />
     <Link
       Url="Content/BASIC/Inventory/INV-diff-SMS-ESMS.htm" />
   </Links>

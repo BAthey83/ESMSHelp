@@ -8,8 +8,6 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Help-Home/Intro-ESMS-W.htm" />
     <Link
-      Url="Content/BASIC/ESMS-diagram.png" />
-    <Link
       Url="Content/BASIC/Inventory/INV-diff-SMS-ESMS.htm" />
   </Links>
   <LongLinks>
@@ -18,11 +16,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Help-Home/Intro-ESMS-W.htm#Do" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Help-Home/Intro-ESMS-W.htm#Integrat" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Help-Home/Intro-ESMS-W.htm#How" />
-    <Link
-      Url="Content/BASIC/ESMS-diagram.png" />
     <Link
       Url="Content/BASIC/Inventory/INV-diff-SMS-ESMS.htm" />
   </LongLinks>
@@ -31,8 +25,6 @@
       Name="What" />
     <Anchor
       Name="Do" />
-    <Anchor
-      Name="Integrat" />
     <Anchor
       Name="How" />
   </Anchors>
@@ -46,42 +38,42 @@
       Term="Search:Work items"
       Conditions=""
       LocalConditions=""
-      Position="32" />
+      Position="29" />
     <IndexCacheEntry
       Term="Permissions:Administrator"
       Conditions=""
       LocalConditions=""
-      Position="35" />
+      Position="32" />
     <IndexCacheEntry
       Term="Add:Team"
       Conditions=""
       LocalConditions=""
-      Position="36" />
+      Position="33" />
     <IndexCacheEntry
       Term="Add:component"
       Conditions=""
       LocalConditions=""
-      Position="40" />
+      Position="37" />
     <IndexCacheEntry
       Term="Component:add"
       Conditions=""
       LocalConditions=""
-      Position="66" />
+      Position="63" />
     <IndexCacheEntry
       Term="Document Tag:Add"
       Conditions=""
       LocalConditions=""
-      Position="67" />
+      Position="64" />
     <IndexCacheEntry
       Term="Search:Components"
       Conditions=""
       LocalConditions=""
-      Position="70" />
+      Position="67" />
     <IndexCacheEntry
       Term="Search:Groups"
       Conditions=""
       LocalConditions=""
-      Position="77" />
+      Position="73" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />

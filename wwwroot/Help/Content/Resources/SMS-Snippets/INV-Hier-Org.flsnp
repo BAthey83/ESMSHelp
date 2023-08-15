@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="347" MadCap:lastWidth="613">
+    <body>
+        <h3>Organization</h3>
+        <p>The Sustainment Management System (SMS) is an enterprise-level program. As such, its inventory can contain Buildings and other facilities at a number of different Sites. It is possible that multiple Sites are managed together, as in a region, and therefore should be arranged together. If this is the case, an organizational group can be created to contain these Sites. In the SMS, this organizational group is termed an Organization. </p>
+        <p>An Organization is the highest level available in the SMS hierarchy. The tasks performed at the Organization level are generally setting standards and policies; prioritization; planning; and budgeting, rather than day-to-day management.</p>
+        <p>
+            <p class="indent"><span class="span_1">Note:</span> Unlike other members in the SMS inventory hierarchy, Organizations can be nested multiple levels deep, if desired. Therefore, an Organization can have as a "child" or "children" either one or more Organizations, one or more Sites, or both. The concepts "parent" "sibling" and "child" are explicitly used in the creation of Organizations.</p>
+        </p>
+    </body>
+</html>

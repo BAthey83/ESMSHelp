@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Work|Workflows" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>View Scheme</title>
+        <link href="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/ESMS-PDF-Reorg-2023/ESMS-PDF-Reorg-2023_E68709C/Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 style="text-transform: capitalize;font-family: Arial;" MadCap:xrefTargetName="View Scheme" MadCap:sourceTitle="View Scheme"><a MadCap:generatedBookmark="TOC" name="View Scheme"></a>
+            <MadCap:keyword term="Component:view" />
+            <MadCap:keyword term="Document:View" />View Scheme</h1>
+        <h2 style="font-family: Arial;">What Is a Scheme?</h2>
+        <p style="font-family: Arial;">A scheme is comprised of <i>states</i> and <i>transitions</i>:</p>
+        <ul style="font-family: Arial;">
+            <li style="font-family: Arial;">A state represents the condition that the process is in at a specific time.</li>
+            <li style="font-family: Arial;">A transition defines how the process will move from one state to the next.</li>
+        </ul>
+        <p style="font-family: Arial;">A scheme may also make use of <i>parameters</i> to store variables that are global to the scheme.</p>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Component:edit" />In the Workflow Editor, a scheme's states and transitions are presented as a diagram. The states appear as boxes in the diagram. The transitions are represented by lines connecting the boxes. For clarity, each state should be named; transition names are optional.</p>
+        <h2 style="font-family: Arial;">Navigate to a Scheme</h2>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Assessment:Details" />To view or edit a scheme's diagram and details, first enter the Workflow editor:</p>
+        <ol style="font-family: Arial;">
+            <li style="font-family: Arial;" value="1">
+                <MadCap:keyword term="Dashboard" />Navigate to the ESMS Web Dashboard.</li>
+            <li style="font-family: Arial;" value="2">Activate the <b>Workflow Editor</b> tile.</li>
+        </ol>
+        <p style="font-family: Arial;">
+            <MadCap:keyword term="Layout:screen" />
+            <MadCap:keyword term="Domain:Select" />Instructions near the top of the screen say to "Please select a scheme"; this is done from the Workflow editor menu bar as follows:</p>
+        <ol style="text-align: center;font-family: Arial;">
+            <li style="text-align: left;" value="1">On the Workflow Editor menu bar (which is located below the main menu bar), activate the <b>Open Scheme</b> icon, which looks like a partially open folder.</li>
+            <img src="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/ESMS-PDF-Reorg-2023/ESMS-PDF-Reorg-2023_E68709C/ESMS-WEB/ESMS-Workflow Editor/imgs/open-scheme-with-tooltip.png" style="padding-top: 8px;padding-bottom: 8px;" />
+            <li style="text-align: left;" value="2">In the "<b>Open Scheme</b>" popup, activate the dropdown arrow.</li>
+            <li style="text-align: left;" value="3">Select the desired scheme from the list.</li>
+        </ol>
+        <p style="font-style: italic;text-align: center;font-family: Arial;"><b>Note</b>: the scheme will appear in the work area as soon as you select it in the dropdown list.</p>
+        <ol MadCap:continue="true" style="font-family: Arial;">
+            <li style="font-family: Arial;" value="4">If you wish, you can change your choice at this point by re-activating the down arrow and making a different selection.</li>
+            <li style="font-family: Arial;" value="5">Activate the <b>OK</b> button to exit the popup.</li>
+        </ol>
+        <h2 style="font-family: Arial;">State Details</h2>
+        <p style="font-family: Arial;">To view or edit details about a state, activate the state box in the diagram and the corresponding "State" popup will appear with the details.</p>
+        <p style="font-family: Arial;">State details are fairly simple:</p>
+        <ul style="font-family: Arial;">
+            <li style="font-family: Arial;"><b>Name</b> - Name of the state, which appears in the state box on the diagram. This can be changed.</li>
+            <li style="font-family: Arial;"><b>Initial / Final</b> - If the state is the first state in the work flow, the <b>Initial</b> checkbox should be marked; if the state is the last state in the work flow, the <b>Final</b> checkbox should be marked (this information is also indicated by colors in the diagram).</li>
+            <li style="font-family: Arial;"><b>Code Action</b> - The "Reset all approvals" code action allows an approval to be re-used for a subsequent transition without having to rename it. A "set X stage" code action creates a linking between the state and an assessment stage. Code actions are executed when the state is entered.</li>
+        </ul>
+        <h2 style="font-family: Arial;">Transition Details</h2>
+        <p style="font-family: Arial;">To see details about a transition, activate anywhere on the relevant connecting line in the diagram, and the corresponding "Transition" popup will appear with the transition's details. The "Transitions" popup is where the magic of the Workflow is designed in.</p>
+        <p style="font-family: Arial;">In the descriptions below, <b>Required</b> items are those required by the software. Your process may include items that are <b>Optional</b> to the software, but required for your workflow.</p>
+        <ul style="font-family: Arial;">
+            <li style="font-family: Arial;"><b>Name (Required)</b> - This is the label that will show over the transition line in the diagram</li>
+            <li style="font-family: Arial;"><b>From State (Required)</b> - A transition connects two states; the "from" state is where the transition begins</li>
+            <li style="font-family: Arial;"><b>To State (Required)</b> - A transition connects two states; the "to" state is where the transition ends</li>
+        </ul>
+        <p style="text-align: left;font-family: Arial;"><b>Note</b>: The same state may be entered at "From State" and "To State," in which case on the diagram you should see a small loop exiting and re-entering the relevant state</p>
+        <ul style="font-family: Arial;">
+            <li style="font-family: Arial;"><b>Type (Required)</b><span style="font-family: Arial;"> - The type will be one of the following:</span>
+                <ul style="list-style-type: circle;font-family: Arial;">
+                    <li style="text-align: left;"><b>Command</b> - Transition happens when the user pushes a button</li>
+                    <li><b>Auto</b> - A rule decides when the transition happens</li>
+                </ul>
+            </li>
+            <li style="font-family: Arial;"><b>User Inputs (Optional)</b> - Any approvals or comments needed or allowed from the user are listed here</li>
+            <li style="font-family: Arial;"><b><MadCap:keyword term="Permissions" />Required Permissions (Optional for Command transition type; N/A for Auto transition type)</b> - If the user to be executing a <b>Command</b> needs a particular permission type, this is listed here</li>
+            <li style="font-family: Arial;"><b>Commands (Optional for Command transition type; N/A for Auto transition type)</b> - For a Command type transition, these are things that must be done before the transition can occur. Further detail needed for commands are:<ul style="list-style-type: circle;font-family: Arial;"><li><b>Command Name (Required)</b> - A descriptive name such as "Service Control Approve or Reject" should be assigned to the command</li><li><b>Parameters</b><MadCap:keyword term="Sort:Example" /> - Example parameters for commands are "Approval: Approved" "Approval: Rejected" or "IsEnabled: true"</li></ul></li>
+            <li style="font-family: Arial;"><b>Conditions (Optional for Auto transition type; N/A for Command transition type)</b> - Here is where conditions–if any–are listed that determine when an <b>Auto</b> type transition happens; if the transition type is <b>Auto</b> and no conditions are listed, the transition will happen automatically.</li>
+        </ul>
+        <h2 style="font-family: Arial;">Related Topics</h2>
+        <ul style="font-family: Arial;">
+            <li style="font-size: 17px;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Add-Scheme.htm" MadCap:xrefTarget="Add Scheme">Add Schemeon page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" MadCap:xrefTarget="Edit Scheme States">Edit Scheme Stateson page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" MadCap:xrefTarget="Edit Scheme Transitions">Edit Scheme Transitionson page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" MadCap:xrefTarget="Delete Scheme">Delete Schemeon page&#160;1</MadCap:xref>
+            </li>
+            <li style="font-size: 17px;">
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" MadCap:xrefTarget="Understanding the Workflow Editor">Understanding the Workflow Editor on page&#160;1</MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

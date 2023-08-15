@@ -26,17 +26,13 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Workflow-example.png" />
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Pre-Asst-2023.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/approve-to-pre-assessment.png" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-transition-history.png" />
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Tran-His-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
     <Link
@@ -74,21 +70,17 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Workflow-example.png" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/approve-to-pre-assessment.png" />
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Pre-Asst-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm#About3" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm#Scheme" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-transition-history.png" />
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Tran-His-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
     <Link
@@ -221,20 +213,10 @@
       LocalConditions=""
       Position="157" />
     <IndexCacheEntry
-      Term="Desktop Sync / Assessment"
-      Conditions=""
-      LocalConditions=""
-      Position="183" />
-    <IndexCacheEntry
-      Term="Synchronize"
-      Conditions=""
-      LocalConditions=""
-      Position="187" />
-    <IndexCacheEntry
       Term="Post-Assessment Plan"
       Conditions=""
       LocalConditions=""
-      Position="194" />
+      Position="185" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Reference Books|Cost Books" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>About Cost Books</title>
+        <link href="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/ESMS-PDF-Reorg-2023/ESMS-PDF-Reorg-2023_E68709C/Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 MadCap:xrefTargetName="About Cost Books" MadCap:sourceTitle="About Cost Books"><a MadCap:generatedBookmark="TOC" name="About Cost Books"></a>About Cost Books</h1>
+        <hr style="font-family: Arial;text-align: left;" width="100%" size="0" align="center" />
+        <p><b>Enterprise SMS</b>&#160;has an embedded cost module, used in the critical areas of work planning and condition assessment, that assigns replacement values to inventory. The data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. </p>
+        <p>A default cost book is provided and is all that is required. Optionally, a customized inflation book can be used in place of the default, or multiple customized cost books can be associated with different Organizations. This topic explains how to do this. </p>
+        <hr style="font-family: Arial;text-align: left;" width="100%" size="0" align="center" />
+        <p style="margin-left: 32px;"><b>Permissions Note:</b> Depending on the operation (e.g., adding vs. deleting a book), configuring reference data requires either Work Planner or Master Planner. A user with Master Planner Role has all the rights of a Work Planners, and can also generate multi-year work plan scenarios, and edit any and all data saved by other users of the program. Master Planner is the highest level of user privileges. permission for the Organization that the reference book applies to. The ability to assign a custom reference book to an Organization depends on your permissions for that Organization.</p>
+        <p style="margin-left: 0;">Enterprise SMS's embedded cost module contributes to multiple Enterprise SMS&#160;functions:</p>
+        <ul>
+            <li>Inventory:&#160;Provides inventory replacement costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
+            <li>Condition index calculations: Replacement costs are used as weighing factors in rolling up <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term1">CI</MadCap:glossaryTerm><MadCap:footnote style="mc-footnote-position: page; mc-footnote-format: '{n}'; mc-footnote-number: page;">Condition Index</MadCap:footnote>s in the inventory hierarchy.</li>
+            <li>Work planning:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
+        </ul>
+        <p>The cost data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. A given Organization can have many defined cost books. Multiple cost books can also be associated with different Organizations. A&#160;single book can be assigned to an Organization for rollup purposes, while the remaining books can be used for the Work Analysis process. </p>
+        <p>If an Organization does not have a cost book assigned to it, the Organization's assigned cost book is used for rollups. If no book is found to be assigned to an Organization, the process will run the course of the organizational hierarchy until a parent Organization with an assigned book is found. </p>
+        <h2>Cost Calculations</h2>
+        <p>How costs are calculated is described in <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/Abt-Rep-Cost-Calc.htm" MadCap:xrefTarget="About Replacement Cost Calculation">About Replacement Cost Calculationon page&#160;1</MadCap:xref>.</p>
+        <p>If you are interested in more information about the formulas used in generating reference data, see the References training module in the Enterprise SMS&#160;training at https://training.sms.erdc.dren.mil/.</p>
+        <h2>Cost Data</h2>
+        <p>The  cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be associated with different Organizations as desired (see <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm#Assign" MadCap:xrefTarget="Assign a Cost Book to an Organization">Assign a Cost Book to an Organizationon page&#160;1</MadCap:xref>). </p>
+        <h3 style="font-style: italic;">Default Cost Book</h3>
+        <p style="font-style: normal;">The Default Cost Book establishes default costs for any combination of any Specifications or Work Action Types not overridden in the Cost Book. </p>
+        <h3 style="font-style: italic;">Custom Cost Book(s)</h3>
+        <p style="font-style: normal;">You can manage cost data by using custom cost books. To create custom cost data, you can either:</p>
+        <ol style="list-style-type: lower-alpha;">
+            <li value="1">Edit an existing cost book (except for Reference), or</li>
+            <li value="2">Create one or more new cost books. You can use an existing cost book, as the starting point for the new cost book.</li>
+        </ol>
+        <p>By assigning a custom cost book to an Organization, you can control the scope of that cost book, applying custom values to either all or part of the cost book.</p>
+        <h3>Features and Search Bar</h3>
+        <ul>
+            <li><b>Specification</b>: The item selected for editing within the Cost Book.</li>
+            <li><b>Activity</b>: The Global Repair, Replace or Demolish action required for the specified item.</li>
+            <li><b>Level</b>: The Building or Component-Section required for the specified item.</li>
+            <li><b>Parent</b>: The parent Organization for the specified item.</li>
+            <li><b>Current Cost</b>: The most recent value of the specified item.</li>
+            <li><b>Original Cost</b>: The earliest value of the specified item.</li>
+            <li><b>Cost Year</b>: The year used to calculate a specified item's inflation data. </li>
+            <li>
+                <MadCap:glossaryTerm glossTerm="Primary.Term60" style="font-weight: bold;">UoM</MadCap:glossaryTerm>
+                <MadCap:footnote style="mc-footnote-position: page; mc-footnote-format: '{n}'; mc-footnote-number: page;">Unit of Measure</MadCap:footnote>: The Unit of Measurement for the selected item(s).</li>
+            <li><b>Clear</b>: Select this option to clear all Filters. </li>
+        </ul>
+        <h2>Cost Book Tasks</h2>
+        <p>Tasks you can perform are to:</p>
+        <ul>
+            <li>
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm#Assign" MadCap:xrefTarget="Assign a Cost Book to an Organization">Assign a Cost Book to an Organizationon page&#160;1</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" MadCap:xrefTarget="View a Cost Book">View a Cost Bookon page&#160;1</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" MadCap:xrefTarget="Add a Custom Cost Book">Add a Custom Cost Bookon page&#160;1</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" MadCap:xrefTarget="Edit Cost Book Data">Edit&#160;Cost Book Dataon page&#160;1</MadCap:xref> </li>
+            <li>
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" MadCap:xrefTarget="Delete a Cost Book">Delete a Cost Bookon page&#160;1</MadCap:xref>
+            </li>
+        </ul>
+        <h2>Other Related Links</h2>
+        <ul>
+            <li>
+                <MadCap:xref href="file:///C:/SourceControl/Core/ESMS.Help/Content/ESMS-WEB/ESMS-Ref-Books/Abt-Rep-Cost-Calc.htm" MadCap:xrefTarget="About Replacement Cost Calculation">About Replacement Cost Calculationon page&#160;1</MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

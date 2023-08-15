@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Endpoints-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Mapping-Options.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Mappings-General.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Select-Group-Type-Popup.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Mappings-Comp-Spec.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Export-Configs-Main.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Export-Configs-Secondary.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Export-Configs-Add.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Endpoints-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Mapping-Options.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Mappings-General.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Select-Group-Type-Popup.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Mappings-Comp-Spec.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Export-Configs-Main.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Export-Configs-Secondary.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Export-Configs-Add.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

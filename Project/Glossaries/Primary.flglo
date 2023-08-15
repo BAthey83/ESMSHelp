@@ -606,4 +606,25 @@
     </Terms>
     <Definition>Unit of Measure</Definition>
   </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Primary.Term61">
+    <Terms>
+      <Term>EFCI</Term>
+    </Terms>
+    <Definition>Extended Facility Condition Index</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Primary.Term62">
+    <Terms>
+      <Term>PoC</Term>
+    </Terms>
+    <Definition>Point of Contact</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Primary.Term63">
+    <Terms>
+      <Term>RPSUID</Term>
+    </Terms>
+    <Definition>Real Property Site Unique Identifier</Definition>
+  </GlossaryEntry>
 </CatapultGlossary>

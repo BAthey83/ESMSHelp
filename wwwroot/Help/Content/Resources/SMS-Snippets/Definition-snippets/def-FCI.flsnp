@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="143" MadCap:lastWidth="934">
+    <body>
+        <p>
+        The FCI metric provides an overall sense of deferred repair work at the Building level. It differs from the <MadCap:glossaryTerm glossTerm="Primary.Term3">BCI</MadCap:glossaryTerm> in that it is a monetary based metric. 
+The formula is: </p>
+        <p class="p_26">FCI = [ 1- ( $current repair needs / $<MadCap:glossaryTerm glossTerm="Primary.Term37">PRV</MadCap:glossaryTerm> ) ] x 100, </p>
+        <p>where the dollar amount of repair needs is obtained from <MadCap:variable name="Primary.Product" /> work items. More information about the FCI is available at <MadCap:xref href="../../Terms/TERM-FCI-gloss.htm"><MadCap:keyword term="Facility Condition Index" />Facility Condition Index</MadCap:xref>, or via the Glossary.</p>
+    </body>
+</html>

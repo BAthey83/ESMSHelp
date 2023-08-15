@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Menu-Options.png" />
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Standard-Selection.png" />
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/3-Buttons.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Work-Action-Save.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Inflation-Book-2.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Infl-Bk-Highlighted.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Changes-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost Record Screenshots.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Fil-Sel.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Book-Highlight.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Book-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book-2.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Create-Cost-Book.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Select-Org-2.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-View-Map.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-List-View-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-Filters-Complete.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Map-Search-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Work-Analysis-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Rules-Screen.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Reports-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Queue-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Work-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Profiles-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Prty-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Policies-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Group-Types-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del.png" />
-    <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Att-Name-Type.png" />
 </UrlList>

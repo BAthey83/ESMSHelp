@@ -63,22 +63,22 @@
       Term="Select Domain(s):Domain"
       Conditions=""
       LocalConditions=""
-      Position="50" />
+      Position="52" />
     <IndexCacheEntry
       Term="Functionality"
       Conditions=""
       LocalConditions=""
-      Position="59" />
+      Position="62" />
     <IndexCacheEntry
       Term="Facility Condition Index"
       Conditions=""
       LocalConditions=""
-      Position="62" />
+      Position="65" />
     <IndexCacheEntry
       Term="Search:Components"
       Conditions=""
       LocalConditions=""
-      Position="73" />
+      Position="77" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />
