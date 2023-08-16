@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Non-Workflow-Assessment-Screen.png" />
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Package Editor-Work-Package-Tab.png" />
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Package Editor-Work Package Tab.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Menu-Options.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Standard-Selection.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
@@ -17,7 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Book-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book-2.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Create-Cost-Book.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Select-Org-2.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
 </UrlList>

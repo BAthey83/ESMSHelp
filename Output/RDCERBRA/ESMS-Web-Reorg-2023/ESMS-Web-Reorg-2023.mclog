@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2023 Generated ESMS-Web-Reorg-2023.fltar" Date="2023-08-15T14:42:55.1488201-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2023 Generated ESMS-Web-Reorg-2023.fltar" Date="2023-08-15T16:54:34.1464817-05:00" Branch="brandons-dev-branch" Commit="252ac6e863128d25b25b89f37c596d4797f9fefb">
     <Messages>Compiling target ESMS-Web-Reorg-2023...
 Removing previously generated content...
 Loading skin info...
@@ -337,6 +337,8 @@ Processing topic: BASIC\models.htm...
 Generated BASIC\models.htm
 Processing topic: FIELD_APP\FA-Inventory-Tasks\sys-view.htm...
 Generated FIELD_APP\FA-Inventory-Tasks\sys-view.htm
+Processing topic: ESMS-WEB\ESMS-Assessments\Understanding-Assessment-Plans.htm...
+Generated ESMS-WEB\ESMS-Assessments\Understanding-Assessment-Plans.htm
 Processing topic: REVIEW\ESMS-Web-capabilities-SEGMENT.htm...
 Generated REVIEW\ESMS-Web-capabilities-SEGMENT.htm
 Processing topic: FIELD_APP\0First-Steps\Intro-ESMS-Field-App.htm...
@@ -379,7 +381,7 @@ Generated FIELD_APP\All-Desk\nav-pane-manipulate.htm
 Processing topic: FIELD_APP\FA-Inventory-Tasks\group-view.htm...
 Generated FIELD_APP\FA-Inventory-Tasks\group-view.htm
 Processing topic: AdminESMS\Archive\first-version\ESMS-Security.htm...
-Missing linked source file: C:\SourceControl\Core\ESMS.Help\Content\AdminESMS\Archive\Navigation\imgs\esms-securityNP-icon-dash-2018.png
+Missing linked source file: C:\SourceControl\esmshelp\Content\AdminESMS\Archive\Navigation\imgs\esms-securityNP-icon-dash-2018.png
 Generated AdminESMS\Archive\first-version\ESMS-Security.htm
 Processing topic: FIELD_APP\FA-Asmt-Tasks\dr-view.htm...
 Generated FIELD_APP\FA-Asmt-Tasks\dr-view.htm
@@ -514,11 +516,11 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 551
-Output generated in 1 minute(s) and 7 second(s).
+Ignored Compiler Warnings: 556
+Output generated in 1 minute(s) and 20 second(s).
 
 Done
-Saving log to "C:\SourceControl\Core\ESMS.Help\Output\RDCERBRA\ESMS-Web-Reorg-2023\ESMS-Web-Reorg-2023.mclog"
+Saving log to "C:\SourceControl\esmshelp\Output\RDCERBRA\ESMS-Web-Reorg-2023\ESMS-Web-Reorg-2023.mclog"
 </Messages>
     <Warnings>
         <LogEntry Message="Term: RSL, defined in more than one glossary file.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Glossary" Target="ESMS-Web-Reorg-2023" ErrorID="10018" />
@@ -529,7 +531,7 @@ Saving log to "C:\SourceControl\Core\ESMS.Help\Output\RDCERBRA\ESMS-Web-Reorg-20
         <LogEntry Message="Term: FI, defined in more than one glossary file.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Glossary" Target="ESMS-Web-Reorg-2023" ErrorID="10018" />
         <LogEntry Message="Term: MDI, defined in more than one glossary file.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Glossary" Target="ESMS-Web-Reorg-2023" ErrorID="10018" />
         <LogEntry File="../../../Content/ESMS-WEB/ESMS-Inventory/invalid-html-filter-dds.htm" Message="Topic contains invalid XHTML.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="ESMS-Web-Reorg-2023" ErrorID="20058" />
-        <LogEntry File="../../../Content/AdminESMS/Archive/first-version/ESMS-Security.htm" Message="Missing linked source file: C:\SourceControl\Core\ESMS.Help\Content\AdminESMS\Archive\Navigation\imgs\esms-securityNP-icon-dash-2018.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="ESMS-Web-Reorg-2023" ErrorID="10001" />
+        <LogEntry File="../../../Content/AdminESMS/Archive/first-version/ESMS-Security.htm" Message="Missing linked source file: C:\SourceControl\esmshelp\Content\AdminESMS\Archive\Navigation\imgs\esms-securityNP-icon-dash-2018.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="ESMS-Web-Reorg-2023" ErrorID="10001" />
         <LogEntry Message="Linked index term &quot;Location Factors&quot; is not in the index, skipping the link &quot;Seismic Zone&quot;...&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="ESMS-Web-Reorg-2023" ErrorID="10069" />
         <LogEntry Message="Linked index term &quot;Location Factors&quot; is not in the index, skipping the link &quot;HVAC Zone&quot;...&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="ESMS-Web-Reorg-2023" ErrorID="10069" />
         <LogEntry Message="Linked index term &quot;Section&quot; is not in the index, skipping the link &quot;Component-Section&quot;...&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="ESMS-Web-Reorg-2023" ErrorID="10069" />
