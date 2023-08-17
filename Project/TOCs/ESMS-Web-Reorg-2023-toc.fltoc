@@ -395,28 +395,10 @@
           Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Operator-Pre-Assessment-Plans.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Assessor-Pre-Assessmt-Team.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          Link="/Content/ESMS-WEB/ESMS-Assessments/Assessment-Team-Tab.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-        <TocEntry
-          Title="Post-Assessment Stage"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
+          Link="/Content/ESMS-WEB/ESMS-Assessments/Field-Quest-Sum.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
