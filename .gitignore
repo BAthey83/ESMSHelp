@@ -3,9 +3,13 @@
 
 
 # Ignore MadCap Flare Analyzer and Output files
-ESMSHelp/Analyzer/
-ESMSHelp/Project/Users/
+esmshelp/Analyzer/*
+esmshelp/Project/Users/*
 
+*.fldb
+*.s3db
+*.s3db-shm
+*.s3db-wal
 
 
 
