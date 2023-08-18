@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Under-Quest-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Mgr.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-Name-Type.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Group-Types-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Groups-Custom-Attributes.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Under-Quest-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm#Add" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm#Add2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm#Add3" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm#Add4" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm#Add5" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Mgr.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-Name-Type.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Group-Types-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Groups-Custom-Attributes.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Add_Component_Type" />
+    <Anchor
+      Name="Add" />
+    <Anchor
+      Name="Add2" />
+    <Anchor
+      Name="Add3" />
+    <Anchor
+      Name="Add4" />
+    <Anchor
+      Name="Add5" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="164" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

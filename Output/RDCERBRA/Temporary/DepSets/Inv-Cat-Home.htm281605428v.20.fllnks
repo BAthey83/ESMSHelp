@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Inventory Catalog"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Gen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Full-Custom-Attributes.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Test-Ref.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Group-General-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Test-Custom-Cat.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Spec-Tab-Test.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/UoM.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Gen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Full-Custom-Attributes.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Test-Ref.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Group-General-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Test-Custom-Cat.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Spec-Tab-Test.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/UoM.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

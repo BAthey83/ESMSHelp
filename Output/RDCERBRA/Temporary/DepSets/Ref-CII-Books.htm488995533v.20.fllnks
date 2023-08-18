@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/CII-Book-Main.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cust-CII-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-CII-Book.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-CII-Book.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm#About" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm#CII Data" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm#Assign" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/CII-Book-Main.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cust-CII-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-CII-Book.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-CII-Book.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="About" />
+    <Anchor
+      Name="CII Data" />
+    <Anchor
+      Name="Assign" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

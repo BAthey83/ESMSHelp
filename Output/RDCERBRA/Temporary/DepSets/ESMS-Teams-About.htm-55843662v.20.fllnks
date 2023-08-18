@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Delete-Team_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Delete-Member_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Assign-Permission-Roles_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Change-Team-Name_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Remove-Permission-Role_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Edit-Role_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Change-Role-Name_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-role/detail-role.PNG" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Delete-Team_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Delete-Member_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Assign-Permission-Roles_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Change-Team-Name_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Remove-Permission-Role_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Edit-Role_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Change-Role-Name_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm#NavTeamDetails" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm#NavRoleDetails" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-role/detail-role.PNG" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="NavTeamDetails" />
+    <Anchor
+      Name="NavRoleDetails" />
+    <Anchor
+      Name="Command" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Add:Team"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Roles"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="26" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="34" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="74" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Catalog-Dropdown-Menu.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Catalog-Dropdown-Menu.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

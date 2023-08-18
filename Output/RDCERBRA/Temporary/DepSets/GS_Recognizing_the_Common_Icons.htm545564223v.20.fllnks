@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Recognizing Common Icons"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete">
+  <Links>
+    <Link
+      Url="Content/Resources/ICONS/Organization_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Gray.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Green.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Yellow.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Red.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection_Gray.gif" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection_Green.gif" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection-Yellow.gif" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection_Red.gif" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Rollup.png" />
+    <Link
+      Url="Content/Resources/ICONS/Refresh.png" />
+    <Link
+      Url="Content/Resources/ICONS/Save.png" />
+    <Link
+      Url="Content/Resources/ICONS/Comment.png" />
+    <Link
+      Url="Content/Resources/ICONS/New2.png" />
+    <Link
+      Url="Content/Resources/ICONS/Edit.png" />
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+    <Link
+      Url="Content/Resources/ICONS/Delete2.png" />
+    <Link
+      Url="Content/Resources/ICONS/Cancel.png" />
+    <Link
+      Url="Content/Resources/ICONS/Proceed.png" />
+    <Link
+      Url="Content/Resources/ICONS/Close.png" />
+    <Link
+      Url="Content/Resources/ICONS/Help.png" />
+    <Link
+      Url="Content/Resources/ICONS/Calendar.png" />
+    <Link
+      Url="Content/Resources/ICONS/Reports.png" />
+    <Link
+      Url="Content/Resources/ICONS/Evaluate.png" />
+    <Link
+      Url="Content/Resources/ICONS/Target.png" />
+    <Link
+      Url="Content/Resources/ICONS/Measurement.png" />
+    <Link
+      Url="Content/Resources/ICONS/Generate.png" />
+    <Link
+      Url="Content/Resources/ICONS/Prioritize.png" />
+    <Link
+      Url="Content/Resources/ICONS/Rankings.png" />
+    <Link
+      Url="Content/Resources/ICONS/Funding.gif" />
+    <Link
+      Url="Content/Resources/ICONS/Export.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/ICONS/Organization_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Organization_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Site_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Complex_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/Building_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Add.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Delete.png" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Gray.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Green.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Yellow.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MembraneRoofSection_Red.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection_Gray.gif" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection_Green.gif" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection-Yellow.gif" />
+    <Link
+      Url="Content/Resources/ICONS/MetalRoofSection_Red.gif" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Gray.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Green.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Yellow.png" />
+    <Link
+      Url="Content/Resources/ICONS/SteepRoofSection_Red.png" />
+    <Link
+      Url="Content/Resources/ICONS/Rollup.png" />
+    <Link
+      Url="Content/Resources/ICONS/Refresh.png" />
+    <Link
+      Url="Content/Resources/ICONS/Save.png" />
+    <Link
+      Url="Content/Resources/ICONS/Comment.png" />
+    <Link
+      Url="Content/Resources/ICONS/New2.png" />
+    <Link
+      Url="Content/Resources/ICONS/Edit.png" />
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+    <Link
+      Url="Content/Resources/ICONS/Delete2.png" />
+    <Link
+      Url="Content/Resources/ICONS/Cancel.png" />
+    <Link
+      Url="Content/Resources/ICONS/Proceed.png" />
+    <Link
+      Url="Content/Resources/ICONS/Close.png" />
+    <Link
+      Url="Content/Resources/ICONS/Help.png" />
+    <Link
+      Url="Content/Resources/ICONS/Calendar.png" />
+    <Link
+      Url="Content/Resources/ICONS/Reports.png" />
+    <Link
+      Url="Content/Resources/ICONS/Evaluate.png" />
+    <Link
+      Url="Content/Resources/ICONS/Target.png" />
+    <Link
+      Url="Content/Resources/ICONS/Measurement.png" />
+    <Link
+      Url="Content/Resources/ICONS/Generate.png" />
+    <Link
+      Url="Content/Resources/ICONS/Prioritize.png" />
+    <Link
+      Url="Content/Resources/ICONS/Rankings.png" />
+    <Link
+      Url="Content/Resources/ICONS/Funding.gif" />
+    <Link
+      Url="Content/Resources/ICONS/Export.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Recognizing Common Icons"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="74" />
+    <IndexCacheEntry
+      Term="Work Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="113" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="122" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Primary.Product" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

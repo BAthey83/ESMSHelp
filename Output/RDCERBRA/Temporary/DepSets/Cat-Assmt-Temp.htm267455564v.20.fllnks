@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Add-Questionnaire-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Assmt-Temp-Buttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Cmp-Type-Window.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Assmt-Temp-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Value-Cat.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Create-Cat-Type.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Add-Questionnaire-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Assmt-Temp-Buttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Cmp-Type-Window.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Assmt-Temp-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Value-Cat.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Create-Cat-Type.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

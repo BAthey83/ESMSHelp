@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/ESMS-Entry-Level Tasks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/ESMS-Entry-Level Tasks.htm#domain" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/ESMS-Entry-Level Tasks.htm#task-area" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="domain" />
+    <Anchor
+      Name="Select" />
+    <Anchor
+      Name="task-area" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Task Area"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="Task Area:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="64" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="69" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

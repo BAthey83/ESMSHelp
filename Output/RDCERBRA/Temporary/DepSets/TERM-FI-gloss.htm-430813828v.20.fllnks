@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Terms/TERM-FI-gloss.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm" />
+    <Link
+      Url="Content/Resources/Terms/imgs/BFI-diagram.png" />
+    <Link
+      Url="Content/Resources/Terms/imgs/FI-example.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/overview/fa_functionality_assessment_overview.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Terms/TERM-FI-gloss.htm#Function" />
+    <Link
+      Url="Content/Resources/Terms/TERM-FI-gloss.htm#Building" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/performing_fa/fa_performing_first_tier_functionality_assessments.htm" />
+    <Link
+      Url="Content/Resources/Terms/imgs/BFI-diagram.png" />
+    <Link
+      Url="Content/Resources/Terms/imgs/FI-example.png" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/Builder.htm#inventory/buildings/inv_editing_building_inventory_data.htm#kanchor323" />
+    <Link
+      Url="https://builder.sms.erdc.dren.mil/USA/Help/content/functionality_assessment/overview/fa_functionality_assessment_overview.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Function" />
+    <Anchor
+      Name="Building" />
+    <Anchor
+      Name="Related_Topics" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Functionality"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

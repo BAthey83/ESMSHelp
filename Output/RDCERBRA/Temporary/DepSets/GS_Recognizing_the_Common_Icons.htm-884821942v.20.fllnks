@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Recognizing the Common Icons"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete">
+  <Links>
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/MembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/GreenMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/YellowMembraneSection.gif" />
+    <Link
+      Url="Content/Resources/R-ICONS/RedMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rollup.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Refresh.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/save.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Comment.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Reports.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/New2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Delete2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Close.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Help.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Calendar.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Generate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Prioritize.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rankings.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Export.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Cancel.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Proceed.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Evaluate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Edit.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Target.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Measurement.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/MembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/GreenMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/YellowMembraneSection.gif" />
+    <Link
+      Url="Content/Resources/R-ICONS/RedMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rollup.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Refresh.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/save.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Comment.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Reports.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/New2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Delete2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Close.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Help.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Calendar.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Generate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Prioritize.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rankings.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Export.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Cancel.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Proceed.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Evaluate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Edit.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Target.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Measurement.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Recognizing Common Icons"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

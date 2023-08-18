@@ -4,7 +4,7 @@
         <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Assessments\imgs\Pre-Assessment-Team-Add-Update.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Assessments\Field-Quest-Sum.htm" />
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Assessments\Work-Charter-Pre-Assessment-Team.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
         <Link Value="C:\SourceControl\Core\ESMS.Help\Content\ESMS-WEB\ESMS-Workflow Editor\Edit-Scheme-Transitions.htm" />

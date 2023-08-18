@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalSkinCache
-  SavedSource="file:///C:/SourceControl/Core/ESMS.Help/Output/RDCERBRA/Temporary/GlobalSkinSet v.1.xml">
+  SavedSource="file:///C:/SourceControl/esmshelp/Output/RDCERBRA/Temporary/GlobalSkinSet v.1.xml">
   <Map>
     <Tag
       Name="Logo" />
@@ -227,6 +227,6 @@
     <Url
       Source="../Project/Skins/DefaultHTML5.flskn" />
     <Url
-      Source="../../../../Program Files/MadCap Software/MadCap Flare 19/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 19/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
   </SourceUrls>
 </CatapultGlobalSkinCache>

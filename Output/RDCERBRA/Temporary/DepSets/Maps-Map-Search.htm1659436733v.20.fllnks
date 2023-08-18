@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Map-Search-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/Maps-Map-Search.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-View-Map.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-Filters-Complete.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-List-View-Icon.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Map-Search-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/Maps-Map-Search.htm#Maps" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/Maps-Map-Search.htm#Filters" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/Maps-Map-Search.htm#List" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-View-Map.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-Filters-Complete.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Maps/imgs/Maps-List-View-Icon.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Maps" />
+    <Anchor
+      Name="Filters" />
+    <Anchor
+      Name="List" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

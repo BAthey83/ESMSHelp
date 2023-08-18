@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Work-Items-Add-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Create-Work-Item-New.png" />
+    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Pre-Assessment-Team-Add-Update.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Add-Full-Desktop.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Manage-Disciplines-Button.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Manage-Disciplines-2023.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/User-Search-Popup.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Add-Team-Member.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Pre-Assessment-Team-Add-Update.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Non-Workflow-Assessment-Screen.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Package Editor-Work-Package-Tab.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Package Editor-Work Package Tab.png" />
@@ -18,6 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Inflation-Book-2.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Infl-Bk-Highlighted.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Changes-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost Record Screenshots.png" />
 </UrlList>

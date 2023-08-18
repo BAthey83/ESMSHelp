@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Pwr-BI-Bttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Power-BI-Main-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Crte-PowerBI-Rpt.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Save-Bttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Pwr-BI-Bttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Power-BI-Main-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Crte-PowerBI-Rpt.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Save-Bttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

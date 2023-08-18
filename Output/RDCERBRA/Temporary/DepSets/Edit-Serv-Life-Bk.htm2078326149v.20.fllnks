@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Serv-Life-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Serv-Life-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Serv-Life-Menu-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Service-Life.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Changes-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Serv-Life-Bk.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Serv-Life-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Serv-Life-Bk.htm#Open" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Serv-Life-Bk.htm#Edit" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Serv-Life-Bk.htm#Save" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Serv-Life-Menu-Tab.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Service-Life.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Changes-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Serv-Life-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm#Assign" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Open" />
+    <Anchor
+      Name="Edit" />
+    <Anchor
+      Name="Save" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

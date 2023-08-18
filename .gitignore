@@ -3,8 +3,8 @@
 
 
 # Ignore MadCap Flare Analyzer and Output files
-ESMS.Help/Analyzer/
-ESMS.Help/Project/Users/
+ESMSHelp/Analyzer/
+ESMSHelp/Project/Users/
 
 
 
