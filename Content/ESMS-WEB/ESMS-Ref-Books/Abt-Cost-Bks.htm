@@ -6,14 +6,14 @@
         <h1>About Cost Books</h1>
         <hr style="font-family: Arial;text-align: left;" />
         <p><b>Enterprise SMS</b>&#160;has an embedded cost module, used in the critical areas of work planning and condition assessment, that assigns cost values to inventory. The data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. </p>
-        <p>A default cost book is provided and is all that is required. Optionally, a customized inflation book can be used in place of the default. Multiple customized cost books can be associated with different Organizations. This topic explains how to do this. </p>
+        <p>Default costs are provided within <MadCap:xref href="Ref-Books-Work-Act.htm">Work Actions</MadCap:xref>, and are all that is required. Optionally, a customized inflation book can be used in place of the default costs. Multiple customized cost books can be associated with different Organizations. This topic explains how to take full advantage of Cost Books. </p>
         <hr style="font-family: Arial;text-align: left;" />
         <p style="margin-left: 32px;"><b>Permissions Note:</b> Depending on the operation (e.g., adding vs. deleting a book), configuring cost book data requires either Work Planner or Master Planner permissions. A user with Master Planner Role has all the rights of a Work Planner, and can also generate multi-year work plan scenarios, and 
 		edit any and all data saved by other users of the program. Master Planner is the highest level of user privileges. The ability to assign a custom reference book to an Organization depends on your permissions for that Organization.</p>
         <p style="margin-left: 0;">Enterprise SMS's embedded cost module contributes to multiple Enterprise SMS&#160;functions:</p>
         <ul>
-            <li>Inventory:&#160;Provides inventory replacement costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
-            <li>Condition index calculations: Replacement costs are used as weighing factors in rolling up <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term1">CI</MadCap:glossaryTerm>s in the inventory hierarchy.</li>
+            <li>Inventory:&#160;Provides itemization costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
+            <li>Condition index calculations: Condition costs are used as weighing factors in rolling up <MadCap:glossaryTerm glossTerm="ESMS-gloss.Term1">CI</MadCap:glossaryTerm>s in the inventory hierarchy.</li>
             <li>Work planning:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
         </ul>
         <p>The cost data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. A given Organization can have many defined cost books. Multiple cost books can also be associated with different Organizations. A&#160;single book can be assigned to an Organization for 
@@ -23,7 +23,7 @@
         <h2>Cost Data</h2>
         <p>The  cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be associated with different Organizations as desired (see <MadCap:xref href="Assign-Cost-Bk-Org.htm">Assign a Cost Book to an Organization</MadCap:xref>). </p>
         <h3 style="font-style: italic;">Default Cost Book</h3>
-        <p style="font-style: normal;">The Default Cost Book establishes default costs for any combination of any Specifications or <MadCap:xref href="Ref-Books-Work-Act.htm">Work Actions</MadCap:xref> not overridden in the cost book. </p>
+        <p style="font-style: normal;">The Default Cost Book establishes default costs for any combination of any Specifications, or <MadCap:xref href="Ref-Books-Work-Act.htm">Work Actions</MadCap:xref>, not overridden in the cost book. </p>
         <h3 style="font-style: italic;">Custom Cost Book(s)</h3>
         <p style="font-style: normal;">You can manage cost data by using custom cost books. To create custom cost data, you can either:</p>
         <ol style="list-style-type: lower-alpha;">
@@ -33,16 +33,30 @@
         <p>By assigning a custom cost book to an Organization, you can control the scope of that cost book, applying custom values to either all or part of the cost book.</p>
         <h3>Features and Search Bar</h3>
         <ul>
-            <li><b>Specification</b>: The item selected for editing within the cost book.</li>
-            <li><b>Activity</b>: The Global Repair, Replace or Demolish action required for the specified item.</li>
-            <li><b>Level</b>: The Building or Component-Section required for the specified item.</li>
-            <li><b>Parent</b>: The parent Organization for the specified item.</li>
-            <li><b>Current Cost</b>: The most recent value of the specified item.</li>
-            <li><b>Original Cost</b>: The earliest value of the specified item.</li>
-            <li><b>Cost Year</b>: The year used to calculate a specified item's inflation data. </li>
+            <li><b>Work Action</b>: The process(es) being executed, and the cost book item listed under <b>Specification</b>.</li>
+            <li><b>Specification</b>: The item to be edited within the cost book.</li>
+            <li><b>Activity</b>: The <b>Global Repair</b>, <b>Replace</b> or <b>Demolish</b> action required for the specified item.</li>
+            <li><b>Object Type</b>: Identifies the kind of item found within the cost book.</li>
+            <li><b>Domain</b>: The domain applied to the cost book, such as <b>Utility-Gas</b>, <b>Waterfront</b>, or <b>Facility-Buildings</b>. </li>
+            <li><b>Description</b>: Identifies the cost book item. </li>
+            <li><b>Level</b>: The Building or Component-Section required for the specified cost book item.</li>
+            <li><b>Parent</b>: The parent Organization for the specified cost book item.</li>
+            <li><b>Current Cost</b>: The most recently calculated value of the specified cost book item.</li>
+            <li><b>Original Cost</b>: The earliest known calculated value of the specified cost book item.</li>
+            <li><b>Cost Year</b>: The year used to calculate an item's inflation data. </li>
             <li>
                 <MadCap:glossaryTerm glossTerm="Primary.Term60" style="font-weight: bold;">UoM</MadCap:glossaryTerm>: The Unit of Measurement for the selected item(s).</li>
-            <li><b>Clear</b>: Select this option to clear all Filters. </li>
+            <li><b>Minimum Cost</b>: The base-level value of the cost book item.</li>
+            <li style="text-align: left;"><b>Materials</b>: The value of materials used to complete the cost book item.</li>
+            <li style="text-align: left;"><b>Labor</b>: The value of the work used to execute the cost book item.</li>
+            <li style="text-align: left;"><b>Equipment</b>: The value of equipment used for the cost book item.</li>
+            <li style="text-align: left;"><b>Bare Total</b>: The estimated total value of the cost book.</li>
+            <li style="text-align: left;"><b>Source</b>: The foundation of the cost book.</li>
+            <li style="text-align: left;"><b>Frequency</b>: Describes how often the cost book data is updated.</li>
+            <li style="text-align: left;"><b>Crew</b>: The number of people assigned to the cost book.</li>
+            <li style="text-align: left;"><b>Daily Output</b>: The cost book's output value per day.</li>
+            <li style="text-align: left;"><b>Total Output</b>: The cost book's overall value for the fiscal year.</li>
+            <li><b>Remove</b>: Select this option to remove the cost book. </li>
         </ul>
         <h2>Cost Book Tasks</h2>
         <p>Tasks you can perform are to:</p>

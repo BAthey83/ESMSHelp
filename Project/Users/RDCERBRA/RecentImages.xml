@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Spec-Filter.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Wk-Act-Features.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Bk-Wk-Act.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Work-Actions-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Work-Items-Add-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Create-Work-Item-New.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Pre-Assessment-Team-Add-Update.png" />
@@ -14,10 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Menu-Options.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Standard-Selection.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/3-Buttons.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Work-Action-Save.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Inflation-Book-2.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Infl-Bk-Highlighted.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
 </UrlList>
