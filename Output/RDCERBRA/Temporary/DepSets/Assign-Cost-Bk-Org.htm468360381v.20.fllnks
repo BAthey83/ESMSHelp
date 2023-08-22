@@ -10,11 +10,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Select.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" />
     <Link
@@ -28,11 +32,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Select.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" />
     <Link

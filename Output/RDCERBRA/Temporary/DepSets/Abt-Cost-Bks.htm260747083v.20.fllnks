@@ -6,11 +6,11 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
     <Link
@@ -24,11 +24,11 @@
   </Links>
   <LongLinks>
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
     <Link

@@ -362,5 +362,6 @@
     <Word Comment="">revisions/updates</Word>
     <Word Comment="">2x2x2</Word>
     <Word Comment="">item/work</Word>
-    <Word>Non-Workflow</Word>
+    <Word Comment="">Non-Workflow</Word>
+    <Word>default/parent</Word>
 </SpellingDictionary>
