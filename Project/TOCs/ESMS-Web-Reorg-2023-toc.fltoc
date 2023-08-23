@@ -467,9 +467,6 @@
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Abt-Rep-Cost-Calc.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry

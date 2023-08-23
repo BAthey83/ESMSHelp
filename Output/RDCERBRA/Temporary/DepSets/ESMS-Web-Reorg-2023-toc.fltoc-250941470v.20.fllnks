@@ -76,6 +76,22 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Assessment-Plan-Tabs.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Details.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Assets.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Groups.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Operator-Pre-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Assessment-Team-Tab.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Field-Quest-Sum.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Tab.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/ESMS-Work-About.htm" />
@@ -84,7 +100,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Set-Standards.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Gen-wkitem-list.htm" />
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Items-Tab.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Work-Items.htm" />
     <Link
@@ -118,44 +134,6 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-WBS-Details/ESMS-Edit-WBS-Details-Dialog.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/About-Workflow-Stages.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Home.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Details.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Assets.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Groups.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Operator-Pre-Assessment-Plans.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Assessor-Pre-Assessmt-Team.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Add-Scheme.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Man-Sch-Para.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Manage-Wkflw-Perm.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Tasks/Tasks-Home.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" />
@@ -179,8 +157,6 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Rep-Cost-Calc.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
     <Link
