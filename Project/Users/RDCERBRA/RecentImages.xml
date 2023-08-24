@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Select.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Record-Select.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Save-Changes.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Remove-Button.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Select.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Spec-Filter.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Wk-Act-Features.png" />
@@ -18,6 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Manage-Disciplines-Button.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Manage-Disciplines-2023.png" />
     <Url Source="ESMS-WEB/ESMS-Assessments/imgs/User-Search-Popup.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Add-Team-Member.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Non-Workflow-Assessment-Screen.png" />
 </UrlList>
