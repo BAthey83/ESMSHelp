@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Confirm.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Del-Button.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Select.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Cost-Book.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book-2.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Record-Select.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Save-Changes.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost Record Screenshots.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Remove-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Spec-Filter.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Wk-Act-Features.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Bk-Wk-Act.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Work-Actions-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Work-Items-Add-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Create-Work-Item-New.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Pre-Assessment-Team-Add-Update.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Add-Full-Desktop.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Manage-Disciplines-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/Manage-Disciplines-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Assessments/imgs/User-Search-Popup.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/3-Buttons.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Search-Cost-Books.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Wk-Act-Features.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Floppy-Disk.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Save-Changes.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
 </UrlList>

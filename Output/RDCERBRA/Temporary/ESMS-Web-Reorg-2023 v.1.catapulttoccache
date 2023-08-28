@@ -459,14 +459,11 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Title="Viewing and Editing a Cost Book"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
