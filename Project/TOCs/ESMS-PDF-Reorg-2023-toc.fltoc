@@ -457,7 +457,7 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="Viewing and Editing a Cost Book"
+        Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"

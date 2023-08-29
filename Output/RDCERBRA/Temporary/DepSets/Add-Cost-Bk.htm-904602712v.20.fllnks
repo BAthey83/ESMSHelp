@@ -24,7 +24,7 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm#Edit" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
     <Link
@@ -34,9 +34,9 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book-2.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm#Edit" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
     <Link

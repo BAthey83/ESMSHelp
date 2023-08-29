@@ -14,7 +14,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
     <Link
@@ -48,7 +48,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm#Edit" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm#Edit" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
     <Link
