@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Org-Menu.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Org-Ref-Books.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Create-Mod-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Trashcan-Icon.png" />
@@ -16,8 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Select.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Confirm.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Del-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Cost-Book.png" />
 </UrlList>

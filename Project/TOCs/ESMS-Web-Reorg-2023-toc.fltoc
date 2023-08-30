@@ -114,6 +114,9 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Sites">
