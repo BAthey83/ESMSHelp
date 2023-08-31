@@ -4,7 +4,33 @@
     </head>
     <body>
         <h1>About Cost Modifiers</h1>
-        <p><b>Cost Modifiers</b> are multipliers or adders that can be applied in order to adjust Section replacement costs. Users can implement a cost modifier to increase costs by 10%. Modified costs  
+        <hr style="font-family: Arial;text-align: left;" />
+        <p>This topic explains information available at the <b>Cost Modifiers</b> screen. It also details the tasks that can be performed there. </p>
+        <hr style="font-family: Arial;text-align: left;" />
+        <h2 style="text-align: left;font-style: italic;font-family: Arial;">—Quick Links—</h2>
+        <ul>
+            <li>
+                <MadCap:xref href="#Cost">Cost Modifier Basics</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="#Cost2">Cost Modifier Types</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="#Cost3">Cost Adder</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="#Cost4">Cost Multiplier</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="#Assignin">Assigning Cost Modifiers</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="#Cost5">Cost Modifier Tasks</MadCap:xref>
+            </li>
+        </ul>
+        <h2><a name="Cost"></a>Cost Modifier Basics</h2>
+        <p style="font-style: italic;"> </p>
+        <p><b>Cost Modifiers</b> are multipliers or adders that can be applied in order to adjust Section replacement costs. Users can create a cost modifier to increase costs by 10%. Modified costs  
 		also affect <MadCap:glossaryTerm glossTerm="Primary.Term18">CI</MadCap:glossaryTerm> roll-up weights, work 
 			plan item costs, and costs output by Scenario simulations. </p>
         <p>The option to apply cost multipliers and adders from the Site level down to the individual Section 
@@ -18,18 +44,20 @@
         <p>A Section 
 			can inherit one or more cost modifiers from a parent as well as have its own modifier applied. For example, if the Building multiplier is 2, 
 		the System multiplier is 2, and the Section multiplier is 2, the Section cost will be multiplied by a factor of 8 (2x2x2).</p>
-        <h2>Cost Modifier Types</h2>
+        <h2><a name="Cost2"></a>Cost Modifier Types</h2>
         <p>The cost modifier types listed below are applied in addition to <MadCap:glossaryTerm glossTerm="Primary.Term1">Area Cost Factor</MadCap:glossaryTerm>, 
 		the General Multiplier for the cost book, and any specific multipliers for the cost book.</p>
         <p>The cost multiplier is a multiplying factor applied to all child Sections. 
-		For example, if a Building has a 1.5 cost multiplier, then the 1.5 multiplier will be applied to all Sections below the Building.</p>
-        <h2>Cost Adder</h2>
+		For example, if a Building has a 10% cost multiplier, then the 10% multiplier will be applied to all Sections below the Building.</p>
+        <h2><a name="Cost3"></a>Cost Adder</h2>
         <p>The cost adder is a fixed cost applied to all child Sections. For example, if a Building has a $2700 cost adder, then all Sections within that Building will be assigned a $2700 cost adder.</p>
-        <h2>Assigning Cost Modifiers</h2>
+        <h2><a name="Cost4"></a>Cost Multiplier</h2>
+        <p>The cost multiplier is a fixed cost applied to all child Sections. For example, if a Building has a $2700 cost multiplier, then all Sections within that Building will be assigned a $2700 cost multiplier. </p>
+        <h2><a name="Assignin"></a>Assigning Cost Modifiers</h2>
         <p>Users with elevated permissions can create and name multiple cost modifier libraries, defining separate  libraries as needed for different Organizations and Sites.</p>
         <p>Once an active cost modifier library has been selected for an Organization or Site, 
-		the modifiers in the library can be assigned to the Enterprise SMS inventory.</p>
-        <h2>Cost Modifier Tasks</h2>
+		the modifiers  can be assigned to the Enterprise SMS inventory.</p>
+        <h2><a name="Cost5"></a>Cost Modifier Tasks</h2>
         <ul>
             <li>
                 <MadCap:xref href="View-Cost-Mod-Lib.htm">View a Cost Modifier Library</MadCap:xref>

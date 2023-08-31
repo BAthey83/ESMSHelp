@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Button.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Org-Menu.png" />
@@ -15,7 +16,6 @@
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Book-Name-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Del-Cost-Mod-Book-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Search-Cost-Books.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Add-Book-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Select.png" />
