@@ -6,6 +6,8 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Mod-Lib.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
@@ -18,6 +20,18 @@
   </Links>
   <LongLinks>
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost3" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost4" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Assignin" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost5" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Mod-Lib.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
@@ -28,7 +42,20 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-CM.htm" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Cost" />
+    <Anchor
+      Name="Cost2" />
+    <Anchor
+      Name="Cost3" />
+    <Anchor
+      Name="Cost4" />
+    <Anchor
+      Name="Assignin" />
+    <Anchor
+      Name="Cost5" />
+  </Anchors>
   <Keywords />
   <Concepts />
   <ConceptControlNames />
