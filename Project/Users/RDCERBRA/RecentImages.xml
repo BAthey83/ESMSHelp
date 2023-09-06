@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-2.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Create-Cost-Mod-Book-2.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Del-Cost-Mod-Book-Popup.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Book-Name-Icon.png" />
@@ -16,8 +18,6 @@
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Org-Menu.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Org-Ref-Books.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Create-Mod-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Delete-Trashcan-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Book-Window.png" />
 </UrlList>
