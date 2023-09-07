@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\imgs\Ref-Books-Cost-Mod.png" />
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\imgs\Filter-Column-Icon.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Sites\Work-with-Sites.htm" />
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\Del-Cost-Bk.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
         <Link Value="C:\SourceControl\Core\ESMS.Help\Content\ESMS-WEB\ESMS-Workflow Editor\Edit-Scheme-Transitions.htm" />
