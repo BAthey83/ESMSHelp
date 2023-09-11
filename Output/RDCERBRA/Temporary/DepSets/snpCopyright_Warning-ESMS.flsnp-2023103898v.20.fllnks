@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Primary.flcts" />
+    <Link
+      Url="Content/0Welcome/Welcome-Assets/CERL_Castle_logo.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Primary.flcts" />
+    <Link
+      Url="Content/0Welcome/Welcome-Assets/CERL_Castle_logo.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Copyright"
+      Conditions=""
+      LocalConditions=""
+      Position="3" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Primary.ScreenOnly" />
+    <Condition
+      Tag="Primary.PrintOnly" />
+    <Condition
+      Tag="Primary.PDF Copy Only" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

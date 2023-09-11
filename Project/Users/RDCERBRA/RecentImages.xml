@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Filter.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Book-Name-Menu.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Work-Action-Screen.png" />
@@ -18,6 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Modifier-Popup.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Mod-Book-Screen.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Save-Button.png" />
 </UrlList>
