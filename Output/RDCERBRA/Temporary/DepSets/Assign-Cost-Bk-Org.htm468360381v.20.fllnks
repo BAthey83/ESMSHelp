@@ -1,48 +1,101 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="Assign a Cost Book to an Organization"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Menu.png" />
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Ref-Books.png" />
+      Url="Skins/Default/Stylesheets/Topic.css" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Button.png" />
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button_232x294.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Rep-Cost-Calc.htm" />
+    <Link
+      Url="Default.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Menu.png" />
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Ref-Books.png" />
+      Url="Skins/Default/Stylesheets/Topic.css" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Button.png" />
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button_232x294.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Rep-Cost-Calc.htm" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -53,5 +106,18 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

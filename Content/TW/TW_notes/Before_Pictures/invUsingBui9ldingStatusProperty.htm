@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-priority="0" data-mc-time-estimate="0" data-mc-status="Complete" data-mc-check_list="Ran Smart Index" data-mc-ignored-words="prioritization;FEMA;DoD;UFC;ATFP;PVB;IBC;FCI;FI;BFI;POC;POC's;BCI;MDI;BPI;RSL;BUILDER's;IAQ;ISR;Securement;sustainment;Uniformat;recoating;FP">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>Using the Building Status Property</title>
+        <link href="../../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <h1>Using a Building's Current Status Property</h1>
+        <p>do initial overview of current vs non-current</p>
+        <p>The Current Status property allows you to maintain database records for buildings not currently in your physical inventory, whether for historical purposes or future planning. A Building's current status is used in the decision processes of both BUILDER and Scenarios, and it is the basis for a number of useful capabilities, including allowing you to:</p>
+        <ul>
+            <li>Define policies so that buildings scheduled for demolition are maintained at a lower standards than might generally apply. Simply use the Current Status as one of the attributes used to define a policy and assign standards as appropriate to each status type.</li>
+            <li><a name="kanchor1311"></a>Define work prioritization schemes that consider future changes in a Building's status in prioritizing work items. This can be done by using the Current Status property as an initial split in your prioritization scheme and assigning weights appropriate for each status type (probably using 0.</li>
+            <li>&#160;</li>
+            <li> weight for non-current status types).</li>
+            <li><a name="kanchor1312"></a>Plan for the maintenance load of buildings to be added to your inventory in the future by analyzing a Scenario.</li>
+            <li>Change the status of a building dynamically during a Scenario simulation to study the effects of a changing inventory on the budget and the work load. </li>
+        </ul>
+        <p><a name="kanchor1313"></a>The Current Status property is set on the Building Summary screen and has one of the following values:</p>
+        <ul>
+            <li><span class="span_1">Active</span> -This is the default status. Use this status for buildings that are currently in use. This status is the end status for buildings with status "To be built" or "To be acquired." </li>
+            <li><span class="span_1">Vacant</span> -This status replaces the "Vacant" checkbox property used in earlier versions of BUILDER. Use this status for buildings that are currently in your physical inventory but not in use. </li>
+            <li><span class="span_1">To be transferred</span> -Use this status for buildings that will be transferred to another owner in the future. The effective year of this status is the year in which the transfer will take place. No BUILDER or Scenarios cost is associated with such a transfer. However, maintenance policies may be associated with this status that yield different standards than would ordinarily be in effect. </li>
+            <li><span class="span_1">To be demolished</span> -Use this status for buildings that will be demolished in the future. The effective year of this status is the year in which the building is to be demolished. In a Scenarios simulation, a Building-level work item to demolish the building will be generated, including a cost estimate for the work. In addition, maintenance policies may be associated with this status that lower the standards usually required for this type of building. </li>
+            <li><span class="span_1">To be acquired</span><a name="kanchor1314"></a> -Use this status to enter inventory records for an existing building prior to its acquisition. The effective year of this status is the year in which the building is expected to be acquired. You will be able to edit the building and inspection data for this type of building, and BUILDER's condition and remaining service life predictions will be applied based on the inspection data entered. In this way, you will be able to estimate the maintenance requirements of such a building prior to its acquisition. In a Scenarios simulation, this feature allows you to acquire buildings as the simulation progresses. </li>
+            <li><span class="span_1">To be built</span> -Use this status to enter inventory records for a new building prior to its commissioning for occupancy. The effective year of this status is the year in which the building is expected to be recognized as part of your physical inventory. In BUILDER, you will be able to edit the building data on the Building Summary screen but will not be able to add inspection records until the status changes to "Active." In a Scenarios simulation, this feature allows you to add new buildings dynamically as the simulation progresses. </li>
+            <li><span class="span_1">Transferred</span> -Use this status to force BUILDER's automated processes for condition/service life assessment and work planning to skip the building but leave the inventory and inspection records intact. The effective year for this status is the year in which the transfer takes place. This status is the end status of the "To be transferred" status. </li>
+            <li><span class="span_1">Demolished</span> -Use this status to remove a building from BUILDER's automated processes for condition/service life assessment and work planning but leave the inventory and inspection records intact. The effective year for this status is the year in which the building is demolished. This status is the end status of the "To be demolished" status. </li>
+        </ul>
+        <p>The last four of these values indicate that the designated building is not currently part of the inventory, and two others (to be transferred and to be demolished) indicate that the building will be removed from the inventory in the future. In essence, the Current Status property allows you to enter future buildings into the inventory and to plan for their maintenance in Scenarios even though they are not presently owned. In addition, the Current Status property allows you to keep records for buildings that are no longer in the physical inventory. Such records are ignored in processes that should only consider current buildings, such as condition rollups and work planning.</p>
+        <p><a name="kanchor1315"></a>When you delete a Building , you actually remove all database records associated with that building. If you wish to keep the records, whether for historical purposes, analysis, or possible transfer to another BUILDER database (perhaps the building is being transferred from one property book to another), you should simply set the Current Status property to an appropriate value.</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../../Default.htm#TW/TW_notes/Before_Pictures/invUsingBui9ldingStatusProperty.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>
