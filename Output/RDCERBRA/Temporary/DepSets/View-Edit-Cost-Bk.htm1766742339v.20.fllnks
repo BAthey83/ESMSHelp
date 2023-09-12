@@ -20,9 +20,17 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/3-Buttons.png" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Adding-Cost-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Book-Name-Menu.png" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Icon.png" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Filter.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Remove-Button.png" />
     <Link
@@ -35,8 +43,6 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -54,9 +60,17 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/3-Buttons.png" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Adding-Cost-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Book-Name-Menu.png" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Icon.png" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Filter.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Remove-Button.png" />
     <Link
@@ -69,8 +83,6 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
   </LongLinks>
   <Anchors>
     <Anchor

@@ -461,13 +461,13 @@
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Adding-Cost-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Cost Modifiers">
@@ -495,45 +495,18 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Add-Cust-CII-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Edit-CII-Book.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Del-CII-Book.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
     </TocEntry>
     <TocEntry
       Title="Service Life Books">
       <TocEntry
         Title="About Service Life Books"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Add-Serv-Life-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Edit-Serv-Life-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Del-Serv-Life-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
     </TocEntry>
     <TocEntry
       Title="Inflation Books">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Add-Infl-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Edit-Infl-Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Del-Infl-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Work Actions">
