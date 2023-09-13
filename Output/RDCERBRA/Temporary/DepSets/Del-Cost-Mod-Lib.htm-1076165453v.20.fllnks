@@ -37,7 +37,23 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-CM.htm" />
   </LongLinks>
   <Anchors />
-  <Keywords />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Cost Modifier"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Reference Books"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Search"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+  </Keywords>
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />

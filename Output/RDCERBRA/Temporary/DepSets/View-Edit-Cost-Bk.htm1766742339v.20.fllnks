@@ -6,6 +6,8 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Adding-Cost-Books.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
@@ -16,11 +18,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/3-Buttons.png" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Adding-Cost-Books.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
     <Link
@@ -46,6 +44,8 @@
   </Links>
   <LongLinks>
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Adding-Cost-Books.htm" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
@@ -56,11 +56,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm#Edit" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Bk.htm" />
-    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/3-Buttons.png" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Adding-Cost-Books.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
     <Link

@@ -8,6 +8,14 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Mod-Lib.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
@@ -22,6 +30,8 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost" />
     <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Accessin" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost2" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost3" />
@@ -31,6 +41,14 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Assignin" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost5" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Cost-Mod-Lib.htm" />
     <Link
@@ -45,6 +63,8 @@
   <Anchors>
     <Anchor
       Name="Cost" />
+    <Anchor
+      Name="Accessin" />
     <Anchor
       Name="Cost2" />
     <Anchor

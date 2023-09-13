@@ -37,7 +37,43 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
   </LongLinks>
   <Anchors />
-  <Keywords />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Cost Books"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Work"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Inventory"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Work"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="Inflation"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Organizations"
+      Conditions=""
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Work"
+      Conditions=""
+      LocalConditions=""
+      Position="37" />
+  </Keywords>
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />

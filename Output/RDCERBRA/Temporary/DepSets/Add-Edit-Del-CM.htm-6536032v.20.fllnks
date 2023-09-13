@@ -12,7 +12,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-2.png" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
     <Link
@@ -44,7 +44,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-2.png" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
     <Link
@@ -72,7 +72,48 @@
     <Anchor
       Name="Delete" />
   </Anchors>
-  <Keywords />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Cost"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="26" />
+    <IndexCacheEntry
+      Term="Reference"
+      Conditions=""
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="Cost"
+      Conditions=""
+      LocalConditions=""
+      Position="33" />
+    <IndexCacheEntry
+      Term="Type"
+      Conditions=""
+      LocalConditions=""
+      Position="53" />
+    <IndexCacheEntry
+      Term="Scope"
+      Conditions=""
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="Value"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="PRV"
+      Conditions=""
+      LocalConditions=""
+      Position="71" />
+  </Keywords>
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />

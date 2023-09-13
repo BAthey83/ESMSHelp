@@ -49,7 +49,23 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Mod-Lib.htm" />
   </LongLinks>
   <Anchors />
-  <Keywords />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Cost"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Reference"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+  </Keywords>
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
