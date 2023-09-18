@@ -8,17 +8,6 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
     <Link
-<<<<<<< HEAD
-=======
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
-    <Link
->>>>>>> afbc5a4d6a0123a77da57735efc1c6f220228d06
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
@@ -27,13 +16,10 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Book-2.png" />
     <Link
-<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
-=======
->>>>>>> afbc5a4d6a0123a77da57735efc1c6f220228d06
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
@@ -42,17 +28,6 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm" />
     <Link
-<<<<<<< HEAD
-=======
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
-    <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
-    <Link
->>>>>>> afbc5a4d6a0123a77da57735efc1c6f220228d06
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Current-Org.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
@@ -63,19 +38,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/View-Edit-Cost-Bk.htm#Edit" />
     <Link
-<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
     <Link
-=======
->>>>>>> afbc5a4d6a0123a77da57735efc1c6f220228d06
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Bk.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Cost-Bk-Org.htm" />
   </LongLinks>
   <Anchors />
-<<<<<<< HEAD
   <Keywords>
     <IndexCacheEntry
       Term="Cost"
@@ -138,9 +109,6 @@
       LocalConditions=""
       Position="34" />
   </Keywords>
-=======
-  <Keywords />
->>>>>>> afbc5a4d6a0123a77da57735efc1c6f220228d06
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />

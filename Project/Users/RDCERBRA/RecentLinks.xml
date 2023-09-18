@@ -1,17 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
-    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\imgs\Ref-Books-Cost-Mod.png" />
-    </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
-<<<<<<< HEAD
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\Adding-Cost-Books.htm" />
-=======
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\Abt-Cost-Bks.htm" />
->>>>>>> afbc5a4d6a0123a77da57735efc1c6f220228d06
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\Ref-Books-Work-Act.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\imgs\CII-Book-Edit-Screen.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\SourceControl\Core\ESMS.Help\Content\ESMS-WEB\ESMS-Workflow Editor\Edit-Scheme-Transitions.htm" />
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\View-Cost-Bk.htm" />
     </Dialog>
-    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
 </RecentLinks>

@@ -450,7 +450,7 @@
     Title="Reference Books">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Cost Books">
       <TocEntry
@@ -512,108 +512,13 @@
       Title="Work Actions">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Administration">
     <TocEntry
-      Title="Users"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue">
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Administration-Managing-Users.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-User-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Add-Questionnaire-Temp.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Delete-Questionnaire-Temp.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Edit-Questionnaire-Temp.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-View-Questionnaire-Temp.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Nesting-Presentation-Ord.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    </TocEntry>
-    <TocEntry
-      Title="Teams">
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Change-Team-Name_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Delete-Team_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Delete-Member_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Assign-Permission-Roles_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Remove-Permission-Role_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    </TocEntry>
-    <TocEntry
-      Title="Permissions">
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Add-Role_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Edit-Role_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Change-Role-Name_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Teams/Delete-Role_team-task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
-    </TocEntry>
+      Title="Permissions"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="Import/Export">

@@ -1,18 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="Edit a Cost Modifier Library"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Mod-Book-Screen.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Modifier-Popup.png" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod_221x306.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Modifier-Popup_409x433.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
     <Link
@@ -23,16 +54,48 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Default.htm" />
   </Links>
   <LongLinks>
     <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Test-Cost-Mod-Book-Screen.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Modifier-Popup.png" />
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod_221x306.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Cost-Modifier-Popup_409x433.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Cost-Mod-Lib.htm" />
     <Link
@@ -43,80 +106,11 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Del-Cost-Mod-Lib.htm" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Ref-Books/Edit-Cost-Mod-Lib.htm" />
   </LongLinks>
   <Anchors />
-  <Keywords>
-    <IndexCacheEntry
-      Term="Cost Modifier"
-      Conditions=""
-      LocalConditions=""
-      Position="4" />
-    <IndexCacheEntry
-      Term="Reference Books"
-      Conditions=""
-      LocalConditions=""
-      Position="17" />
-    <IndexCacheEntry
-      Term="Search"
-      Conditions=""
-      LocalConditions=""
-      Position="24" />
-    <IndexCacheEntry
-      Term="Type"
-      Conditions=""
-      LocalConditions=""
-      Position="34" />
-    <IndexCacheEntry
-      Term="Multiplier"
-      Conditions=""
-      LocalConditions=""
-      Position="37" />
-    <IndexCacheEntry
-      Term="Adder"
-      Conditions=""
-      LocalConditions=""
-      Position="39" />
-    <IndexCacheEntry
-      Term="Scope"
-      Conditions=""
-      LocalConditions=""
-      Position="42" />
-    <IndexCacheEntry
-      Term="Component"
-      Conditions=""
-      LocalConditions=""
-      Position="45" />
-    <IndexCacheEntry
-      Term="Group"
-      Conditions=""
-      LocalConditions=""
-      Position="47" />
-    <IndexCacheEntry
-      Term="Asset"
-      Conditions=""
-      LocalConditions=""
-      Position="49" />
-    <IndexCacheEntry
-      Term="Site"
-      Conditions=""
-      LocalConditions=""
-      Position="51" />
-    <IndexCacheEntry
-      Term="Value"
-      Conditions=""
-      LocalConditions=""
-      Position="54" />
-    <IndexCacheEntry
-      Term="PRV"
-      Conditions=""
-      LocalConditions=""
-      Position="58" />
-    <IndexCacheEntry
-      Term="Plant Replacement Value"
-      Conditions=""
-      LocalConditions=""
-      Position="59" />
-  </Keywords>
+  <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -124,5 +118,18 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>
