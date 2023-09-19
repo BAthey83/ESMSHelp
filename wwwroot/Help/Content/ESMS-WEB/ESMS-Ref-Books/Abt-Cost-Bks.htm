@@ -30,59 +30,38 @@
         <h1>About Cost Books</h1>
         <hr style="font-family: Arial;text-align: left;" width="100%" size="0" align="center" />
         <p><b>Enterprise SMS</b>&#160;has an embedded cost module, used in the critical areas of work planning and condition assessment, that assigns cost values to inventory. The data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. </p>
-        <p>A default cost book is provided and is all that is required. Optionally, a customized inflation book can be used in place of the default. Multiple customized cost books can be associated with different Organizations. This topic explains how to do this. </p>
+        <p>Default costs are provided within <a href="Ref-Books-Work-Act.htm" class="MCXref xref" xrefformat="{paratext}">Work Actions</a>, and are all that is required. Optionally, a customized cost book can be used to override the default costs. 
+		Multiple customized cost books can be defined for different Organizations. This topic explains how to take full advantage of Cost Books. </p>
         <hr style="font-family: Arial;text-align: left;" width="100%" size="0" align="center" />
-        <p style="margin-left: 32px;"><b>Permissions Note:</b> Depending on the operation (e.g., adding vs. deleting a book), configuring cost book data requires either Work Planner or Master Planner permissions. A user with Master Planner Role has all the rights of a Work Planner, and can also generate multi-year work plan scenarios, and 
-		edit any and all data saved by other users of the program. Master Planner is the highest level of user privileges. The ability to assign a custom reference book to an Organization depends on your permissions for that Organization.</p>
-        <p style="margin-left: 0;">Enterprise SMS's embedded cost module contributes to multiple Enterprise SMS&#160;functions:</p>
+        <p style="margin-left: 0;">Enterprise SMS's embedded cost module contributes to the following Enterprise SMS&#160;functions:</p>
         <ul>
-            <li>Inventory:&#160;Provides inventory replacement costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
-            <li>Condition index calculations: Replacement costs are used as weighing factors in rolling up <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="ESMS-gloss.Term1">CI<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Condition Index</span></a>s in the inventory hierarchy.</li>
-            <li>Work planning:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
+            <li><b>Inventory</b>:&#160;Provides itemization costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
+            <li><b>Work Planning</b>:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
         </ul>
-        <p>The cost data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. A given Organization can have many defined cost books. Multiple cost books can also be associated with different Organizations. A&#160;single book can be assigned to an Organization for 
-		rollups, while the remaining books can be used for the Work Analysis process. </p>
+        <p>The cost data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. A given Organization can have many defined cost books. A&#160;single book can be assigned to an Organization for 
+		rollups, while the remaining books can be used for the <a href="../ESMS-Work/Wk-Work-Analysis.htm" class="MCXref xref" xrefformat="{paratext}">Work Analysis</a> process. </p>
         <p>Cost book data is determined by and based on inflation data compiled from previous years. Cost book data for future years can be created with the help of Inflation&#160;Books. Refer to the <a href="Ref-Infltn-Bk.htm" class="MCXref xref" xrefformat="{paratext}">About Inflation Books</a> topic for additional information. </p>
-        <p>If an Organization does not have a cost book assigned to it, the Organization's assigned cost book is used for rollups. If no book is found to be assigned to an Organization, the process will run the course of the organizational hierarchy until a parent Organization with an assigned book is found. </p>
+        <p>If an Organization has a cost book assigned to it, the cost book will be used for rollups. If no book is found to be assigned to an Organization, the process will run the course of the organizational hierarchy until a parent Organization with an assigned book is found. </p>
         <h2>Cost Data</h2>
-        <p>The  cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be associated with different Organizations as desired (see <a href="Assign-Cost-Bk-Org.htm" class="MCXref xref" xrefformat="{paratext}">Assign a Cost Book to an Organization</a>). </p>
-        <h3 style="font-style: italic;">Default Cost Book</h3>
-        <p style="font-style: normal;">The Default Cost Book establishes default costs for any combination of any Specifications or <a href="Ref-Books-Work-Act.htm" class="MCXref xref" xrefformat="{paratext}">Work Actions</a> not overridden in the cost book. </p>
-        <h3 style="font-style: italic;">Custom Cost Book(s)</h3>
+        <p>The  cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be defined for different Organizations as needed (see <a href="Assign-Cost-Bk-Org.htm" class="MCXref xref" xrefformat="{paratext}">Assign a Cost Book to an Organization</a>). </p>
+        <h3 style="font-style: normal;">Default Cost Book</h3>
+        <p>The Default Cost Book is found within <a href="Ref-Books-Work-Act.htm" class="MCXref xref" xrefformat="{paratext}">Work Actions</a>, which establish default costs for any combination of specifications and work activities not overridden by a custom cost book. </p>
+        <h3 style="font-style: normal;">Custom Cost Book(s)</h3>
         <p style="font-style: normal;">You can manage cost data by using custom cost books. To create custom cost data, you can either:</p>
         <ol style="list-style-type: lower-alpha;">
             <li value="1">Edit an existing cost book, or</li>
             <li value="2">Create one or more new cost books. You can use an existing cost book as the starting point for the new cost book.</li>
         </ol>
-        <p>By assigning a custom cost book to an Organization, you can control the scope of that cost book, applying custom values to either all or part of the cost book.</p>
-        <h3>Features and Search Bar</h3>
-        <ul>
-            <li><b>Specification</b>: The item selected for editing within the cost book.</li>
-            <li><b>Activity</b>: The Global Repair, Replace or Demolish action required for the specified item.</li>
-            <li><b>Level</b>: The Building or Component-Section required for the specified item.</li>
-            <li><b>Parent</b>: The parent Organization for the specified item.</li>
-            <li><b>Current Cost</b>: The most recent value of the specified item.</li>
-            <li><b>Original Cost</b>: The earliest value of the specified item.</li>
-            <li><b>Cost Year</b>: The year used to calculate a specified item's inflation data. </li>
-            <li><a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="Primary.Term60" style="font-weight: bold;">UoM<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Unit of Measure</span></a>: The Unit of Measurement for the selected item(s).</li>
-            <li><b>Clear</b>: Select this option to clear all Filters. </li>
-        </ul>
+        <p>By assigning a custom cost book to an Organization, you can control the scope of that cost book, applying custom values to either part or all of the cost book.</p>
         <h2>Cost Book Tasks</h2>
-        <p>Tasks you can perform are to:</p>
+        <p>You can perform the following Cost Book tasks:</p>
         <ul>
             <li><a href="Assign-Cost-Bk-Org.htm" class="MCXref xref" xrefformat="{paratext}">Assign a Cost Book to an Organization</a>
             </li>
-            <li><a href="View-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">View a Cost Book</a>
+            <li><a href="View-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Viewing and Editing A Cost Book</a>
             </li>
-            <li><a href="Add-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Add a Custom Cost Book</a>
-            </li>
-            <li><a href="Edit-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Edit&#160;Cost Book Data</a> </li>
+            <li><a href="Add-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Add a Custom Cost Book</a> </li>
             <li><a href="Del-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Delete a Cost Book</a>
-            </li>
-        </ul>
-        <h2>Other Related Links</h2>
-        <ul>
-            <li><a href="Abt-Rep-Cost-Calc.htm" class="MCXref xref" xrefformat="{paratext}">About Replacement Cost Calculation</a>
             </li>
         </ul>
         <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Default.htm#ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm">Open topic with navigation</a>
