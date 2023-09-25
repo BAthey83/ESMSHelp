@@ -3,19 +3,25 @@
 
 
 # Ignore MadCap Flare Analyzer and Output files
-Analyzer/
-Project/
-Content/
-Output/
 
-*.cadbf/*
+
+#Ignoring all Input files if necessary
+#Analyzer/
+#Project/
+#Content/
+#Output/
+
+#Ignore duplicated Output files that are copied to wwwroot
+Output/RDCERBRA/
+
+*/*.cadbf/*
 
 
 *.fldb
 *.s3db
 *.s3db-shm
 *.s3db-wal
-*.xml
+#*.xml
 
 
 

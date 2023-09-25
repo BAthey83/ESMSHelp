@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Reference Books|Cost Books">
+<html lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Reference Books|Cost Books">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta charset="utf-8" />
@@ -9,7 +9,7 @@
         <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
         <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
         <link href="../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>About Cost Books</title>
+        <link href="../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>Cost Books</title>
         <link href="../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
         <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
         </script>
@@ -27,41 +27,59 @@
         </script>
     </head>
     <body>
-        <h1>About Cost Books</h1>
+        <h1>Cost Books</h1>
         <hr style="font-family: Arial;text-align: left;" width="100%" size="0" align="center" />
-        <p><b>Enterprise SMS</b>&#160;has an embedded cost module, used in the critical areas of work planning and condition assessment, that assigns cost values to inventory. The data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. </p>
-        <p>Default costs are provided within <a href="Ref-Books-Work-Act.htm" class="MCXref xref" xrefformat="{paratext}">Work Actions</a>, and are all that is required. Optionally, a customized cost book can be used to override the default costs. 
-		Multiple customized cost books can be defined for different Organizations. This topic explains how to take full advantage of Cost Books. </p>
+        <p><b>Enterprise SMS</b>&#160;has an embedded cost module, used in the critical areas of work planning and condition assessment, that assigns cost values to inventory. The data used by the cost module is contained in one or more <b style="font-style: italic;"><a name="kanchor59"></a>cost books</b>. </p>
+        <p>Default costs are provided within <MadCapxref href="Ref-Books-Work-Act.htm" style="font-weight: bold;"><a name="kanchor60"></a>Work Actions</MadCapxref>, and are all that is required. Optionally, a customized cost book can be used to override the default costs. 
+		Multiple customized cost books can be defined for different <a name="kanchor61"></a>Organizations. This topic explains how to take full advantage of cost books. </p>
         <hr style="font-family: Arial;text-align: left;" width="100%" size="0" align="center" />
         <p style="margin-left: 0;">Enterprise SMS's embedded cost module contributes to the following Enterprise SMS&#160;functions:</p>
         <ul>
-            <li><b>Inventory</b>:&#160;Provides itemization costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
-            <li><b>Work Planning</b>:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
+            <li><b><a name="kanchor62"></a>Inventory</b>:&#160;Provides itemization costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
+            <li><b><a name="kanchor63"></a>Work Planning</b>:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
         </ul>
         <p>The cost data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. A given Organization can have many defined cost books. A&#160;single book can be assigned to an Organization for 
-		rollups, while the remaining books can be used for the <a href="../ESMS-Work/Wk-Work-Analysis.htm" class="MCXref xref" xrefformat="{paratext}">Work Analysis</a> process. </p>
-        <p>Cost book data is determined by and based on inflation data compiled from previous years. Cost book data for future years can be created with the help of Inflation&#160;Books. Refer to the <a href="Ref-Infltn-Bk.htm" class="MCXref xref" xrefformat="{paratext}">About Inflation Books</a> topic for additional information. </p>
+		rollups, while the remaining books can be used for the <MadCapxref href="../ESMS-Work/Wk-Work-Analysis.htm" style="font-weight: bold;"><a name="kanchor64"></a>Work Analysis</MadCapxref> process. </p>
+        <p>Cost book data is determined by and based on inflation data compiled from previous years. Cost book data for future years can be created with the help of Inflation&#160;Books. Refer to the <a href="Ref-Infltn-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="MCXref xref" xrefformat="{paratext}">Inflation Books</a> topic for additional information. </p>
         <p>If an Organization has a cost book assigned to it, the cost book will be used for rollups. If no book is found to be assigned to an Organization, the process will run the course of the organizational hierarchy until a parent Organization with an assigned book is found. </p>
         <h2>Cost Data</h2>
-        <p>The  cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be defined for different Organizations as needed (see <a href="Assign-Cost-Bk-Org.htm" class="MCXref xref" xrefformat="{paratext}">Assign a Cost Book to an Organization</a>). </p>
-        <h3 style="font-style: normal;">Default Cost Book</h3>
-        <p>The Default Cost Book is found within <a href="Ref-Books-Work-Act.htm" class="MCXref xref" xrefformat="{paratext}">Work Actions</a>, which establish default costs for any combination of specifications and work activities not overridden by a custom cost book. </p>
-        <h3 style="font-style: normal;">Custom Cost Book(s)</h3>
+        <p>The cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be defined for different Organizations as needed (see <a href="Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="MCXref xref" xrefformat="{paratext}">Assign a Book to an Organization</a>). </p>
+        <h2>Default Cost Book</h2>
+        <p>The Default Cost Book is found within <a href="Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="MCXref xref" xrefformat="{paratext}">Work Actions</a>, which establish default costs for any combination of specifications and work activities not overridden by a custom cost book. </p>
+        <h2>Custom Cost Book(s)</h2>
         <p style="font-style: normal;">You can manage cost data by using custom cost books. To create custom cost data, you can either:</p>
         <ol style="list-style-type: lower-alpha;">
             <li value="1">Edit an existing cost book, or</li>
             <li value="2">Create one or more new cost books. You can use an existing cost book as the starting point for the new cost book.</li>
         </ol>
-        <p>By assigning a custom cost book to an Organization, you can control the scope of that cost book, applying custom values to either part or all of the cost book.</p>
-        <h2>Cost Book Tasks</h2>
-        <p>You can perform the following Cost Book tasks:</p>
+        <p>By assigning a custom cost book to an Organization, you can control the scope of that cost book, applying custom values to either all or part of the cost book.</p>
+        <h3>Features and Search Bar</h3>
         <ul>
-            <li><a href="Assign-Cost-Bk-Org.htm" class="MCXref xref" xrefformat="{paratext}">Assign a Cost Book to an Organization</a>
+            <li><b><a name="kanchor65"></a>Specification</b>: The item selected for editing within the cost book.</li>
+            <li><b><a name="kanchor66"></a>Activity</b>: The <a name="kanchor67"></a>Global Repair, <a name="kanchor68"></a>Replace or <a name="kanchor69"></a>Demolish action required for the specified item.</li>
+            <li><b><a name="kanchor70"></a>Level</b>: The <a name="kanchor71"></a>Building or <a name="kanchor72"></a>Component-Section required for the specified item.</li>
+            <li><b><a name="kanchor73"></a>Parent</b>: The parent <a name="kanchor74"></a>Organization for the specified item.</li>
+            <li><b><a name="kanchor75"></a>Current Cost</b>: The most recent value of the specified item.</li>
+            <li><b><a name="kanchor76"></a>Original Cost</b>: The earliest value of the specified item.</li>
+            <li><b><a name="kanchor77"></a>Cost Year</b>: The year used to calculate a specified item's inflation data. </li>
+            <li><a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="Primary.Term60" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">UoM<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow"> </span>Unit of Measure</span></a>: The <a name="kanchor78"></a>Unit of Measurement for the selected item(s).</li>
+            <li><b><a name="kanchor79"></a>Clear</b>: Select this option to clear all <a name="kanchor80"></a>Filters. </li>
+        </ul>
+        <h2>Related Topics</h2>
+        <ul>
+            <li><a href="Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="MCXref xref" xrefformat="{paratext}">Assign a Book to an Organization</a>
             </li>
-            <li><a href="View-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Viewing and Editing A Cost Book</a>
+            <li><a href="Add-Edit-Del-Cost-Book.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="MCXref xref" xrefformat="{paratext}">Add, View, Edit, or Delete Books</a>
             </li>
-            <li><a href="Add-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Add a Custom Cost Book</a> </li>
-            <li><a href="Del-Cost-Bk.htm" class="MCXref xref" xrefformat="{paratext}">Delete a Cost Book</a>
+            <li style="text-align: left;"><a href="Ref-CII-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="MCXref xref" xrefformat="{paratext}">Component Importance Index (CII) Books</a>
+                <li style="text-align: left;"><a href="Ref-Infltn-Bk.htm" class="MCXref xref">Inflation Books</a>
+                </li>
+                <li style="text-align: left;"><a href="Ref-Cost-Mod.htm" class="MCXref xref">Cost Modifiers</a>
+                </li>
+                <li style="text-align: left;"><a href="Ref-Books-Work-Act.htm" class="MCXref xref">Work Actions</a>
+                </li>
+                <li style="text-align: left;"><a href="Ref-Books-Home.htm" class="MCXref xref">Reference Books</a>
+                </li>
             </li>
         </ul>
         <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Default.htm#ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm">Open topic with navigation</a>

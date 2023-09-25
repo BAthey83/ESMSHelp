@@ -2,25 +2,25 @@
 <html>
     <head />
     <body>
-        <h1>About Cost Books</h1>
+        <h1>Cost Books</h1>
         <hr style="font-family: Arial;text-align: left;" />
-        <p><b>Enterprise SMS</b>&#160;has an embedded cost module, used in the critical areas of work planning and condition assessment, that assigns cost values to inventory. The data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. </p>
-        <p>Default costs are provided within <MadCapxref href="Ref-Books-Work-Act.htm" style="font-weight: bold;">Work Actions</MadCapxref>, and are all that is required. Optionally, a customized cost book can be used to override the default costs. 
-		Multiple customized cost books can be defined for different Organizations. This topic explains how to take full advantage of cost books. </p>
+        <p><b>Enterprise SMS</b>&#160;has an embedded cost module, used in the critical areas of work planning and condition assessment, that assigns cost values to inventory. The data used by the cost module is contained in one or more <b style="font-style: italic;"><MadCap:keyword term="cost books" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />cost books</b>. </p>
+        <p>Default costs are provided within <MadCapxref href="Ref-Books-Work-Act.htm" style="font-weight: bold;"><MadCap:keyword term="Work Actions" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Work Actions</MadCapxref>, and are all that is required. Optionally, a customized cost book can be used to override the default costs. 
+		Multiple customized cost books can be defined for different <MadCap:keyword term="Organizations" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Organizations. This topic explains how to take full advantage of cost books. </p>
         <hr style="font-family: Arial;text-align: left;" />
         <p style="margin-left: 0;">Enterprise SMS's embedded cost module contributes to the following Enterprise SMS&#160;functions:</p>
         <ul>
-            <li><b>Inventory</b>:&#160;Provides itemization costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
-            <li><b>Work Planning</b>:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
+            <li><b><MadCap:keyword term="Inventory" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Inventory</b>:&#160;Provides itemization costs for all levels of the Enterprise SMS&#160;hierarchy.</li>
+            <li><b><MadCap:keyword term="Work Planning" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Work Planning</b>:&#160;For work planning, the cost module provides initial programming cost estimates for proposed maintenance, repair, and rehabilitation projects.</li>
         </ul>
         <p>The cost data used by the cost module is contained in one or more <b style="font-style: italic;">cost books</b>. A given Organization can have many defined cost books. A&#160;single book can be assigned to an Organization for 
-		rollups, while the remaining books can be used for the <MadCapxref href="../ESMS-Work/Wk-Work-Analysis.htm" style="font-weight: bold;">Work Analysis</MadCapxref> process. </p>
-        <p>Cost book data is determined by and based on inflation data compiled from previous years. Cost book data for future years can be created with the help of Inflation&#160;Books. Refer to the <MadCapxref href="Ref-Infltn-Bk.htm" style="font-weight: bold;">About Inflation Books</MadCapxref> topic for additional information. </p>
+		rollups, while the remaining books can be used for the <MadCapxref href="../ESMS-Work/Wk-Work-Analysis.htm" style="font-weight: bold;"><MadCap:keyword term="Work Analysis" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Work Analysis</MadCapxref> process. </p>
+        <p>Cost book data is determined by and based on inflation data compiled from previous years. Cost book data for future years can be created with the help of Inflation&#160;Books. Refer to the <MadCap:xref href="Ref-Infltn-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">About Inflation Books</MadCap:xref> topic for additional information. </p>
         <p>If an Organization has a cost book assigned to it, the cost book will be used for rollups. If no book is found to be assigned to an Organization, the process will run the course of the organizational hierarchy until a parent Organization with an assigned book is found. </p>
         <h2>Cost Data</h2>
-        <p>The cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be defined for different Organizations as needed (see <MadCapxref href="Assign-Cost-Bk-Org.htm"><MadCap:xref href="Assign-Cost-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Assign a Cost Book to an Organization</MadCap:xref></MadCapxref>). </p>
+        <p>The cost data used by Enterprise SMS's cost module is contained in one or more <i>cost books</i>. Multiple cost books can be defined for different Organizations as needed (see <MadCap:xref href="Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Assign a Cost Book to an Organization</MadCap:xref>). </p>
         <h2>Default Cost Book</h2>
-        <p>The Default Cost Book is found within <MadCapxref href="Ref-Books-Work-Act.htm"><MadCap:xref href="Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Work Actions</MadCap:xref></MadCapxref>, which establish default costs for any combination of specifications and work activities not overridden by a custom cost book. </p>
+        <p>The Default Cost Book is found within <MadCap:xref href="Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Work Actions</MadCap:xref>, which establish default costs for any combination of specifications and work activities not overridden by a custom cost book. </p>
         <h2>Custom Cost Book(s)</h2>
         <p style="font-style: normal;">You can manage cost data by using custom cost books. To create custom cost data, you can either:</p>
         <ol style="list-style-type: lower-alpha;">
@@ -30,30 +30,35 @@
         <p>By assigning a custom cost book to an Organization, you can control the scope of that cost book, applying custom values to either all or part of the cost book.</p>
         <h3>Features and Search Bar</h3>
         <ul>
-            <li><b>Specification</b>: The item selected for editing within the cost book.</li>
-            <li><b>Activity</b>: The Global Repair, Replace or Demolish action required for the specified item.</li>
-            <li><b>Level</b>: The Building or Component-Section required for the specified item.</li>
-            <li><b>Parent</b>: The parent Organization for the specified item.</li>
-            <li><b>Current Cost</b>: The most recent value of the specified item.</li>
-            <li><b>Original Cost</b>: The earliest value of the specified item.</li>
-            <li><b>Cost Year</b>: The year used to calculate a specified item's inflation data. </li>
+            <li><b><MadCap:keyword term="Specification" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Specification</b>: The item selected for editing within the cost book.</li>
+            <li><b><MadCap:keyword term="Activity" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Activity</b>: The <MadCap:keyword term="Global Repair" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Global Repair, <MadCap:keyword term="Replace" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Replace or <MadCap:keyword term="Demolish" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Demolish action required for the specified item.</li>
+            <li><b><MadCap:keyword term="Level" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Level</b>: The <MadCap:keyword term="Building" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Building or <MadCap:keyword term="Component-Section" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Component-Section required for the specified item.</li>
+            <li><b><MadCap:keyword term="Parent" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Parent</b>: The parent <MadCap:keyword term="Organization" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Organization for the specified item.</li>
+            <li><b><MadCap:keyword term="Current Cost" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Current Cost</b>: The most recent value of the specified item.</li>
+            <li><b><MadCap:keyword term="Original Cost" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Original Cost</b>: The earliest value of the specified item.</li>
+            <li><b><MadCap:keyword term="Cost Year" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Cost Year</b>: The year used to calculate a specified item's inflation data. </li>
             <li>
-                <MadCap:glossaryTerm glossTerm="Primary.Term60" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">UoM</MadCap:glossaryTerm>: The Unit of Measurement for the selected item(s).</li>
-            <li><b>Clear</b>: Select this option to clear all Filters. </li>
+                <MadCap:glossaryTerm glossTerm="Primary.Term60" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">UoM</MadCap:glossaryTerm>: The <MadCap:keyword term="Unit of Measurement" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Unit of Measurement for the selected item(s).</li>
+            <li><b><MadCap:keyword term="Clear" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Clear</b>: Select this option to clear all <MadCap:keyword term="Filters" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Filters. </li>
         </ul>
-        <h2>Cost Book Tasks</h2>
-        <p>Tasks you can perform are:</p>
+        <h2>Related Topics</h2>
         <ul>
-            <li><a href="Assign-Cost-Bk-Org.htm" class="MCXref xref" xrefformat="{paratext}">Assign a Cost Book to an Organization</a>
+            <li>
+                <MadCap:xref href="Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Assign a Cost Book to an Organization</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="View-Edit-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Viewing and Editing A Cost Book</MadCap:xref>
+                <MadCap:xref href="Add-Edit-Del-Cost-Book.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Add, View, Edit, or Delete Books</MadCap:xref>
             </li>
-            <li>
-                <MadCap:xref href="Adding-Cost-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Adding Cost Books</MadCap:xref>
-            </li>
-            <li>
-                <MadCap:xref href="Del-Cost-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Deleting Cost Books</MadCap:xref>
+            <li style="text-align: left;">
+                <MadCap:xref href="Ref-CII-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Component Importance Index (CII) Books</MadCap:xref>
+                <li style="text-align: left;"><a href="Ref-Infltn-Bk.htm" class="MCXref xref">Inflation Books</a>
+                </li>
+                <li style="text-align: left;"><a href="Ref-Cost-Mod.htm" class="MCXref xref">Cost Modifiers</a>
+                </li>
+                <li style="text-align: left;"><a href="Ref-Books-Work-Act.htm" class="MCXref xref">Work Actions</a>
+                </li>
+                <li style="text-align: left;"><a href="Ref-Books-Home.htm" class="MCXref xref">Reference Books</a>
+                </li>
             </li>
         </ul>
     </body>

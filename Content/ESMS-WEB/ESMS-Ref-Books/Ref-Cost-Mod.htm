@@ -1,49 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head> 
+    <head>
     </head>
     <body style="text-align: center;">
-        <h1 style="text-align: left;">About <MadCapkeyword term="Cost Modifiers" />Cost Modifiers</h1>
+        <h1 style="text-align: left;">Cost Modifiers</h1>
         <hr style="font-family: Arial;text-align: left;" />
         <p style="text-align: left;">This topic explains information available at the <b>Cost Modifiers</b> screen. It also details the tasks that can be performed there. </p>
         <hr style="font-family: Arial;text-align: left;" />
         <h2 style="font-style: italic;font-family: Arial;text-align: left;">—Quick Links—</h2>
         <ul>
             <li style="text-align: left;">
-                <MadCapxref href="#Cost">Cost Modifier Basics</MadCapxref>
+                <MadCap:xref href="#Cost">Cost Modifier Basics</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="#Accessin">Accessing Cost Modifiers</MadCapxref>
+                <MadCap:xref href="#Accessin">Accessing Cost Modifiers</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="#Cost2">Cost Modifier Types</MadCapxref>
+                <MadCap:xref href="#Cost2">Cost Modifier Types</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="#Cost3">Cost Adder</MadCapxref>
+                <MadCap:xref href="#Cost3">Cost Adder</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="#Cost4">Cost Multiplier</MadCapxref>
+                <MadCap:xref href="#Cost4">Cost Multiplier</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="#Assignin">Assigning Cost Modifiers</MadCapxref>
+                <MadCap:xref href="#Assignin">Assigning Cost Modifiers</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="#Cost5">Cost Modifier Tasks</MadCapxref>
+                <MadCap:xref href="#Cost5">Related Topics</MadCap:xref>
             </li>
         </ul>
         <h2 style="text-align: left;"><a name="Cost"></a>Cost Modifier Basics</h2>
-        <p style="text-align: left;"><b>Cost Modifiers</b> are multipliers or adders that can be applied in order to adjust section replacement costs. Users can create a <b>Cost Modifier</b> to increase costs by 10%. Modified costs 
-		also affect <MadCapglossaryTerm glossTerm="Primary.Term18"><MadCapkeyword term="CI" />CI</MadCapglossaryTerm> roll-up weights, work 
-			plan item costs, and costs output by <MadCapkeyword term="scenario" />scenario simulations. </p>
-        <p style="text-align: left;">The option to apply cost <MadCapkeyword term="multipliers" />multipliers and <MadCapkeyword term="adders" />adders provides great flexibility and control in accounting for factors that affect costs. 
+        <p style="text-align: left;">The option to apply cost multipliers and adders provides great flexibility and control in accounting for factors that affect costs. 
 		Common factors that change costs include requirements related to security, health and safety, and containment.</p>
-        <p style="text-align: left;"><b>Cost Modifiers</b> are created and managed in <i>cost modifier libraries</i>. These cost modifier libraries can be created at the <MadCapkeyword term="Organization" />Organization level. 
-		The modifiers in a library can then be assigned within the Organizations page, available from the <MadCapkeyword term="Inventory" />Inventory menu. </p>
+        <p style="text-align: left;"><b>Cost Modifiers</b> are created and managed in <i>cost modifier books</i>. These cost modifier books can be created at the Organization level. 
+		The modifiers in a book can then be assigned within the Organizations page, available from the Inventory menu. </p>
         <img src="imgs/Inv-Org-Screen.png" style="width: 229px;height: 145px;" />
-        <p style="text-align: left;">Simply select an Organization, go to the <b><MadCapkeyword term="Reference Books" />Reference Books</b> tab and select an available <b><MadCapkeyword term="Cost Modifier" />Cost Modifier</b> library.</p>
+        <p style="text-align: left;">Simply select an Organization, go to the <b>Reference Books</b> tab and select an available <b>Cost Modifier</b> book.</p>
         <p style="text-align: left;">When a <b>Cost Modifier</b> is assigned, 
-			that modifier is calculated for all child <MadCapkeyword term="Sections" />Sections below the parent level at which the modifier was assigned. 
-			A modifier can also be assigned at the Section level, but it only applies to that specific <MadCapkeyword term="Component-Section" />Component-Section. </p>
+			that modifier is calculated for all child Sections below the parent level at which the modifier was assigned. 
+			A modifier can also be assigned at the Section level, but it only applies to that specific Component-Section. </p>
         <p style="text-align: left;">A Section 
 			can inherit one or more <b>Cost Modifiers</b> from a parent as well as have its own modifier applied. For example, if the Building multiplier is 2, 
 		the System multiplier is 2, and the Section multiplier is 2, the Section cost will be multiplied by a factor of 8 (2x2x2).</p>
@@ -55,72 +52,51 @@
         <p style="text-align: center;">
             <img src="imgs/Ref-Books-Cost-Mod.png" style="width: 233px;height: 322px;padding-left: 10px;padding-right: 10px;padding-top: 10px;padding-bottom: 10px;" />
         </p>
-        <ol MadCap:continue="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <ol MadCap:continue="true">
             <li style="text-align: left;">Select the <b>Reference Books</b> dropdown, followed by the <b>Cost Modifiers</b> button.</li>
         </ol>
         <img src="imgs/Search-CM-Books-3.png" />
-        <ol MadCap:continue="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-            <li style="text-align: left;">Pick a <b>Cost Modifier</b> library from the Search window.<img src="imgs/Cost-Mod-Search.png" style="width: 1136px;height: 185px;" /></li>
+        <ol MadCap:continue="true" style="text-align: center;">
+            <li style="text-align: left;">Pick a <b>Cost Modifier</b> book from the Search window.</li>
+            <img src="imgs/Cost-Mod-Search.png" style="width: 1136px;height: 185px;" />
             <li style="text-align: left;">The <b>Cost Modifiers</b> window will display, with the name of the library at the top. You can now proceed with cost modifiers. </li>
         </ol>
         <h2 style="text-align: left;"><a name="Cost2"></a>Cost Modifier Types</h2>
-        <p style="text-align: left;">The <b>Cost Modifier</b> types listed below are applied in addition to <MadCapglossaryTerm glossTerm="Primary.Term1"><MadCapkeyword term="Area Cost Factor" />Area Cost Factor</MadCapglossaryTerm>, 
-		the <MadCapkeyword term="General Multiplier" />General Multiplier for the cost book, and any specific multipliers for the cost book.</p>
-        <p style="text-align: left;">The cost multiplier is a multiplying factor applied to all child <MadCapkeyword term="Sections" />Sections. 
-		For example, if a <MadCapkeyword term="Building" />Building has a 10% cost multiplier, then the 10% multiplier will be applied to all Sections below the Building.</p>
+        <p style="text-align: left;">The <b>Cost Modifier</b> types listed below are applied in addition to <MadCapglossaryTerm glossTerm="Primary.Term1" style="font-weight: bold;">Area Cost Factor</MadCapglossaryTerm>, 
+		the General Multiplier for the cost book, and any specific multipliers for the cost book.</p>
+        <p style="text-align: left;">The cost multiplier is a multiplying factor applied to all child Sections. 
+		For example, if a Building has a 10% cost multiplier, then the 10% multiplier will be applied to all Sections below the Building.</p>
         <h2 style="text-align: left;"><a name="Cost3"></a>Cost Adder</h2>
-        <p style="text-align: left;">The cost adder is a fixed cost applied to all child Sections. For example, if a Building has a $2700 cost adder, then all Sections within that Building will be assigned a $2700 cost <MadCapkeyword term="adder" />adder.</p>
+        <p style="text-align: left;">The cost adder is a fixed cost applied to all child Sections. For example, if a Building has a $2700 cost adder, then all Sections within that Building will be assigned a $2700 cost adder.</p>
         <h2 style="text-align: left;"><a name="Cost4"></a>Cost Multiplier</h2>
-        <p style="text-align: left;">The cost multiplier is a fixed cost applied to all child Sections. For example, if a Building has a $2700 cost multiplier, then all Sections within that Building will be assigned a $2700 cost <MadCapkeyword term="multiplier" />multiplier. </p>
+        <p style="text-align: left;">The cost multiplier is a fixed cost applied to all child Sections. For example, if a Building has a cost multiplier, then all Sections within that Building will be assigned a cost multiplier. </p>
         <h2 style="text-align: left;"><a name="Assignin"></a>Assigning Cost Modifiers</h2>
-        <p style="text-align: left;">Users with elevated permissions can create and name multiple Cost Modifier libraries, defining separate libraries as needed for different Organizations.</p>
-        <p style="text-align: left;">Once an active Cost Modifier library has been selected for an Organization, 
+        <p style="text-align: left;">Users with elevated permissions can create and name multiple Cost Modifier books, defining separate book as needed for different Organizations.</p>
+        <p style="text-align: left;">Once an active Cost Modifier book has been selected for an Organization, 
 		the modifiers can be assigned to the Enterprise SMS inventory.</p>
-        <h2 style="text-align: left;"><a name="Cost5"></a>Cost Modifier Tasks</h2>
+        <h2 style="text-align: left;"><a name="Related"></a>Related Topics</h2>
         <ul>
             <li style="text-align: left;">
-                <MadCapxref href="View-Cost-Mod-Lib.htm">View a Cost Modifier Library</MadCapxref>
+                <MadCap:xref href="Ref-CII-Books.htm">Component Importance Index (CII) Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;"><a href="Ref-Serv-Life.htm" class="MCXref xref">Service Life Books</a>
+            </li>
+            <li style="text-align: left;"><a href="Ref-Infltn-Bk.htm" class="MCXref xref">Inflation Books</a>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="Add-Cost-Mod-Lib.htm">Add a Cost Modifier Library</MadCapxref>
+                <MadCap:xref href="Abt-Cost-Bks.htm">Cost Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;"><a href="Ref-Books-Work-Act.htm" class="MCXref xref">Work Actions</a>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="Edit-Cost-Mod-Lib.htm">Edit a Cost Modifier Library</MadCapxref>
+                <MadCap:xref href="Assign-Bk-Org.htm">Assign a Book to an Organization</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="Del-Cost-Mod-Lib.htm">Delete a Cost Modifier Library</MadCapxref>
+                <MadCap:xref href="Add-Edit-Del-Cost-Book.htm">Add, View, Edit, or Delete Books</MadCap:xref>
             </li>
             <li style="text-align: left;">
-                <MadCapxref href="Add-Edit-Del-CM.htm">Add, Edit, or Delete a Cost Modifier</MadCapxref>
-    <body>
-        <h1>About Cost Modifiers</h1>
-        <p>Cost modifiers are multipliers or adders that can be applied in order to adjust Section replacement costs. Modified costs also affect <a href="javascript:void(0)" class="MCTextPopup MCTextPopupHotSpot MCTextPopup_Open glossaryTerm MCTextPopupHotSpot_" glossTerm="Primary.Term18">CI<span class="MCTextPopupBody popupBody"><span class="MCTextPopupArrow">  </span>Condition Index</span></a> roll-up weights, work plan item costs, and costs output by Scenarios simulations.</p>
-        <p>The ability to apply cost multipliers and adders from the Site level down to the individual Section level provides great flexibility and control in accounting for factors that affect costs. Common factors that change costs include security requirements, health and safety requirements, and containment requirements.</p>
-        <p>Cost modifiers are created and managed in <i>cost modifier libraries</i>. These cost modifier libraries can be created at the Organization or Site level. The modifiers in a library can then be assigned on the <b>Cost Modifiers</b> tab of Sites, Complexes, Buildings, Systems, Components, or Sections.</p>
-        <p>When a cost modifier is assigned to a Site, Complex, Building, System, or Component, that modifier is calculated for all child Sections below the parent level at which the modifier was assigned. A modifier can also be assigned at the Section level, in which case it only applies to that individual Component-Section. A Section 
-			can inherit one or more cost modifiers from a parent as well as have its own modifier applied. For example, if the Building multiplier is 2, 
-		the System multiplier is 2, and the Section multiplier is 2, the Section cost will be multiplied by a factor of 8 (2x2x2).</p>
-        <h2>Cost Modifier Types</h2>
-        <p>The cost modifier types listed below are applied in addition to Area Cost Factor, the General Multiplier for the cost book, and any specific multipliers for the cost book.</p>
-        <p>The cost multiplier is a multiplying factor applied to all child Sections. For example, if a Building has a 1.5 cost multiplier, then the 1.5 multiplier will be applied to all Sections below the Building.</p>
-        <h3 style="font-style: italic;">Cost Adder</h3><pre xml:space="preserve">The cost adder is a fixed cost applied to all child Sections. For example, if a Building has a $2700 cost adder, then all Sections within that Building will be assigned a $2700 cost adder.</pre>
-        <h2>Assigning Cost Modifiers</h2>
-        <p>You have the option to create and name multiple cost modifier libraries (this requires elevated permissions). You can assign separate cost modifier libraries as desired to different Organizations and Sites.</p>
-        <p>Once an active cost modifier library has been selected for an Organization or Site, the modifiers in the library can be assigned to the Enterprise SMS inventory.</p>
-        <h2>Cost Modifier Tasks</h2>
-        <ul>
-            <li><a href="View-Cost-Mod-Lib.htm" class="MCXref xref" xrefformat="{paratext}">View a Cost Modifier Library</a>
-            </li>
-            <li><a href="Add-Cost-Mod-Lib.htm" class="MCXref xref" xrefformat="{paratext}">Add a Cost Modifier Library</a>
-            </li>
-            <li><a href="Edit-Cost-Mod-Lib.htm" class="MCXref xref" xrefformat="{paratext}">Edit a Cost Modifier Library</a>
-            </li>
-            <li><a href="Del-Cost-Mod-Lib.htm" class="MCXref xref" xrefformat="{paratext}">Delete a Cost Modifier Library</a>
-            </li>
-            <li><a href="Add-Edit-Del-CM.htm" class="MCXref xref" xrefformat="{paratext}">Add, Edit, or Delete a Cost Modifier</a>
+                <MadCap:xref href="Ref-Books-Home.htm">Reference Books</MadCap:xref>
             </li>
         </ul>
-        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Default.htm#ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm">Open topic with navigation</a>
-        </p>
     </body>
-</li></ul></body></html>
+</html>
