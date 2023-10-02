@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body style="text-align: center;">
+        <h1 style="text-align: left;">Enterprise SMS&#160;User Permissions</h1>
+        <hr style="font-family: Arial;text-align: left;" />
+        <p style="text-align: left;">This topic details the roles and permissions available to users and administrators within Enterprise SMS.</p>
+        <hr style="font-family: Arial;text-align: left;" />
+        <p style="margin-left: 32px;text-align: left;"><b>WARNING:</b> The privileges assigned to each user <b>Role</b> may evolve over time. 
+			Although the capabilities 
+			listed below are generally correct, they may not 
+		fully correspond to each <b>Role</b> at a given time.</p>
+        <h2 style="text-align: left;"><i>—Quick Links—</i>
+        </h2>
+        <ul>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Creating">Creating User Accounts</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Initiati">Initiating the Set-Up Process</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#User">User Administration</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#How">How to Assign Security Administrator Permissions to a User</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#How2">How to Assign Organization and Site Administrator Permissions to a User</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#How3">How to Lock/Unlock a User's Account</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#How4">How to Update a User's Name and/or Email</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Creating2">Creating Team Permissions</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Creating3">Creating a Team at the Organization Level</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Creating4">Creating a Team at the Site Level</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Adding">Adding Users to a Team</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Permissi3">Permission FAQs</MadCap:xref>
+            </li>
+        </ul>
+        <h2 style="text-align: left;"><a name="Creating"></a>Creating User Accounts</h2>
+        <h3 style="text-align: left;"><a name="Initiati"></a>Initiating the  Set-Up Process</h3>
+        <p style="text-align: left;">Potential Enterprise SMS&#160;users can initiate the account set-up process by completing the 
+			proper form(s) and receiving the necessary approvals. For more information on the Account Creation process, refer to 
+		the <MadCap:xref href="ESMS-Acc-Con-Perm-Mgt.htm#Introduc">Introduction to User Permissions</MadCap:xref>.</p>
+        <h3 style="text-align: left;"><a name="User"></a>User Administration</h3>
+        <p style="text-align: left;">Users who have <b>Administrator</b> permissions can create Permissions and assign them to other users. 
+			Enterprise SMS has three types of <b>Administrator</b> permissions:&#160;<b>Security Administrator</b>, 
+		<b>Organization Administrator</b>, and <b>Site Administrator</b>. </p><pre>Administrator permissions should only be given to users who need to manage other users. 
+			There are additional forms/approvals required to obtain <b>Administrator</b> permissions. </pre>
+        <h3 style="text-align: left;"><a name="How"></a>How to Assign Security Administrator Permissions to a User</h3>
+        <p style="text-align: left;">A <b>Security Administrator</b> has global access to everything in Enterprise SMS. Only <b>Security Administrators</b> 
+		can assign another user to be a <b>Security Administrator</b>.</p>
+        <img src="../admin-imgs/Admin-Users.png" />
+        <ol>
+            <li style="text-align: left;">Log in to Enterprise SMS&#160;and navigate to <b>Administration</b> &gt;&#160;<b>Users</b>.</li>
+            <img src="../admin-imgs/Security-Admin.png" style="padding-left: 10px;padding-right: 10px;padding-top: 10px;padding-bottom: 10px;width: 1206px;height: 306px;" />
+            <li style="text-align: left;">Type the name of the user who will be granted <b>Administrator</b> permissions into the search bar.</li>
+            <p style="text-align: left;"> <b>Note</b>: The user must complete a user account creation before performing the following steps.</p>
+            <li style="text-align: left;">Click on the user's name.</li>
+            <li style="text-align: left;">Switch the toggle next to "Security Administrator" to the "On"&#160;position. </li>
+            <li style="text-align: left;">Click "<b>Save</b>."</li>
+        </ol>
+        <h3 style="text-align: left;"><a name="How2"></a>How to Assign Organization and Site Administrator Permissions to a User</h3>
+        <p style="text-align: left;"><b>Organization</b> and <b>Site Administrator</b> permissions are identical to that of a <b>Security Administrator</b>. 
+			However, they are specific to an <b>Organization</b> 
+		or <b>Site</b> assigned to the permission. </p>
+        <p style="text-align: left;">ESMS uses "inherited" permissions. As a result, a user's permissions assigned at the <b>Organization</b> level 
+			will also be applied to 
+			all <b>Sites</b> under the same <b>Organization</b>. For 
+		example, if a user has <b>Administrative</b> permissions at the <b>Organization</b> level, then the user will also have <b>Administrative</b> permissions 
+			for all <b>Sites</b> under the <b>Organization</b>. </p>
+        <p style="text-align: left;margin-left: 32px;"><b>Note:</b> A user must be a <b>Security Administrator</b> to be able to assign a user to be 
+		an <b>Organization</b> or <b>Site Administrator</b>. </p>
+        <ol>
+            <li style="text-align: left;">Log in to ESMS&#160;and navigate to <b>Administration</b> &gt; <b>Users</b>.</li>
+            <img src="../admin-imgs/Site-Org-Admin.png" style="padding-left: 10px;padding-right: 10px;padding-top: 10px;padding-bottom: 10px;width: 1174px;height: 467px;" />
+            <li style="text-align: left;">Type the name of the user who will be granted <b>Administrator</b> permissions into the search bar.</li>
+            <p style="text-align: left;"> <b>Note</b>: The user must  complete a user account creation before performing the following steps.</p>
+            <li style="text-align: left;">Click on the user's name.</li>
+            <li style="text-align: left;">Select the "+" button next to <b>User Site Administration</b> or <b>User Organization Administration</b>. </li>
+            <li style="text-align: left;">Type the name of the <b>Site</b> or <b>Organization</b>. </li>
+            <li style="text-align: left;">Click the desired <b>Site</b> or <b>Organization</b>. </li>
+            <li style="text-align: left;">Select "<b>Save</b>."</li>
+        </ol>
+        <h3 style="text-align: left;"><a name="How3"></a>How to Lock/Unlock a User's Account</h3>
+        <p style="text-align: left;margin-left: 32px;"><b>Note</b>:&#160;A user must have <b>Security Administrator</b> permissions to lock/unlock a user's account. </p>
+        <ol>
+            <li style="text-align: left;">Log in to ESMS&#160;and navigate to <b>Administration</b> &gt;&#160;<b>Users</b>.</li>
+            <li style="text-align: left;">Type the name of the user who will be granted <b>Administrator</b> permissions into the search bar.</li>
+            <p style="text-align: left;"> <b>Note</b>: The user must first complete a user account creation.</p>
+            <li style="text-align: left;">Click on the user's name.</li>
+            <li style="text-align: left;">Switch the toggle next to "Locked" to lock/unlock a user's account.</li>
+            <li style="text-align: left;">Click "<b>Save</b>."</li>
+        </ol>
+        <h3 style="text-align: left;"><a name="How4"></a>How to Update a User's Name and/or Email</h3>
+        <p style="text-align: left;margin-left: 32px;"><b>Note</b>:&#160;A user must have <b>Security Administrator</b> permissions to update the user's 
+		name or email address. </p>
+        <ol>
+            <li style="text-align: left;">Log in to ESMS&#160;and navigate to <b>Administration</b> &gt;&#160;<b>Users</b>.</li>
+            <li style="text-align: left;">Type the name of the user who will be granted <b>Administrator</b> permissions into the search bar.</li>
+            <p style="text-align: left;"> <b>Note</b>: The user must  complete a user account creation before performing the following steps.</p>
+            <li style="text-align: left;">Click on the user's name.</li>
+            <li style="text-align: left;">Update the user's email address and/or first/last names  in the text input fields.</li>
+            <li style="text-align: left;">Click "<b>Save</b>."</li>
+        </ol>
+        <h2 style="text-align: left;"><a name="Creating2"></a>Creating Team Permissions</h2>
+        <p style="text-align: left;">Groups of users can have permissions created and assigned to them in Enterprise SMS with <b>Teams</b>. Teams can be 
+			created at the <b>Organization</b>,&#160;<b>Site</b>, 
+		and <b>Group</b> levels. </p>
+        <p style="text-align: left;">Permissions assigned at a higher level will also inherit the lower level permissions. For example, if a user is 
+			assigned <b>Inventory Delete</b> permissions, 
+		the user can also <b>Create</b>, <b>Update</b>, and <b>Read</b>. Ranking from high to low, the permission levels are as 
+			follows:&#160;<b>Delete</b>, <b>Update</b>, <b>Create</b>, and <b>Read</b>. </p>
+        <p style="text-align: left;margin-left: 32px;"><b>Note</b>:&#160;<b>Teams</b> and <b>Roles</b> are identical. These terms may be used and 
+		referred to interchangeably throughout the topic. </p>
+        <h3 style="text-align: left;"><a name="Creating3"></a>Creating a Team at the Organization Level</h3>
+        <p style="text-align: left;margin-left: 32px;"><b>Note</b>: A user must have <b>Security</b> or <b>Organization Administrator</b> permissions to 
+		the <b>Organization</b> for which the team is being created. </p>
+        <img src="../admin-imgs/Inv-Org-Dropdown.png" />
+        <ol>
+            <li style="text-align: left;">Log in to ESMS and navigate to <b>Inventory</b> &gt;&#160;<b>Organizations</b>.</li>
+            <img src="../admin-imgs/Org-Permissions.png" style="width: 1135px;height: 440px;" />
+            <li style="text-align: left;">Click on the desired <b>Organization</b> from the list.</li>
+            <li style="text-align: left;">Click the <b>Permissions</b> tab.</li>
+            <li style="text-align: left;">Click the "+"&#160;button.</li>
+            <li style="text-align: left;">Type in the&#160;Team's name in the "Name"&#160;field.</li>
+            <li style="text-align: left;">Set the&#160;permission(s) for <b>Asset</b> and <b>Inventory</b> using the drop-down menus.</li>
+            <li style="text-align: left;">Use the toggle switches to turn the other permissions on/off.</li>
+            <li style="text-align: left;">Click "<b>Save</b>."</li>
+        </ol>
+        <h3 style="text-align: left;"><a name="Creating4"></a>Creating a Team at the Site Level</h3>
+        <p style="text-align: left;margin-left: 32px;"><b>Note</b>: A user must have <b>Security</b> or <b>Organization Administrator</b> permissions 
+			to the <b>Organization</b>or <b>Site</b>, 
+			or <b>Site Administrator</b> permissions 
+		for which the team is being created. </p>
+        <ol>
+            <li style="text-align: left;">Log in to ESMS&#160;and navigate to <b>Inventory</b> &gt;&#160;<b>Sites</b>. </li>
+            <li style="text-align: left;">Click on the desired <b>Site</b> from the list. </li>
+            <li style="text-align: left;">Click the <b>Permissions</b> tab.</li>
+            <img src="../admin-imgs/Site-Permissions.png" style="width: 1115px;height: 363px;" />
+            <li style="text-align: left;">Click the "+" button. </li>
+            <li style="text-align: left;">Type in the Team's name in the "Name"&#160;field. </li>
+            <li style="text-align: left;">Set the permission(s) for <b>Asset</b> and <b>Inventory</b> using the drop-down menus.</li>
+            <li style="text-align: left;">Use the toggle switches to turn the other permissions on/off.</li>
+            <li style="text-align: left;">Click "<b>Save</b>."</li>
+        </ol>
+        <h3 style="text-align: left;">Creating a Team at the Group Level</h3>
+        <p style="text-align: left;margin-left: 32px;"><b>Note</b>: A user must have <b>Security Administrator</b> permissions, <b>Organization Administrator</b> permissions for 
+		the <b>Organization</b> or <b>Group</b>, or <b>Site Administrator</b> permissions to the <b>Site</b> of the <b>Group</b> for which the team is being created. </p>
+        <ol>
+            <li style="text-align: left;">Log in to ESMS&#160;and navigate to <b>Inventory</b> &gt;&#160;<b>Groups</b>.</li>
+            <li style="text-align: left;">Click on the desired <b>Group</b> from the list. </li>
+            <img src="../admin-imgs/Site-Group-Permissions.png" style="width: 1201px;height: 194px;" />
+            <li style="text-align: left;">Click the <b>Permissions</b> tab.</li>
+            <li style="text-align: left;">Click the "+" button.</li>
+            <li style="text-align: left;">Type in the Team's name in the "Name"&#160;field.</li>
+            <li style="text-align: left;">Set the permission(s) for <b>Asset</b> and <b>Inventory</b> using the drop-down menus.</li>
+            <li style="text-align: left;">Use the toggle switches to turn the other permissions on/off.</li>
+            <li style="text-align: left;">Click "<b>Save</b>."</li>
+        </ol>
+        <h3 style="text-align: left;"><a name="Adding"></a>Adding Users to a Team</h3>
+        <p style="text-align: left;margin-left: 32px;"><b>Note</b>: A user must have the appropriate <b>Administrator</b> level to add a <b>User</b> to a 
+			team as stated previously. 
+		This section is applicable to <b>Organization</b>, <b>Site</b>, and <b>Group</b> level teams. </p>
+        <ol>
+            <li style="text-align: left;">From the <b>Permissions</b> tab, click on the "<b>˄</b>" button next to desired team to expand the user's 
+			list. (It will become a "<b>˅</b>" button once activated).</li>
+            <img src="../admin-imgs/User-Permissions-Dropdown.png" style="width: 1098px;height: 645px;" />
+            <li style="text-align: left;">Click the "+" button next to "<b>User Name</b>."</li>
+            <li style="text-align: left;">Type the user's name into the search bar.</li>
+            <li style="text-align: left;">Click the user's name to be added to the team.</li>
+            <li style="text-align: left;">Click "<b>Save</b>."</li>
+        </ol>
+        <h2 style="text-align: left;"><a name="Permissi3"></a>Permission FAQs</h2>
+        <ul>
+            <li style="text-align: left;"><b>Q</b>:&#160;Is there a way to limit what domain(s) a user can access?&#160;Is this handled outside of 
+			the <b>Roles/Permissions</b> page?</li>
+            <li style="text-align: left;"><b>A</b>: Not at the present time.</li>
+        </ul>
+        <ul>
+            <li style="text-align: left;"><b>Q</b>:&#160;What happens if a user is assigned conflicting permissions at the <b>Organization</b> 
+					and <b>Site</b> levels? (<i>For example, the user is on a 
+			team with </i><b style="font-style: italic;">Delete Inventory</b><i> permissions at the </i><b style="font-style: italic;">Organization</b><i> level, 
+					but only </i><b style="font-style: italic;">Read Inventory</b><i> 
+				permissions at the </i><b style="font-style: italic;">Site</b><i> level</i>).</li>
+            <li style="text-align: left;"><b>A</b>:&#160;The highest permission level overrules the others. In the above example, the user will 
+			retain <b>Delete Inventory</b> permissions. </li>
+        </ul>
+        <h2 style="text-align: left;">Related Topics</h2>
+        <ul>
+            <li style="text-align: left;">
+                <MadCap:xref href="ESMS-Acc-Con-Perm-Mgt.htm">ESMS Access Control Permissions Management</MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

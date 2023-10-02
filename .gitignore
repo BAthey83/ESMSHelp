@@ -4,8 +4,8 @@
 
 # Ignore MadCap Flare Analyzer and Output files
 Analyzer/
-Project/
-Content/
+# Project/
+# Content/
 Output/
 
 *.cadbf/*

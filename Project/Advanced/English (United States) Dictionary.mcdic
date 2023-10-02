@@ -349,8 +349,19 @@
     <Word Comment="">Explorer/directory</Word>
     <Word Comment="">multi-select</Word>
     <Word Comment="">CMC</Word>
-    <Word>ost</Word>
-    <Word>pre-fill</Word>
-    <Word>Add/Install</Word>
-    <Word>higher/lower</Word>
+    <Word Comment="">ost</Word>
+    <Word Comment="">pre-fill</Word>
+    <Word Comment="">Add/Install</Word>
+    <Word Comment="">higher/lower</Word>
+    <Word>Create/Edit/Delete</Word>
+    <Word>Lock/Unlock</Word>
+    <Word>Create/Assign</Word>
+    <Word>Create/Modify</Word>
+    <Word>Add/Edit/Delete</Word>
+    <Word>preconfigured</Word>
+    <Word>forms/approvals</Word>
+    <Word>lock/unlock</Word>
+    <Word>first/last</Word>
+    <Word>on/off</Word>
+    <Word>Roles/Permissions</Word>
 </SpellingDictionary>
