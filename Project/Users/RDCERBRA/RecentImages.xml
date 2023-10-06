@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/ESMS-Organizations-Screen-2023.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
@@ -19,5 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Policies-Tab.png" />
     <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Group-Types-2023.png" />
     <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del.png" />
-    <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Att-Name-Type.png" />
 </UrlList>

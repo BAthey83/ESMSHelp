@@ -4,7 +4,7 @@
         <Link Value="C:\SourceControl\Core\ESMS.Help\Content\ESMS-WEB\ESMS-Ref-Books\imgs\Ref-Books-Icon.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
-        <Link Value="C:\SourceControl\Core\ESMS.Help\Content\ESMS-WEB\ESMS-Ref-Books\Ref-Books-Work-Act.htm" />
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Inventory\Site-Selection-About.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
         <Link Value="C:\SourceControl\Core\ESMS.Help\Content\ESMS-WEB\ESMS-Workflow Editor\Edit-Scheme-Transitions.htm" />

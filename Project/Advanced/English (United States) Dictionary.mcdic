@@ -349,8 +349,12 @@
     <Word Comment="">Explorer/directory</Word>
     <Word Comment="">multi-select</Word>
     <Word Comment="">CMC</Word>
-    <Word>ost</Word>
-    <Word>pre-fill</Word>
-    <Word>Add/Install</Word>
-    <Word>higher/lower</Word>
+    <Word Comment="">ost</Word>
+    <Word Comment="">pre-fill</Word>
+    <Word Comment="">Add/Install</Word>
+    <Word Comment="">higher/lower</Word>
+    <Word>facilities/assets</Word>
+    <Word>members/member</Word>
+    <Word>Facility/Asset</Word>
+    <Word>facility/asset</Word>
 </SpellingDictionary>

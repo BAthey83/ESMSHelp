@@ -1,1 +1,0 @@
-define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'.csv',s:'csv',c:0},{t:'ASTM',c:0},{t:'CI',c:0},{t:'FCI',c:0},{t:'FI',c:0},{t:'Fieldset',c:0},{t:'MDI',c:0},{t:'PI',c:0},{t:'PRV',c:0},{t:'RPUID',c:0},{t:'RSL',c:0},{t:'UFC',c:0},{t:'User Menu',c:0}]});
