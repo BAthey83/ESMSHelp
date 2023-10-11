@@ -6,13 +6,13 @@
 
 
 #Ignoring all Input files if necessary
-#Analyzer/
+Analyzer/
 #Project/
 #Content/
 #Output/
 
 #Ignore duplicated Output files that are copied to wwwroot
-Output/RDCERBRA/
+#Output/RDCERBRA/
 
 */*.cadbf/*
 

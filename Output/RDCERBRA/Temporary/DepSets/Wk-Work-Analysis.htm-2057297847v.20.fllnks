@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Work Analysis"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Standard-Selection_274x570.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Menu-Options.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Policies-Tab_796x182.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Rules-Screen_734x333.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Prty-Tab_770x213.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Profiles-Tab_764x309.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Work-Tab_831x190.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Queue-Tab_741x112.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Reports-Tab_717x171.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/ESMS-Work-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-List-Screen.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/About-Workflow-Stages.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Tasks/Tasks-Home.htm" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm#Policies" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm#Prioriti" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm#Profiles" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm#Work" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm#Queue" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm#Reports" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Standard-Selection_274x570.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Menu-Options.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Policies-Tab_796x182.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Rules-Screen_734x333.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Prty-Tab_770x213.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Profiles-Tab_764x309.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Work-Tab_831x190.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Queue-Tab_741x112.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Work/imgs/Wk-Reports-Tab_717x171.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/ESMS-Work-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-List-Screen.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/About-Workflow-Stages.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Tasks/Tasks-Home.htm" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Work/Wk-Work-Analysis.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Policies" />
+    <Anchor
+      Name="Prioriti" />
+    <Anchor
+      Name="Profiles" />
+    <Anchor
+      Name="Work" />
+    <Anchor
+      Name="Queue" />
+    <Anchor
+      Name="Reports" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Set Up Fields and Filters"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fields-button-2023_220x413.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fields-btn-red-2023_185x157.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-order-1-2023_66x63.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-Fields-Facilities-2023-red_212x158.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-Fields-3-levels-2023_204x173.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-Fields-Quantity-2023_214x182.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Filters-Facilities-Chart-2023-Full_202x707.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Groups-Filters-Complete-2023_195x491.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Components-Filters-Complete-2023_166x628.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Assessments-Filters-2023-Complete_213x573.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Work-Filters-2023-Complete_187x571.png" />
+    <Link
+      Url="Default.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fuel Facilities redbox 1_188x332.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fuel Facilities redbox 2_213x403.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm#Fields" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm#Filters" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm#Introduc" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm#Sort" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fields-button-2023_220x413.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fields-btn-red-2023_185x157.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-order-1-2023_66x63.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm#Open" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-Fields-Facilities-2023-red_212x158.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-Fields-3-levels-2023_204x173.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Sort-Fields-Quantity-2023_214x182.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Filters-Facilities-Chart-2023-Full_202x707.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Groups-Filters-Complete-2023_195x491.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Components-Filters-Complete-2023_166x628.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Assessments-Filters-2023-Complete_213x573.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Work-Filters-2023-Complete_187x571.png" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Inventory/Fields-and-Filters.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fuel Facilities redbox 1_188x332.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fuel Facilities redbox 2_213x403.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor928" />
+    <Anchor
+      Name="Introduc" />
+    <Anchor
+      Name="kanchor929" />
+    <Anchor
+      Name="kanchor930" />
+    <Anchor
+      Name="Fields" />
+    <Anchor
+      Name="kanchor931" />
+    <Anchor
+      Name="Open" />
+    <Anchor
+      Name="kanchor932" />
+    <Anchor
+      Name="kanchor933" />
+    <Anchor
+      Name="Sort" />
+    <Anchor
+      Name="kanchor934" />
+    <Anchor
+      Name="kanchor935" />
+    <Anchor
+      Name="kanchor936" />
+    <Anchor
+      Name="kanchor937" />
+    <Anchor
+      Name="kanchor938" />
+    <Anchor
+      Name="kanchor939" />
+    <Anchor
+      Name="kanchor940" />
+    <Anchor
+      Name="Filters" />
+    <Anchor
+      Name="kanchor941" />
+    <Anchor
+      Name="kanchor942" />
+    <Anchor
+      Name="kanchor943" />
+    <Anchor
+      Name="kanchor944" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

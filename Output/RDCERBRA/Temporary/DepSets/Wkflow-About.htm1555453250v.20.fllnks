@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="About Workflow"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/Resources/Styles/default.css" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-wkplan.png" />
+    <Link
+      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-wkplan_20x20.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/View-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Edit-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Add-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/nav-noscheme-flyout-asmt-in-red-box_250x200.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-WkflowEditor/ESMS-CreateScheme-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/01-Charter/Charter-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/02-Pre-Assessment/Pre-Asmt-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/03-Assessment/Asmt-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/04-Post-Assessment/Post-Asmt-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/05-Projects/Projects-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/smp1-bottom-wkflow-approve-btn_600x325.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/smp2-confirm-pop.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/smp3-transition-hist.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Delete-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Nav_work_plan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/04a-Desktop-Tablet/Desk-Tablet-Stage.htm" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Content/Resources/Styles/default.css" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-wkplan.png" />
+    <Link
+      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-wkplan_20x20.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/View-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Edit-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Add-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm#About2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm#About" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm#Work" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/nav-noscheme-flyout-asmt-in-red-box_250x200.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm#five-stages" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-WkflowEditor/ESMS-CreateScheme-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm#Stages" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm#Scheme" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/01-Charter/Charter-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/02-Pre-Assessment/Pre-Asmt-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/03-Assessment/Asmt-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/04-Post-Assessment/Post-Asmt-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/05-Projects/Projects-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/smp1-bottom-wkflow-approve-btn_600x325.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/smp2-confirm-pop.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm#Using" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/about-imgs/smp3-transition-hist.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Delete-Wkflow-Wkplan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Nav_work_plan.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Wkflow/04a-Desktop-Tablet/Desk-Tablet-Stage.htm" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Wkflow/00-About-and-Add/Wkflow-About.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="About2" />
+    <Anchor
+      Name="Work" />
+    <Anchor
+      Name="About" />
+    <Anchor
+      Name="five-stages" />
+    <Anchor
+      Name="kanchor62" />
+    <Anchor
+      Name="Stages" />
+    <Anchor
+      Name="Transiti" />
+    <Anchor
+      Name="kanchor63" />
+    <Anchor
+      Name="Scheme" />
+    <Anchor
+      Name="kanchor64" />
+    <Anchor
+      Name="Using" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Content/Resources/Styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Manage Workflow Permissions"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-wkflow-permissions_25x21.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/add-workflow-permision-role_225x150.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm#Edit" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-wkflow-permissions_25x21.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/add-workflow-permision-role_225x150.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm#Permissi" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm#About" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Workflow%20Editor/Workflow-Manage-Wkflw-Perm.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor25" />
+    <Anchor
+      Name="kanchor26" />
+    <Anchor
+      Name="kanchor27" />
+    <Anchor
+      Name="kanchor28" />
+    <Anchor
+      Name="kanchor29" />
+    <Anchor
+      Name="kanchor30" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Understanding the User Preferences Menu Options"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/user-preferences-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/saved-default-workspace-settings-target-2022_206x139.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/select-sync-target-2022update_418x419.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/x-selected-group-target_204x38.png" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm#Save" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm#Applicat" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm#Download" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm#SMS Supp" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm#Logout" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/user-preferences-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/saved-default-workspace-settings-target-2022_206x139.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/select-sync-target-2022update_418x419.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/x-selected-group-target_204x38.png" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor914" />
+    <Anchor
+      Name="Save" />
+    <Anchor
+      Name="kanchor915" />
+    <Anchor
+      Name="kanchor916" />
+    <Anchor
+      Name="Applicat" />
+    <Anchor
+      Name="kanchor917" />
+    <Anchor
+      Name="kanchor918" />
+    <Anchor
+      Name="kanchor919" />
+    <Anchor
+      Name="kanchor920" />
+    <Anchor
+      Name="kanchor921" />
+    <Anchor
+      Name="kanchor922" />
+    <Anchor
+      Name="Download" />
+    <Anchor
+      Name="SMS Supp" />
+    <Anchor
+      Name="Logout" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

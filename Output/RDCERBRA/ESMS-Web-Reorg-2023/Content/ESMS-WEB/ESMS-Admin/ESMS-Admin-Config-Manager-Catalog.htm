@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false">
+    <head>
+        <link href="../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Understanding the Configuration Manager (Catalog)</title>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+        <link href="../../Resources/Styles/SMS-Styles.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body style="text-align: center;font-family: Arial;">
+        <h1 style="text-align: left;">Understanding the Configuration Manager (Catalog)</h1>
+        <hr style="font-family: Arial;" width="100%" size="0" align="center" />
+        <p style="text-align: left;"><a name="kanchor982"></a>This topic lists tasks you can perform at the configuration manager, and details tasks associated with creating (1) custom component types and (2) custom group types. Configuration manager tasks associated with templates for assessment questionnaires and other types of questionnaires are introduced starting at <a href="ESMS-Admin-Under-Quest-Temp.htm" class="MCXref xref">Understanding Questionnaire Templates</a>.</p>
+        <p style="text-align: left;"><b>Note</b><a name="kanchor983"></a>: The Configuration Manager screen is viewable by ESMS administrators only; the <b>Catalog</b><a name="kanchor984"></a> tile will not appear on the Dashboard of a non-administrator.</p>
+        <hr style="font-family: Arial;" width="100%" size="0" align="center" />
+        <h2 style="text-align: left;">What Can I Do Here?</h2>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1"><a name="kanchor985"></a><a name="kanchor986"></a>At this screen, you can add custom component and group types to the ESMS catalog.</li>
+            <li style="text-align: left;" value="2">You also have the option here to design templates used to create assessment questionnaires: these can be for the new types you create, or for existing component and group types.</li>
+        </ol>
+        <p style="text-align: left;"><b><a name="kanchor987"></a>Permissions Note</b>: These tasks require ESMS admin privilege.</p>
+        <h3 style="font-style: italic;text-align: left;">—Quick Links—</h3>
+        <ul style="font-family: Arial;">
+            <li style="text-align: left;"><a name="Add_Component_Type"></a><a href="#Add">Add a new custom component type to the ESMS&#160;catalog</a>
+            </li>
+            <li style="text-align: left;"><a name="kanchor988"></a><a href="#Add2">Add subcomponents to it as needed</a>
+            </li>
+            <li style="text-align: left;"><a href="#Add3">Assign relevant attributes to the new component type</a>
+            </li>
+            <li style="text-align: left;"><a href="#Add4">Add a new custom group type to the ESMS&#160;catalog</a>
+            </li>
+            <li style="text-align: left;"><a href="#Add5">Assign relevant attributes to the new group type</a>
+            </li>
+            <li style="text-align: left;"><a href="ESMS-Admin-Under-Quest-Temp.htm">Questionnaire Template tasks</a>
+            </li>
+        </ul>
+        <h2 style="text-align: left;">Custom Component Type</h2>
+        <h3 style="font-style: italic;text-align: left;">Navigation</h3>
+        <p style="text-align: left;">To work with custom component types in the Inventory Catalog Manager, make sure that the <b>Component Types</b> tab is activated.</p>
+        <p style="text-align: left;"><a name="kanchor989"></a>In the left pane, a list of existing component types will appear. You can browse the list to select one, or use the search box at the top of the list. In the right pane, the tabs <b>General</b>, <b>Custom Attributes</b>, and <b>References</b> are available.</p>
+        <h3 style="font-style: italic;text-align: left;"><a name="Add"></a>Add Component Type</h3>
+        <p style="text-align: left;">To create a new component type at the <b>Component Types</b> tab,</p>
+        <img src="../ESMS-Catalog/imgs/Inv-Cat-Mgr_718x576.png" style="width: 718;height: 576;" />
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">Activate the <b>Component Types</b> tab on the Configuration Manager screen.</li>
+            <li style="text-align: left;" value="2">Activate the "<b>+</b>" button in the header toolbar. <i>The "Create component type" popup will appear.</i></li>
+            <li style="text-align: left;" value="3">At the <b>General</b> tab, fill in the <b>Name</b> field.</li>
+            <li style="text-align: left;" value="4">Specify whether the component is a <b>Root Type</b> (if yes, mark the checkbox) and/ or a <b>System Type</b> (if yes, mark the checkbox).</li>
+            <li style="text-align: left;" value="5"><a name="kanchor990"></a>Select domain from the dropdown at the <b>Domain</b> field.</li>
+            <li style="text-align: left;" value="6">Select or add <b>Parent Components</b> if applicable.</li>
+            <li style="text-align: left;" value="7">Select applicable <b>Subcomponents</b>. See the next documentation header (<a href="#Add2" class="MCXref xref">Add Subcomponents</a>) for instructions.</li>
+            <li style="text-align: left;" value="8">Select attributes for the new component type at the <b>Custom Attributes</b> tab. See <a href="#Add3" class="MCXref xref">Add Attributes</a> for instructions.</li>
+            <li style="text-align: left;" value="9">When finished, activate the <b>Save</b> button, located at the bottom. Alternatively, activate <b>Cancel</b> to exit the popup without creating a new component type.</li>
+        </ol>
+        <h3 style="font-style: italic;text-align: left;"><a name="Add2"></a>Add Subcomponents</h3>
+        <p style="text-align: left;">To add subcomponents to a custom component type,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">Make sure you are at the <b>General</b> tab for the desired component type. If it is an existing type, you can open the desired component type in the listing at the left, and the <b>General</b> tab should be selected by default in the right-hand pane. If you are still in the process of creating a new component type, make sure you are at the <b>General</b> tab in the "Create component type" popup.</li>
+            <li style="text-align: left;" value="2">In the <b>Subcomponents</b> section at the <b>General</b> tab, activate the <b>Add More</b> button. <i>The "Select Subcomponent to Add" popup will appear.</i></li>
+            <li style="text-align: left;" value="3">In the popup, select one or more subcomponents to be added. You can use the Shift or Ctrl keys to select multiple subcomponents at one time.</li>
+            <li style="text-align: left;" value="4">Activate <b>Select</b>. Alternatively, activate <b>Close</b> to close the popup without adding a component. <i>You will be returned to the </i><b style="font-style: italic;">General</b><i> tab.</i></li>
+            <li style="text-align: left;" value="5">You can repeat the previous three steps if needed.</li>
+            <li style="text-align: left;" value="6">When finished adding subcomponents, use the <b>Close</b> button to return to the <b>General</b> tab, if not already there.</li>
+        </ol>
+        <h3 style="font-style: italic;text-align: left;"><a name="Add3"></a>Add Attributes</h3>
+        <p style="text-align: left;">Assign attributes to a custom component type or custom group type at the <b>Custom Attributes</b> tab.</p>
+        <p style="text-align: left;">To create a new, user-defined attribute,</p>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">Make sure you are at the <b>Custom Attributes</b> tab for the desired component or group type. If it is an existing type, you can open the 
+			desired type in the listing at the left, and then select the <b>Custom Attributes</b> tab. If you are still in the process of creating a new component or group type, make sure you are at the <b>Custom Attributes</b> tab in the "Create component type" or "Create group type" popup.</li>
+        </ol>
+        <img src="../ESMS-Catalog/imgs/Att-w-Del_528x273.png" style="width: 528;height: 273;" />
+        <ol style="font-family: Arial;text-align: center;" data-mc-continue="true">
+            <li style="text-align: left;" value="2">In the <b>Attributes</b> toolbar, you can add a root attribute (activate the "<b>+</b>" button) or an attribute category (activate the folder button). Once you have created a category, you can add attributes to it.</li>
+            <li style="text-align: left;" value="3">To name the new attribute or category, activate it in the listing, then fill in the name in the <b>Attribute Name</b> or <b>Attribute Type</b> field that appears below.</li>
+            <img src="../ESMS-Catalog/imgs/Att-Name-Type.png" />
+        </ol>
+        <p style="text-align: left;"><b>Note</b>: The active attribute/category will appear on a blue bar, instead of pink.</p>
+        <ol style="font-family: Arial;text-align: left;" data-mc-continue="true">
+            <li value="4">For a category, type a description in the <b>Category Description</b> field.</li>
+            <li value="5">For an attribute, select a type from the dropdown in the <b>Attribute Type</b> field. If any additional fields appear as a result of the attribute type selected (for example, <b>Length</b> field for String type), fill them in.</li>
+            <li value="6">Repeat the steps above as desired.</li>
+            <li value="7">When finished, activate the <b>Save</b> button, or else return to the last step of creating a new component or group type. Alternatively, activate <b>Cancel</b> to not save or to exit the popup without creating it.</li>
+        </ol>
+        <h2 style="text-align: left;">Custom Group Type</h2>
+        <h3 style="font-style: italic;text-align: left;">Navigation</h3>
+        <p style="text-align: left;">To work with custom group types in the configuration manager, make sure that the <b>Group Types</b> tab is activated.</p>
+        <p style="text-align: left;">In the left pane, a list of existing group types will appear. You can browse the list to select one, or use the search box at the top of the list.</p>
+        <h3 style="text-align: left;font-style: italic;"><a name="Add4"></a>Add Group Type</h3>
+        <p style="text-align: left;">To create a new group type at the <b>Group Types</b> tab,</p>
+        <img src="../ESMS-Catalog/imgs/Group-Types-2023_514x507.png" style="width: 514;height: 507;" />
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;" value="1">Activate the <b>Group Types</b> tab on the Configuration Manager screen.</li>
+            <li style="text-align: left;" value="2">Activate the "<b>+</b>" button in the header toolbar. <i>The "Create group type" popup will appear.</i></li>
+            <li style="text-align: left;" value="3">At the <b>General</b> tab, fill in the <b>Name</b> field.</li>
+            <li style="text-align: left;" value="4">Specify whether the group is a system type (if yes, mark the checkbox).</li>
+            <li style="text-align: left;" value="5">Select domain from the dropdown at the <b>Domain</b> field.</li>
+            <li style="text-align: left;" value="6">Create custom attributes at the <b>Custom Attributes</b> tab. See <a href="#Add5" class="MCXref xref">Add Attributes</a> for instructions.</li>
+            <li style="text-align: left;" value="7">When finished, activate the <b>Save</b> button. Alternatively, activate <b>Cancel</b> to exit the popup without creating a new component type.</li>
+        </ol>
+        <p style="text-align: left;"><a name="kanchor991"></a><b>Troubleshooting tip</b>: If required fields have not been filled in, the <b>Save</b> button will be grayed out.</p>
+        <h3 style="text-align: left;font-style: italic;"><a name="Add5"></a>Add Attributes</h3>
+        <p style="text-align: left;">Assign attributes to a custom component type or custom group type at the <b>Custom Attributes</b> tab.</p>
+        <p style="text-align: left;">To create a new, user-defined attribute,</p>
+        <ol style="font-family: Arial;text-align: left;">
+            <li value="1">Make sure you are at the <b>Custom Attributes</b> tab for the desired component or group type. If it is an existing type, you can open the desired type in the listing at the left, and then select the <b>Custom Attributes</b> tab. If you are still in the process of creating a new component or group type, make sure you are at the <b>Custom Attributes</b> tab in the "Create component type" or "Create group type" popup.</li>
+        </ol>
+        <img src="admin-imgs/Groups-Custom-Attributes_450x193.png" style="padding-top: 8px;padding-bottom: 8px;width: 450;height: 193;" />
+        <ol style="font-family: Arial;text-align: left;" data-mc-continue="true">
+            <li value="2">In the <b>Attributes</b> toolbar, you can add a root attribute (activate the "<b>+</b>" button) or an attribute category (activate the folder button). Once you have created a category, you can add attributes to it.</li>
+            <li value="3">To name the new attribute or category, activate it in the listing, then fill in the name in the <b>Attribute Name</b> or <b>Category Name</b> field that appears below.</li>
+        </ol>
+        <p style="text-align: left;"><b>Note</b>: The active attribute/category will appear on a blue bar, instead of pink.</p>
+        <ol style="font-family: Arial;text-align: left;" data-mc-continue="true">
+            <li value="4">For a category, type a description in the <b>Category Description</b> field.</li>
+            <li value="5">For an attribute, select a type from the dropdown in the <b>Attribute Type</b> field. If any additional fields appear as a result of the attribute type selected (for example, <b>Length</b> field for String type), fill them in.</li>
+            <li value="6">Repeat the steps above as desired.</li>
+            <li value="7">When finished, activate the <b>Save</b> button, or else return to the last step of creating a new component or group type. Alternatively, activate <b>Cancel</b> to not save or to exit the popup without creating it.</li>
+        </ol>
+        <p style="text-align: left;">To continue reading about Configuration Manager tasks, see <a href="ESMS-Admin-Under-Quest-Temp.htm" class="MCXref xref">Understanding Questionnaire Templates</a>.</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Default.htm#ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm">Open topic with navigation</a>
+        </p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Default.htm#ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

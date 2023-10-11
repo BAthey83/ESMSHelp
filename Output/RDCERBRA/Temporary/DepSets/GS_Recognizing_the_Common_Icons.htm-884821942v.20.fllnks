@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Recognizing the Common Icons"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/MembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/GreenMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/YellowMembraneSection.gif" />
+    <Link
+      Url="Content/Resources/R-ICONS/RedMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rollup.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Refresh.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/save.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Comment.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Reports.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/New2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Delete2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Close.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Help.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Calendar.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Generate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Prioritize.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rankings.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Export.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Cancel.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Proceed.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Evaluate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Edit.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Target.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Measurement.png" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Organization_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Site_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Complex_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Building_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Add.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Delete.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Gray.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Green.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Yellow.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Roof_Section_Red.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/MembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/GreenMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/ICONS/YellowMembraneSection.gif" />
+    <Link
+      Url="Content/Resources/R-ICONS/RedMembraneSection.jpg" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rollup.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Refresh.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/save.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Comment.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Reports.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/New2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Delete2.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Close.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Help.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Calendar.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Generate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Prioritize.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Rankings.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Export.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Cancel.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Proceed.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Evaluate.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Edit.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Target.png" />
+    <Link
+      Url="Content/Resources/R-ICONS/Measurement.png" />
+    <Link
+      Url="Default.htm#Resources/R-ICONS/GS_Recognizing_the_Common_Icons.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor106" />
+    <Anchor
+      Name="kanchor107" />
+    <Anchor
+      Name="kanchor108" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
