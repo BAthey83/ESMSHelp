@@ -526,13 +526,14 @@
   <TocEntry
     Title="Administration">
     <TocEntry
-      Title="Permissions"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Permissions/ESMS-Acc-Con-Perm-Mgt.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Permissions/ESMS-Admin-Per.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Permissions">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Permissions/ESMS-Admin-Per.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Permissions/ESMS-Acc-Con-Perm-Mgt.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Import/Export">

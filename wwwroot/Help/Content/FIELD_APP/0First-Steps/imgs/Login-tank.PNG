@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Select or Change Site</h1>
+        <h3>About Selecting a Site</h3>
+        <p>The <span class="span_1">Select Site</span> button on the menu bar allows you to select one site to view and work with. If you don't select a site, you will be accessing all of the sites you have permission for (which is also an option). Your choice is between one site and all of the sites. When all of your permitted sites are part of your active view, the data on the screen, search results, etc., take all of these sites into account. </p>
+        <p class="indent"><span class="span_1">Note:</span> If the menu bar button reads "Select Site" instead of listing a site name, then you're viewing all sites. </p>
+        <h3><a name="Select"></a>Select Site </h3>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Web/snp-select-site.flsnp" />
+        <h3>
+            <MadCap:keyword term="Site:Change">
+            </MadCap:keyword>Change Site </h3>
+        <p>If you want to change which site you are working with, do the following</p>
+        <ol style="list-style-type: lower-alpha;">
+            <li>To the right of the site name on the Main Menu, activate the button with the white "X", as shown below. <span class="result">This will clear your site selection</span>.<p><img src="imgs/btn-site-select-clear.png" alt="screenshot" height="50"></img></p></li>
+            <li>If you want to be viewing all permitted sites, ignore remaining instructions in this list.</li>
+            <li>Alternatively, to choose a single replacement site, continue by following the instructions above under the subsection <span class="ref-title"><MadCap:xref href="#Select">Select Site</MadCap:xref></span>.</li>
+        </ol>
+    </body>
+</html>
