@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/Work-Item-About.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-view.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-add.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-add-items.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-remove-items.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-edit.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-del.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/Work-Item-About.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-view.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-add.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-add-items.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-remove-items.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-edit.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Wkplan-Tasks/wk-plan-del.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Work Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="32" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

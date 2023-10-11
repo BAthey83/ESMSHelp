@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-member-create-link.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/create-invite-link-btn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/create-invite-link-pop-1.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/invite-link-RED-copy-btn_480x150.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/accept-team-invite.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-member-established-link.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/invite-link-RED-copy-btn_480x151.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/del-est-invite-link.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-member-create-link.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm#Option" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm#Option2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm#At" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm#In" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm#Action" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/create-invite-link-btn.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/create-invite-link-pop-1.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/invite-link-RED-copy-btn_480x150.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm#In2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/accept-team-invite.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-member-established-link.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm#At2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/invite-link-RED-copy-btn_480x151.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/del-est-invite-link.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Option" />
+    <Anchor
+      Name="At" />
+    <Anchor
+      Name="In" />
+    <Anchor
+      Name="Action" />
+    <Anchor
+      Name="Option2" />
+    <Anchor
+      Name="At2" />
+    <Anchor
+      Name="In2" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Add:Team member"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Add:Member of a team"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Team:Add member"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Team Member:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Add:Team"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="81" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="141" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="151" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="155" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="156" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

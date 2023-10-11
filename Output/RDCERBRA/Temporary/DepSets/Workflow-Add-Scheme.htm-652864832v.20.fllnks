@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-new-scheme_25x24.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Start-State-Finish.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Editor-Start-State-Screenshot.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/self-ref-trans-arrow.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-new-scheme_25x24.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Start-State-Finish.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Editor-Start-State-Screenshot.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/self-ref-trans-arrow.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="110" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="111" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="120" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -4,9 +4,9 @@
 
 # Ignore MadCap Flare Analyzer and Output files
 Analyzer/
-# Project/
-# Content/
-Output/
+#Project/
+#Content/
+#Output/
 
 *.cadbf/*
 
@@ -16,7 +16,6 @@ Output/
 *.s3db-shm
 *.s3db-wal
 *.xml
-
 
 
 # User-specific files

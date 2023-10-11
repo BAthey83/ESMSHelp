@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Styles/default.css" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Help-Home/ESMS-Important-Notice.htm" />
+    <Link
+      Url="Content/0Welcome/Welcome-Assets/CERL_Castle_logo.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Styles/default.css" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Help-Home/ESMS-Important-Notice.htm#Disclaim" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Help-Home/ESMS-Important-Notice.htm#Hold-Har" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Help-Home/ESMS-Important-Notice.htm#Informat" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Help-Home/ESMS-Important-Notice.htm#Copyrigh" />
+    <Link
+      Url="Content/0Welcome/Welcome-Assets/CERL_Castle_logo.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Disclaim" />
+    <Anchor
+      Name="Hold-Har" />
+    <Anchor
+      Name="Informat" />
+    <Anchor
+      Name="Copyrigh" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Disclaimer"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="Hold-Harmless Statement"
+      Conditions=""
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="33" />
+    <IndexCacheEntry
+      Term="Information Re-Use Restrictions"
+      Conditions=""
+      LocalConditions=""
+      Position="40" />
+    <IndexCacheEntry
+      Term="Copyright"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Styles/default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
