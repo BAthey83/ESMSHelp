@@ -78,25 +78,6 @@
       PageNumberReset="continue"
       PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      ChapterNumberReset="continue"
-      ComputeToc="false"
-      ReplaceMergeNode="false"
-      BreakType="chapter"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-    <TocEntry
       Title="Organizations"
       BreakType="chapter"
       StartSection="false"
@@ -126,6 +107,12 @@
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Organization/ESMS-Funding-Restriction-Group-Clause.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Sites">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Inventory/ESMS-Sites.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Facilities"

@@ -353,8 +353,10 @@
     <Word Comment="">pre-fill</Word>
     <Word Comment="">Add/Install</Word>
     <Word Comment="">higher/lower</Word>
-    <Word>facilities/assets</Word>
-    <Word>members/member</Word>
-    <Word>Facility/Asset</Word>
-    <Word>facility/asset</Word>
+    <Word Comment="">facilities/assets</Word>
+    <Word Comment="">members/member</Word>
+    <Word Comment="">Facility/Asset</Word>
+    <Word Comment="">facility/asset</Word>
+    <Word>facility/assets</Word>
+    <Word>Facilities/Assets</Word>
 </SpellingDictionary>
