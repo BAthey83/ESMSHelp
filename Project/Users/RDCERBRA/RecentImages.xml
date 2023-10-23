@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
-    <Url Source="ESMS-WEB/ESMS-Organization/imgs/Ref-Books-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Organization/imgs/Permissions-Highlighted.png" />
-    <Url Source="ESMS-WEB/ESMS-Organization/imgs/Reorder-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Organization/imgs/Trash-Delete.png" />
-    <Url Source="ESMS-WEB/ESMS-Organization/imgs/Pencil-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Organization/imgs/Funding-Main.png" />
-    <Url Source="ESMS-WEB/ESMS-Organization/imgs/Add-New-Funding.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Component-Search-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Group-Search-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-2023.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Edit-Fac-2023.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Create-Facility-2023.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Detail-Facility-2023.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Performance-Records-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Cost-Mod-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Doc-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Work-Items-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Assessments-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Components-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Sel-Columns-Sites.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/CSV-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Show-Map.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Show-Graphs.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Filter-Column.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Filter-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Site-Search-Chart.png" />
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Site-Details-Screen.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
-    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-View-Map.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-List-View-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-Filters-Complete.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Map-Search-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Current-Org.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Select-Org.png" />
 </UrlList>

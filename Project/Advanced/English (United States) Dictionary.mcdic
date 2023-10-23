@@ -357,6 +357,8 @@
     <Word Comment="">members/member</Word>
     <Word Comment="">Facility/Asset</Word>
     <Word Comment="">facility/asset</Word>
-    <Word>facility/assets</Word>
-    <Word>Facilities/Assets</Word>
+    <Word Comment="">facility/assets</Word>
+    <Word Comment="">Facilities/Assets</Word>
+    <Word>CONUS</Word>
+    <Word>ACF</Word>
 </SpellingDictionary>
