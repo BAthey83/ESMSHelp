@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Edit-Fac-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Create-Facility-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Detail-Facility-2023.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Delete-Cmp-Btn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Edit-Cmp-Screen.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Edit-Comp-Btn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Create-New-Comp-Popup.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Create-New-Comp-Btn.png" />
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Performance-Records-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Cost-Mod-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Doc-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Work-Items-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Assessments-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Components-Button.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Sel-Columns-Sites.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/CSV-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Show-Map.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Show-Graphs.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Filter-Column.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Filter-Icon.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Site-Search-Chart.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Site-Details-Screen.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Current-Org.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Select-Org.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Cost-Mod-Compt.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Documents-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Child-Cmpts-Popup.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Child-Cmpts-Btn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Inspection-Schedule-Btn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Work-Items-Component.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Create-Assessment-Component.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Assessments-Components-Add.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Bldg-Sec-Prop.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Custom-Att-Btn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Cpt-Dtls-Btn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Crte-Cmpt-Popup.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Component-Detail-Screen.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Delete-Group-Btn.png" />
 </UrlList>
