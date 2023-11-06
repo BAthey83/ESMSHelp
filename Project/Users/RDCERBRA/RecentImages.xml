@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Save-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Reset-Btn.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Add-Team-Button.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Remove-Team-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/User-Permissions-Sites.png" />
+    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Site-Details-General.png" />
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Delete-Cmp-Btn.png" />
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Edit-Cmp-Screen.png" />
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Edit-Comp-Btn.png" />
@@ -14,10 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Work-Items-Component.png" />
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Create-Assessment-Component.png" />
     <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Assessments-Components-Add.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Bldg-Sec-Prop.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Custom-Att-Btn.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Cpt-Dtls-Btn.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Crte-Cmpt-Popup.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Component-Detail-Screen.png" />
-    <Url Source="ESMS-WEB/ESMS-Inventory/imgs/Delete-Group-Btn.png" />
 </UrlList>

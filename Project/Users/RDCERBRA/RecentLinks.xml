@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Inventory\imgs\Custom-Att-Btn.png" />
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Inventory\imgs\Save-Button.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
-        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Organization\ESMS-Organization-Screen.htm" />
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Inventory\ESMS-Sites.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
         <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\0First-Steps\ESMS-Entry-Level Tasks.htm" />
