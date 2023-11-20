@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Access" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Features" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Selectin" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Editing" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Additional" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Access" />
+    <Anchor
+      Name="Features" />
+    <Anchor
+      Name="Selectin" />
+    <Anchor
+      Name="Editing" />
+    <Anchor
+      Name="Additional" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

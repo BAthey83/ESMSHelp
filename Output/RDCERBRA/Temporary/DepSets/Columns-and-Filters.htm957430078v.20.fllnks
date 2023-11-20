@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Window-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-Columns-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Filter-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Filter-Popup-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fuels-Components-Screen.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm#SelectColumns" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm#Filters" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm#Introduc" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm#Sort" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Window-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-Columns-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Filter-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Filter-Popup-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Fuels-Components-Screen.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Introduc" />
+    <Anchor
+      Name="SelectColumns" />
+    <Anchor
+      Name="Open" />
+    <Anchor
+      Name="Sort" />
+    <Anchor
+      Name="Filters" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Navigation Pane:configure"
+      Conditions=""
+      LocalConditions=""
+      Position="26" />
+    <IndexCacheEntry
+      Term="Select Columns"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Fields:Configure search results using fields"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="Search Results:Sort"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Sort:Direction"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Search Results:Filter"
+      Conditions=""
+      LocalConditions=""
+      Position="87" />
+    <IndexCacheEntry
+      Term="Filter Search Results"
+      Conditions=""
+      LocalConditions=""
+      Position="87" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

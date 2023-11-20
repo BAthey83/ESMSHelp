@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/detail-role.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/detail-role.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Add:Security Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

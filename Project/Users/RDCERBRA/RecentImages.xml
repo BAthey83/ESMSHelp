@@ -1,5 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Org-Permissions.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Inv-Org-Dropdown.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/User-Permissions-Dropdown.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Site-Group-Permissions.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Site-Permissions.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Site-Org-Admin.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Security-Admin.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Admin-Users.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Permissions-Flow-Chart.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
@@ -11,13 +20,4 @@
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Work-Analysis-Icon.png" />
     <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Rules-Screen.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Reports-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Queue-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Work-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Profiles-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Prty-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Policies-Tab.png" />
-    <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Group-Types-2023.png" />
-    <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del.png" />
-    <Url Source="ESMS-WEB/ESMS-Catalog/imgs/Att-Name-Type.png" />
 </UrlList>

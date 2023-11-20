@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Details-Tab-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Details-Tab-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm#Scheme" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Details" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Charter"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="Pre-Assessment Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
