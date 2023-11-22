@@ -353,15 +353,16 @@
     <Word Comment="">pre-fill</Word>
     <Word Comment="">Add/Install</Word>
     <Word Comment="">higher/lower</Word>
-    <Word>Create/Edit/Delete</Word>
-    <Word>Lock/Unlock</Word>
-    <Word>Create/Assign</Word>
-    <Word>Create/Modify</Word>
-    <Word>Add/Edit/Delete</Word>
-    <Word>preconfigured</Word>
-    <Word>forms/approvals</Word>
-    <Word>lock/unlock</Word>
-    <Word>first/last</Word>
-    <Word>on/off</Word>
-    <Word>Roles/Permissions</Word>
+    <Word Comment="">Create/Edit/Delete</Word>
+    <Word Comment="">Lock/Unlock</Word>
+    <Word Comment="">Create/Assign</Word>
+    <Word Comment="">Create/Modify</Word>
+    <Word Comment="">Add/Edit/Delete</Word>
+    <Word Comment="">preconfigured</Word>
+    <Word Comment="">forms/approvals</Word>
+    <Word Comment="">lock/unlock</Word>
+    <Word Comment="">first/last</Word>
+    <Word Comment="">on/off</Word>
+    <Word Comment="">Roles/Permissions</Word>
+    <Word>MRPM</Word>
 </SpellingDictionary>

@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="../../Users/RDCERBRA/Desktop/Documentation-backups/ESMS-WEB-reference-books-branch/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
+    <Link
+      Url="../../Users/RDCERBRA/Desktop/Documentation-backups/ESMS-WEB-reference-books-branch/ESMS-Work/Wk-Work-Analysis.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost Book Main Screen.png" />
+    <Link
+      Url="../../Users/RDCERBRA/Desktop/Documentation-backups/ESMS-WEB-reference-books-branch/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Column-Select.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Sel-Columns-Cost-Book.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Spec-Filter.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Remove-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost Book Screenshot.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="../../Users/RDCERBRA/Desktop/Documentation-backups/ESMS-WEB-reference-books-branch/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Introduc" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Access" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Cost" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Default" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Custom" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Features" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Editing" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm#Related" />
+    <Link
+      Url="../../Users/RDCERBRA/Desktop/Documentation-backups/ESMS-WEB-reference-books-branch/ESMS-Work/Wk-Work-Analysis.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost Book Main Screen.png" />
+    <Link
+      Url="../../Users/RDCERBRA/Desktop/Documentation-backups/ESMS-WEB-reference-books-branch/ESMS-Ref-Books/imgs/Save-Filter-Select.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Column-Select.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Sel-Columns-Cost-Book.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Spec-Filter.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Filter-Column-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Remove-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost Book Screenshot.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Introduc" />
+    <Anchor
+      Name="Access" />
+    <Anchor
+      Name="Cost" />
+    <Anchor
+      Name="Default" />
+    <Anchor
+      Name="Custom" />
+    <Anchor
+      Name="Features" />
+    <Anchor
+      Name="Editing" />
+    <Anchor
+      Name="Related" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="cost books"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Work Actions"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Organizations"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Inventory"
+      Conditions=""
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="Work Planning"
+      Conditions=""
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="cost books"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="47" />
+    <IndexCacheEntry
+      Term="Work Analysis"
+      Conditions=""
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="Cost book"
+      Conditions=""
+      LocalConditions=""
+      Position="51" />
+    <IndexCacheEntry
+      Term="Inflation Books"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="Reference Books"
+      Conditions=""
+      LocalConditions=""
+      Position="65" />
+    <IndexCacheEntry
+      Term="Cost"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Organizations"
+      Conditions=""
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="Cost Book"
+      Conditions=""
+      LocalConditions=""
+      Position="78" />
+    <IndexCacheEntry
+      Term="cost books"
+      Conditions=""
+      LocalConditions=""
+      Position="83" />
+    <IndexCacheEntry
+      Term="cost book"
+      Conditions=""
+      LocalConditions=""
+      Position="86" />
+    <IndexCacheEntry
+      Term="cost books"
+      Conditions=""
+      LocalConditions=""
+      Position="88" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="90" />
+    <IndexCacheEntry
+      Term="Features and Search Bar"
+      Conditions=""
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="Cost Books"
+      Conditions=""
+      LocalConditions=""
+      Position="97" />
+    <IndexCacheEntry
+      Term="Save Changes"
+      Conditions=""
+      LocalConditions=""
+      Position="102" />
+    <IndexCacheEntry
+      Term="Filter"
+      Conditions=""
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="Select Columns"
+      Conditions=""
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="Work Action"
+      Conditions=""
+      LocalConditions=""
+      Position="127" />
+    <IndexCacheEntry
+      Term="Specification"
+      Conditions=""
+      LocalConditions=""
+      Position="132" />
+    <IndexCacheEntry
+      Term="Activity"
+      Conditions=""
+      LocalConditions=""
+      Position="135" />
+    <IndexCacheEntry
+      Term="Global Repair"
+      Conditions=""
+      LocalConditions=""
+      Position="136" />
+    <IndexCacheEntry
+      Term="Replace"
+      Conditions=""
+      LocalConditions=""
+      Position="137" />
+    <IndexCacheEntry
+      Term="Demolish"
+      Conditions=""
+      LocalConditions=""
+      Position="138" />
+    <IndexCacheEntry
+      Term="Utility-Gas"
+      Conditions=""
+      LocalConditions=""
+      Position="147" />
+    <IndexCacheEntry
+      Term="Waterfront"
+      Conditions=""
+      LocalConditions=""
+      Position="149" />
+    <IndexCacheEntry
+      Term="Facility-Buildings"
+      Conditions=""
+      LocalConditions=""
+      Position="151" />
+    <IndexCacheEntry
+      Term="Level"
+      Conditions=""
+      LocalConditions=""
+      Position="156" />
+    <IndexCacheEntry
+      Term="Asset"
+      Conditions=""
+      LocalConditions=""
+      Position="157" />
+    <IndexCacheEntry
+      Term="Component"
+      Conditions=""
+      LocalConditions=""
+      Position="158" />
+    <IndexCacheEntry
+      Term="Parent"
+      Conditions=""
+      LocalConditions=""
+      Position="161" />
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="162" />
+    <IndexCacheEntry
+      Term="Original Cost"
+      Conditions=""
+      LocalConditions=""
+      Position="165" />
+    <IndexCacheEntry
+      Term="Cost Year"
+      Conditions=""
+      LocalConditions=""
+      Position="168" />
+    <IndexCacheEntry
+      Term="Unit of Measurement"
+      Conditions=""
+      LocalConditions=""
+      Position="171" />
+    <IndexCacheEntry
+      Term="Minimum Cost"
+      Conditions=""
+      LocalConditions=""
+      Position="178" />
+    <IndexCacheEntry
+      Term="Materials"
+      Conditions=""
+      LocalConditions=""
+      Position="181" />
+    <IndexCacheEntry
+      Term="Labor"
+      Conditions=""
+      LocalConditions=""
+      Position="184" />
+    <IndexCacheEntry
+      Term="Equipment"
+      Conditions=""
+      LocalConditions=""
+      Position="187" />
+    <IndexCacheEntry
+      Term="Bare Total"
+      Conditions=""
+      LocalConditions=""
+      Position="190" />
+    <IndexCacheEntry
+      Term="Source"
+      Conditions=""
+      LocalConditions=""
+      Position="193" />
+    <IndexCacheEntry
+      Term="Frequency"
+      Conditions=""
+      LocalConditions=""
+      Position="196" />
+    <IndexCacheEntry
+      Term="Crew"
+      Conditions=""
+      LocalConditions=""
+      Position="199" />
+    <IndexCacheEntry
+      Term="Daily Output"
+      Conditions=""
+      LocalConditions=""
+      Position="202" />
+    <IndexCacheEntry
+      Term="Total Output"
+      Conditions=""
+      LocalConditions=""
+      Position="205" />
+    <IndexCacheEntry
+      Term="Filters"
+      Conditions=""
+      LocalConditions=""
+      Position="209" />
+    <IndexCacheEntry
+      Term="Remove"
+      Conditions=""
+      LocalConditions=""
+      Position="214" />
+    <IndexCacheEntry
+      Term="Work Action"
+      Conditions=""
+      LocalConditions=""
+      Position="221" />
+    <IndexCacheEntry
+      Term="Work Activity Type"
+      Conditions=""
+      LocalConditions=""
+      Position="223" />
+    <IndexCacheEntry
+      Term="Managed Object Type"
+      Conditions=""
+      LocalConditions=""
+      Position="225" />
+    <IndexCacheEntry
+      Term="Specification"
+      Conditions=""
+      LocalConditions=""
+      Position="227" />
+    <IndexCacheEntry
+      Term="Cost Book"
+      Conditions=""
+      LocalConditions=""
+      Position="238" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

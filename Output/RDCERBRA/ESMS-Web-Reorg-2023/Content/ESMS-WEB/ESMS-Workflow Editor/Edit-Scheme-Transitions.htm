@@ -27,8 +27,8 @@
         </script>
     </head>
     <body style="text-align: center;font-family: Arial;">
-        <h1 style="text-align: left;"><a name="Edit"></a><a name="kanchor442"></a>Edit Scheme Transitions</h1>
-        <p style="text-align: left;"><a name="kanchor443"></a><a name="kanchor444"></a><a name="kanchor445"></a>To view or edit details about a transition, activate (with a double-click) anywhere on the relevant connecting line in the diagram; the "Transition" popup will appear with the transition's details. The "Transitions" popup is where you design in the conditions or permissions needed to transition to the next state in the sequence. You may need to use <i>parameters</i> for some of these.
+        <h1 style="text-align: left;"><a name="Edit"></a><a name="kanchor560"></a>Edit Scheme Transitions</h1>
+        <p style="text-align: left;"><a name="kanchor561"></a><a name="kanchor562"></a><a name="kanchor563"></a>To view or edit details about a transition, activate (with a double-click) anywhere on the relevant connecting line in the diagram; the "Transition" popup will appear with the transition's details. The "Transitions" popup is where you design in the conditions or permissions needed to transition to the next state in the sequence. You may need to use <i>parameters</i> for some of these.
 </p>
         <h2 style="font-style: italic;text-align: left;">—Quick Links—
 </h2>
@@ -56,14 +56,14 @@
         <ul style="font-family: Arial;">
             <li style="text-align: left;"><b>User Inputs (Optional for Command transition type; N/A for Auto transition type)</b> - Any approvals or comments needed or allowed from the user are listed here</li>
             <li style="text-align: left;"><b>Required Permissions (Optional for Command transition type; N/A for Auto transition type)</b> - If the user to be executing a Command needs a particular permission type, this is listed here</li>
-            <li style="text-align: left;"><b>Commands (One is required for Command transition type; N/A for Auto transition type)</b> - For a Command type transition, these are things that must be done before the transition can occur. Further detail needed for commands are:<ul style="list-style-type: circle;font-family: Arial;"><li style="text-align: left;"><b>Command Name (Required)</b> - A descriptive name such as "Service Control Approve or Reject" should be assigned to the command</li><li style="text-align: left;"><b>Parameters</b><a name="kanchor446"></a> - Example parameters for the command are "Approval: Approved" "Approval: Rejected" or "IsEnabled: true"</li></ul></li>
+            <li style="text-align: left;"><b>Commands (One is required for Command transition type; N/A for Auto transition type)</b> - For a Command type transition, these are things that must be done before the transition can occur. Further detail needed for commands are:<ul style="list-style-type: circle;font-family: Arial;"><li style="text-align: left;"><b>Command Name (Required)</b> - A descriptive name such as "Service Control Approve or Reject" should be assigned to the command</li><li style="text-align: left;"><b>Parameters</b><a name="kanchor564"></a> - Example parameters for the command are "Approval: Approved" "Approval: Rejected" or "IsEnabled: true"</li></ul></li>
         </ul>
         <ul style="font-family: Arial;">
             <li style="text-align: left;"><b>Conditions (Optional for Auto transition type; N/A for Command transition type)</b> - Here is where conditions–if any–are listed that determine when an "Auto" type transition happen (if the transition type is Auto and no conditions are listed, the transition will happen automatically)</li>
         </ul>
         <p style="text-align: left;">More details about Type, User Inputs, Required Permissions, and Commands are given at headings below.</p>
         <h2 style="text-align: left;">Choose the Transition Type</h2>
-        <p style="text-align: left;"><a name="kanchor447"></a>Selecting between Command type or Auto type of transition is required, and will determine what other fields will appear in the "Transition" popup. </p>
+        <p style="text-align: left;"><a name="kanchor565"></a>Selecting between Command type or Auto type of transition is required, and will determine what other fields will appear in the "Transition" popup. </p>
         <p style="text-align: left;">The transition types are:</p>
         <ul style="font-family: Arial;">
             <li style="text-align: left;"><a href="#Auto" class="MCXref xref">Auto Transition Type</a>
@@ -78,14 +78,14 @@
         <p style="text-align: left;">When using Auto transition type, you will generally set one or more conditions. If no condition is set, then the transition will always take place automatically. At runtime, when the condition is satisfied, the transition will take place; if the condition is not satisfied, the condition will not take place.</p>
         <p style="text-align: left;">With respect to multiple conditions specified in a single transition, all of the conditions must be true to complete the condition requirement.</p>
         <p style="text-align: left;"><b>Caution</b>: Auto transitions are the main area where problems can occur in designing a workflow. In order to provide users maximum flexibility in constructing a workflow, error-checking is minimal. Therefore it is possible to create an error such as an endless loop, or have a combination of conditions that contradict each other and thus prevent the transition from ever occurring.</p>
-        <h4 style="text-align: left;"><a name="kanchor448"></a><a name="kanchor449"></a>Add Condition</h4>
+        <h4 style="text-align: left;"><a name="kanchor566"></a><a name="kanchor567"></a>Add Condition</h4>
         <p style="text-align: left;">To add a condition,</p>
         <ol style="font-family: Arial;">
             <li style="text-align: left;" value="1">If not already in the "Transitions" popup, open the scheme in the work area and double-click the desired transition in the diagram. <i>The "Transition" popup will appear.</i></li>
             <li style="text-align: left;" value="2">Activate the plus button under <b>Conditions</b>.</li>
             <img src="imgs/auto-add_382x300.png" style="padding-top: 8px;padding-bottom: 8px;width: 382;height: 300;" />
         </ol>
-        <p style="text-align: left;"><b><a name="kanchor450"></a>Troubleshooting Tip</b>: The <b>Conditions</b> header will only appear if the transition type is Auto.</p>
+        <p style="text-align: left;"><b><a name="kanchor568"></a>Troubleshooting Tip</b>: The <b>Conditions</b> header will only appear if the transition type is Auto.</p>
         <ol style="font-family: Arial;" data-mc-continue="true">
             <li style="text-align: left;" value="3">If no parameters have been created to select from, you will be prompted to create a parameter, which is a stored variable that can be kept track of over time. To create a parameter,<ol style="list-style-type: lower-alpha;font-family: Arial;text-align: center;"><li style="text-align: left;" value="1">Activate the <b>Scheme Parameters</b> button on the Workflow editor menu bar. <i>The "Scheme Parameters" popup will appear.</i></li><li style="text-align: left;" value="2">Activate the <b>+ Create</b> button.</li><img src="imgs/param-add1_660x165_716x177.png" style="padding-top: 8px;padding-bottom: 8px;width: 716;height: 177;" /><li style="text-align: left;" value="3">Enter a name for the parameter in the <b>Name</b> column.</li><img src="imgs/param-add2_660x185_708x195.png" style="padding-top: 8px;padding-bottom: 8px;width: 708;height: 195;" /><li style="text-align: left;" value="4">Enter the display name in the next column.</li><li style="text-align: left;" value="5">Using the dropdown list in the <b>Type</b> column, select the parameter type (Approve, Boolean, Decimal, Integer, or String) for the variable.</li><li style="text-align: left;" value="6">Activate the <b>Save</b> button to save the parameter. (Alternatively, activate <b>Cancel</b>.) <i>Once you have the parameter, you can continue adding a condition.</i></li></ol></li>
         </ol>
@@ -104,7 +104,7 @@
             <li style="text-align: left;" value="12">You may also want to activate the <b>Save</b> icon button on the Workflow editor menu bar at this point, to lock in your work.</li>
         </ol>
         <h4 style="text-align: left;">Edit Condition</h4>
-        <p style="text-align: left;"><b>Note</b><a name="kanchor451"></a>: Changes will only apply to future assessments using the edited scheme.</p>
+        <p style="text-align: left;"><b>Note</b><a name="kanchor569"></a>: Changes will only apply to future assessments using the edited scheme.</p>
         <p style="text-align: left;">To edit a condition,</p>
         <ol style="font-family: Arial;">
             <li style="text-align: left;" value="1">In the work area, double-click the transition in the diagram that contains the condition to be edited. <i>The "Transition" popup will appear.</i></li>
@@ -130,7 +130,7 @@
         <img src="imgs/cmd-transFULL_610x470_471x361.png" style="padding-top: 8px;padding-bottom: 8px;width: 471;height: 361;" />
         <p style="text-align: left;">When using Command transition type, you will have at least one Command that will present the user with a button that initiates an action. You may also design in (a) <a href="#User" class="MCXref xref">User Inputs</a> and/or (b) one or more <a href="#Required" class="MCXref xref">Required Permission</a>.</p>
         <h3 style="text-align: left;font-style: italic;">Commands</h3>
-        <p style="text-align: left;"><a name="kanchor452"></a>When you construct a Command transition it will cause a command button to appear on the user's screen at runtime. The text displayed on the button comes from the <b>Command Name</b> field in the popup. You can create more than one command for a transition, which will result in multiple buttons being displayed. Commands effect a transition from one state to another.</p>
+        <p style="text-align: left;"><a name="kanchor570"></a>When you construct a Command transition it will cause a command button to appear on the user's screen at runtime. The text displayed on the button comes from the <b>Command Name</b> field in the popup. You can create more than one command for a transition, which will result in multiple buttons being displayed. Commands effect a transition from one state to another.</p>
         <p style="text-align: left;">A Command transition requires that at least one <b>Command Name</b> be specified in the popup. The initial default <b>Command Name</b> provided in the popup is "Submit."</p>
         <img src="imgs/cmd-default-submit_583x74.png" style="padding-top: 8px;padding-bottom: 8px;width: 583;height: 74;" />
         <h4 style="text-align: left;">Preview a Command</h4>

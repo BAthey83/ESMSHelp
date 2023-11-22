@@ -270,3 +270,9 @@ MadCap|dropDown
 	mc-open-image: false;
 }
 
+img.div_image
+{
+	border: none;
+	padding: 8px;
+}
+

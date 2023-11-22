@@ -521,6 +521,24 @@
       Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
