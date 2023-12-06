@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Accessin" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost2" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost3" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost4" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Assignin" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm#Cost5" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Cost-Mod.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Search-CM-Books-3.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Mod-Search.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Cost" />
+    <Anchor
+      Name="Accessin" />
+    <Anchor
+      Name="Cost2" />
+    <Anchor
+      Name="Cost3" />
+    <Anchor
+      Name="Cost4" />
+    <Anchor
+      Name="Assignin" />
+    <Anchor
+      Name="Related" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,26 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="Navigating the Asset Search Screen"
+  FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-2023_1541x815.png" />
     <Link
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023_34x28.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Window-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Window-2023_126x443.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-HL-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-HL-2023_90x35.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-Filter-Button-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-Filter-Button-2023_266x83.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
     <Link
@@ -33,8 +61,36 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Assmts.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Work.htm" />
+    <Link
+      Url="Default.htm" />
   </Links>
   <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm#Componen" />
     <Link
@@ -50,19 +106,23 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm#Filters" />
     <Link
+<<<<<<< HEAD
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-2023_1541x815.png" />
+=======
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm#D." />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Button-2023_34x28.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Window-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Select-Columns-Window-2023_126x443.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-HL-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-HL-2023_90x35.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-Filter-Button-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/RPUID-Filter-Button-2023_266x83.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
     <Link
@@ -75,10 +135,32 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Assmts.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Work.htm" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
   </LongLinks>
   <Anchors>
     <Anchor
+      Name="kanchor796" />
+    <Anchor
+      Name="kanchor797" />
+    <Anchor
+      Name="kanchor798" />
+    <Anchor
+      Name="kanchor799" />
+    <Anchor
+      Name="kanchor800" />
+    <Anchor
+      Name="kanchor801" />
+    <Anchor
+      Name="kanchor802" />
+    <Anchor
+      Name="kanchor803" />
+    <Anchor
+      Name="kanchor804" />
+    <Anchor
       Name="Componen" />
+    <Anchor
+      Name="kanchor805" />
     <Anchor
       Name="MainMenu" />
     <Anchor
@@ -92,68 +174,7 @@
     <Anchor
       Name="Detail" />
   </Anchors>
-  <Keywords>
-    <IndexCacheEntry
-      Term="Layout:screen"
-      Conditions=""
-      LocalConditions=""
-      Position="4" />
-    <IndexCacheEntry
-      Term="Component:view"
-      Conditions=""
-      LocalConditions=""
-      Position="7" />
-    <IndexCacheEntry
-      Term="Assessment:Details"
-      Conditions=""
-      LocalConditions=""
-      Position="8" />
-    <IndexCacheEntry
-      Term="Get Username and Password:Enterprise SMS"
-      Conditions=""
-      LocalConditions=""
-      Position="9" />
-    <IndexCacheEntry
-      Term="Search:Components"
-      Conditions=""
-      LocalConditions=""
-      Position="15" />
-    <IndexCacheEntry
-      Term="Main Menu:Search"
-      Conditions=""
-      LocalConditions=""
-      Position="18" />
-    <IndexCacheEntry
-      Term="Domain:Select"
-      Conditions=""
-      LocalConditions=""
-      Position="22" />
-    <IndexCacheEntry
-      Term="Search:Groups"
-      Conditions=""
-      LocalConditions=""
-      Position="25" />
-    <IndexCacheEntry
-      Term="Search:Facilities"
-      Conditions=""
-      LocalConditions=""
-      Position="26" />
-    <IndexCacheEntry
-      Term="Main Menu"
-      Conditions=""
-      LocalConditions=""
-      Position="28" />
-    <IndexCacheEntry
-      Term="Search Results:Filter"
-      Conditions=""
-      LocalConditions=""
-      Position="35" />
-    <IndexCacheEntry
-      Term="Content Area"
-      Conditions=""
-      LocalConditions=""
-      Position="44" />
-  </Keywords>
+  <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -161,5 +182,18 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

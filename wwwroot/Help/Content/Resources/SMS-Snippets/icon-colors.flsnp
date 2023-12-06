@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="119" MadCap:lastWidth="1096">
+    <body>
+        <p>Condition and functionality metrics  used in <MadCap:variable name="Primary.Product" /><MadCap:keyword term="Default:Site" /> are communicated upwards through the hierarchy in weighted fashion. At each level of the hierarchy, the condition or functionality index for that level provides an understanding of the average condition/functionality of the real property contained in all the inventory items  under the specified Organization, Site, Complex, Building, System, or Component. The value of the index will determine whether the inventory icon for any given inventory item appears as green, amber, or red. Gray indicates that no assessment has been recorded in <MadCap:variable name="Primary.Product" /> for anything under that asset. </p>
+    </body>
+</html>

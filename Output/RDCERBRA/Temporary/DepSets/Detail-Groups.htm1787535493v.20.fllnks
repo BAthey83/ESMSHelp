@@ -1,31 +1,144 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
+  FileTitle="Group Details"
+  FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/detail-group-2022_680x311.png" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+=======
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/detail-group-2022.png" />
   </Links>
   <LongLinks>
     <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm#Navigati" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm#Group2" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm#Accordio" />
     <Link
+<<<<<<< HEAD
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/detail-group-2022_680x311.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm#Group" />
+    <Link
+      Url="javascript:void(0)" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Inventory/Detail-Groups.htm" />
+=======
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/detail-group-2022.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm#Group" />
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
       Name="Group2" />
     <Anchor
+<<<<<<< HEAD
+      Name="kanchor594" />
+    <Anchor
+      Name="kanchor595" />
+    <Anchor
+      Name="Navigati" />
+    <Anchor
+      Name="kanchor596" />
+    <Anchor
+      Name="kanchor597" />
+    <Anchor
+      Name="Group" />
+    <Anchor
+      Name="kanchor598" />
+    <Anchor
+      Name="kanchor599" />
+    <Anchor
+      Name="kanchor600" />
+    <Anchor
+      Name="kanchor601" />
+    <Anchor
+      Name="kanchor602" />
+    <Anchor
+      Name="Accordio" />
+    <Anchor
+      Name="kanchor603" />
+    <Anchor
+      Name="kanchor604" />
+    <Anchor
+      Name="kanchor605" />
+  </Anchors>
+  <Keywords />
+=======
       Name="Navigati" />
     <Anchor
       Name="Group" />
@@ -94,6 +207,7 @@
       LocalConditions=""
       Position="74" />
   </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -101,5 +215,22 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+=======
   <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

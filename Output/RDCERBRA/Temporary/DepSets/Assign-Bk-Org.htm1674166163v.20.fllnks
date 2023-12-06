@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Menu.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Ref-Books.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Inv-Org-Screen.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Menu.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Org-Ref-Books.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Save-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Organization"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Inventory"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

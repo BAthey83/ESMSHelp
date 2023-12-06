@@ -1,56 +1,110 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle=" Understanding the Reports Screen"
+  FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-reports.png" />
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Org-Select-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Org-Select-2023_223x139.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Filters-and-Slicers.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Filters-and-Slicers_311x68.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Options-2023.png" />
     <Link
+      Url="javascript:void(0)" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Options-SortBy-2023.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sys-and-Comp-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sys-and-Comp-2023_258x394.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inventory-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inventory-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inspection-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inspection-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Work-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Work-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sites-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sites-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Real-Property-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Real-Property-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Fac-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Fac-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Net-Info-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Net-Info-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Zones-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Zones-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Comp-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Comp-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Insp-Info-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Insp-Info-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Work-Plan-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Work-Plan-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Comp-Lib-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Comp-Lib-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Def-Lib.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Def-Lib_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Work-Act-Lib-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Work-Act-Lib-2023_810x464.png" />
+    <Link
+      Url="Default.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-reports.png" />
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#System" />
     <Link
@@ -58,7 +112,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#Navigati" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Org-Select-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Org-Select-2023_223x139.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#ESMS Rea" />
     <Link
@@ -68,13 +122,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#USA RAIL" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Filters-and-Slicers.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Filters-and-Slicers_311x68.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Options-2023.png" />
     <Link
+      Url="javascript:void(0)" />
+    <Link
       Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Options-SortBy-2023.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sys-and-Comp-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sys-and-Comp-2023_258x394.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#Inventor" />
     <Link
@@ -82,15 +138,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#Work" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inventory-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inventory-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inspection-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Inspection-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Work-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Work-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sites-Tab-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Sites-Tab-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Real-Property-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Real-Property-2023_810x464.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#Faciliti" />
     <Link
@@ -108,25 +164,35 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm#Defect" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Fac-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Fac-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Net-Info-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Net-Info-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Zones-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Zones-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Comp-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Comp-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Insp-Info-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Insp-Info-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Work-Plan-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Work-Plan-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Comp-Lib-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/Report-Comp-Lib-2023_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Def-Lib.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Def-Lib_810x464.png" />
     <Link
-      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Work-Act-Lib-2023.png" />
+      Url="Content/ESMS-WEB/ESMS-Reports/imgs/RAIL-Work-Act-Lib-2023_810x464.png" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Reports/ESMS-Reports-About.htm" />
   </LongLinks>
   <Anchors>
+    <Anchor
+      Name="kanchor149" />
+    <Anchor
+      Name="kanchor150" />
+    <Anchor
+      Name="kanchor151" />
+    <Anchor
+      Name="kanchor152" />
     <Anchor
       Name="Engineer" />
     <Anchor
@@ -166,28 +232,7 @@
     <Anchor
       Name="WorkAct" />
   </Anchors>
-  <Keywords>
-    <IndexCacheEntry
-      Term="Layout:screen"
-      Conditions=""
-      LocalConditions=""
-      Position="5" />
-    <IndexCacheEntry
-      Term="Component:view"
-      Conditions=""
-      LocalConditions=""
-      Position="8" />
-    <IndexCacheEntry
-      Term="Document:View"
-      Conditions=""
-      LocalConditions=""
-      Position="9" />
-    <IndexCacheEntry
-      Term="Get Username and Password:Enterprise SMS"
-      Conditions=""
-      LocalConditions=""
-      Position="16" />
-  </Keywords>
+  <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -195,5 +240,18 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

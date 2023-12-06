@@ -1,11 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
+  FileTitle="About Site Selection"
+  FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/select-site_500x94.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/pop-site-selection_500x380.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/btn-site-select-clear_160x50.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Site-Selection-About.htm" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/select-site_500x94.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/pop-site-selection_500x380.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/btn-site-select-clear_160x50.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Site-Selection-About.htm#Select" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Inventory/Site-Selection-About.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor190" />
+    <Anchor
+      Name="kanchor191" />
+    <Anchor
+      Name="kanchor192" />
+    <Anchor
+      Name="kanchor193" />
+    <Anchor
+      Name="kanchor194" />
+    <Anchor
+      Name="Select" />
+    <Anchor
+      Name="kanchor195" />
+    <Anchor
+      Name="kanchor196" />
+    <Anchor
+      Name="kanchor197" />
+    <Anchor
+      Name="kanchor198" />
+  </Anchors>
+  <Keywords />
+=======
       Url="Content/Resources/Snippets/Web/snp-select-site.flsnp" />
     <Link
       Url="Content/ESMS-WEB/0First-Steps/imgs/btn-site-select-clear.png" />
@@ -61,6 +165,7 @@
       LocalConditions=""
       Position="23" />
   </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -68,5 +173,22 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+=======
   <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

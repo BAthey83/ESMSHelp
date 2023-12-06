@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="99" MadCap:lastWidth="847">
+    <body>
+        <p class="indent"><span class="span_1">Note:</span> It might not be necessary to designate a standard for each and every value range listed for your selected attributes. In Policy Sequences, a default condition standard is set for items that do not have a condition standard set for them in a policy. If a Standard field is left blank, the default standard specified under Policy Sequences will be used.</p>
+    </body>
+</html>

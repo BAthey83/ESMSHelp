@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Reference Books|Service Life Books">
+    <head>
+    </head>
+    <body style="text-align: center;">
+        <h1 style="text-align: left;">Service Life Books</h1>
+        <hr style="font-family: Arial;text-align: left;" />
+        <p style="text-align: left;">Data regarding the service life expectancy, in years, of all types of Asset Components are built into Enterprise SMS. The data Enterprise SMS&#160;uses in contained in one or more <i>Service Life books.</i></p>
+        <hr style="font-family: Arial;text-align: left;" />
+        <h2 style="font-style: italic;text-align: left;">—Quick Links—</h2>
+        <ul>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Accessin" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Accessing Service Life Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#About" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">About Service Life Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="#Related" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Related Topics</MadCap:xref>
+            </li>
+        </ul>
+        <h2 style="text-align: left;"><a name="Accessin"></a>Accessing Service Life Books</h2>
+        <p style="text-align: left;">To access <b>Service Life</b> books,</p>
+        <img src="imgs/Serv-Life-Menu-Tab.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <ol>
+            <li style="text-align: left;">Open the <b>Reference Books</b> drop-down menu.</li>
+            <li style="text-align: left;">Select the <b>Service Life</b> button, as highlighted above.</li>
+            <img src="imgs/Serv-Life-Select.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </ol>
+        <p style="text-align: left;">Now, you can select a <b>Service&#160;Life</b> book.</p>
+        <h2 style="text-align: left;"><a name="About"></a>About Service Life Books</h2>
+        <img src="imgs/Serv-Life-Book-Main.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="width: 1160px;height: 382px;" />
+        <p style="text-align: left;"><b>Service Life</b> books contain  life expectancy data for all Component types available within your Organization. Each Component will have an expected <b>Service Life</b> and an expected paint life associated with it through the <b>Service Life</b> book. A default <b>Service Life</b> book is provided for each Organization. One or more custom <b>Service Life</b> books can also be created.</p>
+        <p style="text-align: left;">The default <b>Service Life</b> books are based on years of research, analyzing many different assets over their lifecycle. These data points are only approximations, so a custom <b>Service Life</b> book can help produce more accurate work generation for Components in your Inventory that do not follow the predicted <b>Service Life</b>.</p>
+        <p style="text-align: left;"><b>Service Life</b> data is used to calculate the <MadCap:glossaryTerm glossTerm="Primary.Term18" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI</MadCap:glossaryTerm> of a Component using a mathematical model that approximates a Component's condition on a 1-100 scale. This calculation is based on how long the Component has been in service and how long the Component is expected to be in service. Modifying the expected <b>Service Life</b> of an asset can increase or decrease the Condition of the asset within Enterprise SMS, depending on its current Condition.</p>
+        <h2 style="text-align: left;">Service Life Data</h2>
+        <p style="text-align: left;">The Service Life data used by Enterprise SMS&#160;is contained in one or more <i>Service Life books</i>. Multiple Service Life books can be associated with different
+		 Organizations within Enterprise SMS, as needed.</p>
+        <h2 style="text-align: left;">Default Service Life Book</h2>
+        <p style="font-style: normal;text-align: left;">The default Service Life book provided with Enterprise SMS and it is associated with the top level of the Organization. 
+		The scope of its data, therefore, is the entire Organization.</p>
+        <p style="font-style: normal;text-align: left;">You can choose to depend exclusively on the data in the default Service Life book, or you can create one or more custom Service Life books.</p>
+        <h2 style="text-align: left;">How ESMS Gathers Service Life Data</h2>
+        <p style="text-align: left;">The following is an example of how Enterprise SMS&#160;gathers Service Life data. </p>
+        <p style="text-align: left;">Imagine a heavy-graded carpet placed in an area with moderate foot traffic. The carpet has a 20-year life expectancy. The life expectancy data is an average. 
+			The final average is determined more by the specialized expertise of multiple facility managers than by statistically precise field data. </p>
+        <p style="text-align: left;">Gathering statistically precise data is virtually impossible — even for the carpet's manufacturer. As for the Enterprise SMS database, it must match service life 
+		 data with a generic Component type to create a final, useable average. </p>
+        <p style="text-align: left;">If a heavy-grade carpet was installed into 1,000 Assets with moderate foot traffic, and you tracked how many years each carpet remained in the Asset before it was replaced, 
+		 the following graph may resemble your data. </p>
+        <p style="text-align: left;margin-top: 0;margin-bottom: 0;margin-left: 32px;">(<b>Note</b>: this graph is being used for illustrative purposes only. No existing data is represented). 
+			</p>
+        <img src="imgs/Serv-Life-Graph.png" />
+        <p style="text-align: left;">As this graph shows, by year 20, the bulk of the Assets have replaced their carpet. Along the way, some carpet is replaced sooner than the 20-year estimate,
+			 while some is being replaced later. Several variables affect how long the carpet may be used, such as the level of cleaning, climate factors, carpet quality, installation quality, and the tenant's mission requirements. </p>
+        <p style="text-align: left;">For factors affecting the carpet's condition,
+			 Enterprise SMS attempts to relate an estimated <MadCapglossaryTerm glossTerm="Primary.Term11"><MadCap:glossaryTerm glossTerm="Primary.Term11" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">RSL</MadCap:glossaryTerm></MadCapglossaryTerm> for a specific 
+			carpet's Component with the <MadCap:glossaryTerm glossTerm="Primary.Term18" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI</MadCap:glossaryTerm>&#160;of that section. 
+			The <b>CI</b> of the carpet at any given age indicates whether the carpet will last less or more than the average lifespan. </p>
+        <p style="text-align: left;">When you roll up the <b>CIs</b> for your inventory, one of the primary calculations recomputes the <MadCap:glossaryTerm glossTerm="Primary.Term11" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">RSL</MadCap:glossaryTerm> of the Component based on its current <MadCap:glossaryTerm glossTerm="Primary.Term18" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI</MadCap:glossaryTerm>,
+			 Enterprise SMS attempts to relate an estimated <MadCap:glossaryTerm glossTerm="Primary.Term11" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">RSL</MadCap:glossaryTerm> for a specific 
+			carpet's Component with the <MadCap:glossaryTerm glossTerm="Primary.Term18" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI</MadCap:glossaryTerm> of that section. 
+			The <MadCap:glossaryTerm glossTerm="Primary.Term18" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI</MadCap:glossaryTerm> of the carpet at any given age indicates whether the carpet will last less or more than the average lifespan. </p>
+        <p style="text-align: left;">When you roll up the <MadCap:glossaryTerm glossTerm="Primary.Term18" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI</MadCap:glossaryTerm>s for your inventory, one of the primary calculations recomputes the <MadCap:glossaryTerm glossTerm="Primary.Term11" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">RSL</MadCap:glossaryTerm> of the Component based on its current <MadCap:glossaryTerm glossTerm="Primary.Term0" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI,</MadCap:glossaryTerm> 
+			its rate of deterioration during the time between its last two condition assessments, 
+		 and the item's expected Service Life. </p>
+        <p style="text-align: left;">The expected Service Life is a key factor that determines two important measures of how well a particular Component is performing. 
+			The two measurements are its current condition index and its remaining Service Life. </p>
+        <p style="text-align: left;">Service Life is used to determine an expected deterioration rate in estimating the current condition in the absence of sequential condition assessment data. 
+		 It is also used in the models that compute the remaining Service Life on the basis of current <MadCap:glossaryTerm glossTerm="Primary.Term18" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">CI</MadCap:glossaryTerm> and the rate of deterioration. </p>
+        <h2 style="text-align: left;">Source of Service Life Data</h2>
+        <p style="text-align: left;">The Service Life data in Enterprise SMS is derived from data collected at <MadCapglossaryTerm glossTerm="Primary.Term13" style="font-weight: bold;"><MadCap:glossaryTerm glossTerm="Primary.Term13" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">ERDC-CERL</MadCap:glossaryTerm></MadCapglossaryTerm> over 
+			many years of research. This research includes the former BUILDER&#160;web resource project as well 
+			as an earlier study that resulted in the Maintenance Resource Prediction Model (MRPM). The MRPM&#160;has served as the foundation for a number of facility maintenance models.</p>
+        <p style="text-align: left;">Your experience, however, may vary in terms of how long items last in your Assets. For example, your Assets may be
+			 derived from data collected at <MadCap:glossaryTerm glossTerm="Primary.Term13" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">ERDC-CERL</MadCap:glossaryTerm> over 
+			many years of research. This research includes the former BUILDER&#160;web resource project as well 
+			as an earlier study that resulted in the Maintenance Resource Prediction Model (MRPM). The MRPM&#160;has served as the foundation for a number of facility maintenance models.</p>
+        <p style="text-align: left;">Your experience, however, may vary in terms of how long items last in your Assets. For example, your Assets may be in a 
+
+			very wet, windy climate. As a result, the roof surfaces may need to be replaced more often, paint may need to be re-applied more frequently, and wood windows may need replacing sooner than the data indicates. 
+			Enterprise SMS&#160;lets you edit the service life data to reflect your knowledge and experience with the various Asset Components you manage. </p>
+        <h2 style="text-align: left;"><a name="Related"></a>Related Topics</h2>
+        <ul>
+            <li style="text-align: left;">
+                <MadCap:xref href="Ref-CII-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Component Importance Index (CII) Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="Ref-Infltn-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Inflation Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="Abt-Cost-Bks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Cost Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="Ref-Cost-Mod.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Cost Modifiers</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Work Actions</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="Add-Edit-Del-Bks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Add, View, Edit, or Delete Books</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Assign a Book to an Organization</MadCap:xref>
+            </li>
+            <li style="text-align: left;">
+                <MadCap:xref href="Ref-Books-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Reference Books</MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

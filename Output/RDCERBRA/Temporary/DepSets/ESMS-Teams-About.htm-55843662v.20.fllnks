@@ -1,12 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
+  FileTitle="  Understanding the Teams Screen"
+  FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/Teams-Icon-2023_42x43.png" />
+=======
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/Teams-Icon-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm" />
     <Link
@@ -28,6 +63,43 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" />
     <Link
+<<<<<<< HEAD
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team_800x600.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-role/detail-role_550x500.png" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/Teams-Icon-2023_42x43.png" />
+=======
       Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team.PNG" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-role/detail-role.PNG" />
@@ -35,6 +107,7 @@
   <LongLinks>
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/Teams-Icon-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm" />
     <Link
@@ -58,18 +131,54 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm#NavRoleDetails" />
     <Link
+<<<<<<< HEAD
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team_800x600.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-role/detail-role_550x500.png" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor1058" />
+    <Anchor
+      Name="kanchor1059" />
+    <Anchor
+      Name="kanchor1060" />
+    <Anchor
+      Name="kanchor1061" />
+    <Anchor
+      Name="kanchor1062" />
+    <Anchor
+      Name="kanchor1063" />
+    <Anchor
+      Name="kanchor1064" />
+    <Anchor
+      Name="kanchor1065" />
+    <Anchor
+      Name="kanchor1066" />
+    <Anchor
+      Name="kanchor1067" />
+    <Anchor
+      Name="kanchor1068" />
+    <Anchor
+=======
       Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-team/detail-team.PNG" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs-detail-role/detail-role.PNG" />
   </LongLinks>
   <Anchors>
     <Anchor
+>>>>>>> master
       Name="NavTeamDetails" />
     <Anchor
       Name="NavRoleDetails" />
     <Anchor
       Name="Command" />
   </Anchors>
+<<<<<<< HEAD
+  <Keywords />
+=======
   <Keywords>
     <IndexCacheEntry
       Term="Layout:screen"
@@ -132,6 +241,7 @@
       LocalConditions=""
       Position="75" />
   </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -139,5 +249,22 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+=======
   <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

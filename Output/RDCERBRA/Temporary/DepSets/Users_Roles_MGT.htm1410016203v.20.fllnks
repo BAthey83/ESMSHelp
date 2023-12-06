@@ -1,12 +1,85 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileTitle="User Role Management"
+<<<<<<< HEAD
+  FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-1stpage_494x242.png" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/Users_Roles_MGT.htm" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-edit-user-BLOTTED-nav2-change-pw_502x358.png" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-change-pw_516x299.png" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-edit-user-BLOTTED_502x358.png" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-1stpage_494x242.png" />
+=======
       Url="Project/ConditionTagSets/Primary.flcts" />
     <Link
       Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-1stpage.PNG" />
@@ -24,11 +97,51 @@
       Url="Project/ConditionTagSets/Primary.flcts" />
     <Link
       Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-1stpage.PNG" />
+>>>>>>> master
     <Link
       Url="Content/AdminESMS/Archive/first-version/Users_Roles_MGT.htm#Change" />
     <Link
       Url="Content/AdminESMS/Archive/first-version/Users_Roles_MGT.htm#Login" />
     <Link
+<<<<<<< HEAD
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-edit-user-BLOTTED-nav2-change-pw_502x358.png" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-change-pw_516x299.png" />
+    <Link
+      Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-edit-user-BLOTTED_502x358.png" />
+    <Link
+      Url="Default.htm#AdminESMS/Archive/first-version/Users_Roles_MGT.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor734" />
+    <Anchor
+      Name="kanchor735" />
+    <Anchor
+      Name="kanchor736" />
+    <Anchor
+      Name="kanchor737" />
+    <Anchor
+      Name="kanchor738" />
+    <Anchor
+      Name="kanchor739" />
+    <Anchor
+      Name="Login" />
+    <Anchor
+      Name="kanchor740" />
+    <Anchor
+      Name="kanchor741" />
+    <Anchor
+      Name="kanchor742" />
+    <Anchor
+      Name="kanchor743" />
+    <Anchor
+      Name="kanchor744" />
+    <Anchor
+      Name="Change" />
+  </Anchors>
+  <Keywords />
+=======
       Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-edit-user-BLOTTED-nav2-change-pw.png" />
     <Link
       Url="Content/AdminESMS/Archive/first-version/img-users-roles/usrmgr-change-pw.PNG" />
@@ -108,15 +221,34 @@
       LocalConditions=""
       Position="69" />
   </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
   <Variables />
   <FileConditions />
   <FileTags />
+<<<<<<< HEAD
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+=======
   <AllConditions>
     <Condition
       Tag="Primary.PrintOnly" />
   </AllConditions>
   <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

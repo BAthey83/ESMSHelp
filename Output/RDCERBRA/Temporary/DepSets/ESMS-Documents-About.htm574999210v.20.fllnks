@@ -1,12 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
+  FileTitle="  Understanding the Documents Screen"
+  FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+=======
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Documents-Icon.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Document-View.htm" />
     <Link
@@ -20,11 +53,45 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm" />
     <Link
+<<<<<<< HEAD
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Screen-2023_1128x472.png" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+=======
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Screen-2023.png" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Documents-Icon.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Document-View.htm#Search" />
     <Link
@@ -46,6 +113,59 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm#Manage" />
     <Link
+<<<<<<< HEAD
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Screen-2023_1128x472.png" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Documents/ESMS-Documents-About.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor561" />
+    <Anchor
+      Name="kanchor562" />
+    <Anchor
+      Name="kanchor563" />
+    <Anchor
+      Name="kanchor564" />
+    <Anchor
+      Name="kanchor565" />
+    <Anchor
+      Name="kanchor566" />
+    <Anchor
+      Name="kanchor567" />
+    <Anchor
+      Name="kanchor568" />
+    <Anchor
+      Name="kanchor569" />
+    <Anchor
+      Name="kanchor570" />
+    <Anchor
+      Name="kanchor571" />
+    <Anchor
+      Name="kanchor572" />
+    <Anchor
+      Name="kanchor573" />
+    <Anchor
+      Name="kanchor574" />
+    <Anchor
+      Name="kanchor575" />
+    <Anchor
+      Name="kanchor576" />
+    <Anchor
+      Name="kanchor577" />
+    <Anchor
+      Name="kanchor578" />
+    <Anchor
+      Name="kanchor579" />
+    <Anchor
+      Name="kanchor580" />
+    <Anchor
+      Name="kanchor581" />
+    <Anchor
+      Name="kanchor582" />
+  </Anchors>
+  <Keywords />
+=======
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Screen-2023.png" />
   </LongLinks>
   <Anchors />
@@ -161,6 +281,7 @@
       LocalConditions=""
       Position="84" />
   </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -168,5 +289,22 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+=======
   <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

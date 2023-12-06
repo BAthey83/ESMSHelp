@@ -487,6 +487,14 @@ a.glossaryTerm
 	padding-left: 0;
 }
 
+<<<<<<< HEAD
+.xref.xrefTOCPageNumber
+{
+	text-decoration: inherit;
+	font-weight: inherit;
+	color: inherit;
+	font-family: inherit;
+=======
 div.MCTocProxy_0
 {
 	border-top-width: 1px;
@@ -779,6 +787,7 @@ MadCap|xref.TOCPageNumber_0
 	color: inherit;
 	text-decoration: inherit;
 	font-weight: inherit;
+>>>>>>> master
 	font-size: inherit;
 }
 

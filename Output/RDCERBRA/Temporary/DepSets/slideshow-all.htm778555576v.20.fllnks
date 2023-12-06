@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Slide collection for Enterprise SMS entry screen"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/slideshow-all.htm" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/home-fields.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/BUTTONS/BT-domains.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/home-screen1.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/BUTTONS/MainMenu-small/BT-select-site-sm.png" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/imgs/BUTTONS/MainMenu-small/BT-tools-sm.png" />
+    <Link
+      Url="Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Slideshow.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/TextEffects.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Topic.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Components/Print.css" />
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/purify.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.min.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/slideshow-all.htm#Menu" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/slideshow-all.htm#Fields" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/slideshow-all.htm#Content" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/slideshow-all.htm#Filters" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/slideshow-all.htm#Home" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/home-fields.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/BUTTONS/BT-domains.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/home-screen1.PNG" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/Slideshow/imgs/BUTTONS/MainMenu-small/BT-select-site-sm.png" />
+    <Link
+      Url="Content/Old_Home_Screen_Web/imgs/BUTTONS/MainMenu-small/BT-tools-sm.png" />
+    <Link
+      Url="Default.htm#Old_Home_Screen_Web/Slideshow/slideshow-all.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor1137" />
+    <Anchor
+      Name="kanchor1138" />
+    <Anchor
+      Name="kanchor1139" />
+    <Anchor
+      Name="kanchor1140" />
+    <Anchor
+      Name="kanchor1141" />
+    <Anchor
+      Name="kanchor1142" />
+    <Anchor
+      Name="kanchor1143" />
+    <Anchor
+      Name="kanchor1144" />
+    <Anchor
+      Name="Menu" />
+    <Anchor
+      Name="kanchor1145" />
+    <Anchor
+      Name="kanchor1146" />
+    <Anchor
+      Name="kanchor1147" />
+    <Anchor
+      Name="kanchor1148" />
+    <Anchor
+      Name="kanchor1149" />
+    <Anchor
+      Name="kanchor1150" />
+    <Anchor
+      Name="kanchor1151" />
+    <Anchor
+      Name="Fields" />
+    <Anchor
+      Name="Content" />
+    <Anchor
+      Name="Filters" />
+    <Anchor
+      Name="Home" />
+    <Anchor
+      Name="kanchor1152" />
+    <Anchor
+      Name="kanchor1153" />
+    <Anchor
+      Name="kanchor1154" />
+    <Anchor
+      Name="kanchor1155" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Skins/Default/Stylesheets/Slideshow.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/TextEffects.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Topic.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Styles.css" />
+    <Url
+      Source="Skins/Default/Stylesheets/Components/Print.css" />
+    <Url
+      Source="Content/Resources/Styles/SMS-Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

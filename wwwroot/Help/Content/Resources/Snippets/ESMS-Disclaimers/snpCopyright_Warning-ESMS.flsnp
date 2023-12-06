@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h3>
+            <MadCap:keyword term="Copyright" />Copyright Warning</h3>
+        <p style="line-height:99%">
+            <MadCap:conditionalText MadCap:conditions="Primary.ScreenOnly">This computer program</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Primary.PrintOnly,Primary.PDF Copy Only">The computer program described in this documentation</MadCap:conditionalText> is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law. </p>
+        <p style="line-height: 99%;">
+		Protected by the following U.S. Patents: 7,058.544; 7,734,488; 7,769,568. </p>
+        <table style="width: 100%;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../../../0Welcome/Welcome-Assets/CERL_Castle_logo.png" width="55px" height="41px" style="margin-right:10" />
+                    </td>
+                    <td>
+                        <p><span class="span_1">Documentation Copyright ©2018 US Army Corps of <br MadCap:conditions="Primary.PrintOnly" />Engineers (USACE). All rights reserved.</span>
+                        </p>
+						<!-- line will break on copyright sentence ONLY in print version -->
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

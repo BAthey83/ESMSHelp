@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p style="font-family: Arial;">To change your selection of domain(s),</p>
+        <ol style="font-family: Arial;">
+            <li>Activate the <span class="span_1">Domains</span> button on the menu bar.</li>
+            <li>
+                <MadCap:keyword term="Component:view" />In the dropdown, activate the checkbox next to each domain desired, and de-activate any currently checked boxes next to domains whose data you do not wish to view.</li>
+            <li>Activate the <span class="span_1">Apply</span> button in the dropdown.</li>
+            <li><span class="result">The number in parentheses on the <span class="span_1">Domains</span> button indicates how many domains are currently selected.</span>
+            </li>
+        </ol>
+    </body>
+</html>

@@ -222,7 +222,7 @@
       Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Set-Standards.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Gen-wkitem-list.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Items-Tab.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Import">

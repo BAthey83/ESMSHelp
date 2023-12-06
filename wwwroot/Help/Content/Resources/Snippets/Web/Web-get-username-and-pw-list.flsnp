@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol style="font-family: Arial;">
+            <li style="text-align: left;">Username and password. <span class="span_1">Username and password need to be the same for Web, Desktop, and Tablet sign-ins</span> (whichever of the three you use).</li>
+            <li style="text-align: left;">Designated permissions roles and the scope for each.</li>
+        </ol>
+    </body>
+</html>
