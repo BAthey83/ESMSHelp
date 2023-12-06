@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Component Details"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,10 +38,13 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Components.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Component-Search-2023_1067x676.png" />
     <Link
       Url="javascript:void(0)" />
@@ -72,6 +79,12 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Component-Search-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Components.htm#Componen" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Components.htm#Navigati" />
@@ -82,6 +95,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Component-Search-2023_1067x676.png" />
     <Link
       Url="javascript:void(0)" />
@@ -117,6 +131,67 @@
       Name="kanchor783" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Component-Search-2023.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Componen" />
+    <Anchor
+      Name="Navigati" />
+    <Anchor
+      Name="Componen2" />
+    <Anchor
+      Name="Accordion" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Search:Document"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="33" />
+    <IndexCacheEntry
+      Term="Navigation Pane:layout"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="Search:Assessments"
+      Conditions=""
+      LocalConditions=""
+      Position="79" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -124,6 +199,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -138,4 +214,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Funded Project List"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -77,6 +81,21 @@
       Url="Content/ESMS-WEB/ESMS-Organization/imgs/FundingProjectList_594x285.png" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Organization/ESMS-Funded-Project-List.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/ListIcon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Funding-List-Screen.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/FundingProjectList.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/ListIcon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Funding-List-Screen.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/FundingProjectList.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -87,6 +106,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -101,4 +121,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

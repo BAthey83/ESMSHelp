@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Understanding the Inventory Screen"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -33,6 +37,9 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Inv-Icon-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Organization-Screen.htm" />
     <Link
@@ -51,6 +58,7 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -81,6 +89,12 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Inv-Icon-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Organization-Screen.htm" />
     <Link
@@ -99,6 +113,7 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm#Inventory" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
   </LongLinks>
@@ -117,6 +132,37 @@
       Name="kanchor649" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Inventory" />
+    <Anchor
+      Name="Organiza" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Navigation Pane:configure"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="43" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -124,6 +170,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -138,4 +185,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

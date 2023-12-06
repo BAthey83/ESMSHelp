@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/Primary.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Asset Tree:expand"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Primary.rpt-filename" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

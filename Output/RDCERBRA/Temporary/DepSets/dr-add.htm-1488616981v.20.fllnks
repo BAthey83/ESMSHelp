@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/FIELD_APP/FA-Asmt-Tasks/dr-view.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Asmt-Tasks/dr-edit.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Asmt-Tasks/dr-del.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/FIELD_APP/FA-Asmt-Tasks/dr-view.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Asmt-Tasks/dr-edit.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Asmt-Tasks/dr-del.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Layout:navigation pane"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="35" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

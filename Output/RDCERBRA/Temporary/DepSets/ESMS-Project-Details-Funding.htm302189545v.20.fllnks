@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle=" Project Details - Funding"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,11 +38,17 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-Details.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFunding_1511x431.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFunding.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/PlusIcon.png" />
     <Link
@@ -50,11 +60,16 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ListIcon.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFundingModifications_1254x645.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFundingModifications.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFundingModificationAdd.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/CommentIcon.png" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -86,11 +101,20 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-Details.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFunding_1511x431.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFunding.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/PlusIcon.png" />
     <Link
@@ -102,13 +126,20 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ListIcon.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFundingModifications_1254x645.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFundingModifications.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectFundingModificationAdd.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/CommentIcon.png" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Project/ESMS-Project-Details-Funding.htm" />
+=======
+>>>>>>> master
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -119,6 +150,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -133,4 +165,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Get Started with Enterprise SMS Web"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -41,6 +45,15 @@
       Url="Content/ESMS-WEB/0First-Steps/imgs/Domains-2023-complete_155x888.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023_179x1406.png" />
+=======
+      Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Recent-Pages-Visited.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Domains-2023-complete.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Dashboard Options.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
     <Link
@@ -48,6 +61,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/0First-Steps/imgs/Logout-2023_199x386.png" />
     <Link
       Url="Default.htm" />
@@ -80,6 +94,12 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Logout-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm#A." />
     <Link
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm#B." />
@@ -92,11 +112,19 @@
     <Link
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm#F." />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/0First-Steps/imgs/Recent-Pages-Visited_1024x600.png" />
     <Link
       Url="Content/ESMS-WEB/0First-Steps/imgs/Domains-2023-complete_155x888.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023_179x1406.png" />
+=======
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Recent-Pages-Visited.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Domains-2023-complete.png" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Dashboard Options.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
     <Link
@@ -104,14 +132,19 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/0First-Steps/imgs/Logout-2023_199x386.png" />
     <Link
       Url="Default.htm#ESMS-WEB/0First-Steps/Get-Started-W.htm" />
+=======
+      Url="Content/ESMS-WEB/0First-Steps/imgs/Logout-2023.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
       Name="A." />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor826" />
     <Anchor
       Name="B." />
@@ -143,6 +176,85 @@
       Name="kanchor835" />
   </Anchors>
   <Keywords />
+=======
+      Name="B." />
+    <Anchor
+      Name="C." />
+    <Anchor
+      Name="D." />
+    <Anchor
+      Name="E." />
+    <Anchor
+      Name="F." />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Welcome"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="Login:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="User Manager:Login"
+      Conditions=""
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="Welcome Screen"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="61" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="81" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="111" />
+    <IndexCacheEntry
+      Term="Logout:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="119" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -150,6 +262,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -164,4 +277,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

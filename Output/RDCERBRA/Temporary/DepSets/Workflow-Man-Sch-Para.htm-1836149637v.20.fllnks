@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Manage Scheme Parameters"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -103,6 +107,66 @@
       Name="kanchor212" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/param-smp-fname-lname_540x198.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Man-Sch-Para.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/param-add1_660x166.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/param-add2_660x186.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/del-param2.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/param-smp-fname-lname_540x198.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Man-Sch-Para.htm#Add" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/param-add1_660x166.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/param-add2_660x186.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/del-param2.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Add" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="53" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -110,6 +174,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -124,4 +189,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

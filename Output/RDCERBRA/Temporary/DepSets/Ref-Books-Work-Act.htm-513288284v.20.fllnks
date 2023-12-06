@@ -6,6 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Bk-Wk-Act.png" />
@@ -41,11 +42,19 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
   </Links>
   <LongLinks>
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Access" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Selectin" />
@@ -89,6 +98,21 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Access" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Features" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Selectin" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Editing" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm#Additional" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
   </LongLinks>
@@ -96,6 +120,7 @@
     <Anchor
       Name="Access" />
     <Anchor
+<<<<<<< HEAD
       Name="Selectin" />
     <Anchor
       Name="Features" />
@@ -396,6 +421,17 @@
       LocalConditions=""
       Position="244" />
   </Keywords>
+=======
+      Name="Features" />
+    <Anchor
+      Name="Selectin" />
+    <Anchor
+      Name="Editing" />
+    <Anchor
+      Name="Additional" />
+  </Anchors>
+  <Keywords />
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />

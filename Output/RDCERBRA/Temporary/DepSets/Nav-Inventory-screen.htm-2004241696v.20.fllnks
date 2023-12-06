@@ -106,7 +106,11 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm#Filters" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-2023_1541x815.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Asset-Search-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm#D." />
     <Link

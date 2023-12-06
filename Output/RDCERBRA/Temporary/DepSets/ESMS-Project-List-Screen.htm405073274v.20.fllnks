@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle=" Project List Screen"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -37,6 +41,11 @@
       Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectList_1347x552.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectList.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Filter-Project-List.htm" />
     <Link
@@ -45,6 +54,7 @@
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Add-Project.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-Details.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -79,6 +89,14 @@
       Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectList_1347x552.png" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Project/imgs/ProjectList.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Filter-Project-List.htm" />
     <Link
@@ -87,8 +105,11 @@
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Add-Project.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-Details.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Project/ESMS-Project-List-Screen.htm" />
+=======
+>>>>>>> master
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -99,6 +120,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -113,4 +135,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

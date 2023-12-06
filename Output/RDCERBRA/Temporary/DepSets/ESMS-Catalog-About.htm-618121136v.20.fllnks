@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle=" Understanding the Catalog Screen"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -97,6 +101,46 @@
       Name="kanchor206" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-catalog.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/catalog-screen-full-raw.PNG" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/Imgs-Web/Dashboard/no-text-catalog.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/catalog-screen-full-raw.PNG" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -104,6 +148,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -118,4 +163,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Post-Assessment Stage"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -41,16 +45,32 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Create-Component-2023_841x489.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Edit-Work-Item-2023_815x625.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Work-Items-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Create-Component-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Edit-Work-Item-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Fuels-assessment-template.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Questionnaire Summary_534x170.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Questionnaire Summary.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -81,6 +101,12 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm#Add" />
     <Link
@@ -92,23 +118,36 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm#Transiti" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Work-Items-2023_1322x119.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Create-Component-2023_841x489.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Edit-Work-Item-2023_815x625.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Work-Items-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Create-Component-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Edit-Work-Item-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Fuels-assessment-template.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Questionnaire Summary_534x170.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Questionnaire Summary.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm#Transitions" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
   </LongLinks>
@@ -130,17 +169,97 @@
     <Anchor
       Name="kanchor261" />
     <Anchor
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Add" />
+    <Anchor
+>>>>>>> master
       Name="Edit" />
     <Anchor
       Name="Question2" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor262" />
     <Anchor
+=======
+>>>>>>> master
       Name="Question" />
     <Anchor
       Name="Transiti" />
   </Anchors>
+<<<<<<< HEAD
   <Keywords />
+=======
+  <Keywords>
+    <IndexCacheEntry
+      Term="Post-Assessment Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Desktop Sync / Assessment"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="Add:Team"
+      Conditions=""
+      LocalConditions=""
+      Position="97" />
+    <IndexCacheEntry
+      Term="Pre-Assessment Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="99" />
+    <IndexCacheEntry
+      Term="Packages"
+      Conditions=""
+      LocalConditions=""
+      Position="118" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -148,6 +267,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -162,4 +282,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

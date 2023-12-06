@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileTitle="Recognizing the Common Icons"
+<<<<<<< HEAD
   FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
@@ -34,6 +35,15 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete">
+  <Links>
+    <Link
+>>>>>>> master
       Url="Content/Resources/R-ICONS/Organization_Add.png" />
     <Link
       Url="Content/Resources/R-ICONS/Organization_Delete.png" />
@@ -141,6 +151,7 @@
       Url="Content/Resources/R-ICONS/Target.png" />
     <Link
       Url="Content/Resources/R-ICONS/Measurement.png" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -172,6 +183,11 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/Resources/R-ICONS/Organization_Add.png" />
     <Link
       Url="Content/Resources/R-ICONS/Organization_Delete.png" />
@@ -279,6 +295,7 @@
       Url="Content/Resources/R-ICONS/Target.png" />
     <Link
       Url="Content/Resources/R-ICONS/Measurement.png" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#Resources/R-ICONS/GS_Recognizing_the_Common_Icons.htm" />
   </LongLinks>
@@ -291,6 +308,27 @@
       Name="kanchor108" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Recognizing Common Icons"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -298,6 +336,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -312,4 +351,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

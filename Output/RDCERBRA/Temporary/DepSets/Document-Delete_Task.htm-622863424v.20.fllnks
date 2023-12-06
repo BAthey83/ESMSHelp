@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Delete a Document"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -69,10 +73,18 @@
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Delete-Button-2023_44x39.png" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Documents/Document-Delete_Task.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Delete-Button-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Delete-Button-2023.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
       Name="Delete" />
+<<<<<<< HEAD
     <Anchor
       Name="kanchor247" />
     <Anchor
@@ -85,6 +97,36 @@
       Name="kanchor251" />
   </Anchors>
   <Keywords />
+=======
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Search:Document"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -92,6 +134,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -106,4 +149,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

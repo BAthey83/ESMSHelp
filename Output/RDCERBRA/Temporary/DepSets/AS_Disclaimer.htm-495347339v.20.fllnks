@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileTitle="Disclaimer"
+<<<<<<< HEAD
   FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
@@ -75,6 +76,29 @@
       Name="kanchor1057" />
   </Anchors>
   <Keywords />
+=======
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete">
+  <Links>
+    <Link
+      Url="Content/0Welcome/AcknowledgementsSupport/CERL_Castle_logo.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/0Welcome/AcknowledgementsSupport/CERL_Castle_logo.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Disclaimer"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -82,6 +106,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -96,4 +121,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

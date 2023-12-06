@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Delete Assessment Plan "
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -35,6 +39,9 @@
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Delete-Assmt-2023_909x565.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Delete-Assmt-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
     <Link
@@ -43,6 +50,7 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Edit-Assessment-Plans.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -75,6 +83,12 @@
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Delete-Assmt-2023_909x565.png" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Delete-Assmt-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
     <Link
@@ -83,6 +97,7 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Edit-Assessment-Plans.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
   </LongLinks>
@@ -97,6 +112,42 @@
       Name="kanchor202" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="30" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -104,6 +155,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -118,4 +170,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

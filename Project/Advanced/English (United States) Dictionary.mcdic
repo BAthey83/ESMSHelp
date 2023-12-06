@@ -353,6 +353,7 @@
     <Word Comment="">pre-fill</Word>
     <Word Comment="">Add/Install</Word>
     <Word Comment="">higher/lower</Word>
+<<<<<<< HEAD
     <Word Comment="">Book/Cost</Word>
     <Word Comment="">supervision/administration</Word>
     <Word Comment="">https://www.wbdg.org/ffc/army-coe/technical-manuals-tm/tm-5-800-4</Word>
@@ -365,4 +366,17 @@
     <Word Comment="">Non-Workflow</Word>
     <Word Comment="">default/parent</Word>
     <Word>UoMs</Word>
+=======
+    <Word>Create/Edit/Delete</Word>
+    <Word>Lock/Unlock</Word>
+    <Word>Create/Assign</Word>
+    <Word>Create/Modify</Word>
+    <Word>Add/Edit/Delete</Word>
+    <Word>preconfigured</Word>
+    <Word>forms/approvals</Word>
+    <Word>lock/unlock</Word>
+    <Word>first/last</Word>
+    <Word>on/off</Word>
+    <Word>Roles/Permissions</Word>
+>>>>>>> master
 </SpellingDictionary>

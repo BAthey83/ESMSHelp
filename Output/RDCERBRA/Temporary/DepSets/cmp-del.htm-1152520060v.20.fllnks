@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/FIELD_APP/Desk-imgs/btn/img-del-cmp.PNG" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-view.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-del.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-edit.htm" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/group-add-cmp.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/FIELD_APP/Desk-imgs/btn/img-del-cmp.PNG" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-view.htm#View" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-del.htm#Add" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/cmp-edit.htm#Edit" />
+    <Link
+      Url="Content/FIELD_APP/FA-Inventory-Tasks/group-add-cmp.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Delete:component"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Layout:navigation pane"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="30" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

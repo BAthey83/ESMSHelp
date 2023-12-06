@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Search"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
+<<<<<<< HEAD
   <Links>
     <Link
       Url="Skins/Default/Stylesheets/Slideshow.css" />
@@ -79,6 +83,53 @@
       Name="kanchor685" />
   </Anchors>
   <Keywords />
+=======
+  <Links />
+  <LongLinks />
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Menu bar search"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Search:Global"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Search:From Main Menu"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Main Menu"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Search:Facilities"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -86,6 +137,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -100,4 +152,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

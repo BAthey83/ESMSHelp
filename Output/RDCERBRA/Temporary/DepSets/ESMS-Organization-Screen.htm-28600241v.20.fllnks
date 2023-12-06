@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Organization Details Screen"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -77,6 +81,17 @@
       Url="javascript:void(0)" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Organization/ESMS-Organization-Screen.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/Organization-Search.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/ESMS-Organizations-Screen-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/Organization-Search.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/ESMS-Organizations-Screen-2023.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -87,6 +102,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -101,4 +117,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

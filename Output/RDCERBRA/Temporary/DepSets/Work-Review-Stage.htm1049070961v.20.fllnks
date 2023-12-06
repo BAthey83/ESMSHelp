@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Review Stage"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -36,11 +40,18 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -74,6 +85,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm#Review" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm#Make" />
@@ -83,6 +103,7 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
   </LongLinks>
@@ -100,11 +121,58 @@
     <Anchor
       Name="kanchor710" />
     <Anchor
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Review" />
+    <Anchor
+>>>>>>> master
       Name="Make" />
     <Anchor
       Name="Transiti" />
   </Anchors>
+<<<<<<< HEAD
   <Keywords />
+=======
+  <Keywords>
+    <IndexCacheEntry
+      Term="Review"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Add:Team"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Pre-Assessment Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Charter"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="Post-Assessment Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="66" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -112,6 +180,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -126,4 +195,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

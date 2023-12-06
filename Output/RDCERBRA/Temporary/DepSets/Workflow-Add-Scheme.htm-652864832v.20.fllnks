@@ -1,13 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Add Scheme"
   FileLanguage="en-us"
+=======
+  FileTitle=""
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -41,6 +46,13 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Scheme-Diagram_601x536.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Editor-Start-State-Screenshot_614x214.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-new-scheme_25x24.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Start-State-Finish.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Editor-Start-State-Screenshot.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
     <Link
@@ -53,6 +65,7 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -91,6 +104,16 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Scheme-Diagram_601x536.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Editor-Start-State-Screenshot_614x214.png" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/menu-new-scheme_25x24.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Start-State-Finish.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/Workflow-Editor-Start-State-Screenshot.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
     <Link
@@ -103,6 +126,7 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Workflow%20Editor/Workflow-Add-Scheme.htm" />
   </LongLinks>
@@ -127,6 +151,57 @@
       Name="kanchor179" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="110" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="111" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="120" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -134,6 +209,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -148,4 +224,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

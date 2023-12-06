@@ -6,10 +6,28 @@
 
 
 #Ignoring all Input files if necessary
+
+# MadCap folders to always exclude
 Analyzer/
-#Project/
-#Content/
-#Output/
+FileSync/ 
+Output/
+Project/Reports/
+Project/Users/
+
+# Folders to exclude when using a global project structure
+PageLayouts
+Snippets
+Stylesheets
+TableStyles
+
+# Child project folders to exclude
+/Project/Advanced
+/Project/ConditionTagSets
+/Project/Glossaries
+/Project/Reports
+/Project/Skins
+/Project/Users
+/Project/VariableSets
 
 #Ignore duplicated Output files that are copied to wwwroot
 #Output/RDCERBRA/

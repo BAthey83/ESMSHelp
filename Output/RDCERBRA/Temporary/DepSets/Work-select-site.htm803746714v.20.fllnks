@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Select Site(s) for Work Item Generation"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -37,10 +41,16 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-site-dd-narrow_160x330.png" />
     <Link
       Url="Content/ESMS-WEB/Imgs-Web/btn-del-x-on-blue-square_21x21.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-site-dd-narrow.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/Imgs-Web/btn-del-x-on-blue-square.PNG" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Set-Standards.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Gen-wkitem-list.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -75,16 +85,28 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-site-dd-narrow_160x330.png" />
     <Link
       Url="Content/ESMS-WEB/Imgs-Web/btn-del-x-on-blue-square_21x21.png" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-site-dd-narrow.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/Imgs-Web/btn-del-x-on-blue-square.PNG" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Set-Standards.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Gen-wkitem-list.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-select-site.htm" />
+=======
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
       Name="Select" />
+<<<<<<< HEAD
     <Anchor
       Name="kanchor18" />
     <Anchor
@@ -101,6 +123,46 @@
       Name="kanchor24" />
   </Anchors>
   <Keywords />
+=======
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -108,6 +170,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -122,4 +185,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

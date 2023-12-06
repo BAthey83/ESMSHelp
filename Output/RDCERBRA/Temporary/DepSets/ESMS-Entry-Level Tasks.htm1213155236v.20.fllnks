@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Enterprise SMS Entry-Level Tasks"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,12 +38,15 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
     <Link
       Url="Content/ESMS-WEB/0First-Steps/ESMS-Entry-Level Tasks.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023_175x1375.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
@@ -74,6 +81,14 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/0First-Steps/Get-Started-W.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
@@ -82,6 +97,7 @@
     <Link
       Url="Content/ESMS-WEB/0First-Steps/ESMS-Entry-Level Tasks.htm#task-area" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023_175x1375.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
@@ -111,6 +127,62 @@
       Name="kanchor269" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="domain" />
+    <Anchor
+      Name="Select" />
+    <Anchor
+      Name="task-area" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Task Area"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="Task Area:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="64" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="69" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -118,6 +190,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -132,4 +205,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

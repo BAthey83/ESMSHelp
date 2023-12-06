@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="  Exporting the List of Projects"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,11 +38,14 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ExportIcon.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-List-Screen.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -70,13 +77,21 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Project/imgs/Projects-Icon-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/imgs/ExportIcon.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Project/ESMS-Project-List-Screen.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Project/ESMS-Export-Project-List.htm" />
+=======
+>>>>>>> master
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -87,6 +102,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -101,4 +117,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

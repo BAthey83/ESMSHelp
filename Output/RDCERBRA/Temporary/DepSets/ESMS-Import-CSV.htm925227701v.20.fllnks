@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Understanding the Import from CSV Screen"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -83,6 +87,30 @@
       Name="kanchor291" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Import-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Import-pop-RAW.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-About.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Import-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Import-pop-RAW.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-About.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -90,6 +118,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -104,4 +133,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

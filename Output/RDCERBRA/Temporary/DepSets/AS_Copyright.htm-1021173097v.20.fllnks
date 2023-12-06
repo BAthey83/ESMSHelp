@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileTitle="Copyright Warning"
+<<<<<<< HEAD
   FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
@@ -71,6 +72,23 @@
       Name="kanchor1033" />
   </Anchors>
   <Keywords />
+=======
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete">
+  <Links />
+  <LongLinks />
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Copyright"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -78,6 +96,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -92,4 +111,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

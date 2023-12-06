@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle=" Associate Document(s) with a Component"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,10 +38,13 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Upload-Files-Button.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Assoc-Ed_380x396.png" />
     <Link
       Url="Default.htm" />
@@ -70,6 +77,12 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Assoc-Ed.png" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm#upld-at-cmp" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm#At" />
@@ -78,14 +91,19 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Upload-Files-Button.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Assoc-Ed_380x396.png" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Doc-Assoc-Ed.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
       Name="top" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor923" />
     <Anchor
       Name="kanchor924" />
@@ -98,15 +116,69 @@
     <Anchor
       Name="kanchor928" />
     <Anchor
+=======
+>>>>>>> master
       Name="Which" />
     <Anchor
       Name="upld-at-cmp" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor929" />
     <Anchor
       Name="At" />
   </Anchors>
   <Keywords />
+=======
+      Name="At" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Document:Associate with component"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Search:Document"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="38" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -114,6 +186,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -128,4 +201,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

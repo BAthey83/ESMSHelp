@@ -1,12 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Component Importance Index (CII) "
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -207,6 +211,27 @@
       LocalConditions=""
       Position="145" />
   </Keywords>
+=======
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm#About" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm#CII Data" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="About" />
+    <Anchor
+      Name="CII Data" />
+  </Anchors>
+  <Keywords />
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -214,6 +239,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -228,4 +254,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

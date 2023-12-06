@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Groups Tab"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -77,10 +81,22 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Group-Select-2023_398x655.png" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-Charter-Groups.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Groups-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-add-group-screen-old.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Groups-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-add-group-screen-old.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
       Name="Groups" />
+<<<<<<< HEAD
     <Anchor
       Name="kanchor836" />
     <Anchor
@@ -99,6 +115,51 @@
       Name="kanchor843" />
   </Anchors>
   <Keywords />
+=======
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Search Results:Filter"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="34" />
+    <IndexCacheEntry
+      Term="Charter"
+      Conditions=""
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="42" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -106,6 +167,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -120,4 +182,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

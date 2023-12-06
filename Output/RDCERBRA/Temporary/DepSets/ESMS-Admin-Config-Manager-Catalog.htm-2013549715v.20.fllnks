@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Understanding the Configuration Manager (Catalog)"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -33,11 +37,17 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
+=======
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/no-text-catalog.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Under-Quest-Temp.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Mgr_718x576.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del_528x273.png" />
@@ -77,6 +87,23 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Mgr.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-Name-Type.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Group-Types-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Groups-Custom-Attributes.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Styles/SMS-Styles.css" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/no-text-catalog.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Under-Quest-Temp.htm" />
     <Link
@@ -90,6 +117,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Config-Manager-Catalog.htm#Add5" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Mgr_718x576.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del_528x273.png" />
@@ -126,17 +154,92 @@
     <Anchor
       Name="kanchor990" />
     <Anchor
+=======
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Inv-Cat-Mgr.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-w-Del.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Att-Name-Type.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Catalog/imgs/Group-Types-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Groups-Custom-Attributes.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Add_Component_Type" />
+    <Anchor
+      Name="Add" />
+    <Anchor
+>>>>>>> master
       Name="Add2" />
     <Anchor
       Name="Add3" />
     <Anchor
       Name="Add4" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor991" />
     <Anchor
       Name="Add5" />
   </Anchors>
   <Keywords />
+=======
+      Name="Add5" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="165" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -146,6 +249,7 @@
   <AllConditions />
   <Stylesheets>
     <Url
+<<<<<<< HEAD
       Source="Skins/Default/Stylesheets/Slideshow.css" />
     <Url
       Source="Skins/Default/Stylesheets/TextEffects.css" />
@@ -156,6 +260,8 @@
     <Url
       Source="Skins/Default/Stylesheets/Components/Print.css" />
     <Url
+=======
+>>>>>>> master
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

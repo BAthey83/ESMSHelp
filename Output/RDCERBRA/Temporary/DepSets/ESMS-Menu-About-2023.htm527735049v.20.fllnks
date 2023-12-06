@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle=" Understanding the Enterprise SMS Menu"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -37,11 +41,17 @@
       Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023_197x1547.png" />
     <Link
       Url="javascript:void(0)" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Asset-Inventory-Button-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
+<<<<<<< HEAD
       Url="Default.htm" />
   </Links>
   <LongLinks>
@@ -75,11 +85,63 @@
       Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023_197x1547.png" />
     <Link
       Url="javascript:void(0)" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Organizations-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Facilities-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Groups-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Components-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Work-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Assessments Work Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Work-Analysis-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Assessments-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Projects-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Workflows-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Tasks-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Catalog-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Assessment-Templates-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Import-Export-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Administration-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Users-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Teams-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Permissions-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Gen-Import-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Documents-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Reports-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Map Search Button-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Menu-Dropdown-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Asset-Inventory-Button-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
+<<<<<<< HEAD
       Url="Default.htm#ESMS-WEB/ESMS-Dash/ESMS-Menu-About-2023.htm" />
   </LongLinks>
   <Anchors>
@@ -177,6 +239,135 @@
       Name="kanchor399" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Organizations-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Facilities-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Groups-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Components-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Work-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Assessments Work Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Work-Analysis-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Assessments-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Projects-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Workflows-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Tasks-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Catalog-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Assessment-Templates-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Import-Export-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Administration-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Users-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Teams-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Permissions-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Gen-Import-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Documents-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Reports-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Dash/imgs/Map Search Button-2023.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Search:Facilities"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="Add:component"
+      Conditions=""
+      LocalConditions=""
+      Position="65" />
+    <IndexCacheEntry
+      Term="Search:Components"
+      Conditions=""
+      LocalConditions=""
+      Position="66" />
+    <IndexCacheEntry
+      Term="Search:Assessments"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="Navigation Pane:configure"
+      Conditions=""
+      LocalConditions=""
+      Position="148" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="169" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="181" />
+    <IndexCacheEntry
+      Term="Permissions:Administrator"
+      Conditions=""
+      LocalConditions=""
+      Position="182" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="202" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="339" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -184,6 +375,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -198,4 +390,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

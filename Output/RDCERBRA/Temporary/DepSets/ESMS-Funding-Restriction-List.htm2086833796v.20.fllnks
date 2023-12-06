@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Funding Restriction List"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -81,6 +85,33 @@
       Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Restriction.htm" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Organization/ESMS-Funding-Restriction-List.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/FundRestrictionIcon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Details.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/FundingRestrictionList.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/EditIcon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Restriction.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/TrashIcon.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/FundRestrictionIcon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Details.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/FundingRestrictionList.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/EditIcon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Restriction.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Organization/imgs/TrashIcon.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -91,6 +122,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -105,4 +137,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Assessment Plan Navigation"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -37,12 +41,18 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Asmt-Pln_1137x268.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Asmt-Pln.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-nav-flyout-tab-old.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-nav-bar-narrow-2022.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-nav-flyout-popup-old.png" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -77,12 +87,21 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Asmt-Pln_1137x268.png" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Asmt-Pln.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-nav-flyout-tab-old.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-nav-bar-narrow-2022.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-nav-flyout-popup-old.png" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-Nav-Assessment-Plans.htm" />
   </LongLinks>
@@ -101,6 +120,47 @@
       Name="kanchor675" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Charter"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Asset Tree:expand"
+      Conditions=""
+      LocalConditions=""
+      Position="40" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="48" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -108,6 +168,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -122,4 +183,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

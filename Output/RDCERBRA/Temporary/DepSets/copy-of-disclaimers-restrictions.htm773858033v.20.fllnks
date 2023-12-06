@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileTitle="Disclaimers and Restrictions"
+<<<<<<< HEAD
   FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
@@ -85,6 +86,44 @@
       Name="kanchor593" />
   </Anchors>
   <Keywords />
+=======
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileStatus="Complete">
+  <Links>
+    <Link
+      Url="Content/0Welcome/AcknowledgementsSupport/CERL_Castle_logo.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/0Welcome/AcknowledgementsSupport/CERL_Castle_logo.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Disclaimer"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Hold-Harmless Statement"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Information Re-Use Restrictions"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Copyright"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -92,6 +131,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -106,4 +146,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

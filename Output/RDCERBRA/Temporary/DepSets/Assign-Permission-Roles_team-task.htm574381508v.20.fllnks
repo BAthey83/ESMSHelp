@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Assign a Permissions Role"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -37,6 +41,11 @@
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/team-wkspace-img_400x250.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-site-role-RED-site_480x250.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/team-wkspace-img.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-site-role-RED-site.PNG" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/0First-Steps/ESMS-Entry-Level Tasks.htm" />
     <Link
@@ -44,6 +53,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-site-role-result.PNG" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-RED-grp_480x250.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-role-result.PNG" />
@@ -81,6 +91,17 @@
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/team-wkspace-img_400x250.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-site-role-RED-site_480x250.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-RED-grp.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-role-result.PNG" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/team-wkspace-img.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-site-role-RED-site.PNG" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/0First-Steps/ESMS-Entry-Level Tasks.htm" />
     <Link
@@ -88,6 +109,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-site-role-result.PNG" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-RED-grp_480x250.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-role-result.PNG" />
@@ -119,6 +141,80 @@
       Name="kanchor816" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-RED-grp.PNG" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/assign-grp-role-result.PNG" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Permissions:Assign a permissions role to team"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Assign:Permissions role"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Add:Team"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Add:Security Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="50" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -126,6 +222,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -140,4 +237,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

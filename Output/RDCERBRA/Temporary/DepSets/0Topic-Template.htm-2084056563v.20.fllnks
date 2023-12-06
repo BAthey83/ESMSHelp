@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Heading here"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
+<<<<<<< HEAD
   <Links>
     <Link
       Url="Skins/Default/Stylesheets/Slideshow.css" />
@@ -66,6 +70,10 @@
     <Link
       Url="Default.htm#ESMS-WEB/0Topic-Template.htm" />
   </LongLinks>
+=======
+  <Links />
+  <LongLinks />
+>>>>>>> master
   <Anchors />
   <Keywords />
   <Concepts />
@@ -75,6 +83,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -89,4 +98,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

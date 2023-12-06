@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="About Site Selection"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -105,6 +109,63 @@
       Name="kanchor198" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/Resources/Snippets/Web/snp-select-site.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/btn-site-select-clear.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Site-Selection-About.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/Web/snp-select-site.flsnp" />
+    <Link
+      Url="Content/ESMS-WEB/0First-Steps/imgs/btn-site-select-clear.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Inventory/Site-Selection-About.htm#Select" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Select" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Site:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Main Menu"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -112,6 +173,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -126,4 +188,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Mapping BUILDER Sites to ESMS Sites"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -93,6 +97,49 @@
       Name="kanchor825" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Get-BUILDER-Sites-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Map-List-Left.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Map-List-Right.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Create-New-ESMS-Sites.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Get-BUILDER-Sites-Button.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Map-List-Left.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Map-List-Right.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Create-New-ESMS-Sites.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Mapping BUILDER Sites to ESMS Sites"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -100,6 +147,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -114,4 +162,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

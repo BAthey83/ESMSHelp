@@ -1,10 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
+<<<<<<< HEAD
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
         <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\Assign-Bk-Org.htm" />
     </Dialog>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
         <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\imgs\Filter-Column-Icon.png" />
+=======
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Admin\admin-imgs\Site-Org-Admin.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Admin\ESMS-Admin-Permissions\ESMS-Acc-Con-Perm-Mgt.htm" />
+>>>>>>> master
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
         <Link Value="C:\SourceControl\esmshelp\Content\ESMS-WEB\ESMS-Ref-Books\Ref-Infltn-Bk.htm" />

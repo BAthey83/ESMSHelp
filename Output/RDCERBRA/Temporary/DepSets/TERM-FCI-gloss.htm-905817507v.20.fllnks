@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Facility Condition Index"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -81,6 +85,25 @@
       Name="Definiti" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/Resources/Terms/TERM-FCI-gloss.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Terms/TERM-FCI-gloss.htm#Definiti" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Definiti" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Facility Condition Index"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -88,6 +111,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -102,4 +126,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

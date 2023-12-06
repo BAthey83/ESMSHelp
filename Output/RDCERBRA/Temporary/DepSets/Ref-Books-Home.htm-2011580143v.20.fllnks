@@ -6,6 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List_235x306.png" />
@@ -28,6 +29,20 @@
   </Links>
   <LongLinks>
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm#What" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm#Componen" />
@@ -42,6 +57,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm#Work" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm#Referenc" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List_235x306.png" />
@@ -61,6 +77,11 @@
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" />
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
@@ -77,6 +98,7 @@
       Name="Cost2" />
     <Anchor
       Name="Work" />
+<<<<<<< HEAD
     <Anchor
       Name="Related" />
   </Anchors>
@@ -177,6 +199,10 @@
       LocalConditions=""
       Position="76" />
   </Keywords>
+=======
+  </Anchors>
+  <Keywords />
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />

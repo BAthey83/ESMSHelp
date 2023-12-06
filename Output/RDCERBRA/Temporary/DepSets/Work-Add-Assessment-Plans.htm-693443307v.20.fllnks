@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Add Assessment Plans"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -39,12 +43,21 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Create-Assessement-Update_836x752.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Select-Site-2023_505x830.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Crte-Assmt.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/site-link-icon_25x22.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Home.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Workflow-Enabled-2023.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/wkflow-enabled-ckbox.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Nav-Assessment-Plans.htm" />
     <Link
@@ -55,6 +68,7 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Edit-Assessment-Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -91,6 +105,14 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Create-Assessement-Update_836x752.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Select-Site-2023_505x830.png" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Crte-Assmt.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/site-link-icon_25x22.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Home.htm" />
     <Link
@@ -100,7 +122,11 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm#Enter2" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Workflow-Enabled-2023.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/wkflow-enabled-ckbox.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Nav-Assessment-Plans.htm" />
     <Link
@@ -111,6 +137,7 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Edit-Assessment-Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
   </LongLinks>
@@ -152,11 +179,110 @@
     <Anchor
       Name="kanchor228" />
     <Anchor
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Enter2" />
+    <Anchor
+      Name="Enter" />
+    <Anchor
+>>>>>>> master
       Name="Permissi" />
     <Anchor
       Name="Save" />
   </Anchors>
+<<<<<<< HEAD
   <Keywords />
+=======
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Search:Global"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="Select Domain(s):Domain"
+      Conditions=""
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="Charter"
+      Conditions=""
+      LocalConditions=""
+      Position="64" />
+    <IndexCacheEntry
+      Term="Asset Tree:expand"
+      Conditions=""
+      LocalConditions=""
+      Position="65" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Pre-Assessment Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="169" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -164,6 +290,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -178,4 +305,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

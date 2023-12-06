@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+<<<<<<< HEAD
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost-Book-Floppy.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Cost Book Screenshot.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Sel-Columns-Cost-Book.png" />
@@ -20,4 +21,26 @@
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/CII-New.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/CII-Book-Edit-Screen.png" />
     <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/CI-Ref-Books.png" />
+=======
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Org-Permissions.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Inv-Org-Dropdown.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/User-Permissions-Dropdown.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Site-Group-Permissions.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Site-Permissions.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Site-Org-Admin.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Security-Admin.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Admin-Users.png" />
+    <Url Source="ESMS-WEB/ESMS-Admin/admin-imgs/Permissions-Flow-Chart.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Ref-Books-List.png" />
+    <Url Source="ESMS-WEB/ESMS-Ref-Books/imgs/Edit-Work-Action.png" />
+    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-View-Map.png" />
+    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-List-View-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-Filters-Complete.png" />
+    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Maps-Tab.png" />
+    <Url Source="ESMS-WEB/ESMS-Maps/imgs/Map-Search-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Refresh-Bttn.png" />
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Work-Analysis-Icon.png" />
+    <Url Source="ESMS-WEB/ESMS-Work/imgs/Wk-Rules-Screen.png" />
+>>>>>>> master
 </UrlList>

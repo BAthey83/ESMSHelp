@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Manage Search Tags"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,10 +38,13 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Documents/Document-Tags.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Add-Remove-Tag-2023_518x368.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/New-Tag-2023_518x368.png" />
@@ -74,10 +81,21 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Add-Remove-Tag-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/New-Tag-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/New-Tag-Added-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Documents/Document-Tags.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm#Add" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/Add-Remove-Tag-2023_518x368.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/New-Tag-2023_518x368.png" />
@@ -85,11 +103,19 @@
       Url="Content/ESMS-WEB/ESMS-Documents/imgs/New-Tag-Added-2023_488x292.png" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/Add-Remove-Tag-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/New-Tag-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Documents/imgs/New-Tag-Added-2023.png" />
+>>>>>>> master
   </LongLinks>
   <Anchors>
     <Anchor
       Name="Manage" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor412" />
     <Anchor
       Name="kanchor413" />
@@ -123,6 +149,94 @@
       Name="kanchor425" />
   </Anchors>
   <Keywords />
+=======
+      Name="Add" />
+    <Anchor
+      Name="Delete" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Search Tags:Manage Tag Pool"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Add:Tag"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Search:Document"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="Add:Tag (to the tag pool)"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="Tag Pool:Add a tag"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="64" />
+    <IndexCacheEntry
+      Term="Delete:Tag (from tag pool)"
+      Conditions=""
+      LocalConditions=""
+      Position="79" />
+    <IndexCacheEntry
+      Term="Tag Pool:Delete tag"
+      Conditions=""
+      LocalConditions=""
+      Position="79" />
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="101" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -130,6 +244,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -144,4 +259,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

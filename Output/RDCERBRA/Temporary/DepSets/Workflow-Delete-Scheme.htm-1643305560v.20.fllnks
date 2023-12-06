@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Delete Scheme"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -37,6 +41,11 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/open-scheme-with-tooltip.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/del-scheme-iconB_25x20.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/open-schem-iconB.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/del-scheme-iconB.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" />
     <Link
@@ -47,6 +56,7 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -81,6 +91,14 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/open-scheme-with-tooltip.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/del-scheme-iconB_25x20.png" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/open-schem-iconB.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/imgs/del-scheme-iconB.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" />
     <Link
@@ -91,6 +109,7 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Workflow%20Editor/Workflow-Delete-Scheme.htm" />
   </LongLinks>
@@ -103,6 +122,37 @@
       Name="kanchor516" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="31" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -110,6 +160,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -124,4 +175,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

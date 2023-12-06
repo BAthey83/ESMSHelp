@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Understanding the Work Screen"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -35,6 +39,9 @@
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
       Url="javascript:void(0)" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Work-Icon-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-select-site.htm" />
     <Link
@@ -42,6 +49,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Gen-wkitem-list.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-screen-full-RAW_600x300.png" />
     <Link
       Url="Default.htm" />
@@ -75,6 +83,13 @@
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
       Url="javascript:void(0)" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-screen-full-RAW.PNG" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Work-Icon-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-select-site.htm" />
     <Link
@@ -82,6 +97,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Gen-wkitem-list.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-screen-full-RAW_600x300.png" />
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Assessments/ESMS-Work-About.htm" />
@@ -93,6 +109,23 @@
       Name="kanchor452" />
   </Anchors>
   <Keywords />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/work-screen-full-RAW.PNG" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -100,6 +133,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -114,4 +148,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

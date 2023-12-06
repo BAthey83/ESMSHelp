@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Add a Team"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,17 +38,24 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/ESMS-Teams-About.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-team-btn.PNG" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-team-confirm_400x165.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-team-confirm.PNG" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Assign-Permission-Roles_team-task.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -76,6 +87,11 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm#Add" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm#Add2" />
@@ -86,11 +102,16 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-team-btn.PNG" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-team-confirm_400x165.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Teams/imgs/add-team-confirm.PNG" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Add-Member_team-task.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Teams/Assign-Permission-Roles_team-task.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Teams/Add-Team_team-task.htm" />
   </LongLinks>
@@ -110,13 +131,73 @@
     <Anchor
       Name="kanchor795" />
     <Anchor
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+>>>>>>> master
       Name="Add" />
     <Anchor
       Name="Add2" />
     <Anchor
       Name="Assign" />
   </Anchors>
+<<<<<<< HEAD
   <Keywords />
+=======
+  <Keywords>
+    <IndexCacheEntry
+      Term="Add:Team"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Team:Addd team"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Roles"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Navigation Pane:layout"
+      Conditions=""
+      LocalConditions=""
+      Position="26" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="28" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -124,6 +205,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -138,4 +220,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

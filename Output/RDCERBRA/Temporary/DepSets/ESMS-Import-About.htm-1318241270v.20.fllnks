@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle=" Understanding the Import Screen"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -33,6 +37,9 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Import-Icon.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-CSV.htm" />
     <Link
@@ -41,6 +48,7 @@
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-Buildings.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-E70-Pavements.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -71,6 +79,12 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
+=======
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Import/imgs/Import-Icon.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-CSV.htm" />
     <Link
@@ -79,6 +93,7 @@
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-Buildings.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/ESMS-Import-E70-Pavements.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Import/ESMS-Import-About.htm" />
   </LongLinks>
@@ -87,6 +102,22 @@
       Name="kanchor1" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -94,6 +125,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -108,4 +140,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

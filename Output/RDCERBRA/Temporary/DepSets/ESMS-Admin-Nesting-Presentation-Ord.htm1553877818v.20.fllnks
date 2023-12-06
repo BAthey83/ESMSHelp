@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="About Nesting and Presentation Order"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,6 +38,8 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-View-Questionnaire-Temp.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Add-Questionnaire-Temp.htm" />
@@ -41,6 +47,7 @@
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Edit-Questionnaire-Temp.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Delete-Questionnaire-Temp.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -72,6 +79,11 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-View-Questionnaire-Temp.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Add-Questionnaire-Temp.htm" />
@@ -79,6 +91,7 @@
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Edit-Questionnaire-Temp.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Delete-Questionnaire-Temp.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Admin/ESMS-Admin-Nesting-Presentation-Ord.htm" />
   </LongLinks>
@@ -97,6 +110,65 @@
       Name="Followup" />
   </Anchors>
   <Keywords />
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Followup" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="About Nesting and Presentation Order"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Sort:Order"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="View Questionnaire Template"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="53" />
+    <IndexCacheEntry
+      Term="Edit Questionnaire Template"
+      Conditions=""
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="Delete Questionnaire Template"
+      Conditions=""
+      LocalConditions=""
+      Position="61" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="62" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -104,6 +176,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -118,4 +191,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

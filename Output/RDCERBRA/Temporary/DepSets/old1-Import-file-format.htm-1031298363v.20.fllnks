@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Old-Check Format of Import File"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -66,11 +70,18 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Import/old1-Import-file-format.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Import/old1-Import-file-format.htm#File" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/old1-Import-file-format.htm#File2" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Import/old1-Import-file-format.htm#File3" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Import/old1-Import-file-format.htm" />
   </LongLinks>
@@ -78,10 +89,16 @@
     <Anchor
       Name="kanchor336" />
     <Anchor
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+>>>>>>> master
       Name="File" />
     <Anchor
       Name="File3" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor337" />
     <Anchor
       Name="File2" />
@@ -89,6 +106,27 @@
       Name="kanchor338" />
   </Anchors>
   <Keywords />
+=======
+      Name="File2" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="41" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -96,6 +134,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -110,4 +149,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

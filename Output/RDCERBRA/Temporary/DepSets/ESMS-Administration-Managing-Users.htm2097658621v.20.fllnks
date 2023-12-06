@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="  Managing Users and Roles (Security Screen)"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,12 +38,15 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/no-text-security.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Administration-Managing-Users.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-User-Details.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/User-Workspace-2023_748x292.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Plus-Button-2023_42x45.png" />
@@ -78,6 +85,18 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/User-Workspace-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Plus-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Select-Role-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Add-Organization-Role-2023.png" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/no-text-security.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Administration-Managing-Users.htm#View" />
@@ -102,6 +121,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/ESMS-Administration-Managing-Users.htm#Global" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/User-Workspace-2023_748x292.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Plus-Button-2023_42x45.png" />
@@ -146,18 +166,36 @@
     <Anchor
       Name="kanchor700" />
     <Anchor
+=======
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/User-Workspace-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Plus-Button-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Select-Role-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Admin/admin-imgs/Add-Organization-Role-2023.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="View" />
+    <Anchor
+>>>>>>> master
       Name="Add2" />
     <Anchor
       Name="Edit" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor701" />
     <Anchor
+=======
+>>>>>>> master
       Name="Assign" />
     <Anchor
       Name="Delete" />
     <Anchor
       Name="Assign2" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor702" />
     <Anchor
       Name="Scoped" />
@@ -166,17 +204,128 @@
     <Anchor
       Name="kanchor704" />
     <Anchor
+=======
+      Name="Scoped" />
+    <Anchor
+>>>>>>> master
       Name="Global" />
     <Anchor
       Name="Roles" />
     <Anchor
       Name="Add" />
     <Anchor
+<<<<<<< HEAD
       Name="kanchor705" />
     <Anchor
       Name="Copy" />
   </Anchors>
   <Keywords />
+=======
+      Name="Copy" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Roles"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Add:Role"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Permissions"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Component:edit"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Component:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Component:add"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="Team Member:Delete"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Document Tag:Add"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="26" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="Domain:Change"
+      Conditions=""
+      LocalConditions=""
+      Position="97" />
+    <IndexCacheEntry
+      Term="Search:Global"
+      Conditions=""
+      LocalConditions=""
+      Position="122" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="130" />
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="133" />
+    <IndexCacheEntry
+      Term="Add:Team"
+      Conditions=""
+      LocalConditions=""
+      Position="178" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -184,6 +333,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -198,4 +348,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

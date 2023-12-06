@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Understanding Assessment Plans"
+=======
+  FileTitle="Edit Assessment Plan"
+>>>>>>> master
   FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
@@ -34,6 +38,7 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-View-Assessment Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Edit-Assessment-Plans.htm" />
@@ -47,6 +52,13 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Work-Item-Main-Screen_988x391.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Flyout-Menu.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Nav-Assessment-Plans.htm" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Home.htm" />
     <Link
@@ -54,12 +66,16 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Workflow-example.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/approve-to-pre-assessment.png" />
@@ -71,6 +87,17 @@
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Nav-Assessment-Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/About-Workflow-Stages.htm" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-View-Assessment Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
+    <Link
+      Url="Default.htm" />
+>>>>>>> master
   </Links>
   <LongLinks>
     <Link
@@ -100,6 +127,7 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-View-Assessment Plans.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Edit-Assessment-Plans.htm" />
@@ -121,6 +149,13 @@
       Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans.htm#Stages" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Add-Assessment-Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Flyout-Menu.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Nav-Assessment-Plans.htm" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Home.htm" />
     <Link
@@ -128,12 +163,16 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Workflow-example.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/approve-to-pre-assessment.png" />
@@ -167,6 +206,29 @@
       Name="Scheme" />
     <Anchor
       Name="About3" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-View-Assessment Plans.htm" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
+    <Link
+      Url="Default.htm#ESMS-WEB/ESMS-Assessments/Work-Edit-Assessment-Plans.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="kanchor460" />
+    <Anchor
+      Name="kanchor461" />
+    <Anchor
+      Name="kanchor462" />
+    <Anchor
+      Name="kanchor463" />
+    <Anchor
+      Name="kanchor464" />
+>>>>>>> master
   </Anchors>
   <Keywords />
   <Concepts />

@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Understanding the User Preferences Menu Options"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,10 +38,13 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/user-preferences-2023.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/saved-default-workspace-settings-target-2022_206x139.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/select-sync-target-2022update_418x419.png" />
@@ -74,6 +81,16 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/saved-default-workspace-settings-target-2022.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/select-sync-target-2022update.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/x-selected-group-target.PNG" />
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm#Save" />
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/ESMS-User-Menu-About.htm#Applicat" />
@@ -86,6 +103,7 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/user-preferences-2023.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/saved-default-workspace-settings-target-2022_206x139.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/select-sync-target-2022update_418x419.png" />
@@ -118,13 +136,102 @@
     <Anchor
       Name="kanchor922" />
     <Anchor
+=======
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/saved-default-workspace-settings-target-2022.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/select-sync-target-2022update.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-User-Menu/imgs/x-selected-group-target.PNG" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Save" />
+    <Anchor
+      Name="Applicat" />
+    <Anchor
+>>>>>>> master
       Name="Download" />
     <Anchor
       Name="SMS Supp" />
     <Anchor
       Name="Logout" />
   </Anchors>
+<<<<<<< HEAD
   <Keywords />
+=======
+  <Keywords>
+    <IndexCacheEntry
+      Term="Document:Download"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Component:view"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Site:Set current site as default"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Domain:Set current domain(s) selection as default"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Default:Site"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Default:Domain(s)"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Domain:Select"
+      Conditions=""
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="Sync Settings"
+      Conditions=""
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="Desktop:Set ESMS Desktop sync target in ESMS Web"
+      Conditions=""
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="Get Username and Password:Enterprise SMS"
+      Conditions=""
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="Site:Set sync site"
+      Conditions=""
+      LocalConditions=""
+      Position="47" />
+    <IndexCacheEntry
+      Term="Search Results:Troubleshooting"
+      Conditions=""
+      LocalConditions=""
+      Position="64" />
+    <IndexCacheEntry
+      Term="Group:Set sync group"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Work Plan"
+      Conditions=""
+      LocalConditions=""
+      Position="91" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -132,6 +239,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -146,4 +254,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

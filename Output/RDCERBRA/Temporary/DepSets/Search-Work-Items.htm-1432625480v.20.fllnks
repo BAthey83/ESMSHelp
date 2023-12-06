@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Search Work Items"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,13 +38,21 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Work-Items.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Work-search-results-2022_1355x95.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Work-search-results-2022.png" />
+    <Link
+      Url="Content/Resources/Snippets/Web/search-switch-view.flsnp" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/export-search-results.PNG" />
     <Link
@@ -49,6 +61,7 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -80,6 +93,11 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Work-Items.htm#Search" />
@@ -94,7 +112,13 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Columns-and-Filters.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Work-search-results-2022_1355x95.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Work-search-results-2022.png" />
+    <Link
+      Url="Content/Resources/Snippets/Web/search-switch-view.flsnp" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/export-search-results.PNG" />
     <Link
@@ -103,6 +127,7 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Inventory/Search-Work-Items.htm" />
   </LongLinks>
@@ -126,13 +151,62 @@
     <Anchor
       Name="kanchor1055" />
     <Anchor
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Search" />
+    <Anchor
+      Name="ViewResults" />
+    <Anchor
+>>>>>>> master
       Name="Export_Results" />
     <Anchor
       Name="Details" />
     <Anchor
       Name="Related" />
   </Anchors>
+<<<<<<< HEAD
   <Keywords />
+=======
+  <Keywords>
+    <IndexCacheEntry
+      Term="Search:Work items"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Work Item:Search work items"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Search Results:Configure"
+      Conditions=""
+      LocalConditions=""
+      Position="38" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -140,6 +214,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -154,4 +229,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>

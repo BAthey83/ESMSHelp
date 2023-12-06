@@ -58,9 +58,15 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Pre-Asst-2023_1068x213.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Tran-His-2023_704x252.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Pre-Asst-2023.png" />
+    <Link
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Tran-His-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
     <Link
@@ -130,13 +136,21 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Pre-Asst-2023_1068x213.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Charter-Pre-Asst-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm#About3" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Understanding-Assessment-Plans-2023.htm#Scheme" />
     <Link
+<<<<<<< HEAD
       Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Tran-His-2023_704x252.png" />
+=======
+      Url="Content/ESMS-WEB/ESMS-Assessments/imgs/Tran-His-2023.png" />
+>>>>>>> master
     <Link
       Url="Content/ESMS-WEB/ESMS-Assessments/Work-Delete-Assessment-Plans.htm" />
     <Link

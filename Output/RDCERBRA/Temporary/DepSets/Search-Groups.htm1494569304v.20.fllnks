@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+<<<<<<< HEAD
   FileTitle="Search Groups"
   FileLanguage="en-us"
+=======
+>>>>>>> master
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
+<<<<<<< HEAD
       Url="Skins/Default/Stylesheets/Slideshow.css" />
     <Link
       Url="Skins/Default/Stylesheets/TextEffects.css" />
@@ -34,6 +38,8 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Groups.htm" />
@@ -42,6 +48,11 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Group-Search-Results-2023.png" />
     <Link
+<<<<<<< HEAD
+=======
+      Url="Content/Resources/Snippets/Web/search-switch-view.flsnp" />
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Down-CSV-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm" />
@@ -49,6 +60,7 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm" />
   </Links>
@@ -80,6 +92,11 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+=======
+  </Links>
+  <LongLinks>
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/ESMS-Inventory-Understanding.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Groups.htm#Search" />
@@ -96,6 +113,11 @@
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Group-Search-Results-2023.png" />
     <Link
+<<<<<<< HEAD
+=======
+      Url="Content/Resources/Snippets/Web/search-switch-view.flsnp" />
+    <Link
+>>>>>>> master
       Url="Content/ESMS-WEB/ESMS-Inventory/imgs/Down-CSV-2023.png" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Detail-Groups.htm" />
@@ -103,6 +125,7 @@
       Url="Content/ESMS-WEB/ESMS-Inventory/Nav-Inventory-screen.htm" />
     <Link
       Url="Content/ESMS-WEB/ESMS-Inventory/Search-Box-Using.htm" />
+<<<<<<< HEAD
     <Link
       Url="Default.htm#ESMS-WEB/ESMS-Inventory/Search-Groups.htm" />
   </LongLinks>
@@ -126,13 +149,62 @@
     <Anchor
       Name="kanchor290" />
     <Anchor
+=======
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Search" />
+    <Anchor
+      Name="View" />
+    <Anchor
+>>>>>>> master
       Name="Export_Results" />
     <Anchor
       Name="Details" />
     <Anchor
       Name="Related" />
   </Anchors>
+<<<<<<< HEAD
   <Keywords />
+=======
+  <Keywords>
+    <IndexCacheEntry
+      Term="Search:Groups"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Group:Search groups"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+    <IndexCacheEntry
+      Term="Main Menu:Search"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Layout:screen"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Document:View"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Assessment:Details"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Search Results:Configure"
+      Conditions=""
+      LocalConditions=""
+      Position="37" />
+  </Keywords>
+>>>>>>> master
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
@@ -140,6 +212,7 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
+<<<<<<< HEAD
   <Stylesheets>
     <Url
       Source="Skins/Default/Stylesheets/Slideshow.css" />
@@ -154,4 +227,7 @@
     <Url
       Source="Content/Resources/Styles/SMS-Styles.css" />
   </Stylesheets>
+=======
+  <Stylesheets />
+>>>>>>> master
 </CatapultFileLinkSet>
