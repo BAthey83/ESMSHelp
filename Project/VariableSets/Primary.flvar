@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultVariableSet>
-    <Variable Name="SystemVersion" Comment="Version to two numbers" Definition="Some text" EvaluatedDefinition="September 2018 Draft&quot;">September 2018 Draft"</Variable>
-    <Variable Name="Product" EvaluatedDefinition="ESMS">Enterprise SMS</Variable>
-    <Variable Name="SystemIncVersion" Comment="Version to three numbers" EvaluatedDefinition="September 2018 Draft&quot;">September 2018 Draft"</Variable>
-    <Variable Name="ProductFullname" Comment="" EvaluatedDefinition="Enterprise Sustainment Management System">Enterprise Sustainment Management System</Variable>
-    <Variable Name="Product-Desk" Comment="used for naming output files" EvaluatedDefinition="ESMS-Desktop">Enterprise SMS-Desktop</Variable>
-    <Variable Name="rpt-filename" Comment="Use in save-report snippet and change depending on rpt" EvaluatedDefinition="ComponentSummaryReport.prn">ComponentSummaryReport.prn</Variable>
-</CatapultVariableSet>
