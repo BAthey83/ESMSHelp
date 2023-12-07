@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head>
-    </head>
-    <body>
-        <p class="indent"><span class="span_1" style="font-weight: bold;">WARNING:</span>
-            <MadCap:keyword term="Component:delete" /> Deleting a tag from the search tag pool will delete this search tag from every image (or any other item that uses these search tags) that it is associated with.</p>
-    </body>
-</html>

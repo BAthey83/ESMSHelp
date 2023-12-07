@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <body>
-        <p>
-            <MadCap:keyword term="Layout:screen" />
-            <MadCap:keyword term="Get Username and Password:Enterprise SMS" />The "Data Import" popup shown at the current Import screen is an artifact from one of the SMS legacy modules and is not functional for most domains in Enterprise SMS.</p>
-        <!--       <p>you can browse to any text file with appropriate formatting and naming conventions and select it for importing the data into ESMS Web.</p>-->
-    </body>
-</html>
