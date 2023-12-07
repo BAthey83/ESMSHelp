@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultVariableSet>
-  <Variable
-    Name="Primary.SystemVersion"
-    Comment=""
-    OriginalName="Primary.SystemVersion">Version 3</Variable>
-</CatapultVariableSet>
