@@ -31,6 +31,7 @@ TableStyles
 
 #Ignore duplicated Output files that are copied to wwwroot
 #Output/RDCERBRA/
+/wwwroot/
 
 */*.cadbf/*
 

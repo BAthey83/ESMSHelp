@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <body>
-        <p class="indent">
-            <span class="span_1">Note:</span> If the list is long, you can narrow down the number of entries by using a filter as follows: 
-				<ol style="list-style-type: lower-alpha;"><li>Fill in either (1) all or part of the User Name in the blank field directly under <span class="span_1">UserName</span>, or (2) all or part of the user's First Name or Last Name in the blank field directly under <span class="span_1">Last Name, First Name</span>. </li><li>Press the <span class="span_1">Enter</span> key on your keyboard.</li><li>If multiple names still appear in the list, click once on the desired user name.</li></ol></p>
-    </body>
-</html>
