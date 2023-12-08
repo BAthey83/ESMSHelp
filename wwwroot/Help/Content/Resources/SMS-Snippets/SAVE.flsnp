@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <body>
-        <h2>Save</h2>
-        <p class="indent">
-            <span class="span_1">IMPORTANT:</span> After editing a condition policy, make sure to activate the <span class="span_1">Save</span> button in the toolbar to save the changes to the condition policy. </p>
-        <p class="indent">Saving will not happen automatically, so you may lose data entries if you fail to save.</p>
-    </body>
-</html>
