@@ -497,9 +497,6 @@
   <TocEntry
     Title="Administration">
     <TocEntry
-<<<<<<< HEAD
-      Title="Permissions"></TocEntry>
-=======
       Title="Permissions">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
@@ -508,7 +505,6 @@
         Title="[%=System.LinkedTitle%]"
         Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Permissions/ESMS-Acc-Con-Perm-Mgt.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
->>>>>>> master
   </TocEntry>
   <TocEntry
     Title="Import/Export">
