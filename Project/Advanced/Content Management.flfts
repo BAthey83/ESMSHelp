@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Comment="My set of file tags"
+  Type="status">
+  <FileTag
+    Name="Draft"
+    Comment="" />
+</CatapultFileTagSet>

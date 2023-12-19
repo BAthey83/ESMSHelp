@@ -20,14 +20,12 @@ Snippets
 Stylesheets
 TableStyles
 
-# Child project folders to exclude
-/Project/Advanced
-/Project/ConditionTagSets
-/Project/Glossaries
-/Project/Reports
-/Project/Skins
-/Project/Users
-/Project/VariableSets
+# Child project folders necessary for the project to build
+#/Project/Advanced
+#/Project/ConditionTagSets
+#/Project/Glossaries
+#/Project/Skins
+#/Project/VariableSets
 
 #Ignore duplicated Output files that are copied to wwwroot
 #Output/RDCERBRA/

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term0" Stem="" IgnoreCase="true">
+        <Terms>
+            <Term>User Menu</Term>
+        </Terms>
+        <Definition Link="">The menu farthest right on the Enterprise SMS Web main menu bar, labeled "Hello, {user name}!"</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term1" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>CI</Term>
+        </Terms>
+        <Definition Link="">Condition Index</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term2" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>FCI</Term>
+        </Terms>
+        <Definition Link="">Facility Condition Index.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term3" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>MDI</Term>
+        </Terms>
+        <Definition Link="">Mission Dependency Index</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term4" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>RSL</Term>
+        </Terms>
+        <Definition Link="">Remaining service life.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term5" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>FI</Term>
+        </Terms>
+        <Definition Link="">Functionality Index.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term6" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>PI</Term>
+        </Terms>
+        <Definition Link="">Performance Index. The Performance Index is a weighted combination of the CI value and the FI value, with the lower of the two values being given two-thirds of the weight and the higher of the two values being given one-third of the weight.  If no functional assessment has been performed, the FI is assigned a value of 100.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term7" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>PRV</Term>
+        </Terms>
+        <Definition Link="">Plant Replacement Value. This number will be the aggregate of the PRV of all inventory items contained within the current inventory item.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term8" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>RPUID</Term>
+        </Terms>
+        <Definition Link="">Real Property Unique Identifier. This is a facility-level property, described in JIRB 2004-07-19, Department of Defense Real Property Inventory (RPI) Initiative, dated July 19, 2004.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term9" Stem="" SortAs="csv" IgnoreCase="false">
+        <Terms>
+            <Term>.csv</Term>
+        </Terms>
+        <Definition Link="">Comma-separated values</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term10" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Fieldset</Term>
+        </Terms>
+        <Definition Link="">In a form to be filled out, a fieldset is a grouping of entry fields; it is set apart from the rest of the form by a border. An identifying label is usually displayed at the top of the fieldset.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term11" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>ASTM</Term>
+        </Terms>
+        <Definition Link="">American Society for Testing and Materials</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="ESMS-gloss.Term12" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>UFC</Term>
+        </Terms>
+        <Definition Link="">Unified Facilities Criteria</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>
