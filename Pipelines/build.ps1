@@ -1,19 +1,22 @@
-# Add Madcap to path
-# $env:PATH += ";C:\Program Files\MadCap Software\MadCap Flare 19\Flare.app"
+try {
+    # build the web help
+    madbuild -project ".\ESMS.flprj" -target "ESMS-Web-Reorg-2023"
+    if ($LASTEXITCODE) { Throw "Build Web Help Failed." }
 
-#Set-Location ../
+    madbuild -project ".\ESMS.flprj" -target "ESMS-PDF-Reorg-2023"
+    if ($LASTEXITCODE) { Throw "Build PDF Help Failed." }
 
-# build the web help
-madbuild -project ".\ESMS.flprj" -target "ESMS-Web-Reorg-2023"
+    if (Test-Path $ARTIFACT_PATH) { New-Item $ARTIFACT_PATH -ItemType "directory" }
 
-madbuild -project ".\ESMS.flprj" -target "ESMS-PDF-Reorg-2023"
+    $outputDirectories = ".\Output\Gitlab-Runner\"
 
-if (Test-Path $ARTIFACT_PATH) { New-Item $ARTIFACT_PATH -ItemType "directory" }
+    $subdirectories = Get-ChildItem -Path $outputDirectories -Directory
 
-$outputDirectories = ".\Output\Gitlab-Runner\"
-
-$subdirectories = Get-ChildItem -Path $outputDirectories -Directory
-
-foreach ($subdirectory in $subdirectories) {
-    Copy-Item -Path $subdirectory.FullName -Destination $ARTIFACT_PATH -Recurse
+    foreach ($subdirectory in $subdirectories) {
+        Copy-Item -Path $subdirectory.FullName -Destination $ARTIFACT_PATH -Recurse
+    }
+}
+Catch {
+    Write-Host "An error occurred: $($_.Exception.Message)"
+    exit 1
 }
