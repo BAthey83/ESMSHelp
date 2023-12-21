@@ -5,7 +5,6 @@ stages:
 variables:
   FILESHARE_URL: '\\data01.erdc.dren.mil\ESMS'
   ARTIFACT_PATH: "z:/ESMS_Artifacts/Help"
-  PUBLISH_PATH: ""
 
 build_flare_project:
   stage: build
