@@ -3,19 +3,43 @@
 
 
 # Ignore MadCap Flare Analyzer and Output files
-Analyzer/
-#Project/
-#Content/
-#Output/
 
-*.cadbf/*
+
+#Ignoring all Input files if necessary
+
+# MadCap folders to always exclude
+Analyzer/
+FileSync/ 
+Output/
+Project/Reports/
+Project/Users/
+
+# Folders to exclude when using a global project structure
+PageLayouts
+Snippets
+Stylesheets
+TableStyles
+
+# Child project folders necessary for the project to build
+#/Project/Advanced
+#/Project/ConditionTagSets
+#/Project/Glossaries
+#/Project/Skins
+#/Project/VariableSets
+
+#Ignore duplicated Output files that are copied to wwwroot
+#Output/RDCERBRA/
+/wwwroot/
+
+*/*.cadbf/*
 
 
 *.fldb
 *.s3db
 *.s3db-shm
 *.s3db-wal
-*.xml
+#*.xml
+
 
 
 # User-specific files

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Workflow Editor">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" /><title>Add Scheme</title>
+        <link href="../../Resources/Styles/default.css" rel="stylesheet" type="text/css" />
+        <script src="../../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1><a name="kanchor128"></a>Add Scheme</h1>
+        <h2>Create and Name the Scheme</h2>
+        <p>To add a scheme,</p>
+        <ol>
+            <li value="1">On the Workflow editor menu bar, activate the <span class="span_1">New Scheme</span> button. <span class="result">The "Create New Scheme" popup will appear.</span><p class="indent"><span class="span_1">WARNING:</span> If you skip this step and just start dragging state boxes to the work area, you will not be able to save the scheme you build!</p></li>
+            <li value="2">Enter desired scheme name in the <span class="span_1">Scheme Name</span> field.</li>
+            <li value="3">Activate <span class="span_1">OK</span>. (Alternatively, activate the <span class="span_1">Close</span> button to not add the scheme.)</li>
+        </ol>
+        <p>As soon as you have created a new scheme, you should see (1) a left-hand column with some boxes, and (2) a wider blank space to the right, which is the work area where you will place elements into a work flow diagram. </p>
+        <h2>Add States and Transitions</h2>
+        <h3><a name="kanchor129"></a>About States and Transitions</h3>
+        <p>The elements of a diagram are <span class="new-term">states</span> and <span class="new-term">transitions</span>, as defined below:</p>
+        <p>A scheme is comprised of <span class="new-term">states</span> and <span class="new-term">transitions:</span></p>
+        <ul>
+            <li value="1">A state represents the condition that the process is in at a specific time.</li>
+            <li value="2">A transition defines how the process will move from one state to the next. </li>
+        </ul>
+        <p>A scheme may also make use of <span class="new-term">parameters</span> to store variables that are global to the scheme. </p>
+        <p>In the Workflow editor, a scheme's states and transitions are presented as a diagram. The  states appear as boxes in the diagram. The transitions are represented by lines connecting the boxes. For clarity, each state should be named; transition names are optional.</p>
+        <h3><a name="kanchor130"></a>Add a State to the Diagram</h3>
+        <p>To add a state to the diagram (after properly creating and naming the diagram following the instructions in the previous section), drag one of the state boxes from the left-hand pane into the work area: </p>
+        <ul>
+            <li value="1">The green box represents the state that is the first state in the work flow. </li>
+            <li value="2">A gray box represents a middle state. </li>
+            <li value="3">The red box labeled "Finish"&#160;represents the state that is the last state in the work flow. To display as red, this box must be dragged into the work area. If a state is simply re-labeled as "Final," it will not change color in the diagram. </li>
+        </ul>
+        <p>To view or edit details about a state, activate the state box in the diagram and the corresponding "State" popup will appear with the details. </p>
+        <p>State details are fairly simple:</p>
+        <ul>
+            <li value="1"><span class="span_1">Name</span> - Name of the state, which appears in the state box on the diagram. This can be changed.</li>
+            <li value="2"><span class="span_1">Initial / Final</span> - If the state is the first state in the work flow, the <span class="span_1">Initial</span> checkbox should be marked; if the state is the last state in the work flow, the <span class="span_1">Final</span> checkbox should be marked (this information is also indicated by colors in the diagram).</li>
+            <li value="3"><span class="span_1">Code Action</span> -  The "Reset all approvals" code action allows an approval to be re-used for a subsequent transition without having to rename it. A "set X stage" code action creates a linking between the state and an assessment stage. Code actions are executed when the state is entered.</li>
+        </ul>
+        <p class="indent2"><span class="span_1">Note:</span> Only the <span class="span_1">Close</span> button will show in the popup. Whatever the data is in the popup at the time you close it is what will be saved.</p>
+        <h3><a name="kanchor131"></a>Add a Transition to the Diagram</h3>
+        <p>Once you've added at least two state boxes to the diagram area, you can add a transition between any two state boxes as follows:</p>
+        <ol>
+            <li value="1">Hover at the edge of the first state box until a pointing hand appears as the mouse position indicator.</li>
+            <li value="2">Hold down the mouse button and drag from the originating state box towards the next one in the work flow sequence to create a <span class="new-term">transition</span>, which will appear as a connecting line. <span class="result">When the two connected boxes appear with colored outlines around them, you know that the Workflow editor has recognized the connection that will be made when you release the mouse button.</span></li>
+            <li value="3">Release the mouse button.</li>
+            <li value="4">To start specifying properties for the transition, double-click on the line to open the "Transition" popup.</li>
+            <li value="5"><span class="span_1">Name (Optional)</span> -Enter a name for the transition.</li>
+            <li value="6"><span class="span_1">From State (Required)</span> - Select from dropdown.</li>
+            <li value="7"><span class="span_1">To State (Required)</span> -  Select from dropdown.</li>
+            <li value="8"><span class="span_1">Type (Required)</span> - Select from dropdown.</li>
+            <li value="9">Additional Attributes - Additional attributes are described in the topic <a href="edit-scheme-transitions.htm" class="MCXref xref" xrefformat="{paratext}">Edit Scheme Transitions</a>.</li>
+            <li value="10">Close the transition popup. <p class="indent2"><span class="span_1">Note:</span> Only a <span class="span_1">Close</span> button will show in the popup. Whatever the data is in the popup at the time you close it is what will be saved.</p></li>
+            <li value="11"><span class="span_1">IMPORTANT:</span> If you are finished or close to finished with designing the Workflow diagram, be sure to activate the <span class="span_1">Save</span> icon button on the Workflow editor menu bar. The diagram will NOT automatically save when you exit.</li>
+        </ol>
+        <p>You can see more about transition details at <a href="edit-scheme-transitions.htm" class="MCXref xref" xrefformat="{paratext}">Edit Scheme Transitions</a>. </p>
+        <h3><a name="Add"></a><a name="kanchor132"></a>Add a Self-Referencing Transition to the Diagram </h3>
+        <p>You can add a "transition" that doesn't actually progress from one state to another, but returns to its originating state. In this type of transition, the "From" and "To" states are the same. </p>
+        <p class="indent"><span class="span_1">Why a self-referencing transition?</span> A self-referencing transition can be a useful tool for accumulating multiple approvals or other conditions that all need to be met before progressing to the next state. <!--For an example, see Use Case: Multiple Approvals (pending).--></p>
+        <p>To construct a self-referencing transition on the diagram,</p>
+        <ol>
+            <li value="1">Hover at the edge of the state box until a pointing hand appears as the mouse position indicator.</li>
+            <li value="2">Hold down the mouse button and drag outward from the box.</li>
+            <li value="3">When a colored outline appears around the box, drag back to the box and release the mouse button. The "transition" should appear in the form of a roughly semicircular outline with an arrow at one end.
+			<p class="p_26"><img src="imgs-scheme/self-ref-trans-arrow.PNG" alt="" /></p></li>
+            <li value="4">To start specifying properties for the transition, double-click on the line to open the "Transition" popup.</li>
+            <li value="5"><span class="span_1">Name</span> -Enter a name for the transition.</li>
+            <li value="6"><span class="span_1">From State</span> - Select from dropdown.</li>
+            <li value="7"><span class="span_1">To State</span> -  Select the same state again. This action is what makes it a self-referencing transition.</li>
+            <li value="8"><span class="span_1">Type</span> - Select from dropdown.</li>
+        </ol>
+        <p>You can see more about transition details at <a href="edit-scheme-transitions.htm" class="MCXref xref" xrefformat="{paratext}">Edit Scheme Transitions</a>. </p>
+        <h3><a name="kanchor133"></a>Delete a State or Transition from the Diagram</h3>
+        <p>To delete a state from the diagram, see instructions in the topic <a href="edit-scheme-states.htm" class="MCXref xref" xrefformat="{paratext}">Edit Scheme States</a>.</p>
+        <p>To delete a transition from the diagram, see instructions in the topic <a href="edit-scheme-transitions.htm" class="MCXref xref" xrefformat="{paratext}">Edit Scheme Transitions</a>.</p>
+        <h2>Save and Exit</h2>
+        <p>Diagram creation does <span class="emph">not</span> auto-save. (This allows more freedom of creative experimentation.) When you are at a design point that you are happy with, and again before exiting, make sure to activate the <span class="span_1">Save</span> icon button on the Workflow editor menu bar.</p>
+        <p>To exit the Workflow editor, return to the Dashboard via the Enterprise SMS logo.</p>
+        <h2>Related Topics</h2>
+        <ul>
+            <li value="1"><a href="view-scheme.htm" class="MCXref xref" xrefformat="{paratext}">View Scheme</a>
+            </li>
+            <li value="2"><a href="edit-scheme-states.htm" class="MCXref xref" xrefformat="{paratext}">Edit Scheme States</a>
+            </li>
+            <li value="3"><a href="edit-scheme-transitions.htm" class="MCXref xref" xrefformat="{paratext}">Edit Scheme Transitions</a>
+            </li>
+            <li value="4"><a href="delete-scheme.htm" class="MCXref xref" xrefformat="{paratext}">Delete Scheme</a>
+            </li>
+            <li value="5"><a href="ESMS-CreateScheme-About.htm" class="MCXref xref" xrefformat="{paratext}"> Understanding the Workflow Editor </a>
+            </li>
+        </ul>
+        <p>&#160;</p>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../../Default.htm#ESMS-WEB/ESMS-WkflowEditor/add-scheme.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

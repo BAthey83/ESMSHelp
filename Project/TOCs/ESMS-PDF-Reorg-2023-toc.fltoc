@@ -116,16 +116,25 @@
         Link="/Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Organization/ESMS-Funding-Restriction-List.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Sites">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Organization/ESMS-Add-Funding-Restriction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/ESMS-WEB/ESMS-Sites/Add-A-Site.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Organization/ESMS-Edit-Funding-Restriction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/ESMS-WEB/ESMS-Sites/Edit-Inv-Site-Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Organization/ESMS-Funding-Restriction-Group-Clause.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/ESMS-WEB/ESMS-Sites/Gen-Site-Rpts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Sites/Del-A-Site.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Sites/Work-with-Sites.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Facilities"
@@ -245,7 +254,55 @@
         BreakType="chapter"
         StartSection="false"
         PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
+        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl">
+        <TocEntry
+          Title="Assessment Plan Tabs">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Assessment-Plan-Tabs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+            BreakType="chapter"
+            StartSection="false"
+            PageNumberReset="continue"
+            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+            BreakType="chapter"
+            StartSection="false"
+            PageNumberReset="continue"
+            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Assets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+            BreakType="chapter"
+            StartSection="false"
+            PageNumberReset="continue"
+            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Groups.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+            BreakType="chapter"
+            StartSection="false"
+            PageNumberReset="continue"
+            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Operator-Pre-Assessment-Plans.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Assessment-Team-Tab.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Field-Quest-Sum.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Tab.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+            BreakType="chapter"
+            StartSection="false"
+            PageNumberReset="continue"
+            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
+        </TocEntry>
+      </TocEntry>
     </TocEntry>
   </TocEntry>
   <TocEntry
@@ -285,7 +342,7 @@
         PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Gen-wkitem-list.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Items-Tab.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         BreakType="chapter"
         StartSection="false"
         PageNumberReset="continue"
@@ -353,165 +410,40 @@
       </TocEntry>
     </TocEntry>
     <TocEntry
-      Title="Workflows">
-      <TocEntry
-        Title="Workflow Stages">
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/About-Workflow-Stages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-            BreakType="chapter"
-            StartSection="false"
-            PageNumberReset="continue"
-            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Assets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-            BreakType="chapter"
-            StartSection="false"
-            PageNumberReset="continue"
-            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Groups.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-            BreakType="chapter"
-            StartSection="false"
-            PageNumberReset="continue"
-            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-          <TocEntry
-            Title="[%=System.LinkedTitle%]"
-            Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Charter-Pre-Assessment-Plans.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-            BreakType="chapter"
-            StartSection="false"
-            PageNumberReset="continue"
-            PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-        </TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Pre-Assessment-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Review-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Desktop Sync-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Post-Assessment-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-        <TocEntry
-          Title="[%=System.LinkedTitle%]"
-          Link="/Content/ESMS-WEB/ESMS-Assessments/Work-Packages-Stage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-          BreakType="chapter"
-          StartSection="false"
-          PageNumberReset="continue"
-          PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-      </TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Edit-Scheme-Transitions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Understanding-Workflow-Editor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Add-Scheme.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Delete-Scheme.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Edit-Scheme-States.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Man-Sch-Para.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-Manage-Wkflw-Perm.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Workflow Editor/Workflow-View-Scheme.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
-    </TocEntry>
-    <TocEntry
       Title="Tasks">
       <TocEntry
-        Title="New Entry" />
+        Title="Tasks"
+        Link="/Content/ESMS-WEB/ESMS-Tasks/Tasks-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Catalog">
     <TocEntry
-      Title="New Entry" />
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Catalog/ESMS-Catalog-About.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Inventory Catalog">
       <TocEntry
-        Title="New Entry" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Catalog/Inv-Cat-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Assessment Templates">
       <TocEntry
-        Title="New Entry" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Catalog/Cat-Assmt-Temp.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="PowerBI Reports">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Catalog/Power-BI-Rpts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Import/Export Configurations">
       <TocEntry
-        Title="New Entry" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Catalog/Import-Export-Configs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
   <TocEntry
@@ -521,71 +453,51 @@
       Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Add-Edit-Del-Bks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Ref-Books/Assign-Bk-Org.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cost Books">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Abt-Cost-Bks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Cost Modifiers">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Cost-Mod.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="CII Books">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-CII-Books.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Service Life Books">
+      <TocEntry
+        Title="About Service Life Books"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Serv-Life.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Inflation Books">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Infltn-Bk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Work Actions">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Ref-Books/Ref-Books-Work-Act.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Administration">
     <TocEntry
       Title="Permissions"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Permissions/ESMS-Acc-Con-Perm-Mgt.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Admin/ESMS-Admin-Permissions/ESMS-Admin-Per.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Documents">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Documents/ESMS-Documents-About.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl">
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-    </TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Documents/Document-View.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Documents/Document-Upload_Task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Documents/Document-Delete_Task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Documents/Document-Tags.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
   </TocEntry>
   <TocEntry
     Title="Import/Export">
@@ -596,7 +508,8 @@
       PageNumberReset="continue"
       PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl">
       <TocEntry
-        Title="New Entry" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Import/Gen-Imports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Import">
@@ -660,8 +573,62 @@
     <TocEntry
       Title="Export">
       <TocEntry
-        Title="New Entry" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Export/ESMS-Export.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Documents">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Documents/ESMS-Documents-About.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/ESMS-WEB/ESMS-Documents/Document-CMP-assn_Task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Documents/Document-View.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Documents/Document-Upload_Task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Documents/Document-Delete_Task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Documents/Document-Tags.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ESMS-WEB/ESMS-Documents/Manage-Search-Tags.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/Page Layouts/FieldsandFiltersPrint.flpgl" />
   </TocEntry>
   <TocEntry
     Title="Reports">
